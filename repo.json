@@ -1,0 +1,859 @@
+{
+  "name": "ry0-x Repo",
+  "identifier": "com.ry0x.source",
+  "sourceURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json",
+  "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ry0_.jpg",
+  "news": [],
+  "apps": [
+    {
+      "name": "AetherPS4",
+      "bundleIdentifier": "com.github.leviidev.aetherps4",
+      "developerName": "Leviidev",
+      "subtitle": "This release contains many new updates improving the user experience! Here's what we added ## Minor updates - New app logo - Setup Screen (lets you know if jit is attached and if memory entitlement is working - Search for games ## Major updates - Improved boot time - Added support for many games with unimplemented functions - This does NOT guarantee your game will load. All this did was add unadded functions to the app, meaning if an app had an unadded function it would crash, now hopefully adding support for more games. - Stopped using imgui for aetherps4 loading (using swift now) - Added touch screen overlay to control game ## Info ### Supported games Sonic Mania - ✅ Running 2048 (Homebrew) - ✅ Running Journey - ✅ Running ### Warning This app is an experimental build of AetherPS4. AetherPS4 is based off shadPS4, all credits go to them for making the emulator, this project would not be possible without them. This app was also made with the support of Claude, an AI assistant for coding. If you guys have any issues please report it in the GitHub. You can also direct message me on Discord (@ripchase), or DM me on Reddit (u/cultural-order-5549). ## AetherPS4 has a Discord Server, please join if you can (https://discord.gg/xApMHWAzkh). Thanks for using this app, I really appreciate it ❤️",
+      "localizedDescription": "This release contains many new updates improving the user experience! Here's what we added ## Minor updates - New app logo - Setup Screen (lets you know if jit is attached and if memory entitlement is working - Search for games ## Major updates - Improved boot time - Added support for many games with unimplemented functions - This does NOT guarantee your game will load. All this did was add unadded functions to the app, meaning if an app had an unadded function it would crash, now hopefully adding support for more games. - Stopped using imgui for aetherps4 loading (using swift now) - Added touch screen overlay to control game ## Info ### Supported games Sonic Mania - ✅ Running 2048 (Homebrew) - ✅ Running Journey - ✅ Running ### Warning This app is an experimental build of AetherPS4. AetherPS4 is based off shadPS4, all credits go to them for making the emulator, this project would not be possible without them. This app was also made with the support of Claude, an AI assistant for coding. If you guys have any issues please report it in the GitHub. You can also direct message me on Discord (@ripchase), or DM me on Reddit (u/cultural-order-5549). ## AetherPS4 has a Discord Server, please join if you can (https://discord.gg/xApMHWAzkh). Thanks for using this app, I really appreciate it ❤️",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/1788698706034-icon.png",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0.1_release",
+          "date": "2026-08-30",
+          "downloadURL": "https://github.com/Leviidev/AetherPS4/releases/download/v1.0.1_release/AetherPS4-iOS.ipa",
+          "size": 33931355
+        }
+      ],
+      "tintColor": "#004AB8",
+      "updatePolicy": "static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Leviidev/AetherPS4/releases/download/v1.0.1_release/AetherPS4-iOS.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download is available"
+      }
+    },
+    {
+      "name": "Air Launcher",
+      "bundleIdentifier": "com.github.herbrine8403.amethystiosmyremastered",
+      "developerName": "herbrine8403",
+      "subtitle": "Minecraft Launcher From Chinese Team",
+      "localizedDescription": "Minecraft Launcher From Chinese Team",
+      "iconURL": "https://avatars.githubusercontent.com/u/111724449?v=4",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "5.0.0",
+          "date": "2026-08-24T03:05:18Z",
+          "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
+          "size": 193369366
+        }
+      ],
+      "updatePolicy": "static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download is available"
+      }
+    },
+    {
+      "name": "LA PEASEE",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "developerName": "crystall1ne.dev",
+      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
+      "localizedDescription": "Amethyst nightly build auto-updated via GitHub Actions. Includes JIT and memory entitlements.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Amethyst-icon.png",
+      "tintColor": "#9649B8",
+      "category": "Games",
+      "versions": [
+        {
+          "version": "2026.09.08.1619",
+          "date": "2026-09-08T16:19:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst.ipa",
+          "size": 191971739
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.private.security.container-required",
+          "com.apple.private.mobileinstall.upgrade-enabled",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.storage.AppDataContainers",
+          "com.apple.private.security.storage.MobileDocuments",
+          "com.apple.security.iokit-user-client-class",
+          "platform-application",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.private.memorystatus",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/amethyst.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MelonNX",
+      "developerName": "MeloNX",
+      "localizedDescription": "Nintendo Switch emulator for iOS. Auto-updated to the latest build.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/MeloNX-icon.png",
+      "tintColor": "#f8566f",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-08-26T14:22:48Z",
+          "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
+          "size": 48811519
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "get-task-allow",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/melonx.yml"
+      },
+      "status": {
+        "state": "update-error",
+        "checkedDownloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Latest updater run ended with failure"
+      }
+    },
+    {
+      "name": "DolphiniOS (nightly)",
+      "bundleIdentifier": "me.oatmealDome.DolphiniOS",
+      "developerName": "OatmealDome",
+      "localizedDescription": "GameCube and Wii emulator for iOS. (Pre-release/Nightly builds)",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/DolphiniOS-icon.png",
+      "tintColor": "#007AFF",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "5.0.0b6",
+          "date": "2026-09-08T16:21:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios.ipa",
+          "size": 17963367
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/dolphinios.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "Henrik Rydg�rd",
+      "localizedDescription": "PSP emulator for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/PPSPP-icon.png",
+      "tintColor": "#224A8B",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "1.20.4",
+          "date": "2026-09-08T16:33:48Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp.ipa",
+          "size": 31124277
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/ppsspp.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "iPSX2",
+      "bundleIdentifier": "com.ipsx2.ios",
+      "developerName": "otti83",
+      "localizedDescription": "PlayStation 2 emulator for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/iPSX2-icon.png",
+      "tintColor": "#1B1280",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "0.2.0dev",
+          "date": "2026-08-07T12:50:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ipsx2.ipa",
+          "size": 11172808
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ipsx2.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download is available"
+      }
+    },
+    {
+      "name": "Xenios",
+      "bundleIdentifier": "com.xenios.app",
+      "developerName": "Xenios",
+      "localizedDescription": "Xenios emulator port for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/XeniOS-icon.png",
+      "tintColor": "#FF5733",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "release-v2.0.1-build-9730",
+          "date": "2026-09-08T16:35:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios.ipa",
+          "size": 46253576
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/xenios.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "Manic",
+      "bundleIdentifier": "com.manicemu.ios",
+      "developerName": "Manic-EMU",
+      "localizedDescription": "All-in-one retro game emulator for iOS. Packed with powerful features and a sleek UI.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Manic-EMU-icon.png",
+      "tintColor": "#FF2D55",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-09-08T16:27:51Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic.ipa",
+          "size": 273393210
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/manic.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "LC+SS (Stable)",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "(Stable)",
+      "localizedDescription": "Stable release: LiveContainer bundled with SideStore. Run iOS apps without installing them seamlessly.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC+SS_stable-icon.png",
+      "tintColor": "#000000",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "3.8.0",
+          "date": "2026-07-17T07:44:20Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
+          "size": 35403538
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.container-required"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/LC+SS_stable.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "LC+SS (Nightly)",
+      "bundleIdentifier": "com.kdt.livecontainer.nightly",
+      "developerName": "(Nightly)",
+      "localizedDescription": "Nightly release: Experience the absolute latest features and commits of LiveContainer bundled with SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC+SS_nightly-icon.png",
+      "tintColor": "#FF2D55",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "Nightly-2026.08.14",
+          "date": "2026-08-14T10:51:47Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "size": 32361860
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.container-required"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/LC+SS_nightly.yml"
+      },
+      "status": {
+        "state": "update-error",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+        "checkedAt": "2026-09-08T16:49:11Z",
+        "message": "Latest updater run ended with failure"
+      }
+    },
+    {
+      "name": "LiveContainer (Stable)",
+      "bundleIdentifier": "com.kdt.livecontainer.standalone.stable",
+      "developerName": "(Stable)",
+      "localizedDescription": "Stable release: Standalone version of LiveContainer. Run iOS apps without installing them seamlessly.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC-icon.png",
+      "tintColor": "#3986FD",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "3.8.0",
+          "date": "2026-07-17T07:44:20Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+          "size": 4707271
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.container-required"
+        ]
+      },
+      "subtitle": "",
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/LC_stable.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "LiveContainer (Nightly)",
+      "bundleIdentifier": "com.kdt.livecontainer.standalone.nightly",
+      "developerName": "(Nightly)",
+      "localizedDescription": "Nightly release: Standalone version of LiveContainer.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC_nightly-icon.png",
+      "tintColor": "#FF2D55",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "Nightly-2026.09.06",
+          "date": "2026-09-06T09:06:54Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+          "size": 4743241
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.container-required"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/LC_nightly.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "SideStore (Stable)",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "localizedDescription": "Stable release: SideStore is an alternative app store for non-jailbroken iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/SideStore-icon.png",
+      "tintColor": "#29007a",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.6.3",
+          "date": "2026-05-05T03:59:02Z",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+          "size": 28632252
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/SideStore_stable.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "SideStore (Nightly)",
+      "bundleIdentifier": "com.SideStore.SideStore.Nightly",
+      "developerName": "SideStore Team",
+      "localizedDescription": "Nightly release: Experience the latest beta features of SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/SideStore-nightly-icon.png",
+      "tintColor": "#29007a",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "Nightly-2026.09.08",
+          "date": "2026-09-08T08:51:44Z",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+          "size": 27538857
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/SideStore_nightly.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "GetMoreRam",
+      "bundleIdentifier": "com.hugeblack.getmoreram",
+      "developerName": "hugeBlack",
+      "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/GetMoreRam-icon.png",
+      "tintColor": "#000000",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-09-08T16:23:35Z",
+          "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+          "size": 634370
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/getmoreram.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "localizedDescription": "Minecraft iOS port updated automatically via Cloudflare R2.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Minecraft-icon.png",
+      "tintColor": "#4B8B3B",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.26.45",
+          "date": "2026-08-30T09:58:08Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/Minecraft_1.26.45.ipa",
+          "size": 730748508,
+          "localizedDescription": "💬Наш чат - тык 📱 Купить лицензию (имеет Xbox live) - тык 🔵 Наш телеграм канал - тык ⚡️ Поддержать канала - тык"
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/telegram_fetch.yml"
+      },
+      "status": {
+        "state": "unknown",
+        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/Minecraft_1.26.45.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Updater is currently running"
+      }
+    },
+    {
+      "name": "SideInstaller",
+      "bundleIdentifier": "com.frizzlem.sideinstaller",
+      "developerName": "FrizzleM",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Sideinstaller-icon.png",
+      "tintColor": "#FF2D55",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "v0.9.0",
+          "date": "2026-08-07T14:00:16Z",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
+          "size": 7908297
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/SideInstaller.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "EnsWilde",
+      "bundleIdentifier": "com.yangjiiii.enswilde",
+      "developerName": "YangJiiii",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/EnsWilde-icon.png",
+      "tintColor": "#FF9900",
+      "category": "games",
+      "versions": [
+        {
+          "version": "EnsWilde3.1.3",
+          "date": "2026-02-25T15:28:02Z",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+          "size": 13591314
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/EnsWilde.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.yangjiiii.3105",
+      "developerName": "YangJiiii",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/3105-icon.png",
+      "tintColor": "#007AFF",
+      "category": "games",
+      "versions": [
+        {
+          "version": "v1.1.1",
+          "date": "2026-08-19T17:23:28Z",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
+          "size": 3281026
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/3105.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "PancakeStore",
+      "bundleIdentifier": "party.jailbreak.pancakestore",
+      "developerName": "jailbreakdotparty",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/PancakeStore-icon.png",
+      "tintColor": "#E2B974",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2026-07-27T08:58:47Z",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
+          "size": 3130839
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/PancakeStore.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "ARMSX2 (Stable)",
+      "bundleIdentifier": "com.armsx2.stable",
+      "developerName": "ARMSX2",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
+      "tintColor": "#1B1280",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "iOSv2.5.2",
+          "date": "2026-08-06T15:49:46Z",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.5.2/ARMSX2-iOS-2.5.2.ipa",
+          "size": 26425138
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/ARMSX2_Stable.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.5.2/ARMSX2-iOS-2.5.2.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "ARMSX2 (Nightly)",
+      "bundleIdentifier": "com.armsx2.nightly",
+      "developerName": "ARMSX2",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
+      "tintColor": "#1B1280",
+      "category": "emulators",
+      "versions": [
+        {
+          "version": "Nightly-2026.09.08",
+          "date": "2026-09-08T13:22:14Z",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
+          "size": 26820359
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "local.sandboxed-jit"
+        ]
+      },
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/ARMSX2_Nightly.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "JESSI",
+      "bundleIdentifier": "com.baconium.jessi",
+      "developerName": "Baconium",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/JESSI-icon.png",
+      "tintColor": "#4A90E2",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-03-30T23:25:32Z",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa",
+          "size": 9284359
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/JESSI.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "mond",
+      "bundleIdentifier": "com.rooootdev.mond",
+      "developerName": "rooootdev",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/mond-icon.png",
+      "tintColor": "#000000",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2026-08-17T23:34:48Z",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/2.2/mond.ipa",
+          "size": 3385608
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/mond.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/rooootdev/mond/releases/download/2.2/mond.ipa",
+        "checkedAt": "2026-09-08T16:49:12Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "lara",
+      "bundleIdentifier": "com.rooootdev.lara",
+      "developerName": "rooootdev",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Lara-icon.png",
+      "tintColor": "#FF6600",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.2",
+          "date": "2026-05-22T19:53:53Z",
+          "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "size": 5474210
+        }
+      ],
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/lara.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+        "checkedAt": "2026-09-08T16:49:13Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "YTPlus/YTLite Cracked (5.2.2) - v21.36.6",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.36.6",
+      "developerName": "YouTube",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "subtitle": "Cracked by Zarzel (shinewake), updated by BallerMC to 21.36.6",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.36.6.",
+      "tintColor": "#848ef9",
+      "versions": [
+        {
+          "version": "21.36.6",
+          "date": "2026-09-07T00:00:00Z",
+          "localizedDescription": "This uses 21.36.6 version of YouTube.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.36.6_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
+          "size": 144641619
+        }
+      ],
+      "category": "entertainment",
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/smart_sync_youtube.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.36.6_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
+        "checkedAt": "2026-09-08T16:49:13Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    },
+    {
+      "name": "MaxMusic (1.1)",
+      "bundleIdentifier": "com.google.ios.youtube.music.maxmusic",
+      "developerName": "YouTube",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "subtitle": "Mod by Mark02-2012",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostYT and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
+      "tintColor": "#848ef9",
+      "versions": [
+        {
+          "version": "9.35.2",
+          "date": "2026-08-31T00:00:00Z",
+          "localizedDescription": "This uses 9.35.2 version of YouTube Music.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.35.2.ipa",
+          "size": 105888307
+        }
+      ],
+      "category": "entertainment",
+      "updatePolicy": "daily",
+      "automation": {
+        "workflowPath": ".github/workflows/smart_sync_youtube.yml"
+      },
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.35.2.ipa",
+        "checkedAt": "2026-09-08T16:49:13Z",
+        "message": "Download and latest updater run are healthy"
+      }
+    }
+  ]
+}
