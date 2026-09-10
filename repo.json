@@ -65,6 +65,13 @@
       "category": "Games",
       "versions": [
         {
+          "version": "1.0",
+          "date": "2026-09-10T08:10:55Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
+          "size": 191971554,
+          "buildVersion": "1.0"
+        },
+        {
           "version": "2026.09.08.1619",
           "date": "2026-09-08T16:19:49Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst.ipa",
@@ -89,13 +96,16 @@
       },
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/amethyst.yml"
+        "workflowPath": ".github/workflows/amethyst.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "amethyst",
+        "sourceURL": "https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios.ipa.zip"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Download and latest updater run are healthy"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
+        "checkedAt": "2026-09-10T08:11:27Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -128,9 +138,8 @@
       },
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Latest updater run ended with failure"
+        "checkedAt": "2026-09-10T08:11:46Z",
+        "message": "Private updater: Upstream API returned HTTP 405."
       }
     },
     {
@@ -162,10 +171,9 @@
         "workflowPath": ".github/workflows/dolphinios.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:03Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -177,6 +185,13 @@
       "tintColor": "#224A8B",
       "category": "emulators",
       "versions": [
+        {
+          "version": "1.20.4",
+          "date": "2026-05-16T12:42:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
+          "size": 31124277,
+          "buildVersion": "1.20.4"
+        },
         {
           "version": "1.20.4",
           "date": "2026-09-08T16:33:48Z",
@@ -192,13 +207,16 @@
       },
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/ppsspp.yml"
+        "workflowPath": ".github/workflows/ppsspp.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "ppsspp",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.4"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Download and latest updater run are healthy"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
+        "checkedAt": "2026-09-10T08:11:59Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -260,10 +278,9 @@
         "workflowPath": ".github/workflows/xenios.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:12:21Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -295,10 +312,9 @@
         "workflowPath": ".github/workflows/manic.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:43Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -310,6 +326,13 @@
       "tintColor": "#000000",
       "category": "utilities",
       "versions": [
+        {
+          "version": "3.8.0",
+          "date": "2026-07-17T07:44:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
+          "size": 35403538,
+          "buildVersion": "3.8.0"
+        },
         {
           "version": "3.8.0",
           "date": "2026-07-17T07:44:20Z",
@@ -326,13 +349,16 @@
       },
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/LC+SS_stable.yml"
+        "workflowPath": ".github/workflows/LC+SS_stable.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "livecontainer-sidestore-stable",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.8.0"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Download and latest updater run are healthy"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
+        "checkedAt": "2026-09-10T08:11:29Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -364,9 +390,8 @@
       },
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-        "checkedAt": "2026-09-08T16:49:11Z",
-        "message": "Latest updater run ended with failure"
+        "checkedAt": "2026-09-10T08:11:28Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -398,10 +423,9 @@
         "workflowPath": ".github/workflows/LC_stable.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:40Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -432,10 +456,9 @@
         "workflowPath": ".github/workflows/LC_nightly.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:32Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -449,6 +472,13 @@
       "versions": [
         {
           "version": "0.6.3",
+          "date": "2026-05-05T06:46:46Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.3-d7f8fa2bfafc.ipa",
+          "size": 28632252,
+          "buildVersion": "0603"
+        },
+        {
+          "version": "0.6.3",
           "date": "2026-05-05T03:59:02Z",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
           "size": 28632252
@@ -456,13 +486,16 @@
       ],
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/SideStore_stable.yml"
+        "workflowPath": ".github/workflows/SideStore_stable.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "sidestore-stable",
+        "sourceURL": "https://github.com/SideStore/SideStore/releases/tag/0.6.3"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.3-d7f8fa2bfafc.ipa",
+        "checkedAt": "2026-09-10T08:12:46Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -486,10 +519,9 @@
         "workflowPath": ".github/workflows/SideStore_nightly.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:12:07Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -513,10 +545,9 @@
         "workflowPath": ".github/workflows/getmoreram.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:09Z",
+        "message": "Private updater: GitHub API returned HTTP 404."
       }
     },
     {
@@ -556,6 +587,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.9.0",
+          "date": "2026-08-07T13:59:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
+          "size": 7908297,
+          "buildVersion": "1"
+        },
+        {
           "version": "v0.9.0",
           "date": "2026-08-07T14:00:16Z",
           "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
@@ -564,13 +602,16 @@
       ],
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/SideInstaller.yml"
+        "workflowPath": ".github/workflows/SideInstaller.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.9.0"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
+        "checkedAt": "2026-09-10T08:12:05Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -593,10 +634,9 @@
         "workflowPath": ".github/workflows/EnsWilde.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:13Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -619,10 +659,9 @@
         "workflowPath": ".github/workflows/3105.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:10:53Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -645,10 +684,9 @@
         "workflowPath": ".github/workflows/PancakeStore.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:56Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -679,10 +717,9 @@
         "workflowPath": ".github/workflows/ARMSX2_Stable.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.5.2/ARMSX2-iOS-2.5.2.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:10:57Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -713,10 +750,9 @@
         "workflowPath": ".github/workflows/ARMSX2_Nightly.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:10:57Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -739,10 +775,9 @@
         "workflowPath": ".github/workflows/JESSI.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:14Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -765,10 +800,9 @@
         "workflowPath": ".github/workflows/mond.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/rooootdev/mond/releases/download/2.2/mond.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:52Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -791,10 +825,9 @@
         "workflowPath": ".github/workflows/lara.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
-        "checkedAt": "2026-09-08T16:49:13Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:21Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -820,10 +853,9 @@
         "workflowPath": ".github/workflows/smart_sync_youtube.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.36.6_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
-        "checkedAt": "2026-09-08T16:49:13Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:12:11Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     },
     {
@@ -849,10 +881,9 @@
         "workflowPath": ".github/workflows/smart_sync_youtube.yml"
       },
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.35.2.ipa",
-        "checkedAt": "2026-09-08T16:49:13Z",
-        "message": "Download and latest updater run are healthy"
+        "state": "update-error",
+        "checkedAt": "2026-09-10T08:11:42Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       }
     }
   ]
