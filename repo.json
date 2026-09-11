@@ -66,7 +66,7 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-09-11T08:06:24Z",
+          "date": "2026-09-11T15:47:34Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
           "size": 191971554,
           "buildVersion": "1.0"
@@ -104,7 +104,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
-        "checkedAt": "2026-09-11T08:06:28Z",
+        "checkedAt": "2026-09-11T15:47:42Z",
         "message": "Updated by private automation"
       }
     },
