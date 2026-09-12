@@ -586,10 +586,9 @@
         "workflowPath": ".github/workflows/telegram_fetch.yml"
       },
       "status": {
-        "state": "unknown",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/Minecraft_1.26.45.ipa",
-        "checkedAt": "2026-09-08T16:49:12Z",
-        "message": "Updater is currently running"
+        "state": "update-error",
+        "checkedAt": "2026-09-12T06:00:14Z",
+        "message": "Private updater: The protected Telegram IPA handoff is missing."
       }
     },
     {
