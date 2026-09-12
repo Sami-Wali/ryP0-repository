@@ -126,6 +126,13 @@
       "versions": [
         {
           "version": "2.6",
+          "date": "2026-08-26T14:52:25Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
+          "size": 48811519,
+          "buildVersion": "1"
+        },
+        {
+          "version": "2.6",
           "date": "2026-08-26T14:22:48Z",
           "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
           "size": 48811519
@@ -141,12 +148,16 @@
       },
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/melonx.yml"
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "melonx",
+        "sourceURL": "https://git.ryujinx.app/projects/MeloNX/releases/tag/2.6",
+        "workflowPath": ".github/workflows/update-app-melonx.yml"
       },
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-09-11T08:07:05Z",
-        "message": "Private updater: Upstream API returned HTTP 405."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
+        "checkedAt": "2026-09-12T06:03:02Z",
+        "message": "Updated by private automation"
       }
     },
     {
