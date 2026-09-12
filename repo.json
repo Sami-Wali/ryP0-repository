@@ -674,18 +674,29 @@
         {
           "version": "v1.1.1",
           "date": "2026-08-19T17:23:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
+          "size": 3281026,
+          "buildVersion": "7"
+        },
+        {
+          "version": "v1.1.1",
+          "date": "2026-08-19T17:23:28Z",
           "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
           "size": 3281026
         }
       ],
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/3105.yml"
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "3105",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.1.1",
+        "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-09-11T08:06:26Z",
-        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
+        "checkedAt": "2026-09-12T06:05:04Z",
+        "message": "Updated by private automation"
       }
     },
     {
