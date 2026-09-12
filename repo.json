@@ -689,11 +689,13 @@
       ],
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/telegram_fetch.yml"
+        "workflowPath": ".github/workflows/update-app-minecraft.yml",
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "minecraft"
       },
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-09-12T06:09:38Z",
+        "checkedAt": "2026-09-12T06:13:49Z",
         "message": "Private updater: The protected Telegram IPA handoff is missing."
       }
     },
