@@ -65,6 +65,13 @@
       "category": "Games",
       "versions": [
         {
+          "version": "2026.09.12.0559",
+          "date": "2026-09-12T05:59:46Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0559-c11f94ad51bc.ipa",
+          "size": 191971554,
+          "buildVersion": "1.0"
+        },
+        {
           "version": "1.0",
           "date": "2026-09-11T15:47:34Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
@@ -96,15 +103,15 @@
       },
       "updatePolicy": "daily",
       "automation": {
-        "workflowPath": ".github/workflows/amethyst.yml",
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "amethyst",
-        "sourceURL": "https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios.ipa.zip"
+        "sourceURL": "https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios.ipa.zip",
+        "workflowPath": ".github/workflows/update-app-amethyst.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
-        "checkedAt": "2026-09-11T15:47:42Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0559-c11f94ad51bc.ipa",
+        "checkedAt": "2026-09-12T05:59:56Z",
         "message": "Updated by private automation"
       }
     },
