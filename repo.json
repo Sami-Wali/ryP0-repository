@@ -702,7 +702,7 @@
       },
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-09-12T07:58:19Z",
+        "checkedAt": "2026-09-12T09:50:24Z",
         "message": "Private updater: The protected Telegram IPA handoff is missing."
       }
     },
