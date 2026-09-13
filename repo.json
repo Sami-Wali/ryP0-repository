@@ -737,8 +737,8 @@
       },
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-09-13T17:40:05Z",
-        "message": "Private updater: The protected Telegram IPA handoff is missing."
+        "checkedAt": "2026-09-13T17:51:30Z",
+        "message": "Private updater: The IPA has too many archive members."
       }
     },
     {
