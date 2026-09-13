@@ -65,6 +65,13 @@
       "category": "Games",
       "versions": [
         {
+          "version": "2026.09.13.0821",
+          "date": "2026-09-13T08:21:31Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
+          "size": 191971554,
+          "buildVersion": "1.0"
+        },
+        {
           "version": "2026.09.12.0757",
           "date": "2026-09-12T07:57:23Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0757-c11f94ad51bc.ipa",
@@ -124,9 +131,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0757-c11f94ad51bc.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
+        "checkedAt": "2026-09-13T08:21:42Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -170,8 +177,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:26Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -215,8 +222,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:44Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -258,8 +265,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:38Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -333,8 +340,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:54Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -378,8 +385,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:14Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -422,8 +429,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:03Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -435,6 +442,13 @@
       "tintColor": "#FF2D55",
       "category": "utilities",
       "versions": [
+        {
+          "version": "Nightly-2026.09.13",
+          "date": "2026-09-13T01:45:40Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
+          "size": 32573145,
+          "buildVersion": "3.8.10"
+        },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T16:40:58Z",
@@ -465,9 +479,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.11-eb4e87259ebd.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
+        "checkedAt": "2026-09-13T08:21:59Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -511,8 +525,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:10Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -524,6 +538,13 @@
       "tintColor": "#FF2D55",
       "category": "utilities",
       "versions": [
+        {
+          "version": "Nightly-2026.09.13",
+          "date": "2026-09-13T01:45:39Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
+          "size": 4745477,
+          "buildVersion": "3.8.10"
+        },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T16:40:57Z",
@@ -554,9 +575,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.11-c0985168d7c1.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
+        "checkedAt": "2026-09-13T08:22:12Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -599,8 +620,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:49Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -612,6 +633,13 @@
       "tintColor": "#29007a",
       "category": "utilities",
       "versions": [
+        {
+          "version": "Nightly-2026.09.13",
+          "date": "2026-09-13T03:48:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
+          "size": 27928301,
+          "buildVersion": "0700"
+        },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T12:20:49Z",
@@ -635,9 +663,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.11-d11a0d024b58.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
+        "checkedAt": "2026-09-13T08:22:46Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -649,6 +677,13 @@
       "tintColor": "#000000",
       "category": "utilities",
       "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-09-12T14:39:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
+          "size": 2305445,
+          "buildVersion": "1"
+        },
         {
           "version": "nightly",
           "date": "2026-09-12T03:26:21Z",
@@ -672,9 +707,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
+        "checkedAt": "2026-09-13T08:21:47Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -702,8 +737,7 @@
       },
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/Minecraft_1.26.45.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
+        "checkedAt": "2026-09-13T08:22:30Z",
         "message": "Private updater: The protected Telegram IPA handoff is missing."
       }
     },
@@ -746,8 +780,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:41Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -782,8 +816,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:47Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -818,8 +852,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:33Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -854,8 +888,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:32Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -898,8 +932,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:34Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -910,6 +944,13 @@
       "tintColor": "#1B1280",
       "category": "emulators",
       "versions": [
+        {
+          "version": "Nightly-2026.09.12",
+          "date": "2026-09-12T12:33:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
+          "size": 26821581,
+          "buildVersion": "253"
+        },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T13:21:22Z",
@@ -936,14 +977,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "armsx2-nightly",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260911",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260912",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.11-d29a5e893a16.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
+        "checkedAt": "2026-09-13T08:21:33Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -978,8 +1019,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:56Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -1014,8 +1055,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:27Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -1050,8 +1091,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:21:56Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -1089,8 +1130,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:53Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -1128,8 +1169,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
-        "checkedAt": "2026-09-13T05:11:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-13T08:22:17Z",
+        "message": "Checked by private automation"
       }
     }
   ]
