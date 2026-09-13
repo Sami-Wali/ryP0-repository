@@ -26,7 +26,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Leviidev/AetherPS4/releases/download/v1.0.1_release/AetherPS4-iOS.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -50,7 +50,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -132,7 +132,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -177,7 +177,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -222,7 +222,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -265,7 +265,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -297,7 +297,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ipsx2.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -340,7 +340,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -385,7 +385,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -429,7 +429,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -480,7 +480,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -525,7 +525,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -576,7 +576,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -620,7 +620,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -664,7 +664,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -708,7 +708,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -746,7 +746,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -789,7 +789,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -825,7 +825,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -861,7 +861,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -897,7 +897,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -941,7 +941,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -992,7 +992,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -1028,7 +1028,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -1064,7 +1064,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -1100,7 +1100,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -1139,7 +1139,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     },
@@ -1178,7 +1178,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
-        "checkedAt": "2026-09-13T18:06:19Z",
+        "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
     }
