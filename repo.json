@@ -70,12 +70,6 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
           "size": 191971554,
           "buildVersion": "1.0"
-        },
-        {
-          "version": "2026.09.08.1619",
-          "date": "2026-09-08T16:19:49Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst.ipa",
-          "size": 191971739
         }
       ],
       "appPermissions": {
