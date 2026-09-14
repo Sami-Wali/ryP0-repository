@@ -15,7 +15,7 @@
       "versions": [
         {
           "version": "5.0.0",
-          "date": "2026-09-14T08:57:37Z",
+          "date": "2026-09-14T08:58:01Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-5.0.0-f77edaa3d9db.ipa",
           "size": 193369366,
           "buildVersion": "5.0.0",
@@ -27,7 +27,7 @@
       "appType": "Static",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-09-14T08:57:37Z",
+        "checkedAt": "2026-09-14T08:58:01Z",
         "message": "Imported and IPA-validated"
       },
       "importSource": {
