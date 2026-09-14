@@ -16,7 +16,7 @@ on:
         required: true
         type: string
       sha256:
-        description: Expected SHA-256 digest, without the sha256: prefix
+        description: "Expected SHA-256 digest, without the sha256: prefix"
         required: true
         type: string
 
