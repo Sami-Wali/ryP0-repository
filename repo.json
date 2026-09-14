@@ -67,42 +67,14 @@
         {
           "version": "2026.09.13.0821",
           "date": "2026-09-13T08:21:31Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
-          "size": 191971554,
-          "buildVersion": "1.0"
-        },
-        {
-          "version": "2026.09.12.0757",
-          "date": "2026-09-12T07:57:23Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0757-c11f94ad51bc.ipa",
-          "size": 191971554,
-          "buildVersion": "1.0"
-        },
-        {
-          "version": "2026.09.12.0608",
-          "date": "2026-09-12T06:08:33Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0608-c11f94ad51bc.ipa",
-          "size": 191971554,
-          "buildVersion": "1.0"
-        },
-        {
-          "version": "2026.09.12.0559",
-          "date": "2026-09-12T05:59:46Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.12.0559-c11f94ad51bc.ipa",
-          "size": 191971554,
-          "buildVersion": "1.0"
-        },
-        {
-          "version": "1.0",
-          "date": "2026-09-11T15:47:34Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-1.0-c11f94ad51bc.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
           "size": 191971554,
           "buildVersion": "1.0"
         },
         {
           "version": "2026.09.08.1619",
           "date": "2026-09-08T16:19:49Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst.ipa",
           "size": 191971739
         }
       ],
@@ -131,7 +103,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.09.13.0821-c11f94ad51bc.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -148,7 +120,7 @@
         {
           "version": "2.6",
           "date": "2026-08-26T14:52:25Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
           "size": 48811519,
           "buildVersion": "1"
         },
@@ -176,7 +148,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -193,14 +165,14 @@
         {
           "version": "5.0.0b6",
           "date": "2026-06-20T07:09:18Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
           "size": 17963367,
           "buildVersion": "26"
         },
         {
           "version": "5.0.0b6",
           "date": "2026-09-08T16:21:35Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
           "size": 17963367
         }
       ],
@@ -221,7 +193,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -238,14 +210,14 @@
         {
           "version": "1.20.4",
           "date": "2026-05-16T12:42:59Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
           "size": 31124277,
           "buildVersion": "1.20.4"
         },
         {
           "version": "1.20.4",
           "date": "2026-09-08T16:33:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
           "size": 31124277
         }
       ],
@@ -264,7 +236,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -281,7 +253,7 @@
         {
           "version": "0.2.0dev",
           "date": "2026-08-07T12:50:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ipsx2.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ipsx2.ipa",
           "size": 11172808
         }
       ],
@@ -296,7 +268,7 @@
       "updatePolicy": "static",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ipsx2.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ipsx2.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -313,14 +285,14 @@
         {
           "version": "release-v2.0.1-build-9730",
           "date": "2026-06-08T04:29:40Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
           "size": 46253576,
           "buildVersion": "9730"
         },
         {
           "version": "release-v2.0.1-build-9730",
           "date": "2026-09-08T16:35:50Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
           "size": 46253576
         }
       ],
@@ -339,7 +311,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -356,14 +328,14 @@
         {
           "version": "2.0.0",
           "date": "2026-09-03T08:41:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
           "size": 273393210,
           "buildVersion": "20"
         },
         {
           "version": "2.0.0",
           "date": "2026-09-08T16:27:51Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic.ipa",
           "size": 273393210
         }
       ],
@@ -384,7 +356,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -401,7 +373,7 @@
         {
           "version": "3.8.0",
           "date": "2026-07-17T07:44:08Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
           "size": 35403538,
           "buildVersion": "3.8.0"
         },
@@ -428,7 +400,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-stable-3.8.0-97dc0fd2202f.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -445,14 +417,14 @@
         {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T01:45:40Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
           "size": 32573145,
           "buildVersion": "3.8.10"
         },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T16:40:58Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.11-eb4e87259ebd.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.11-eb4e87259ebd.ipa",
           "size": 32571985,
           "buildVersion": "3.8.10"
         },
@@ -479,7 +451,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -496,7 +468,7 @@
         {
           "version": "3.8.0",
           "date": "2026-07-17T07:44:09Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
           "size": 4707271,
           "buildVersion": "3.8.0"
         },
@@ -524,7 +496,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -541,14 +513,14 @@
         {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T01:45:39Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
           "size": 4745477,
           "buildVersion": "3.8.10"
         },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T16:40:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.11-c0985168d7c1.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.11-c0985168d7c1.ipa",
           "size": 4744316,
           "buildVersion": "3.8.10"
         },
@@ -575,7 +547,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -592,14 +564,14 @@
         {
           "version": "0.6.4",
           "date": "2026-09-09T17:59:51Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
           "size": 27609918,
           "buildVersion": "0604"
         },
         {
           "version": "0.6.3",
           "date": "2026-05-05T06:46:46Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.3-d7f8fa2bfafc.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-stable-0.6.3-d7f8fa2bfafc.ipa",
           "size": 28632252,
           "buildVersion": "0603"
         },
@@ -619,7 +591,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-stable-0.6.4-316d0dbe75ac.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -636,14 +608,14 @@
         {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T03:48:10Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
           "size": 27928301,
           "buildVersion": "0700"
         },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T12:20:49Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.11-d11a0d024b58.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.11-d11a0d024b58.ipa",
           "size": 27763923,
           "buildVersion": "0700"
         },
@@ -663,7 +635,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -680,14 +652,14 @@
         {
           "version": "nightly",
           "date": "2026-09-12T14:39:53Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
           "size": 2305445,
           "buildVersion": "1"
         },
         {
           "version": "nightly",
           "date": "2026-09-12T03:26:21Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
           "size": 633815,
           "buildVersion": "1"
         },
@@ -707,7 +679,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -724,7 +696,7 @@
         {
           "version": "1.26.45",
           "date": "2026-09-13T18:05:19Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
           "size": 730748508,
           "buildVersion": "1.26.45.01"
         },
@@ -745,7 +717,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -761,14 +733,14 @@
         {
           "version": "v0.9.0",
           "date": "2026-08-07T13:59:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
           "size": 7908297,
           "buildVersion": "1"
         },
         {
           "version": "0.9.0",
           "date": "2026-08-07T13:59:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
           "size": 7908297,
           "buildVersion": "1"
         },
@@ -788,7 +760,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -804,7 +776,7 @@
         {
           "version": "EnsWilde3.1.3",
           "date": "2026-02-25T15:25:49Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
           "size": 13591314,
           "buildVersion": "3"
         },
@@ -824,7 +796,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -840,7 +812,7 @@
         {
           "version": "v1.1.1",
           "date": "2026-08-19T17:23:28Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
           "size": 3281026,
           "buildVersion": "7"
         },
@@ -860,7 +832,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -876,7 +848,7 @@
         {
           "version": "1.3.1",
           "date": "2026-07-27T08:58:42Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
           "size": 3130839,
           "buildVersion": "Release"
         },
@@ -896,7 +868,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -912,7 +884,7 @@
         {
           "version": "iOSv2.5.2",
           "date": "2026-08-06T15:35:28Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
           "size": 26425138,
           "buildVersion": "252"
         },
@@ -940,7 +912,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -956,14 +928,14 @@
         {
           "version": "Nightly-2026.09.12",
           "date": "2026-09-12T12:33:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
           "size": 26821581,
           "buildVersion": "253"
         },
         {
           "version": "Nightly-2026.09.11",
           "date": "2026-09-11T13:21:22Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.11-d29a5e893a16.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.11-d29a5e893a16.ipa",
           "size": 26821578,
           "buildVersion": "253"
         },
@@ -991,7 +963,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -1007,7 +979,7 @@
         {
           "version": "1.0.1",
           "date": "2026-03-30T23:24:18Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
           "size": 9284359,
           "buildVersion": "1"
         },
@@ -1027,7 +999,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -1043,7 +1015,7 @@
         {
           "version": "2.2",
           "date": "2026-08-17T23:34:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
           "size": 3385608,
           "buildVersion": "1"
         },
@@ -1063,7 +1035,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -1079,7 +1051,7 @@
         {
           "version": "0.2",
           "date": "2026-05-22T19:53:37Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
           "size": 5474210,
           "buildVersion": "Release"
         },
@@ -1099,7 +1071,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -1116,7 +1088,7 @@
         {
           "version": "21.36.6",
           "date": "2026-09-07T00:00:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
           "size": 144641619,
           "buildVersion": "21.36.6"
         },
@@ -1138,7 +1110,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
@@ -1155,7 +1127,7 @@
         {
           "version": "9.36.1",
           "date": "2026-09-09T00:00:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
           "size": 106420283,
           "buildVersion": "9.36.1"
         },
@@ -1177,7 +1149,7 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
         "checkedAt": "2026-09-13T21:01:59Z",
         "message": "Download is available"
       }
