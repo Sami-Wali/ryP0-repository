@@ -1,0 +1,98 @@
+name: Migrate one release IPA
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_id:
+        description: Destination release ID in this repository
+        required: true
+        type: string
+      asset_name:
+        description: Exact IPA asset name to copy from Sami-Wali/ryP0 nightly
+        required: true
+        type: string
+      size:
+        description: Expected byte size from the source release
+        required: true
+        type: string
+      sha256:
+        description: Expected SHA-256 digest, without the sha256: prefix
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ryp0-release-migration-${{ inputs.release_id }}-${{ inputs.asset_name }}
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      DESTINATION_REPOSITORY: Sami-Wali/ryP0-repository
+      SOURCE_REPOSITORY: Sami-Wali/ryP0
+      SOURCE_TAG: nightly
+      RELEASE_ID: ${{ inputs.release_id }}
+      ASSET_NAME: ${{ inputs.asset_name }}
+      EXPECTED_SIZE: ${{ inputs.size }}
+      EXPECTED_SHA256: ${{ inputs.sha256 }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Validate requested immutable asset
+        shell: bash
+        run: |
+          set -euo pipefail
+          [[ "$RELEASE_ID" =~ ^[0-9]+$ ]]
+          [[ "$ASSET_NAME" =~ ^[A-Za-z0-9][A-Za-z0-9._-]{0,159}\.ipa$ ]]
+          [[ "$EXPECTED_SIZE" =~ ^[1-9][0-9]*$ ]]
+          [[ "$EXPECTED_SHA256" =~ ^[a-f0-9]{64}$ ]]
+
+      - name: Skip an already verified destination asset
+        id: existing
+        shell: bash
+        run: |
+          set -euo pipefail
+          existing="$(ASSET_NAME="$ASSET_NAME" gh api "repos/$DESTINATION_REPOSITORY/releases/$RELEASE_ID" --jq '.assets[] | select(.name == env.ASSET_NAME) | [(.size|tostring), .digest] | @tsv' || true)"
+          if [[ -z "$existing" ]]; then
+            echo 'verified=false' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          IFS=$'\t' read -r existing_size existing_digest <<< "$existing"
+          [[ "$existing_size" == "$EXPECTED_SIZE" ]]
+          [[ "$existing_digest" == "sha256:$EXPECTED_SHA256" ]]
+          echo 'verified=true' >> "$GITHUB_OUTPUT"
+
+      - name: Download and verify source IPA
+        if: steps.existing.outputs.verified != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 4 --retry-all-errors --max-time 1200 \
+            --output "$RUNNER_TEMP/$ASSET_NAME" \
+            "https://github.com/$SOURCE_REPOSITORY/releases/download/$SOURCE_TAG/$ASSET_NAME"
+          [[ "$(stat --format='%s' "$RUNNER_TEMP/$ASSET_NAME")" == "$EXPECTED_SIZE" ]]
+          [[ "$(sha256sum "$RUNNER_TEMP/$ASSET_NAME" | awk '{print $1}')" == "$EXPECTED_SHA256" ]]
+
+      - name: Upload exact verified IPA
+        if: steps.existing.outputs.verified != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          response="$(curl --config - --data-binary "@$RUNNER_TEMP/$ASSET_NAME" <<EOF
+          fail
+          silent
+          show-error
+          retry = 4
+          retry-all-errors
+          header = "Authorization: Bearer $GH_TOKEN"
+          header = "Accept: application/vnd.github+json"
+          header = "Content-Type: application/octet-stream"
+          url = "https://uploads.github.com/repos/$DESTINATION_REPOSITORY/releases/$RELEASE_ID/assets?name=$ASSET_NAME"
+          EOF
+          )"
+          [[ "$(jq -r '.name' <<< "$response")" == "$ASSET_NAME" ]]
+          [[ "$(jq -r '.size' <<< "$response")" == "$EXPECTED_SIZE" ]]
+          [[ "$(jq -r '.digest' <<< "$response")" == "sha256:$EXPECTED_SHA256" ]]
