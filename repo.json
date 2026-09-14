@@ -606,6 +606,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "Nightly-2026.09.14",
+          "date": "2026-09-14T02:53:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.14-251a2b0574c8.ipa",
+          "size": 28537675,
+          "buildVersion": "0700"
+        },
+        {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T03:48:10Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
@@ -635,9 +642,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.13-b311abad63ae.ipa",
-        "checkedAt": "2026-09-14T05:17:42Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.14-251a2b0574c8.ipa",
+        "checkedAt": "2026-09-14T09:00:46Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -761,8 +768,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
-        "checkedAt": "2026-09-14T05:17:42Z",
-        "message": "Download is available"
+        "checkedAt": "2026-09-14T09:00:36Z",
+        "message": "Checked by private automation"
       }
     },
     {
@@ -810,6 +817,13 @@
       "category": "games",
       "versions": [
         {
+          "version": "v2.0",
+          "date": "2026-09-14T06:18:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
+          "size": 4604223,
+          "buildVersion": "8"
+        },
+        {
           "version": "v1.1.1",
           "date": "2026-08-19T17:23:28Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
@@ -827,14 +841,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "3105",
-        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.1.1",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v2.0",
         "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.1-acca0f6fb096.ipa",
-        "checkedAt": "2026-09-14T05:17:42Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
+        "checkedAt": "2026-09-14T08:59:29Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -926,6 +940,13 @@
       "category": "emulators",
       "versions": [
         {
+          "version": "Nightly-2026.09.13",
+          "date": "2026-09-13T13:51:39Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.13-4e69b648042c.ipa",
+          "size": 26820816,
+          "buildVersion": "253"
+        },
+        {
           "version": "Nightly-2026.09.12",
           "date": "2026-09-12T12:33:00Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
@@ -958,14 +979,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "armsx2-nightly",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260912",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260913",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.12-9f22ca388824.ipa",
-        "checkedAt": "2026-09-14T05:17:42Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.13-4e69b648042c.ipa",
+        "checkedAt": "2026-09-14T08:59:31Z",
+        "message": "Updated by private automation"
       }
     },
     {
