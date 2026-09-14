@@ -61,30 +61,6 @@
       }
     },
     {
-      "name": "Air Launcher",
-      "bundleIdentifier": "com.github.herbrine8403.amethystiosmyremastered",
-      "developerName": "herbrine8403",
-      "subtitle": "Minecraft Launcher From Chinese Team",
-      "localizedDescription": "Minecraft Launcher From Chinese Team",
-      "iconURL": "https://avatars.githubusercontent.com/u/111724449?v=4",
-      "category": "EMU",
-      "versions": [
-        {
-          "version": "5.0.0",
-          "date": "2026-08-24T03:05:18Z",
-          "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
-          "size": 193369366
-        }
-      ],
-      "updatePolicy": "static",
-      "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
-        "checkedAt": "2026-09-14T05:17:42Z",
-        "message": "Download is available"
-      }
-    },
-    {
       "name": "LA PEASEE",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "developerName": "crystall1ne.dev",
