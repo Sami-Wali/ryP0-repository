@@ -638,6 +638,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "Nightly-2026.09.15",
+          "date": "2026-09-15T00:58:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.15-cca174ea1c1d.ipa",
+          "size": 28566698,
+          "buildVersion": "0700"
+        },
+        {
           "version": "Nightly-2026.09.14",
           "date": "2026-09-14T02:53:56Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.14-251a2b0574c8.ipa",
@@ -674,9 +681,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.14-251a2b0574c8.ipa",
-        "checkedAt": "2026-09-15T05:09:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.15-cca174ea1c1d.ipa",
+        "checkedAt": "2026-09-15T08:45:28Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -770,6 +777,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "v1.0.0",
+          "date": "2026-09-14T17:24:34Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.0.0-0bf74b00c964.ipa",
+          "size": 9243749,
+          "buildVersion": "9"
+        },
+        {
           "version": "v0.9.0",
           "date": "2026-08-07T13:59:57Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
@@ -794,14 +808,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.9.0",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.0.0",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
-        "checkedAt": "2026-09-15T05:09:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.0.0-0bf74b00c964.ipa",
+        "checkedAt": "2026-09-15T08:45:24Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -972,6 +986,13 @@
       "category": "emulators",
       "versions": [
         {
+          "version": "Nightly-2026.09.15",
+          "date": "2026-09-15T08:23:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.15-31ed97b55086.ipa",
+          "size": 26850704,
+          "buildVersion": "253"
+        },
+        {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T13:51:39Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.13-4e69b648042c.ipa",
@@ -1011,14 +1032,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "armsx2-nightly",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260913",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260915",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.13-4e69b648042c.ipa",
-        "checkedAt": "2026-09-15T05:09:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.15-31ed97b55086.ipa",
+        "checkedAt": "2026-09-15T08:44:12Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -1139,6 +1160,13 @@
       "tintColor": "#848ef9",
       "versions": [
         {
+          "version": "21.37.4",
+          "date": "2026-09-13T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.37.4-81d10850c5d7.ipa",
+          "size": 145419578,
+          "buildVersion": "21.37.4"
+        },
+        {
           "version": "21.36.6",
           "date": "2026-09-07T00:00:00Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
@@ -1163,9 +1191,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.36.6-0802bb6ae613.ipa",
-        "checkedAt": "2026-09-15T05:09:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.37.4-81d10850c5d7.ipa",
+        "checkedAt": "2026-09-15T08:45:47Z",
+        "message": "Updated by private automation"
       }
     },
     {
