@@ -754,6 +754,13 @@
       "category": "games",
       "versions": [
         {
+          "version": "1.26.50",
+          "date": "2026-09-17T08:54:30Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.50-6ce1c311df20.ipa",
+          "size": 693807363,
+          "buildVersion": "1.26.50.04"
+        },
+        {
           "version": "1.26.45",
           "date": "2026-09-13T18:05:19Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
@@ -777,9 +784,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
-        "checkedAt": "2026-09-17T05:07:38Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.50-6ce1c311df20.ipa",
+        "checkedAt": "2026-09-17T08:54:57Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -1000,6 +1007,13 @@
       "category": "emulators",
       "versions": [
         {
+          "version": "Nightly-2026.09.16",
+          "date": "2026-09-16T20:58:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.16-8809e708214c.ipa",
+          "size": 30367381,
+          "buildVersion": "253"
+        },
+        {
           "version": "Nightly-2026.09.15",
           "date": "2026-09-15T08:23:16Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.15-31ed97b55086.ipa",
@@ -1046,14 +1060,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "armsx2-nightly",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260915",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260916",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.15-31ed97b55086.ipa",
-        "checkedAt": "2026-09-17T05:07:38Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.16-8809e708214c.ipa",
+        "checkedAt": "2026-09-17T08:42:12Z",
+        "message": "Updated by private automation"
       }
     },
     {
