@@ -754,6 +754,13 @@
       "category": "games",
       "versions": [
         {
+          "version": "1.26.51",
+          "date": "2026-09-18T08:28:55Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.51-4ece985ac8f5.ipa",
+          "size": 693807301,
+          "buildVersion": "1.26.51.01"
+        },
+        {
           "version": "1.26.50",
           "date": "2026-09-17T08:54:30Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.50-6ce1c311df20.ipa",
@@ -784,9 +791,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.50-6ce1c311df20.ipa",
-        "checkedAt": "2026-09-18T05:00:27Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.51-4ece985ac8f5.ipa",
+        "checkedAt": "2026-09-18T08:29:23Z",
+        "message": "Updated by private automation"
       }
     },
     {
