@@ -358,6 +358,13 @@
       "category": "emulators",
       "versions": [
         {
+          "version": "2.0.1",
+          "date": "2026-09-18T09:22:01Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.1-b670b1c1c538.ipa",
+          "size": 288525117,
+          "buildVersion": "12"
+        },
+        {
           "version": "2.0.0",
           "date": "2026-09-03T08:41:00Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
@@ -383,14 +390,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "manic",
-        "sourceURL": "https://github.com/Manic-EMU/ManicEMU/releases/tag/v2.0.0",
+        "sourceURL": "https://github.com/Manic-EMU/ManicEMU/releases/tag/v2.0.1",
         "workflowPath": ".github/workflows/update-app-manic.yml"
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
-        "checkedAt": "2026-09-19T04:52:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.1-b670b1c1c538.ipa",
+        "checkedAt": "2026-09-19T08:06:34Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -447,6 +454,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "Nightly-2026.09.18",
+          "date": "2026-09-18T23:13:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.18-bec41bc21d75.ipa",
+          "size": 35926202,
+          "buildVersion": "3.8.10"
+        },
+        {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T01:45:40Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
@@ -483,9 +497,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
-        "checkedAt": "2026-09-19T04:52:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-sidestore-nightly-Nightly-2026.09.18-bec41bc21d75.ipa",
+        "checkedAt": "2026-09-19T08:06:21Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -543,6 +557,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "Nightly-2026.09.18",
+          "date": "2026-09-18T23:13:09Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.18-a45932c71e1e.ipa",
+          "size": 4744948,
+          "buildVersion": "3.8.10"
+        },
+        {
           "version": "Nightly-2026.09.13",
           "date": "2026-09-13T01:45:39Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
@@ -579,9 +600,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
-        "checkedAt": "2026-09-19T04:52:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-nightly-Nightly-2026.09.18-a45932c71e1e.ipa",
+        "checkedAt": "2026-09-19T08:06:23Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -645,6 +666,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "Nightly-2026.09.18",
+          "date": "2026-09-18T22:51:27Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.18-41cc9e453f0c.ipa",
+          "size": 31059754,
+          "buildVersion": "0700"
+        },
+        {
           "version": "Nightly-2026.09.15",
           "date": "2026-09-15T18:28:59Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.15-04fd73c5d276.ipa",
@@ -695,9 +723,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.15-04fd73c5d276.ipa",
-        "checkedAt": "2026-09-19T04:52:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.18-41cc9e453f0c.ipa",
+        "checkedAt": "2026-09-19T08:07:04Z",
+        "message": "Updated by private automation"
       }
     },
     {
@@ -1241,6 +1269,13 @@
       "tintColor": "#848ef9",
       "versions": [
         {
+          "version": "9.37.2",
+          "date": "2026-09-17T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.37.2-ac9e50e355d6.ipa",
+          "size": 106518711,
+          "buildVersion": "9.37.2"
+        },
+        {
           "version": "9.36.1",
           "date": "2026-09-09T00:00:00Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
@@ -1265,9 +1300,9 @@
       },
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.36.1-677272934813.ipa",
-        "checkedAt": "2026-09-19T04:52:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.37.2-ac9e50e355d6.ipa",
+        "checkedAt": "2026-09-19T08:06:44Z",
+        "message": "Updated by private automation"
       }
     }
   ]
