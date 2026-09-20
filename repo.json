@@ -44,37 +44,6 @@
       }
     },
     {
-      "name": "Air",
-      "bundleIdentifier": "com.air-devs.air",
-      "developerName": "herbrine8403",
-      "localizedDescription": "",
-      "subtitle": "",
-      "category": "Games",
-      "versions": [
-        {
-          "version": "5.0.0",
-          "date": "2026-09-14T08:58:01Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-5.0.0-f77edaa3d9db.ipa",
-          "size": 193369366,
-          "buildVersion": "5.0.0",
-          "localizedDescription": "# Air 5.0.0 > [!NOTE] > 启动器现已更名为 Air,包名已更改为 `com.air-devs.air`,可与原版 Amethyst 及旧版 Amethyst iOS Remastered 共存,请悉知. ## 更新内容 * 全面美化 UI 界面 @herbrine8403 @yitenchen123 * 修复 TouchController 延迟问题并添加原生库通信方式 @herbrine8403 @fifth_light * 添加资源下载及资源管理功能 @yitenchen123 * 添加 CurseForge 下载源 @herbrine8403 * 添加 Forge/NeoForge 直装模式 @herbrine8403 * 修复 Iris 光影实体渲染错误 @yitenchen123 * 修复大部分兼容性问题 @herbrine8403 * 添加 Metal Universal Mod 支持 @EternityQwQ @yitenchen123 * 适配 Minecraft 26.X @yitenchen123 @herbrine8403 * 与上游同步复刻 @herbrine8403 * 将 PLProfiles.profiles 设为可变，以防止 NSConstantDictionary 崩溃 @yiyeshi0-hash * 减小 CodeCache 大小，以防止在非 TXM 设备上出现间歇性 SIGBUS 错误 @LiuLPigeon617 * 防止物理键盘JNI崩溃 @twoyears666 * 补全缺失的本地化文本并添加英文翻译 @herbrine8403 * 其他内容请前往 Commit 界面查看 ## 贡献者 * @EternityQwQ * @yitenchen123 * @yiyeshi0-hash * @twoyears666 * @LiuLPigeon617 **完整更新日志**: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/4.0.1...5.0.0 --- # Air 5.0.0 > [!NOTE] > The launcher has been renamed to Air, with its package name changed to `com.air-devs.air`. It can be installed alongside the original Amethyst and legacy Amethyst iOS Remastered. Please be advised. ## Changelog * Fully revamped and polished UI @herbrine8403 @yitenchen123 * Fixed TouchController latency issues and added native library communication mechanism @herbrine8403 @fifth_light * Added resource download and management features @yitenchen123 * Added CurseForge as a download source @herbrine8403 * Added direct installation mode for Forge/NeoForge @herbrine8403 * Fixed entity rendering glitches with Iris shaders @yitenchen123 * Resolved the majority of compatibility issues @herbrine8403 * Added support for Metal Universal Mod @EternityQwQ @yitenchen123 * Added compatibility with Minecraft 26.X @yitenchen123 @herbrine8403 * Synced and ported features from the upstream project @herbrine8403 * Make PLProfiles.profiles mutable to prevent NSConstantDictionary from crashing @yiyeshi0-hash * Reduce the size of CodeCache to avoid intermittent SIGBUS errors on non-TXM devices @LiuLPigeon617 * Prevent the JNI of the physical keyboard from crashing @twoyears666 * Complete the missing localized text and add English translations @herbrine8403 * For additional changes, please visit the Commits page ## Contributors * @EternityQwQ * @yitenchen123 * @yiyeshi0-hash * @twoyears666 * @LiuLPigeon617 **Full changelog**: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/4.0.1...5.0.0 > The following content is not important and can be ignored. > >Since I am in the Chinese mainland, this prevents me from accessing most overseas websites, such as YouTube, Discord, etc. Even GitHub is always blocked from access, which prevents me from promoting my launcher to foreign countries. If you have the ability to help us promote it, I would be very grateful! Using Youdao Translator for translation."
-        }
-      ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-f77edaa3d9db.png",
-      "updatePolicy": "static",
-      "appType": "Static",
-      "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-5.0.0-f77edaa3d9db.ipa",
-        "checkedAt": "2026-09-20T11:43:01Z",
-        "message": "Download is available"
-      },
-      "importSource": {
-        "method": "github",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered"
-      }
-    },
-    {
       "name": "AetherPS4",
       "bundleIdentifier": "com.github.leviidev.aetherps4",
       "developerName": "Leviidev",
