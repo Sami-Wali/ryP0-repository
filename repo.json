@@ -15,7 +15,7 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-09-20T12:50:21Z",
+          "date": "2026-09-20T12:52:21Z",
           "downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
           "size": 23433272,
           "buildVersion": "1",
@@ -28,7 +28,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-09-20T12:50:21Z",
+        "checkedAt": "2026-09-20T12:52:21Z",
         "message": "Imported from verified upstream source"
       },
       "importSource": {
