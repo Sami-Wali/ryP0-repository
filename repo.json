@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "MeloCafé",
+      "bundleIdentifier": "com.stossy11.MeloCafe",
+      "developerName": "stossy11",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-20T12:50:21Z",
+          "downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
+          "size": 23433272,
+          "buildVersion": "1",
+          "localizedDescription": "**Full Changelog**: https://github.com/stossy11/MeloCafe/commits/1.0 # Changelog - Initial Release - Full iOS Support - Metal Argument Buffers - Cached Threaded Interpreter. This is the first release of MeloCafe, there **WILL** be bugs, glitches, performance issues and unintended behavior which will get fixed in the future Make sure to assign the Universal Script in StikDebug",
+          "sha256": "e87c6faa44746fab019deba31a1d58757c449b7ddbd5bd0673e20a9f09be89e3"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.stossy11.MeloCafe-e87c6faa4474.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-09-20T12:50:21Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/stossy11/MeloCafe"
+      },
+      "githubURL": "https://github.com/stossy11/MeloCafe",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-stossy11-melocafe-9f050878",
+        "sourceURL": "https://github.com/stossy11/MeloCafe",
+        "workflowPath": ".github/workflows/update-app-com-stossy11-melocafe-9f050878.yml"
+      }
+    },
+    {
       "name": "Air",
       "bundleIdentifier": "com.air-devs.air",
       "developerName": "herbrine8403",
