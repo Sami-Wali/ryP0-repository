@@ -851,7 +851,7 @@
       "developerName": "FrizzleM",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Sideinstaller-icon.png",
       "tintColor": "#FF2D55",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "v1.1.0",
