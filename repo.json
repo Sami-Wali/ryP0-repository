@@ -756,7 +756,7 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/GetMoreRam-icon.png",
       "tintColor": "#000000",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "nightly",
