@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "Sonic Unleashed",
+      "bundleIdentifier": "com.devz.sonicunleashed",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "v1.0.3",
+          "date": "2026-10-01T08:37:11Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/R1/SonicUnleashed_Release.ipa",
+          "size": 61370785,
+          "buildVersion": "v1.0.3",
+          "localizedDescription": "First release",
+          "sha256": "158b0145cde25b3f8d415db528bc9ea377e24d17681e6f36d9d2f3c3834c1184"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonicunleashed-158b0145cde2.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T08:37:11Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-devz-sonicunleashed-aa78ecec",
+        "sourceURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS",
+        "workflowPath": ".github/workflows/update-app-com-devz-sonicunleashed-aa78ecec.yml"
+      }
+    },
+    {
       "name": "AirCard-iOS",
       "bundleIdentifier": "com.mak5er.aircard",
       "developerName": "Mak5er",
