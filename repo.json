@@ -1026,7 +1026,7 @@
       "localizedDescription": "Stable release: Standalone version of LiveContainer. Run iOS apps without installing them seamlessly.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC-icon.png",
       "tintColor": "#3986FD",
-      "category": "utilities",
+      "category": "",
       "versions": [
         {
           "version": "3.8.0",
@@ -1893,5 +1893,14 @@
         "message": "Download is available"
       }
     }
+  ],
+  "categories": [
+    "Sideloading",
+    "Games",
+    "Social",
+    "EMU",
+    "Movies",
+    "Tools",
+    "emulators"
   ]
 }
