@@ -465,7 +465,7 @@
       "localizedDescription": "Nightly release: Experience the absolute latest features and commits of LiveContainer bundled with SideStore.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC+SS_nightly-icon.png",
       "tintColor": "#FF2D55",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "Nightly-2026.09.18",
