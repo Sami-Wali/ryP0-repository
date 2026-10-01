@@ -677,7 +677,7 @@
       "localizedDescription": "Nightly release: Experience the latest beta features of SideStore.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/SideStore-nightly-icon.png",
       "tintColor": "#29007a",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "Nightly-2026.09.20",
