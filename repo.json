@@ -6,6 +6,43 @@
   "news": [],
   "apps": [
     {
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "developerName": "StikDebug",
+      "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
+      "subtitle": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "3.1.13",
+          "date": "2026-10-01T06:22:29Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa",
+          "size": 13544310,
+          "buildVersion": "1",
+          "localizedDescription": "Fix MeloCafé auto assign Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.12...3.1.13",
+          "sha256": "d730fdfde1aeb3d1d3cc0cc71404f85fb9eb295d38876e2bf668a5d630f20e8c"
+        }
+      ],
+      "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:22:29Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "sourceURL": "https://stikdebug.xyz/index.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-stik-stikdebug-fd6dcaff",
+        "sourceURL": "https://stikdebug.xyz/index.json",
+        "workflowPath": ".github/workflows/update-app-com-stik-stikdebug-fd6dcaff.yml"
+      }
+    },
+    {
       "name": "MeloCafé",
       "bundleIdentifier": "com.stossy11.MeloCafe",
       "developerName": "stossy11",
