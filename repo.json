@@ -6,6 +6,43 @@
   "news": [],
   "apps": [
     {
+      "name": "Air",
+      "bundleIdentifier": "com.air-devs.air",
+      "developerName": "herbrine8403",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "5.1.0",
+          "date": "2026-10-01T06:35:42Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-5.1.0-1a13189a717c.ipa",
+          "size": 244032058,
+          "buildVersion": "5.1.0",
+          "sha256": "1a13189a717cb7a788287ec2cfdedf50cf7d4e45009d402efa72ed14cc352ef6"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-1a13189a717c.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:35:42Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered"
+      },
+      "githubURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-air-devs-air-43f6ee0c",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
+        "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
+      }
+    },
+    {
       "name": "Iridium",
       "bundleIdentifier": "software.iridium",
       "developerName": "intraducine",
