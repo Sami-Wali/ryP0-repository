@@ -568,7 +568,7 @@
       "localizedDescription": "Nightly release: Standalone version of LiveContainer.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC_nightly-icon.png",
       "tintColor": "#FF2D55",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "Nightly-2026.09.18",
