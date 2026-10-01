@@ -6,6 +6,38 @@
   "news": [],
   "apps": [
     {
+      "name": "RPCS3",
+      "bundleIdentifier": "com.xitrix.RPCS3",
+      "developerName": "XITRIX",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.10.1",
+          "date": "2026-10-01T06:47:02Z",
+          "downloadURL": "https://github.com/XITRIX/RPCS3-iOS-Releases/releases/download/v0.10.1/RPCS3-VisionOS.ipa",
+          "size": 24265530,
+          "buildVersion": "1",
+          "localizedDescription": "Improvements: - Legacy shader compiler is now retired, default replaced by Recompiler with Interpreter Fixes: - Relaxed ZCull setting is now working at is should - Fixed bunch of games that got broken in v0.10",
+          "sha256": "bc50cd4f309d04b8077e7f3c7db456c610f7d176136609bc735a5ea815fc7f9c"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.xitrix.RPCS3-bc50cd4f309d.png",
+      "updatePolicy": "static",
+      "appType": "Static",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:47:02Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/XITRIX/RPCS3-iOS-Releases"
+      },
+      "githubURL": "https://github.com/XITRIX/RPCS3-iOS-Releases"
+    },
+    {
       "name": "DukeX",
       "bundleIdentifier": "com.mafty.dukex",
       "developerName": "MaftyManicEMU",
