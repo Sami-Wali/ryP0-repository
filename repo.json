@@ -703,7 +703,7 @@
       "localizedDescription": "GameCube and Wii emulator for iOS. (Pre-release/Nightly builds)",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/DolphiniOS-icon.png",
       "tintColor": "#007AFF",
-      "category": "emulators",
+      "category": "",
       "versions": [
         {
           "version": "5.0.0b6",
@@ -749,7 +749,7 @@
       "localizedDescription": "PSP emulator for iOS.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/PPSPP-icon.png",
       "tintColor": "#224A8B",
-      "category": "emulators",
+      "category": "",
       "versions": [
         {
           "version": "1.20.4",
@@ -793,7 +793,7 @@
       "localizedDescription": "PlayStation 2 emulator for iOS.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/iPSX2-icon.png",
       "tintColor": "#1B1280",
-      "category": "emulators",
+      "category": "",
       "versions": [
         {
           "version": "0.2.0dev",
@@ -825,7 +825,7 @@
       "localizedDescription": "Xenios emulator port for iOS.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/XeniOS-icon.png",
       "tintColor": "#FF5733",
-      "category": "emulators",
+      "category": "",
       "versions": [
         {
           "version": "release-v2.0.1-build-9730",
@@ -869,7 +869,7 @@
       "localizedDescription": "All-in-one retro game emulator for iOS. Packed with powerful features and a sleek UI.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Manic-EMU-icon.png",
       "tintColor": "#FF2D55",
-      "category": "emulators",
+      "category": "",
       "versions": [
         {
           "version": "2.0.1",
@@ -1900,7 +1900,6 @@
     "Social",
     "EMU",
     "Movies",
-    "Tools",
-    "emulators"
+    "Tools"
   ]
 }
