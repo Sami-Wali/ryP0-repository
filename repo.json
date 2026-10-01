@@ -161,7 +161,7 @@
       "localizedDescription": "Nintendo Switch emulator for iOS. Auto-updated to the latest build.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/MeloNX-icon.png",
       "tintColor": "#f8566f",
-      "category": "emulators",
+      "category": "EMU",
       "versions": [
         {
           "version": "2.6",
