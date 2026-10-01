@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "DukeX",
+      "bundleIdentifier": "com.mafty.dukex",
+      "developerName": "MaftyManicEMU",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-10-01T06:43:14Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
+          "size": 20345841,
+          "buildVersion": "102",
+          "localizedDescription": "# DukeX v1.0.2 - Expanding the Xbox Experience DukeX v1.0.2 is our biggest step yet toward preserving the full original Xbox experience, not just the games. This release introduces the first native macOS build, expands XB.Live integration, and brings richer community features to both iOS and macOS. ## What's New - Native macOS release: DukeX is now available as a Mac Catalyst desktop build packaged with a nested Xemu fork, pairing desktop Xemu compatibility with the DukeX interface. - XB.Live Rich Presence and playtime tracking: friends can see what you are playing while DukeX tracks supported playtime sessions. - XB.Live messaging: threaded conversations, friend messaging, unread indicators, supported game invites, and existing Xbox inbox support now live inside DukeX. - XB.Live social expansion: friend requests, friend management, online presence, and deeper community integration are available from the Profile experience. - Activity Feed: XB.Live news, friend online status, friend achievement unlocks, and community updates now appear in a continuously refreshed timeline. - Controller Landscape Mode: on iOS, compatible controllers can switch DukeX into a controller-first browsing and launch experience. - Expanded AirPlay and external display support: big-screen play is more reliable across supported display configurations. ## Improvements - Improved achievements with Games, Apps, and Cores grouping plus updated artwork handling for XB.Live Core, DukeX Core, and special test titles. - Improved game tile spacing and cover handling across iOS and macOS. - Improved XB.Live cloud-save sync metadata with console identity v2, content-hash dedupe, and server-assisted cross-console restore handling. - Fixed achievement progress rounding so time-based achievements do not show 100% before they are actually complete. ## Availability - iOS: install `DukeX.v1.0.2.ipa` through StikStore, SideStore, or another supported sideloading workflow. - macOS: install `DukeX.macOS.v1.0.2.dmg` by dragging DukeX to Applications. - Hardware requirements on iOS remain Apple A14 Bionic or Apple M1 hardware or newer. - iOS 16.0 or later is supported, with iOS 16 support remaining experimental. ## Important DukeX does not include Xbox system files, game images, BIOS files, copyrighted content, signing certificates, or user games. Users must provide their own legally obtained files. DukeX is intended for legitimate emulation, preservation, testing, and personal library use.",
+          "sha256": "06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mafty.dukex-06565826bc22.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:43:14Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/MaftyManicEMU/DukeX"
+      },
+      "githubURL": "https://github.com/MaftyManicEMU/DukeX",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-mafty-dukex-a9bdf44b",
+        "sourceURL": "https://github.com/MaftyManicEMU/DukeX",
+        "workflowPath": ".github/workflows/update-app-com-mafty-dukex-a9bdf44b.yml"
+      }
+    },
+    {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "NuvioMedia",
