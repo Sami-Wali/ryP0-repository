@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "PSX3IOS",
+      "bundleIdentifier": "com.miguel.psx3ios",
+      "developerName": "xmiguel911x",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "beta.0.2.7",
+          "date": "2026-10-01T06:48:14Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa",
+          "size": 67644766,
+          "buildVersion": "202609022211",
+          "localizedDescription": "Various improvements added, jit fixed A15 iOS 17.0 TrollStore Go to settings, JIT mode detected, and leave it on automatic, and bugs fixed",
+          "sha256": "86401e2332ff0c139e3a07db834b18bdf48225d8df77af88640042211232a14f"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.miguel.psx3ios-86401e2332ff.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:48:14Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/xmiguel911x/PSX3IOS"
+      },
+      "githubURL": "https://github.com/xmiguel911x/PSX3IOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-miguel-psx3ios-2e76e4b9",
+        "sourceURL": "https://github.com/xmiguel911x/PSX3IOS",
+        "workflowPath": ".github/workflows/update-app-com-miguel-psx3ios-2e76e4b9.yml"
+      }
+    },
+    {
       "name": "RPCS3",
       "bundleIdentifier": "com.xitrix.RPCS3",
       "developerName": "XITRIX",
