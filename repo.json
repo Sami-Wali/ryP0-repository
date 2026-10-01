@@ -6,6 +6,42 @@
   "news": [],
   "apps": [
     {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "developerName": "Samara",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "subtitle": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "2.9.0",
+          "date": "2026-10-01T19:31:53Z",
+          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.9.0/Feather.ipa",
+          "size": 14241853,
+          "buildVersion": "1",
+          "sha256": "833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea"
+        }
+      ],
+      "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T19:31:53Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "sourceURL": "https://raw.githubusercontent.com/claration/feather/main/app-repo.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "thewonderofyou-feather-36b84335",
+        "sourceURL": "https://raw.githubusercontent.com/claration/feather/main/app-repo.json",
+        "workflowPath": ".github/workflows/update-app-thewonderofyou-feather-36b84335.yml"
+      }
+    },
+    {
       "name": "ryP0",
       "bundleIdentifier": "com.ry0.ryP0",
       "developerName": "Sami-Wali",
