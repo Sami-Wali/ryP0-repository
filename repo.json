@@ -421,7 +421,7 @@
       "localizedDescription": "Stable release: LiveContainer bundled with SideStore. Run iOS apps without installing them seamlessly.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/LC+SS_stable-icon.png",
       "tintColor": "#000000",
-      "category": "utilities",
+      "category": "Sideloading",
       "versions": [
         {
           "version": "3.8.0",
