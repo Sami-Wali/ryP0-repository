@@ -44,11 +44,11 @@
       }
     },
     {
-      "name": "Air",
+      "name": "Air: Minecraft Java",
       "bundleIdentifier": "com.air-devs.air",
       "developerName": "herbrine8403",
       "localizedDescription": "",
-      "subtitle": "",
+      "subtitle": "نسخة صينية افضل من اميثيست",
       "category": "EMU",
       "versions": [
         {
@@ -78,7 +78,8 @@
         "configId": "com-air-devs-air-43f6ee0c",
         "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
-      }
+      },
+      "tintColor": "#CCD3FF"
     },
     {
       "name": "Iridium",
