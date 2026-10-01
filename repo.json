@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "AirCard-iOS",
+      "bundleIdentifier": "com.mak5er.aircard",
+      "developerName": "Mak5er",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2026-10-01T06:51:20Z",
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa",
+          "size": 4452235,
+          "buildVersion": "1.3",
+          "localizedDescription": "## What's Changed in v1.3 > **Note**: AirCard-iOS currently supports **iOS 27.0 and newer (iOS 27+)**. ### PosterBoard Wallpapers (.tendies) • Added support for importing and unpacking `.tendies` wallpaper archives. • Automatic PosterBoard container detection and active descriptor UUID preservation. • Integrated instant WebKit NeoSpring respring right after flashing (no device reboot required). ### Apple Wallet & Passcode Theming • Added PDF artwork generation for transit passes (Suica, Pasmo, etc.). • Fixed keypad preview framing and TelephonyUI cache paths. • Cleaned up passcode number localization pickers. • Removed sluggish button glide animations when scanning cards and copying logs. ### UI & Quality of Life • Centered action buttons and removed misplaced list divider lines across all tabs. • Removed disruptive import and install alert popups in favor of clean inline status logs. • Cleaned up the VPN status bar and removed redundant text labels. • General repository cleanup and project modernization.",
+          "sha256": "c531991ef6c4df9a5bb530334eb0fc7bad5a58bc725cbc7326b5afca8fde9c6b"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mak5er.aircard-c531991ef6c4.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T06:51:20Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/Mak5er/AirCard-iOS"
+      },
+      "githubURL": "https://github.com/Mak5er/AirCard-iOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-mak5er-aircard-69cc17a8",
+        "sourceURL": "https://github.com/Mak5er/AirCard-iOS",
+        "workflowPath": ".github/workflows/update-app-com-mak5er-aircard-69cc17a8.yml"
+      }
+    },
+    {
       "name": "PSX3IOS",
       "bundleIdentifier": "com.miguel.psx3ios",
       "developerName": "xmiguel911x",
