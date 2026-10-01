@@ -6,6 +6,38 @@
   "news": [],
   "apps": [
     {
+      "name": "MCX360 Edition",
+      "bundleIdentifier": "com.devz.mc360",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-10-01T08:38:59Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
+          "size": 27602175,
+          "buildVersion": "2",
+          "localizedDescription": "## MCX360 Edition 1.1 ### New - **On-screen touch controls**, using the layout from the XeniOS emulator. They show when no controller is connected and hide when one connects. Adjust them with `touch_controls`, `touch_controls_opacity` and `touch_haptics` in `mc360.toml`. - **Save thumbnails**: your worlds now show a picture in the world list. - **Exit Game** now closes the app instead of leaving a black screen. ### Performance - Much lower CPU load while playing. The game's threads no longer queue up on a shared lock, calls inside the game run directly, and waits end as soon as the GPU is ready instead of sleeping in whole milliseconds. - Frame rate capped at a steady, evenly paced 60 FPS (`framerate_limit`, default 60). - The game's main thread and GPU thread now get priority on the iPhone's performance cores. - Less heat: the game no longer spins a core at full power while waiting for the GPU, and no longer copies the whole screen image back and forth several times per frame. ### Fixes - Fixed random crashes after playing for a while. - Fixed choppy audio. - Fixed \"ghost\" blocks and old terrain showing where the world had changed. - Devices with 3 GB of RAM now show an explanation at launch instead of crashing. ### Known issues - Long sessions heat the phone, and iOS then slows it down, so the frame rate can drop over time. Playing unplugged and without a case helps. - The on-screen D-pad's up arrow sits over the first world's thumbnail in the Load menu. It's part of the controls, not the save. - Devices with 3 GB of RAM (iPhone 8 Plus, iPhone X, iPad 8th gen) can't run the game with a normal sideload. They need TrollStore, or a signing method that grants the Extended Virtual Addressing entitlement. Installing over 1.0 keeps your worlds and settings.",
+          "sha256": "7b78268a0fbd13f4e245159b3c8fd745092a6a2528fec850b5e1bf4975342240"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.mc360-7b78268a0fbd.png",
+      "updatePolicy": "static",
+      "appType": "Static",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-01T08:38:59Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/DevZer0D4Y/MCX360-EDITION"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/MCX360-EDITION"
+    },
+    {
       "name": "Sonic Unleashed",
       "bundleIdentifier": "com.devz.sonicunleashed",
       "developerName": "DevZer0D4Y",
