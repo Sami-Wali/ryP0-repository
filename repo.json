@@ -1067,7 +1067,7 @@
       "developerName": "ARMSX2",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
       "tintColor": "#1B1280",
-      "category": "emulators",
+      "category": "EMU",
       "versions": [
         {
           "version": "Nightly-2026.09.19",
