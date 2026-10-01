@@ -445,8 +445,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-5.1.0-1a13189a717c.ipa",
-        "checkedAt": "2026-10-01T13:44:48Z",
+        "checkedAt": "2026-10-01T19:35:25Z",
         "message": "Private updater: The upstream IPA download returned HTTP 415."
       },
       "importSource": {
