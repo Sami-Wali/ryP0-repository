@@ -1350,8 +1350,8 @@
       },
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-02T08:17:56Z",
-        "message": "Private updater: R2_PUBLIC_BASE_URL must be a non-empty string."
+        "checkedAt": "2026-10-02T09:18:54Z",
+        "message": "Private updater: Telegram R2 delivery is missing protected storage credentials."
       }
     },
     {
