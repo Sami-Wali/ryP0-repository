@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "Nyxian",
+      "bundleIdentifier": "org.emexlabs.nyxian",
+      "developerName": "emexlab",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.11.4",
+          "date": "2026-10-02T15:39:20Z",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.4/Nyxian.ipa",
+          "size": 111250101,
+          "buildVersion": "20260910.92.RELEASE",
+          "localizedDescription": "## Changelog ### Nyxian - Feature: Swift typechecking. (cd5cb95c76d8279a57abc6a4c980dfb0b2c849e0) - Feature: Ksurface Kernel Extension projects. (cf9fcd92f7c8294e63c4e7cb62ff2853025330a3, 9d97e939a88453e8ad6f769997885b3f7cf95a23, f1539b729cd74f3854c5cd8d77d151b5913cbfe0, ca6f57fa2f3affcd471dc413f18bf3df55e790d2, 76dfdb0589147eb19956b1b6e36dd527d656e4f8, c981c47fcf3ce074c5a30b863ee5a7ade967f909, 1878e1a7cc26066b44f15d4f00a08c5d1356838d) - Feature: backup and restore app sizing for the entire Nyxian boot session. (39a7dd574647581f96d7dbe3c8480c801a89eb55, 1265add0552cc9e7817709988a89e54dc5d874f9, 075cb37f07f674d9c66317a406b67e4fd1696024) - Feature: symlinks are now partially supported in the file manager UI. (ddd3782a8279da0e068f0c80e524b80adcd47c0f, 7d76fea8d5555b7d8bb09040a8361c48d57a1d6e) - Feature: added `Get Info` panel like in macOS Finder to the file manager UI. (72ddb9fc66b052941bd36c32502fb6c5163c9e75) - Feature: now bundles and data containers can be easily browsed via a context menu button and the file manager UI. (6db6de99271bd12499b68711da1e92edf169b431) - Feature: render icons on iOS 26+ with the actual iOS app icon rendering pipeline. (c08e9906d9e33335863825ed64a243d47a0ecd67, de2747bfac2e6d047ea293b9a6237c808034d348, c3bd58512bced6eb9672ee827cc0bee43dc79e46) - Fix: correctly handling fatal compilation errors. (d82fb79ee49c11395ecb2ec4b7ea358eb446dd24) ### CoreCompiler - Feature: Swift typechecking. (cd5cb95c76d8279a57abc6a4c980dfb0b2c849e0) - Fix: patched `-fmodules` not working due to iOS app HOME path bug. (5073db055dd67c820c157f32ef1786ad7215766e, 942528a52a946f42de7081feb24e630b35364287, 585948fff57546b83e706fc96e79dab8274fdecb, 9437af8bcbb74a45273a7850ae1c65b58b3a0fd6, 19d477e14ed4778229134eae440db529f206826e) - Fix: refresh language server when user saves options. (76a0544739b654260119b9c8296780646e7c4685) - Fix: correctly appending MDKDiagnostic object with their absolute path. (08d7d6eff474adad4cc4c64deda051945561366e, 5a1d9da04029b7b0d04acea13ec64af1c1c84299, cf3cf92465369cc1c58fdd7740217fcb7302b28f, 885dabc3657c339e693737aa63cdd43a09363c79) - Fix: the window server shall not allow full screen processes that exited to make non full screen apps not focusable anymore. (ca217756470f618daea09fc435ee59886de36800) ### HWHook - Fix: deallocating thread port right after usage. (61343956c243ccc061b75ed6094207198009a92d) ### Micro Kernel (ksurface) - Fix: patched slowness of userspace reboots and daemon reloads. (cdf3cbc43bd6f855781b5450ceb5502f7f6df9f4) - FIx: fixing random state issues caused by weird `EXConcreteExtension` shenanigans by adding reverse engineered plist key `_EXIgnoreHostAppStateChanges `. (44e5459e3ede18aee23169945413362ac6599f56) - Vulnerability Fix: patched a mach exception port receive right leak in `SYS_handoffep`. (a3f8d420e923db7a72cc927c3cce3d04af6bc3fb) - Vulnerability Fix: patched a uninitialized memory vulnerability in ktfp. (78e45d84bb84fe3ca4dec4c898389b59ac1277d4, eaab4d6f1cb10d2c5a51c7ab732c3403e7689d19) - Vulnerability Fix: patched a IPC mach message type confusion vulnerability in ktfp. (d161b5e33127f3c3ad741a61ec814eff2052d835) - Vulnerability Fix: patched a syscall worker exhaustion vulnerability. (a90c98693b5cf21548fa88c84d1f91f225c8e1ed, 8269c96df27bb6c22d5636f83904174fe6238401) - Vulnerability Fix: patched a task port confusion race condition in syscall worker. (1d06cf544bf5843eb4c785924ff2c61d593e58b0) - Fix: signing of `TSRootBinaries` will now happen automatically. (c7f669d734a8452ef487485c00c8bbb32f4b92ae) - Feature: Handling Apple CS entitlement `com.apple.private.MobileContainerManager.allowed` and `com.apple.private.security.storage.AppBundles` in translation to NXT2. (0529b4e13a9b8b855e2eff3a48ed5a4ace6439a1) - Feature: Handling Apple CS entitlement `com.apple.security.exception.files.absolute-path.read-write` and `com.apple.security.exception.files.absolute-path.read-only` in translation to NXT2. (88f8aea91b26a30d7a0b85b7d14fe2953a51b696) - Feature: Added file syste",
+          "sha256": "295fd286aa0ea56cde28a2c6a8a0a0d781c760243a9dad231b1129db9dc145d0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.emexlabs.nyxian-295fd286aa0e.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-02T15:39:20Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/emexlab/Nyxian"
+      },
+      "githubURL": "https://github.com/emexlab/Nyxian",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "org-emexlabs-nyxian-c609773b",
+        "sourceURL": "https://github.com/emexlab/Nyxian",
+        "workflowPath": ".github/workflows/update-app-org-emexlabs-nyxian-c609773b.yml"
+      }
+    },
+    {
       "name": "ryP0",
       "bundleIdentifier": "com.ry0.ryP0",
       "developerName": "Sami-Wali",
