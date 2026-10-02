@@ -200,13 +200,12 @@
       "category": "EMU",
       "versions": [
         {
-          "version": "0.1.0",
-          "date": "2026-10-01T10:06:48Z",
-          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.0/Madeira-0.1.0.ipa",
-          "size": 142433883,
-          "buildVersion": "1",
-          "localizedDescription": "Madeira runs Windows PC games on iPhone in a single app: FEX-Emu translates x86-64 to ARM64, a Wine 11 fork runs as ARM64EC, DXMT maps Direct3D 11 to Metal, and Direct3D 12 runs natively. ### Install - The IPA is ad-hoc signed (no certificate) and carries the app's entitlements, including the increased memory limit. Sideload it with your own Apple ID (SideStore, AltStore, Sideloadly, Plume or similar), which signs it for your device. Settings should show both JIT and Memory+ green before you play. - Games need JIT: enable it with StikDebug (the app's **Enable JIT** button). Settings shows JIT and Memory+ status and says **Ready to play** when both are on. - Requires iOS 17 or later; the interface is designed for iOS 26. ### In this build - Liquid metal in place of Liquid Glass on the navigation bar's buttons, the tab bar and the Desktop button, with a metal rim on the tab bar's lens and the search field (`MADEIRA_GLASS_SKIN=0` / `MADEIRA_LIQUID_METAL=0` in `madeira.cfg` turn them off). - Library: ambient light around game artwork, a card press animation, icon-only tab bar. - fastsync is the default sync engine. - New app icon. ### Not included The Microsoft Visual C++ runtime DLLs are not redistributed (see `legal/THIRD-PARTY-NOTICES.md`). Building from source: `tools/fetch-vcruntime.md`. Licenses and third-party notices are in the app bundle (`legal/`, `licenses/`) and in this repository.",
-          "sha256": "29054bb5d167382f004ba3ae04d3995e31070e67f4c0acf7eb4f180280f93335"
+          "version": "v0.1.1",
+          "date": "2026-10-02T08:54:31Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.1/Madeira-0.1.1.ipa",
+          "size": 142473173,
+          "sha256": "045aeb8fd4c71c2e6a78fb4511f94c56f8ed7af14c47a3b0ea2937a4fc8bfcee",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.willfaust.madeora-29054bb5d167.png",
@@ -214,9 +213,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.0/Madeira-0.1.0.ipa",
-        "checkedAt": "2026-10-02T12:59:59Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.1/Madeira-0.1.1.ipa",
+        "checkedAt": "2026-10-02T19:11:03Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -226,7 +225,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira",
+        "sourceURL": "https://github.com/willfaust/Madeira/releases/tag/v0.1.1",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       }
     },
