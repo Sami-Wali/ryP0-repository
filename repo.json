@@ -6,6 +6,44 @@
   "news": [],
   "apps": [
     {
+      "name": "ryP0",
+      "bundleIdentifier": "com.ry0.ryP0",
+      "developerName": "Sami-Wali",
+      "localizedDescription": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
+      "subtitle": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-01T19:27:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
+          "size": 14846145,
+          "buildVersion": "1",
+          "localizedDescription": "Initial public release of ryP0.",
+          "sha256": "f066a220fda92f341947b3d11bed7443bdb1ac29fbc41e3df701cd748dc3afe2"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
+        "checkedAt": "2026-10-02T12:59:59Z",
+        "message": "Download is available"
+      },
+      "importSource": {
+        "method": "repository",
+        "sourceURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/repo.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-ry0-ryp0-67c459ef",
+        "sourceURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/repo.json",
+        "workflowPath": ".github/workflows/update-app-com-ry0-ryp0-67c459ef.yml"
+      }
+    },
+    {
       "name": "Nado Tv",
       "bundleIdentifier": "com.nadotv.nadoTv",
       "developerName": "Unknown Developer",
@@ -76,44 +114,6 @@
         "configId": "com-animecloud-rm-aae34788",
         "sourceURL": "https://t.me/dpixel/3768",
         "workflowPath": ".github/workflows/update-app-com-animecloud-rm-aae34788.yml"
-      }
-    },
-    {
-      "name": "ryP0",
-      "bundleIdentifier": "com.ry0.ryP0",
-      "developerName": "Sami-Wali",
-      "localizedDescription": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "subtitle": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "category": "Sideloading",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-10-01T19:27:43Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
-          "size": 14846145,
-          "buildVersion": "1",
-          "localizedDescription": "Initial public release of ryP0.",
-          "sha256": "f066a220fda92f341947b3d11bed7443bdb1ac29fbc41e3df701cd748dc3afe2"
-        }
-      ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
-      "updatePolicy": "daily",
-      "appType": "Daily Update",
-      "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
-        "checkedAt": "2026-10-02T12:59:59Z",
-        "message": "Download is available"
-      },
-      "importSource": {
-        "method": "repository",
-        "sourceURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/repo.json"
-      },
-      "automation": {
-        "repository": "Sami-Wali/ryP0-automation",
-        "configId": "com-ry0-ryp0-67c459ef",
-        "sourceURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/repo.json",
-        "workflowPath": ".github/workflows/update-app-com-ry0-ryp0-67c459ef.yml"
       }
     },
     {
