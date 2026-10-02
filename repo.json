@@ -6,6 +6,42 @@
   "news": [],
   "apps": [
     {
+      "name": "Anime Cloud",
+      "bundleIdentifier": "com.animecloud.rm",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "Arabic Anime sub",
+      "subtitle": "Arabic Anime sub",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "6.5",
+          "date": "2026-10-02T12:59:25Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
+          "size": 8939210,
+          "buildVersion": "1",
+          "sha256": "653972c0da4f6c894b4c708e18ca5696f431c42ba7a7b3ecc776acf1c50fa5c2"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.animecloud.rm-653972c0da4f.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-02T12:59:25Z",
+        "message": "Imported to protected R2 after IPA validation"
+      },
+      "importSource": {
+        "method": "telegram-r2",
+        "sourceURL": "https://t.me/dpixel/3768"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-animecloud-rm-aae34788",
+        "sourceURL": "https://t.me/dpixel/3768",
+        "workflowPath": ".github/workflows/update-app-com-animecloud-rm-aae34788.yml"
+      }
+    },
+    {
       "name": "ryP0",
       "bundleIdentifier": "com.ry0.ryP0",
       "developerName": "Sami-Wali",
