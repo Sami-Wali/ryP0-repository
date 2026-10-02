@@ -612,7 +612,7 @@
       "localizedDescription": "Amethyst nightly build auto-updated via GitHub Actions. Includes JIT and memory entitlements.",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Amethyst-icon.png",
       "tintColor": "#9649B8",
-      "category": "Games",
+      "category": "EMU",
       "versions": [
         {
           "version": "2026.10.01.1012",
