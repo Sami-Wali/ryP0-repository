@@ -1313,32 +1313,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "1.26.51",
-          "date": "2026-09-18T08:28:55Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.51-4ece985ac8f5.ipa",
-          "size": 693807301,
-          "buildVersion": "1.26.51.01"
-        },
-        {
-          "version": "1.26.50",
-          "date": "2026-09-17T08:54:30Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.50-6ce1c311df20.ipa",
-          "size": 693807363,
-          "buildVersion": "1.26.50.04"
-        },
-        {
-          "version": "1.26.45",
-          "date": "2026-09-13T18:05:19Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/minecraft-1.26.45-ae024b630d6a.ipa",
-          "size": 730748508,
-          "buildVersion": "1.26.45.01"
-        },
-        {
-          "version": "1.26.45",
-          "date": "2026-08-30T09:58:08Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/Minecraft_1.26.45.ipa",
-          "size": 730748508,
-          "localizedDescription": "💬Наш чат - тык 📱 Купить лицензию (имеет Xbox live) - тык 🔵 Наш телеграм канал - тык ⚡️ Поддержать канала - тык"
+          "version": "1.26.52",
+          "date": "2026-10-02T12:12:04Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
+          "size": 693798752,
+          "sha256": "daab2df0137fc2d475ffe8f0b00f5caeff4f4a7385ab847937c715f7219b0d43",
+          "buildVersion": "1.26.52.03"
         }
       ],
       "updatePolicy": "daily",
@@ -1349,9 +1329,10 @@
         "workflowPath": ".github/workflows/update-app-minecraft.yml"
       },
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-02T10:05:56Z",
-        "message": "Private updater: The validated IPA could not be uploaded to R2."
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
+        "checkedAt": "2026-10-02T12:12:17Z",
+        "message": "Updated by private automation"
       }
     },
     {
