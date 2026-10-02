@@ -6,6 +6,42 @@
   "news": [],
   "apps": [
     {
+      "name": "Nado Tv",
+      "bundleIdentifier": "com.nadotv.nadoTv",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "• قنوات BIEN SPORT بالعربية✅ • لمتابعة المسلسلات التركية والعربية ✅ • لمشاهدة المباريات بأعلى جودة ✅ •بدون إعلانات مزعجة✅ ⚠️ كود تسجيل الدخول : 22455",
+      "subtitle": "• قنوات BIEN SPORT بالعربية✅ • لمتابعة المسلسلات التركية والعربية ✅ • لمشاهدة المباريات بأعلى جودة ✅ •بدون إعلانات مزعجة✅ ⚠️ كود تسجيل الدخول : 22455",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-10-02T13:04:24Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
+          "size": 23701403,
+          "buildVersion": "5",
+          "sha256": "8d6926bd90ab04774f97753dbfb255559c00a954ce4a38f6a60635ba790a773b"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.nadotv.nadoTv-8d6926bd90ab.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-02T13:04:24Z",
+        "message": "Imported to protected R2 after IPA validation"
+      },
+      "importSource": {
+        "method": "telegram-r2",
+        "sourceURL": "https://t.me/ipaarab/13000"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-nadotv-nadotv-014a4e4a",
+        "sourceURL": "https://t.me/ipaarab/13000",
+        "workflowPath": ".github/workflows/update-app-com-nadotv-nadotv-014a4e4a.yml"
+      }
+    },
+    {
       "name": "Anime Cloud",
       "bundleIdentifier": "com.animecloud.rm",
       "developerName": "Unknown Developer",
