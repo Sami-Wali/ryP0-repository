@@ -197,7 +197,7 @@
       "developerName": "willfaust",
       "localizedDescription": "",
       "subtitle": "",
-      "category": "EMU",
+      "category": "32bit",
       "versions": [
         {
           "version": "v0.1.1",
@@ -1992,6 +1992,7 @@
     "Social",
     "EMU",
     "Movies",
-    "Tools"
+    "Tools",
+    "32bit"
   ]
 }
