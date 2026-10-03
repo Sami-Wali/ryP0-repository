@@ -6,6 +6,42 @@
   "news": [],
   "apps": [
     {
+      "name": "Video Star",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "Video Editor",
+      "subtitle": "Video Editor",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "15.2.6",
+          "date": "2026-10-03T09:49:40Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
+          "size": 267419278,
+          "buildVersion": "1905",
+          "sha256": "22553cb988c35a01bfd2577b92d671b5396f6799a9d15d4eb97853e3dcdec25e"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.frontierdesign.videostar-22553cb988c3.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedAt": "2026-10-03T09:49:40Z",
+        "message": "Imported to protected R2 after IPA validation"
+      },
+      "importSource": {
+        "method": "telegram-r2",
+        "sourceURL": "https://t.me/kamohacks/16596"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-frontierdesign-videostar-e776c460",
+        "sourceURL": "https://t.me/kamohacks/16596",
+        "workflowPath": ".github/workflows/update-app-com-frontierdesign-videostar-e776c460.yml"
+      }
+    },
+    {
       "name": "COD4iOS",
       "bundleIdentifier": "com.devz.cod4ios",
       "developerName": "DevZer0D4Y",
