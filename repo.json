@@ -348,7 +348,7 @@
         "workflowPath" : ".github\/workflows\/update-app-com-devz-sonicunleashed-aa78ecec.yml"
       },
       "bundleIdentifier" : "com.devz.sonicunleashed",
-      "category" : "EMU",
+      "category" : "Ports",
       "developerName" : "DevZer0D4Y",
       "githubURL" : "https:\/\/github.com\/DevZer0D4Y\/UnleashedRecompilediOS",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.devz.sonicunleashed-158b0145cde2.png",
@@ -356,7 +356,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/DevZer0D4Y\/UnleashedRecompilediOS"
       },
-      "localizedDescription" : "",
       "name" : "Sonic Unleashed",
       "status" : {
         "checkedAt" : "2026-10-05T21:36:34Z",
@@ -364,7 +363,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
