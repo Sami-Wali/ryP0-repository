@@ -775,7 +775,7 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "This release contains many new updates improving the user experience! Here's what we added ## Minor updates - New app logo - Setup Screen (lets you know if jit is attached and if memory entitlement is working - Search for games ## Major updates - Improved boot time - Added support for many games with unimplemented functions - This does NOT guarantee your game will load. All this did was add unadded functions to the app, meaning if an app had an unadded function it would crash, now hopefully adding support for more games. - Stopped using imgui for aetherps4 loading (using swift now) - Added touch screen overlay to control game ## Info ### Supported games Sonic Mania - ✅ Running 2048 (Homebrew) - ✅ Running Journey - ✅ Running ### Warning This app is an experimental build of AetherPS4. AetherPS4 is based off shadPS4, all credits go to them for making the emulator, this project would not be possible without them. This app was also made with the support of Claude, an AI assistant for coding. If you guys have any issues please report it in the GitHub. You can also direct message me on Discord (@ripchase), or DM me on Reddit (u\/cultural-order-5549). ## AetherPS4 has a Discord Server, please join if you can (https:\/\/discord.gg\/xApMHWAzkh). Thanks for using this app, I really appreciate it ❤️",
+      "subtitle" : "PS4 Emulator",
       "tintColor" : "#004AB8",
       "updatePolicy" : "static",
       "versions" : [
