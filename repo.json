@@ -3,81 +3,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "com-ry0-ryp0-67c459ef",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json",
-        "workflowPath" : ".github\/workflows\/update-app-com-ry0-ryp0-67c459ef.yml"
-      },
-      "bundleIdentifier" : "com.ry0.ryP0",
-      "category" : "Sideloading",
-      "developerName" : "Sami-Wali",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/assets\/icon.png",
-      "importSource" : {
-        "method" : "repository",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json"
-      },
-      "localizedDescription" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "name" : "ryP0",
-      "status" : {
-        "checkedAt" : "2026-10-05T15:07:44Z",
-        "checkedDownloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "subtitle" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "1",
-          "date" : "2026-10-01T19:27:43Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
-          "localizedDescription" : "Initial public release of ryP0.",
-          "sha256" : "f066a220fda92f341947b3d11bed7443bdb1ac29fbc41e3df701cd748dc3afe2",
-          "size" : 14846145,
-          "version" : "1.0.0"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
-        "configId" : "com-frontierdesign-videostar-e776c460",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/t.me\/kamohacks\/16596",
-        "workflowPath" : ".github\/workflows\/update-app-com-frontierdesign-videostar-e776c460.yml"
-      },
-      "bundleIdentifier" : "com.frontierdesign.videostar",
-      "category" : "Tools",
-      "developerName" : "Unknown Developer",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.frontierdesign.videostar-22553cb988c3.png",
-      "importSource" : {
-        "method" : "telegram-r2",
-        "sourceURL" : "https:\/\/t.me\/kamohacks\/16596"
-      },
-      "localizedDescription" : "Video Editor",
-      "name" : "Video Star",
-      "status" : {
-        "checkedAt" : "2026-10-05T15:07:44Z",
-        "checkedDownloadURL" : "https:\/\/pub-81c90c3c0b074181af4429cfa53519f0.r2.dev\/apps\/com-frontierdesign-videostar-e776c460\/current.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "subtitle" : "Video Editor",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "1905",
-          "date" : "2026-10-03T09:49:40Z",
-          "downloadURL" : "https:\/\/pub-81c90c3c0b074181af4429cfa53519f0.r2.dev\/apps\/com-frontierdesign-videostar-e776c460\/current.ipa",
-          "sha256" : "22553cb988c35a01bfd2577b92d671b5396f6799a9d15d4eb97853e3dcdec25e",
-          "size" : 267419278,
-          "version" : "15.2.6"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "com-devz-cod4ios-70b094ce",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/github.com\/DevZer0D4Y\/COD4iOS-COD4NS",
@@ -150,6 +75,44 @@
           "sha256" : "295fd286aa0ea56cde28a2c6a8a0a0d781c760243a9dad231b1129db9dc145d0",
           "size" : 111250101,
           "version" : "0.11.4"
+        }
+      ]
+    },
+    {
+      "appType" : "Daily Update",
+      "automation" : {
+        "configId" : "com-ry0-ryp0-67c459ef",
+        "repository" : "Sami-Wali\/ryP0-automation",
+        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json",
+        "workflowPath" : ".github\/workflows\/update-app-com-ry0-ryp0-67c459ef.yml"
+      },
+      "bundleIdentifier" : "com.ry0.ryP0",
+      "category" : "Sideloading",
+      "developerName" : "Sami-Wali",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/assets\/icon.png",
+      "importSource" : {
+        "method" : "repository",
+        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json"
+      },
+      "localizedDescription" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
+      "name" : "ryP0",
+      "status" : {
+        "checkedAt" : "2026-10-05T15:07:44Z",
+        "checkedDownloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
+        "message" : "Download is available",
+        "state" : "healthy"
+      },
+      "subtitle" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
+      "updatePolicy" : "daily",
+      "versions" : [
+        {
+          "buildVersion" : "1",
+          "date" : "2026-10-01T19:27:43Z",
+          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
+          "localizedDescription" : "Initial public release of ryP0.",
+          "sha256" : "f066a220fda92f341947b3d11bed7443bdb1ac29fbc41e3df701cd748dc3afe2",
+          "size" : 14846145,
+          "version" : "1.0.0"
         }
       ]
     },
@@ -2055,6 +2018,43 @@
           "localizedDescription" : "This uses 9.35.2 version of YouTube Music.",
           "size" : 105888307,
           "version" : "9.35.2"
+        }
+      ]
+    },
+    {
+      "appType" : "Daily Update",
+      "automation" : {
+        "configId" : "com-frontierdesign-videostar-e776c460",
+        "repository" : "Sami-Wali\/ryP0-automation",
+        "sourceURL" : "https:\/\/t.me\/kamohacks\/16596",
+        "workflowPath" : ".github\/workflows\/update-app-com-frontierdesign-videostar-e776c460.yml"
+      },
+      "bundleIdentifier" : "com.frontierdesign.videostar",
+      "category" : "Tools",
+      "developerName" : "Unknown Developer",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.frontierdesign.videostar-22553cb988c3.png",
+      "importSource" : {
+        "method" : "telegram-r2",
+        "sourceURL" : "https:\/\/t.me\/kamohacks\/16596"
+      },
+      "localizedDescription" : "Video Editor",
+      "name" : "Video Star",
+      "status" : {
+        "checkedAt" : "2026-10-05T15:07:44Z",
+        "checkedDownloadURL" : "https:\/\/pub-81c90c3c0b074181af4429cfa53519f0.r2.dev\/apps\/com-frontierdesign-videostar-e776c460\/current.ipa",
+        "message" : "Download is available",
+        "state" : "healthy"
+      },
+      "subtitle" : "Video Editor",
+      "updatePolicy" : "daily",
+      "versions" : [
+        {
+          "buildVersion" : "1905",
+          "date" : "2026-10-03T09:49:40Z",
+          "downloadURL" : "https:\/\/pub-81c90c3c0b074181af4429cfa53519f0.r2.dev\/apps\/com-frontierdesign-videostar-e776c460\/current.ipa",
+          "sha256" : "22553cb988c35a01bfd2577b92d671b5396f6799a9d15d4eb97853e3dcdec25e",
+          "size" : 267419278,
+          "version" : "15.2.6"
         }
       ]
     }
