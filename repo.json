@@ -311,7 +311,7 @@
         "workflowPath" : ".github\/workflows\/update-app-com-devz-mc360-567bc532.yml"
       },
       "bundleIdentifier" : "com.devz.mc360",
-      "category" : "EMU",
+      "category" : "Ports",
       "developerName" : "DevZer0D4Y",
       "githubURL" : "https:\/\/github.com\/DevZer0D4Y\/MCX360-EDITION",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.devz.mc360-7b78268a0fbd.png",
@@ -319,7 +319,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/DevZer0D4Y\/MCX360-EDITION"
       },
-      "localizedDescription" : "",
       "name" : "MCX360 Edition",
       "status" : {
         "checkedAt" : "2026-10-05T21:36:34Z",
@@ -327,7 +326,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
