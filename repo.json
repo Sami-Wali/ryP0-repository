@@ -9,7 +9,7 @@
         "workflowPath" : ".github\/workflows\/update-app-com-devz-cod4ios-70b094ce.yml"
       },
       "bundleIdentifier" : "com.devz.cod4ios",
-      "category" : "EMU",
+      "category" : "Ports",
       "developerName" : "DevZer0D4Y",
       "githubURL" : "https:\/\/github.com\/DevZer0D4Y\/COD4iOS-COD4NS",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.devz.cod4ios-8a1bbf9d9af1.png",
@@ -17,7 +17,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/DevZer0D4Y\/COD4iOS-COD4NS"
       },
-      "localizedDescription" : "",
       "name" : "COD4iOS",
       "status" : {
         "checkedAt" : "2026-10-05T21:36:34Z",
@@ -25,7 +24,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
