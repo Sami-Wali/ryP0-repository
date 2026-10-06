@@ -1,6 +1,45 @@
 {
   "apps": [
     {
+      "name": "SM64CoopDX",
+      "bundleIdentifier": "com.sm64coopdx.ios",
+      "developerName": "LeoManrique",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "151.1.0",
+          "date": "2026-10-06T19:13:31Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+          "size": 9790397,
+          "buildVersion": "1",
+          "localizedDescription": "## SM64CoopDX iOS Port - iOS 27, Keyboards and DynOS Folder ### Changes - Added support for iOS 27. - Fixed Bluetooth keyboards producing no input. - Added the DynOS folder support. ### Installation **Sideload the IPA** Download the `.ipa` and sideload using AltStore, SideStore, or similar tools. ### Requirements - iOS 15.0+ - ARM64 device (iPhone/iPad) - A base ROM is required for first launch",
+          "sha256": "7ac5ffc5aa96426ec9e5e33ace5e6e0cf3d8c139c9218d2c4c9196b17300e840"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.sm64coopdx.ios-7ac5ffc5aa96.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+        "checkedAt": "2026-10-06T19:13:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios"
+      },
+      "githubURL": "https://github.com/LeoManrique/sm64coopdx-ios",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-sm64coopdx-ios-60da0a8d",
+        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios",
+        "workflowPath": ".github/workflows/update-app-com-sm64coopdx-ios-60da0a8d.yml"
+      }
+    },
+    {
       "name": "MeleePad",
       "bundleIdentifier": "com.meleepad.MeleePad",
       "developerName": "chrissotraidis",
