@@ -1,6 +1,39 @@
 {
   "apps": [
     {
+      "name": "Sonic (2006)",
+      "bundleIdentifier": "com.devz.sonic2006",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-06T19:05:34Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/R1/Sonic06-iOS.ipa",
+          "size": 35609295,
+          "buildVersion": "1.0.5",
+          "localizedDescription": "First release!",
+          "sha256": "344c83949a811056c90c6741c803ccf3f59380f5e284ccec1d5ad8f13cab8a22"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-344c83949a81.png",
+      "updatePolicy": "static",
+      "appType": "Static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/R1/Sonic06-iOS.ipa",
+        "checkedAt": "2026-10-06T19:05:37Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS"
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "com-devz-cod4ios-70b094ce",
