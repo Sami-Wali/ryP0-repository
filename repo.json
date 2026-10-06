@@ -46,7 +46,7 @@
         "workflowPath" : ".github\/workflows\/update-app-com-air-devs-air-43f6ee0c.yml"
       },
       "bundleIdentifier" : "com.air-devs.air",
-      "category" : "Ports",
+      "category" : "EMU",
       "developerName" : "Gsjsjzhznsz",
       "githubURL" : "https:\/\/github.com\/Gsjsjzhznsz\/Prisma-Minecraft-iOS-Launcher",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.air-devs.air-173e2d9929db.png",
@@ -54,7 +54,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/Gsjsjzhznsz\/Prisma-Minecraft-iOS-Launcher"
       },
-      "localizedDescription" : "",
       "name" : "Air",
       "status" : {
         "checkedAt" : "2026-10-06T19:42:31Z",
@@ -62,7 +61,7 @@
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
+      "subtitle" : "Minecraft Java forked from Amethyst",
       "updatePolicy" : "daily",
       "versions" : [
         {
