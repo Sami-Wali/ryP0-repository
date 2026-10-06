@@ -1,6 +1,45 @@
 {
   "apps": [
     {
+      "name": "Ketamine",
+      "bundleIdentifier": "uk.nouvborne.ketamine",
+      "developerName": "Nouvborne",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-10-06T19:43:31Z",
+          "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+          "size": 21102348,
+          "buildVersion": "4",
+          "localizedDescription": "**Full Changelog**: https://github.com/Nouvborne/Ketamine/compare/1.2...1.2.1 TelephonyUI-10-cute-cat.zip is a dialer theme.",
+          "sha256": "fe3c21ebaaebb8190e56b30e82ddfe0c9c3a66a5346a1d90a070bbc5e8005e98"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/uk.nouvborne.ketamine-fe3c21ebaaeb.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+        "checkedAt": "2026-10-06T19:43:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/Nouvborne/Ketamine"
+      },
+      "githubURL": "https://github.com/Nouvborne/Ketamine",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "uk-nouvborne-ketamine-d6fe07c8",
+        "sourceURL": "https://github.com/Nouvborne/Ketamine",
+        "workflowPath": ".github/workflows/update-app-uk-nouvborne-ketamine-d6fe07c8.yml"
+      }
+    },
+    {
       "name": "Air",
       "bundleIdentifier": "com.air-devs.air",
       "developerName": "Gsjsjzhznsz",
