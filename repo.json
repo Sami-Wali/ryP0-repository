@@ -1,6 +1,45 @@
 {
   "apps": [
     {
+      "name": "Air",
+      "bundleIdentifier": "com.air-devs.air",
+      "developerName": "herbrine8403",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "5.1.0",
+          "date": "2026-10-06T19:41:07Z",
+          "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
+          "size": 244024897,
+          "buildVersion": "5.1.0",
+          "localizedDescription": "# Air 5.1.0 > [!NOTE] > 本次更新主要为 **Minecraft 26.3** 做了适配,并修复了 **JIT 启动闪退**等问题; > 若您在启动游戏时遇到闪退、黑屏、直接崩溃等问题，请更新至该版本。 > 同时新增 **AI 助手**、启动时自动检查更新等功能。26.2 与 26.3 都可以正常使用,请悉知. ## 更新内容 * 新增 **AI 助手**:可以和你对话,也能帮你找资源、装模组/整合包/光影,还能读取游戏日志、分析崩溃原因 @herbrine8403 * 新增 **启动时自动检查更新**:有新版本会自动提示,并显示可滚动的更新说明 @yitenchen123 * 适配 **Minecraft 26.3**(SDL3 窗口/输入/呈现层):修复进入游戏黑屏、画面缩在角落、小窗显示错位、Vulkan 下帧率一直显示为 0、物品栏点不动、快捷栏按键错位等问题 @yitenchen123 @Gsjsjzhznsz @herbrine8403 * 修复 **MobileGlues 渲染器在 26.3 下闪退**的深层原因 @yiyeshi0-hash * 支持 **Metal(metallum)渲染器**,可用于 Minecraft 26.2 / 26.3 @yiyeshi0-hash * 新增 **MobileGL / MobileGL-gles** 渲染器,并新增 **SimpleFPEWrapper(sfpew)** 以支持 **1.17 及以下**版本(请在设置中开启 sfpew,并在渲染器中选择 **MobileGL-gles**);同时修复 MobileGlues 在 26.3 下的闪退与黑屏 @yitenchen123 * MobileGlues 内置源码升级到上游 2.0.x,着色器转换链不再互相干扰 @yitenchen123 * 引入 **LWJGL 3.3.3 / 3.4.1 两套运行库**看，可按游戏版本自动选择或手动选择 @yitenchen123 @herbrine8403 * 修复 **Forge / NeoForge 直装**时的启动器被关闭、直装后闪退、模块冲突等问题 @yiyeshi0-hash @yitenchen123 * 修复 OptiFine 直装、整合包导入,以及下载源和镜像相关的报错 @yitenchen123 * 修复 **JIT** 相关问题:开启 JIT 后启动不再闪退(含使用外部 JIT 后启动闪退的情况),并新增 JIT 工具选择 @herbrine8403 @yiyeshi0-hash * 优化**内存占用**:自动识别大内存权限,减少后台内存回收导致的闪退 @herbrine8403 @yitenchen123 * 补全简体中文缺失的文本,并同步 Crowdin @herbrine8403 * 改进**构建与打包流程**:双版本运行库、复用已编译组件、构建日志更清晰 @yiyeshi0-hash @yitenchen123 * 其他内容请前往 Commit 界面查看 ## 注意事项 > [!IMPORTANT] > 若要在 Minecraft 26.3 上使用 **Vulkan**,请把渲染器选为 **Zink**,同时把渲染 API 改为 **Vulkan**。 ## 贡献者 * @yitenchen123 * @herbrine8403 * @yiyeshi0-hash * @Gsjsjzhznsz **完整更新日志**: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/5.0.0...5.1.0 --- # Air 5.1.0 > [!NOTE] > This update is mainly about **Minecraft 26.3** support and fixes several issues including **JIT startup crashes**; > it also adds an **AI assistant** and an automatic update check on launch. Both 26.2 and 26.3 work fine. ## Changelog * Added an **AI assistant**: chat with it, let it find and install mods / modpacks / shaders, and let it read game logs and explain crashes @herbrine8403 * Added an **automatic update check on launch**: you get notified when a new version is out, with scrollable release notes @yitenchen123 * Added **Minecraft 26.3** support (SDL3 window / input / presentation): fixed the black screen on entering a world, the picture stuck in a corner, having to change the resolution once to get a picture, wrong display in small windows, frame rate always showing 0 with Vulkan, resolution switching not working, the on-screen keyboard and control buttons not typing, the inventory not being clickable, and wrong hotbar keys @yitenchen123 @Gsjsjzhznsz @herbrine8403 * Fixed why the **MobileGlues renderer crashed on 26.3**: a render hook mistook itself for the real implementation and kept calling itself until it crashed @yiyeshi0-hash * Added **Metal (metallum)** renderer support for Minecraft 26.2 / 26.3 @yiyeshi0-hash * Added the **MobileGL / MobileGL-gles** renderers, and **SimpleFPEWrapper (sfpew)** to support **1.17 and below** (enable sfpew in the settings and pick **MobileGL-gles** as the renderer); also fixed MobileGlues crashes and black screens on 26.3 @yitenchen123 * Upgraded the built-in MobileGlues sources to upstream 2.0.x; the shader conversion chain no longer interferes with itself @yitenchen123 * Added two sets of **LWJGL runtime libraries (3.3.3 / 3.4.1)**, picked automatically by game version @yitenchen123 * Fixed **Forge / NeoForge direct install** issues: launcher being closed during install, crash right after install, and module conflicts @yiyeshi0-hash @yitenchen123 * Fixed OptiFine direct install, modpack import, and download source / mirror errors @yitenchen123 * Fixed **JIT** issues: enabling JIT (including using an external JIT) no longer crashes the launcher on start, plus a new JIT tool option @herbrine8403 @yiyeshi0-hash * Improved **memory usage**: larger memory limits are detected automatically, and crashes caused by background memory reclaim are reduced @herbrine8403 @yitenchen123 * Completed missing Simplified Chinese texts a",
+          "sha256": "4b7ef4e2f05069702157e4eb71a73bff24a2c2593c146c279513a33e691d4bae"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-4b7ef4e2f050.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
+        "checkedAt": "2026-10-06T19:41:09Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered"
+      },
+      "githubURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-air-devs-air-43f6ee0c",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
+        "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
+      }
+    },
+    {
       "name": "Skate 3",
       "bundleIdentifier": "com.nakas.skate3",
       "developerName": "Skate 3 Recompiled",
