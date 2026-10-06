@@ -1,6 +1,45 @@
 {
   "apps": [
     {
+      "name": "Factorio",
+      "bundleIdentifier": "pl.adrian.FactorioPad",
+      "developerName": "MyNameIsArko",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2026-10-06T19:15:28Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
+          "size": 2884063,
+          "buildVersion": "7",
+          "localizedDescription": "Another fix to make Factorio not use texture compression on unsupported devices Allow other factorio versions",
+          "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/pl.adrian.FactorioPad-f1da14c96d0e.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
+        "checkedAt": "2026-10-06T19:15:31Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad"
+      },
+      "githubURL": "https://github.com/MyNameIsArko/FactorioPad",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "pl-adrian-factoriopad-d630d10c",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad",
+        "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
+      }
+    },
+    {
       "name": "SM64CoopDX",
       "bundleIdentifier": "com.sm64coopdx.ios",
       "developerName": "LeoManrique",
