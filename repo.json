@@ -9,7 +9,7 @@
         "workflowPath" : ".github\/workflows\/update-app-uk-nouvborne-ketamine-d6fe07c8.yml"
       },
       "bundleIdentifier" : "uk.nouvborne.ketamine",
-      "category" : "Ports",
+      "category" : "Tools",
       "developerName" : "Nouvborne",
       "githubURL" : "https:\/\/github.com\/Nouvborne\/Ketamine",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/uk.nouvborne.ketamine-fe3c21ebaaeb.png",
@@ -17,7 +17,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/Nouvborne\/Ketamine"
       },
-      "localizedDescription" : "",
       "name" : "Ketamine",
       "status" : {
         "checkedAt" : "2026-10-06T19:43:35Z",
@@ -25,7 +24,6 @@
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
