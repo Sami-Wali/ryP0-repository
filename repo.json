@@ -232,7 +232,7 @@
     {
       "appType" : "Static",
       "bundleIdentifier" : "com.devz.sonic2006",
-      "category" : "Tools",
+      "category" : "Ports",
       "developerName" : "DevZer0D4Y",
       "githubURL" : "https:\/\/github.com\/DevZer0D4Y\/MarathonRecompilediOS",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.devz.sonic2006-344c83949a81.png",
@@ -240,7 +240,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/DevZer0D4Y\/MarathonRecompilediOS"
       },
-      "localizedDescription" : "",
       "name" : "Sonic (2006)",
       "status" : {
         "checkedAt" : "2026-10-06T19:05:37Z",
@@ -248,7 +247,6 @@
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "static",
       "versions" : [
         {
