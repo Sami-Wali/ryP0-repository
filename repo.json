@@ -300,9 +300,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "dev-playport-app-a376ed22",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/playportdev/playport",
+        "configId": "dev-playport-app-a376ed22",
+        "sourceURL": "https://github.com/playportdev/playport/releases/tag/v0.3.3",
         "workflowPath": ".github/workflows/update-app-dev-playport-app-a376ed22.yml"
       },
       "bundleIdentifier": "dev.playport.app",
@@ -318,21 +318,20 @@
       "name": "Playport",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.0/Playport-0.3.0.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.3/Playport-0.3.3.ipa",
+        "checkedAt": "2026-10-07T10:23:16Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-10-05T18:08:59Z",
-          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.0/Playport-0.3.0.ipa",
-          "localizedDescription": "# Playport 0.3.0: 32-bit games **32-bit Windows games now run on your iPhone.** Until now Playport ran only 64-bit games. 0.3.0 adds a full 32-bit runtime with Direct3D 9 graphics on Apple's GPU, and **Portal 2** is the first 32-bit game that plays: menus, test chambers, both portals, sound, controller, saves and Steam Cloud. Everything runs locally on a non-jailbroken iPhone: no streaming, no remake, no PC. ## Highlights ### 🧩 32-bit Windows games - 32-bit (x86) games run next to 64-bit ones, from the same Library and the same Play button. Nothing to set up. - iOS keeps the lowest 4 GB of memory to itself, which is exactly where a 32-bit game has to live. Playport gives each 32-bit game its own 4 GB window higher up and translates every memory access on the fly, so the game never notices. ### 🎨 Direct3D 9 on the iPhone's GPU, through KosmicKrisp - Direct3D 9 runs on DXVK, then Vulkan, then Metal through **KosmicKrisp**, Mesa's Vulkan driver for Apple GPUs, ported to iOS for Playport. - 32-bit games pick Vulkan automatically. Game options show \"Default · Vulkan\". - KosmicKrisp keeps its compiled shaders on disk, so the second launch of a game reuses them instead of compiling again. ### 🌀 Portal 2 - Plays at **about 60 FPS at 720p**. A 5-minute play with portals, tunnels, a death and a reload averaged 58.4 FPS. - A 95-minute session with saving and loading ran without a crash. After a long session the phone gets warm, and Portal 2 then runs at about 50 FPS. - Saves sync with Steam Cloud, so you can carry on where you left off on your PC. ### ⚡ Faster 32-bit games - x87 floating-point math, which older 32-bit games use heavily, now runs at the CPU's native 64-bit precision, as Valve's Proton does on ARM64. Portal 2's main thread does about 40 % less work and the CPU draws about 40 % less power, so the phone stays cooler and holds 60 FPS for longer. ## Fixes and improvements - Controllers work in games that bring their own copy of XInput (Portal 2 does). - Steam Cloud: Portal 2's saves upload again, and a file Steam refuses no longer stops the whole sync. - Games that ask for Tahoma show their text: Playport now ships fallback Tahoma fonts. - A new opening animation while your stores load, and a launch that dives into the game's art. The game then fades in at its own size. - A game's art fills the screen on its page and during its launch. ## Known limitations - Portal 2 is the only 32-bit game tested so far. Other 32-bit Direct3D 9 games use the same route, but expect rough edges. Please tell us how they run. - 32-bit games run only on Vulkan. Choosing DXMT for one, on its page or globally, stops it from starting. - Expect short hitches when a level loads and the first time you see a new effect. - In long sessions the iPhone heats up and lowers its clock speeds, and frame rates drop. ## Install Download `Playport-0.3.0.ipa` and sideload it with your own Apple ID, keeping the increased memory limit and the JIT helper extension. If you have an earlier version, install over it: your games, saves and Steam login stay. Bring your own games from Steam. The complete Corresponding Source of this exact build, the notices and the rebuild instructions are attached as `Playport-0.3.0-source.tar`, `NOTICES.tar` and `INSTALL-REBUILD.tar`. `SHA256SUMS` covers every file. Built on willfaust/Madeira. Playport is GPL-3.0-or-later; every component keeps its own licence. ## Checksums | File | sha256 | | --- | --- | | `Playport-0.3.0.ipa` | `f87e4450a5d9bf1dc50f6056db6c6fae2659c322f39e51d38877f632ad37955d` | | `Playport-0.3.0-source.tar` | `02f76539e83dffa933e83d049d3f490e855d9d7908faa0067bea4d3c7dfdb9e4` | Built from commit `89b399741c3dd4342d1184428a2f663776460e09`.",
-          "sha256": "f87e4450a5d9bf1dc50f6056db6c6fae2659c322f39e51d38877f632ad37955d",
-          "size": 661785133,
-          "version": "0.3.0"
+          "version": "v0.3.3",
+          "date": "2026-10-05T20:26:37Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.3/Playport-0.3.3.ipa",
+          "size": 662021812,
+          "sha256": "76d1aec2012de448607d464508586060af52b2ce5b50814e4461b00013808cc4",
+          "buildVersion": "1"
         }
       ]
     },
@@ -527,9 +526,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-willfaust-madeora-e97f8532",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/willfaust/Madeira/releases/tag/v0.1.1",
+        "configId": "com-willfaust-madeora-e97f8532",
+        "sourceURL": "https://github.com/willfaust/Madeira/releases/tag/v0.1.3",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -545,20 +544,20 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.1/Madeira-0.1.1.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.3/Madeira-0.1.3.ipa",
+        "checkedAt": "2026-10-07T10:22:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "2",
-          "date": "2026-10-02T08:54:31Z",
-          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.1/Madeira-0.1.1.ipa",
-          "sha256": "045aeb8fd4c71c2e6a78fb4511f94c56f8ed7af14c47a3b0ea2937a4fc8bfcee",
-          "size": 142473173,
-          "version": "v0.1.1"
+          "version": "v0.1.3",
+          "date": "2026-10-03T16:49:33Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.3/Madeira-0.1.3.ipa",
+          "size": 145554426,
+          "sha256": "71e900cbc140778bd6fa67c1062821981ed98e6bfb674d853cfeefd6d242e1c0",
+          "buildVersion": "4"
         }
       ]
     },
@@ -639,9 +638,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-mak5er-aircard-69cc17a8",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Mak5er/AirCard-iOS",
+        "configId": "com-mak5er-aircard-69cc17a8",
+        "sourceURL": "https://github.com/Mak5er/AirCard-iOS/releases/tag/v1.3.2",
         "workflowPath": ".github/workflows/update-app-com-mak5er-aircard-69cc17a8.yml"
       },
       "bundleIdentifier": "com.mak5er.aircard",
@@ -657,21 +656,20 @@
       "name": "AirCard-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa",
+        "checkedAt": "2026-10-07T10:22:01Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.3",
-          "date": "2026-10-01T06:51:20Z",
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa",
-          "localizedDescription": "## What's Changed in v1.3 > **Note**: AirCard-iOS currently supports **iOS 27.0 and newer (iOS 27+)**. ### PosterBoard Wallpapers (.tendies) • Added support for importing and unpacking `.tendies` wallpaper archives. • Automatic PosterBoard container detection and active descriptor UUID preservation. • Integrated instant WebKit NeoSpring respring right after flashing (no device reboot required). ### Apple Wallet & Passcode Theming • Added PDF artwork generation for transit passes (Suica, Pasmo, etc.). • Fixed keypad preview framing and TelephonyUI cache paths. • Cleaned up passcode number localization pickers. • Removed sluggish button glide animations when scanning cards and copying logs. ### UI & Quality of Life • Centered action buttons and removed misplaced list divider lines across all tabs. • Removed disruptive import and install alert popups in favor of clean inline status logs. • Cleaned up the VPN status bar and removed redundant text labels. • General repository cleanup and project modernization.",
-          "sha256": "c531991ef6c4df9a5bb530334eb0fc7bad5a58bc725cbc7326b5afca8fde9c6b",
-          "size": 4452235,
-          "version": "1.3"
+          "version": "v1.3.2",
+          "date": "2026-10-04T12:22:52Z",
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa",
+          "size": 4638147,
+          "sha256": "49aff0267546a2b27ad7eeef036c8af7f9b1d230fce0e92b24d7f6b97cfd7a86",
+          "buildVersion": "1.3.2"
         }
       ]
     },
@@ -789,9 +787,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.5.7-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -807,30 +805,29 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.5-beta/nuvio-0.5.5-full-release.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.7-beta/nuvio-0.5.7-full-release.ipa",
+        "checkedAt": "2026-10-07T10:21:40Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "137",
-          "date": "2026-10-01T06:41:09Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.5-beta/nuvio-0.5.5-full-release.ipa",
-          "localizedDescription": "- [feat(i18n): add Bengali (বাংলা) language support and UI localization (#2113)](https://github.com/NuvioMedia/NuvioMobile/pull/2113) @TanvirSdq - [i18n(el): sync Greek translations and remove remaining English loanwords (#2132)](https://github.com/NuvioMedia/NuvioMobile/pull/2132) @nosvasedis - [Landscape clearlogo toggle, Simkl type hint, TMDB source priority, folder TMDB ID resolution (#2084)](https://github.com/NuvioMedia/NuvioMobile/pull/2084) @skoruppa - [fix(UI): Fix hero section sometimes shifting (#2128)](https://github.com/NuvioMedia/NuvioMobile/pull/2128) @ThEgIGN - [fix(player): show the swipe-to-seek preview in the new player layout (#2122)](https://github.com/NuvioMedia/NuvioMobile/pull/2122) @deejay189393 - 6aa42153 fix(debrid): select requested episode files @tapframe - [i18n(vi): update latest Vietnamese strings (#2096)](https://github.com/NuvioMedia/NuvioMobile/pull/2096) @blueocean2308 - [Translation improvements and adjustments for Slovak language (#2104)](https://github.com/NuvioMedia/NuvioMobile/pull/2104) @mmsw91 - [fix(mdblist): show newest library additions first (#2103)](https://github.com/NuvioMedia/NuvioMobile/pull/2103) @halibiram",
-          "sha256": "ae4da6ce2738ea36e700b3774e0137dae5b0885d7d88ac46c6720b3be3c82433",
-          "size": 66647562,
-          "version": "0.5.5"
+          "version": "0.5.7-beta",
+          "date": "2026-10-06T15:14:54Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.7-beta/nuvio-0.5.7-full-release.ipa",
+          "size": 66836754,
+          "sha256": "12e380470a1ba1aab42709480aa08fe440f9171d3872a91fa9ff7f9a3de194fe",
+          "buildVersion": "139"
         }
       ]
     },
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/0.8.0",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -846,30 +843,29 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.1/Husk.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.0/Husk.ipa",
+        "checkedAt": "2026-10-07T10:21:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-10-01T06:37:14Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.1/Husk.ipa",
-          "localizedDescription": "## What's new - Hopefully fixed iOS 26 JIT not working",
-          "sha256": "b5d3d9d51f9408cf8279b46e2e40fd054f987412c4b63d09fb51fc65849b2504",
-          "size": 40275539,
-          "version": "0.4.0"
+          "version": "0.8.0",
+          "date": "2026-10-06T21:57:41Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.0/Husk.ipa",
+          "size": 46478895,
+          "sha256": "2d194c18d176fa140191e4dff9a3bf8def54b86abe057f8c6088360bee3c9e55",
+          "buildVersion": "27"
         }
       ]
     },
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/releases/tag/v0.2.0",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "bundleIdentifier": "software.iridium",
@@ -885,21 +881,20 @@
       "name": "Iridium",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/intraducine/iridium/releases/download/v0.1.1/Iridium-unsigned.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/intraducine/iridium/releases/download/v0.2.0/Iridium-unsigned.ipa",
+        "checkedAt": "2026-10-07T10:21:34Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "98.2",
-          "date": "2026-10-01T06:32:23Z",
-          "downloadURL": "https://github.com/intraducine/iridium/releases/download/v0.1.1/Iridium-unsigned.ipa",
-          "localizedDescription": "# Iridium 0.1.1 In standalone Iridium, you can now add games from its folder in Files without opening the file picker. This release also makes it easier to import a pairing file for built-in JIT. Game support remains experimental. ## Download **[Download Iridium (.ipa)](https://github.com/intraducine/iridium/releases/download/v0.1.1/Iridium-unsigned.ipa)** Requires **iOS or iPadOS 18+**, JIT, and your own game files. You only need the IPA to install. ## Install 1. Sign and install the IPA with a compatible sideloading tool, including its helper extension, or import it into LiveContainer. 2. Open Iridium and configure JIT in **Launch Support**. 3. Select **Add Game**, choose a game folder and executable, then press **Play**. Back up your saves before updating. Update the existing app or LiveContainer entry without deleting its data. ## What's new - **Add games without the file picker.** In standalone Iridium, put each game in its own folder under **On My iPhone/iPad → Iridium → Games**. Choose **Add Game → Find Games in Iridium Folder**, select the game, and confirm its executable. Iridium uses the files in that folder without copying them. - **Import a JIT pairing file from Files.** Put `pairingFile.plist` under **On My iPhone/iPad → Iridium → StikJIT**. Choose **Settings → Launch Support → Import Pairing File → Use File in Iridium Folder**. You can still choose a file directly. ## Known issues - Some games may fail to launch or have graphics, video, audio, or input problems. - Skyrim speech and mouse attack issues remain unverified in this build. - JIT and available memory depend on your device and signing setup; LiveContainer and standalone results can differ. <details> <summary>Source code, licenses, and build details</summary> ## Source and licenses The other release files are for source access, rebuilding, and download verification: - Download both `Iridium-corresponding-source.tar.gz.part01` and `.part02` for the complete matching source package. - `Iridium-source-guide.zip` contains license notices and build/relink instructions. - `SHA256SUMS` verifies all four files above, including the IPA. Download all five release files into one folder, then run: ```sh shasum -a 256 -c SHA256SUMS cat Iridium-corresponding-source.tar.gz.part01 Iridium-corresponding-source.tar.gz.part02 > Iridium-corresponding-source.tar.gz ``` The source guide includes the checksum for the assembled archive and rebuild instructions. GitHub's automatic repository ZIP does not contain all required dependency sources. Source commit: bc5c30fc442f429e8be9001549300160a0934372 Build run: https://github.com/intraducine/iridium/actions/runs/36504918645 App and helper version: **0.1.1 (98.2)**. Source checks, build, and unsigned-package checks passed. These checks do not establish compatibility with every game or device. Apple compiler-runtime notice uncertainty and unsigned-IPA contractual authorization remain documented risks. See the license guide in `Iridium-source-guide.zip`. </details>",
-          "sha256": "5b50713e54b39ff05f0002c986cacf863b03bffad85233a40df28b1a6c65fb98",
-          "size": 415260196,
-          "version": "0.1.1"
+          "version": "v0.2.0",
+          "date": "2026-10-04T01:35:19Z",
+          "downloadURL": "https://github.com/intraducine/iridium/releases/download/v0.2.0/Iridium-unsigned.ipa",
+          "size": 399916792,
+          "sha256": "1934922a1fcf1509e305a29d6f0d26579a4318ba95dfcf5b406d5e38f88c9763",
+          "buildVersion": "115.1"
         }
       ]
     },
@@ -1074,21 +1069,21 @@
       "name": "LA PEASEE",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.01.1012-c11f94ad51bc.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.07.1019-a0ffd94154cc.ipa",
+        "checkedAt": "2026-10-07T10:19:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
       "tintColor": "#9649B8",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.0",
-          "date": "2026-10-01T10:12:08Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.01.1012-c11f94ad51bc.ipa",
-          "sha256": "c11f94ad51bc97abf85466e18a8a78fbd06437f39cba0c271eac3d10461f6438",
-          "size": 191971554,
-          "version": "2026.10.01.1012"
+          "version": "2026.10.07.1019",
+          "date": "2026-10-07T10:19:29Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.07.1019-a0ffd94154cc.ipa",
+          "size": 191971739,
+          "sha256": "a0ffd94154cc2d299418e290cc80a949a26459dc8a641a9b6798567a32603f39",
+          "buildVersion": "1.0"
         }
       ]
     },
@@ -1784,9 +1779,9 @@
     },
     {
       "automation": {
-        "configId": "sideinstaller",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.2.1",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.3.1",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -1796,13 +1791,21 @@
       "name": "SideInstaller",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.1-9d7f69c23d99.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.1-de6175558542.ipa",
+        "checkedAt": "2026-10-07T10:21:01Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.3.1",
+          "date": "2026-10-06T16:24:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.1-de6175558542.ipa",
+          "size": 8901679,
+          "sha256": "de6175558542925627d9606dac27f63903bc05074b2f348fc268aca23b92a05d",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "2",
           "date": "2026-09-30T16:30:57Z",
@@ -1975,9 +1978,9 @@
         ]
       },
       "automation": {
-        "configId": "armsx2-stable",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/iOSv2.5.2",
+        "configId": "armsx2-stable",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/iOSv2.6.0",
         "workflowPath": ".github/workflows/update-app-armsx2-stable.yml"
       },
       "bundleIdentifier": "com.armsx2.stable",
@@ -1987,13 +1990,21 @@
       "name": "ARMSX2 (Stable)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
+        "checkedAt": "2026-10-07T10:19:30Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "iOSv2.6.0",
+          "date": "2026-10-04T11:33:37Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
+          "size": 39142823,
+          "sha256": "86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0",
+          "buildVersion": "260"
+        },
         {
           "buildVersion": "252",
           "date": "2026-08-06T15:35:28Z",
@@ -2032,8 +2043,7 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.19-205878787154.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
+        "checkedAt": "2026-10-07T10:19:37Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "tintColor": "#1B1280",
@@ -2091,9 +2101,9 @@
     },
     {
       "automation": {
-        "configId": "jessi",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1",
+        "configId": "jessi",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1.2",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -2103,13 +2113,21 @@
       "name": "JESSI",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
-        "checkedAt": "2026-10-07T06:18:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
+        "checkedAt": "2026-10-07T10:19:57Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-10-06T07:25:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
+          "size": 12168815,
+          "sha256": "0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-09-30T04:55:55Z",
