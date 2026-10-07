@@ -1114,14 +1114,22 @@
       "localizedDescription": "Nintendo Switch emulator for iOS. Auto-updated to the latest build.",
       "name": "MeloNX",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-27e57f50aba0.ipa",
-        "checkedAt": "2026-10-06T22:45:03Z",
-        "message": "Private updater: The upstream API did not return usable JSON."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-c862d86abac5.ipa",
+        "checkedAt": "2026-10-07T05:34:25Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#f8566f",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-10-02T09:11:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-c862d86abac5.ipa",
+          "size": 48808901,
+          "sha256": "c862d86abac5bb0d3954a8b1c158745840df99ff017d4a727638ea99519bad8b",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-08-26T14:52:25Z",
