@@ -1104,7 +1104,7 @@
       "automation": {
         "configId": "melonx",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://starforgejo.dev/projects/MeloNX/releases/tag/2.6",
+        "sourceURL": "https://starforgejo.dev/projects/MeloNX",
         "workflowPath": ".github/workflows/update-app-melonx.yml"
       },
       "bundleIdentifier": "com.stossy11.MelonNX",
