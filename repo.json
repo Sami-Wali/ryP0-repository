@@ -2060,7 +2060,7 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-08T16:38:30Z",
+        "checkedAt": "2026-10-08T17:43:36Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "tintColor": "#1B1280",
