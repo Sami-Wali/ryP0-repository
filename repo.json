@@ -117,9 +117,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "pl-adrian-factoriopad-d630d10c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad",
+        "configId": "pl-adrian-factoriopad-d630d10c",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.1.2",
         "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
       },
       "bundleIdentifier": "pl.adrian.FactorioPad",
@@ -135,21 +135,20 @@
       "name": "Factorio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
-        "checkedAt": "2026-10-08T06:28:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.2/FactorioPad-template.ipa",
+        "checkedAt": "2026-10-08T10:43:13Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "7",
-          "date": "2026-10-06T19:15:28Z",
-          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
-          "localizedDescription": "Another fix to make Factorio not use texture compression on unsupported devices Allow other factorio versions",
-          "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03",
-          "size": 2884063,
-          "version": "2.1.1"
+          "version": "v2.1.2",
+          "date": "2026-10-07T15:30:40Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.2/FactorioPad-template.ipa",
+          "size": 2884088,
+          "sha256": "2758e5dbfd52b83a67df1e040499fd8b28dbab81c2860b77a065246352a961a6",
+          "buildVersion": "8"
         }
       ]
     },
@@ -825,9 +824,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/0.8.0",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/0.9.0",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -843,20 +842,20 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.0/Husk.ipa",
-        "checkedAt": "2026-10-08T06:28:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/0.9.0/Husk.ipa",
+        "checkedAt": "2026-10-08T10:41:11Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "27",
-          "date": "2026-10-06T21:57:41Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.0/Husk.ipa",
-          "sha256": "2d194c18d176fa140191e4dff9a3bf8def54b86abe057f8c6088360bee3c9e55",
-          "size": 46478895,
-          "version": "0.8.0"
+          "version": "0.9.0",
+          "date": "2026-10-07T22:40:27Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.9.0/Husk.ipa",
+          "size": 46958334,
+          "sha256": "9482b76aad39898683e1f2edbb74c631c998aed6ac9968dba6f43f5811ea73f5",
+          "buildVersion": "38"
         }
       ]
     },
@@ -1069,21 +1068,21 @@
       "name": "LA PEASEE",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.07.1019-a0ffd94154cc.ipa",
-        "checkedAt": "2026-10-08T06:28:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.08.1039-9e934826b921.ipa",
+        "checkedAt": "2026-10-08T10:39:26Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
       "tintColor": "#9649B8",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.0",
-          "date": "2026-10-07T10:19:29Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.07.1019-a0ffd94154cc.ipa",
-          "sha256": "a0ffd94154cc2d299418e290cc80a949a26459dc8a641a9b6798567a32603f39",
-          "size": 191971739,
-          "version": "2026.10.07.1019"
+          "version": "2026.10.08.1039",
+          "date": "2026-10-08T10:39:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-2026.10.08.1039-9e934826b921.ipa",
+          "size": 191972732,
+          "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
+          "buildVersion": "1.0"
         }
       ]
     },
@@ -2043,8 +2042,7 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.19-205878787154.ipa",
-        "checkedAt": "2026-10-08T06:28:45Z",
+        "checkedAt": "2026-10-08T10:39:06Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "tintColor": "#1B1280",
