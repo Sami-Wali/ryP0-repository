@@ -299,9 +299,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "dev-playport-app-a376ed22",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/playportdev/playport/releases/tag/v0.3.3",
+        "configId": "dev-playport-app-a376ed22",
+        "sourceURL": "https://github.com/playportdev/playport/releases/tag/v0.4.0",
         "workflowPath": ".github/workflows/update-app-dev-playport-app-a376ed22.yml"
       },
       "bundleIdentifier": "dev.playport.app",
@@ -317,20 +317,20 @@
       "name": "Playport",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.3/Playport-0.3.3.ipa",
-        "checkedAt": "2026-10-08T06:28:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
+        "checkedAt": "2026-10-08T13:38:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-10-05T20:26:37Z",
-          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.3/Playport-0.3.3.ipa",
-          "sha256": "76d1aec2012de448607d464508586060af52b2ce5b50814e4461b00013808cc4",
-          "size": 662021812,
-          "version": "v0.3.3"
+          "version": "v0.4.0",
+          "date": "2026-10-08T13:31:08Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
+          "size": 672450129,
+          "sha256": "dbeed0312025637a52c4c9493d6ec5d37008016cc5c9edeba5165ca8883df9c3",
+          "buildVersion": "1"
         }
       ]
     },
