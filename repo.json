@@ -2750,9 +2750,9 @@
         ]
       },
       "automation": {
-        "configId": "armsx2-nightly",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20260919",
+        "configId": "armsx2-nightly",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261008",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "bundleIdentifier": "com.armsx2.nightly",
@@ -2762,13 +2762,24 @@
       "name": "ARMSX2 (Nightly)",
       "localizedDescription": "Nightly builds from 8 Oct 2026 use a new iOS app identifier and install alongside older ARMSX2 iOS nightlies. Copy your saves to ARMSX2 Nightly with the Files app.",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-08T17:43:36Z",
-        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.08-f03d92a0f503.ipa",
+        "checkedAt": "2026-10-08T17:56:51Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "Nightly-2026.10.08",
+          "date": "2026-10-08T16:13:44Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.08-f03d92a0f503.ipa",
+          "size": 39479574,
+          "sha256": "f03d92a0f503af1a80c936053af3c93bfff66f66201551ebc52c11db1fe3dede",
+          "ipaBundleIdentifier": "com.armsx2.ios.nightly",
+          "releaseChannel": "nightly",
+          "buildVersion": "260"
+        },
         {
           "buildVersion": "253",
           "date": "2026-09-19T12:51:22Z",
