@@ -2760,6 +2760,7 @@
       "developerName": "ARMSX2",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
       "name": "ARMSX2 (Nightly)",
+      "localizedDescription": "Nightly builds from 8 Oct 2026 use a new iOS app identifier and install alongside older ARMSX2 iOS nightlies. Copy your saves to ARMSX2 Nightly with the Files app.",
       "status": {
         "state": "update-error",
         "checkedAt": "2026-10-08T17:43:36Z",
@@ -2772,6 +2773,7 @@
           "buildVersion": "253",
           "date": "2026-09-19T12:51:22Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.19-205878787154.ipa",
+          "ipaBundleIdentifier": "com.armsx2.ios",
           "size": 30493138,
           "version": "Nightly-2026.09.19"
         },
