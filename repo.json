@@ -35,6 +35,24 @@
           "size": 21102348,
           "version": "1.2.1",
           "releaseChannel": "release"
+        },
+        {
+          "version": "1.2",
+          "date": "2026-08-24T14:08:59Z",
+          "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2/Ketamine-1.2.ipa",
+          "size": 21061151,
+          "sha256": "2cd4f1f7d97050ad453ff41e7b49c1a3470d12b2821efed6dda64ab06e4ffa84",
+          "releaseChannel": "release",
+          "buildVersion": "4"
+        },
+        {
+          "version": "1.0",
+          "date": "2026-08-11T09:20:21Z",
+          "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.0/Ketamine-1.0.ipa",
+          "size": 4014319,
+          "sha256": "20741675d4754cc86d749508aab7a3f67133df5eeca94a464ec18a83a70716b5",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -74,6 +92,15 @@
           "size": 219197659,
           "version": "6.0.0",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v5.1.0",
+          "date": "2026-09-19T14:10:47Z",
+          "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v5.1.0/AngelAuraAmethyst-5.1.0.ipa",
+          "size": 217525541,
+          "sha256": "8935555fd8b0e1979ba656f95ac8b4eb3c5fbb00ea0f6e49727e1a967e7652bd",
+          "releaseChannel": "release",
+          "buildVersion": "5.1.0"
         }
       ]
     },
@@ -114,6 +141,42 @@
           "size": 33581505,
           "version": "2.7.1",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v2.6.3",
+          "date": "2026-09-21T01:24:29Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.6.3/skate3.ipa",
+          "size": 33525964,
+          "sha256": "22a0b2bcdae6c5022751be940f2cca874fd8b59e5058834f47c4e7751482d3f9",
+          "releaseChannel": "release",
+          "buildVersion": "2.6.3"
+        },
+        {
+          "version": "v2.6.0",
+          "date": "2026-09-03T21:55:12Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.6.0/skate3.ipa",
+          "size": 31844228,
+          "sha256": "a55a561b6a0e1bdc73aa05a34f5a76641cc14f5d606761210ee611bfc2552b77",
+          "releaseChannel": "release",
+          "buildVersion": "2.6.0"
+        },
+        {
+          "version": "v2.5.0",
+          "date": "2026-08-30T04:24:52Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.5.0/skate3.ipa",
+          "size": 31823931,
+          "sha256": "0564943ca8ad62302c22571241591e4a454b08d8cefeda2c57a7f6bbcd26b66e",
+          "releaseChannel": "release",
+          "buildVersion": "2.5.0"
+        },
+        {
+          "version": "v2.4.0",
+          "date": "2026-08-28T04:23:01Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.4.0/skate3.ipa",
+          "size": 31797033,
+          "sha256": "fcd4e6c811c34bb98f1322e53350acc1baff182ab91a1bddfc8712c2bf437bc9",
+          "releaseChannel": "release",
+          "buildVersion": "2.4.0"
         }
       ]
     },
@@ -153,6 +216,69 @@
           "sha256": "2758e5dbfd52b83a67df1e040499fd8b28dbab81c2860b77a065246352a961a6",
           "buildVersion": "8",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v2.1.1",
+          "date": "2026-10-06T16:07:02Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
+          "size": 2884063,
+          "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03",
+          "releaseChannel": "release",
+          "buildVersion": "7"
+        },
+        {
+          "version": "v2.1",
+          "date": "2026-10-05T19:51:07Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1/FactorioPad-template.ipa",
+          "size": 2884327,
+          "sha256": "ca18577b9d1e33f9e1f208bf1b964e24c92f5f33883234f77ae3621df72b4881",
+          "releaseChannel": "release",
+          "buildVersion": "6"
+        },
+        {
+          "version": "v2.0.4",
+          "date": "2026-10-05T15:24:41Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.4/FactorioPad-template.ipa",
+          "size": 2885290,
+          "sha256": "f6c063cd6081691d5aafb18b07ea9d4f39cacb05138152571dadafdd7d7d7b0c",
+          "releaseChannel": "release",
+          "buildVersion": "5"
+        },
+        {
+          "version": "v2.0.3",
+          "date": "2026-10-04T08:13:04Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.3/FactorioPad-template.ipa",
+          "size": 2876626,
+          "sha256": "a395d231620ddf111b8a0cb6d1b461a26f2bc6b0b5021c0a5329d1b1c5b8f5f1",
+          "releaseChannel": "release",
+          "buildVersion": "5"
+        },
+        {
+          "version": "v2.0.2",
+          "date": "2026-10-03T21:21:19Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.2/FactorioPad-template.ipa",
+          "size": 2873939,
+          "sha256": "ef638a74b8fe074777e2d0876c2cbf3fb160d9ed2c340cd77ad941b6f3eda875",
+          "releaseChannel": "release",
+          "buildVersion": "4"
+        },
+        {
+          "version": "v2.0.1",
+          "date": "2026-10-03T19:27:38Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.1/FactorioPad-template.ipa",
+          "size": 2865743,
+          "sha256": "32fed069e5d33113efe68e3c31bb332b4018a02629108cbeea6b03ba86c91529",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
+        {
+          "version": "v2.0.0",
+          "date": "2026-10-03T16:24:01Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.0/FactorioPad-template.ipa",
+          "size": 2864184,
+          "sha256": "8cbc8fd543fff90469066c5920ffa74c0d717aaaf38ae3ff43354da7534db0f0",
+          "releaseChannel": "release",
+          "buildVersion": "2"
         }
       ]
     },
@@ -191,6 +317,105 @@
           "size": 9790397,
           "version": "151.1.0",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v151.0.1",
+          "date": "2026-07-27T23:02:02Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.0.1/sm64coopdx.ipa",
+          "size": 9781023,
+          "sha256": "6f1dc010e188f558c4c0135af145085db3fa4ab7e38779dd801b87300e531816",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v151.0.0",
+          "date": "2026-06-02T00:22:27Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.0.0/sm64coopdx.ipa",
+          "size": 9801794,
+          "sha256": "0ad67f836463c96050e83f4f5c20eb7c6537a424292f915e9f560edb3a00bbe9",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v150.0.0",
+          "date": "2026-05-31T21:21:03Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v150.0.0/sm64coopdx.ipa",
+          "size": 9800641,
+          "sha256": "6d083176aff752381d30045d155aeefaafe0e56638e3f4705da6b4474e16e036",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v141.1.1",
+          "date": "2026-04-18T14:48:49Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v141.1.1/sm64coopdx.ipa",
+          "size": 9693701,
+          "sha256": "e41a6f8ff9d8020d9822a36766cc7f5a1f1b7fd3d5b1474a8f788304e649ce9d",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v141.1.0",
+          "date": "2026-04-15T13:59:33Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v141.1.0/sm64coopdx.ipa",
+          "size": 9693665,
+          "sha256": "0cd9eab3eeb651eddba8dfc1017a4c5bf9e60835b1de143f934a98ec45c0745b",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.3.1",
+          "date": "2026-04-12T13:47:01Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.3.1/sm64coopdx.ipa",
+          "size": 9695015,
+          "sha256": "c3c4f412f068a070e93df5743ab841502197d421bd1baba108f99224dc523518",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.3.0",
+          "date": "2026-04-12T03:37:03Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.3.0/sm64coopdx.ipa",
+          "size": 9694978,
+          "sha256": "76f853ecad22caf2d95281c244c41059baa18528d1f4a9db7d2846234c51a629",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "1.2.1",
+          "date": "2026-03-31T14:51:23Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/1.2.1/sm64coopdx.ipa",
+          "size": 9684133,
+          "sha256": "bd9e6af71061d12d1df96adc558dc79fd3da38cb44509abb6df5fc47eddb81ff",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "1.2.0",
+          "date": "2026-03-30T10:42:36Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/1.2.0/sm64coopdx.ipa",
+          "size": 9683528,
+          "sha256": "5d8478869980d028a12857b0dd13cb7ca21dc54d8fa88ba5c487688111134add",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.2.0",
+          "date": "2026-03-16T22:46:21Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.2.0/sm64coopdx.ipa",
+          "size": 9683065,
+          "sha256": "b8fe9c46aa00a7415bea13e21929b28a0eb7ffbe151e08f5b476f8de1a5e6572",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.1.2",
+          "date": "2026-03-16T08:25:10Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.1.2/sm64coopdx.ipa",
+          "size": 9684664,
+          "sha256": "1338f4ca23294dfce1db5b34a5d1e0767313ac2910da7369085595ea4c444263",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -231,6 +456,24 @@
           "size": 15741134,
           "version": "0.2.2",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v0.2.1",
+          "date": "2026-09-30T20:43:00Z",
+          "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.1/MeleePad-v0.2.1-ios-unsigned.ipa",
+          "size": 15739652,
+          "sha256": "91201954d5b396246c1d25df750e79fab17647124b0f2fbde99353efb1415a92",
+          "releaseChannel": "release",
+          "buildVersion": "31"
+        },
+        {
+          "version": "v0.2.0",
+          "date": "2026-09-29T22:59:20Z",
+          "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.0/MeleePad-v0.2.0-ios-unsigned.ipa",
+          "size": 15739487,
+          "sha256": "53a486447725de1c5832a1359f47b5ace354aa1ea65c3c89063f1506c0350f65",
+          "releaseChannel": "release",
+          "buildVersion": "30"
         }
       ]
     },
@@ -339,6 +582,60 @@
           "sha256": "dbeed0312025637a52c4c9493d6ec5d37008016cc5c9edeba5165ca8883df9c3",
           "buildVersion": "1",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v0.3.3",
+          "date": "2026-10-05T20:29:19Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.3/Playport-0.3.3.ipa",
+          "size": 662021812,
+          "sha256": "76d1aec2012de448607d464508586060af52b2ce5b50814e4461b00013808cc4",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.3.2",
+          "date": "2026-10-05T19:14:12Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.2/Playport-0.3.2.ipa",
+          "size": 661948788,
+          "sha256": "241150cf48bd4363462dcb1f3bb56afa48e3e4672e9785f8919db0b3d70ea90f",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.3.1",
+          "date": "2026-10-05T19:11:36Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.1/Playport-0.3.1.ipa",
+          "size": 661841725,
+          "sha256": "4f9f3d5133b99c35d675e41e9c5c51ffbc515df3a5f30a591ad739f3b209c3af",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.3.0",
+          "date": "2026-10-05T10:57:40Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.3.0/Playport-0.3.0.ipa",
+          "size": 661785133,
+          "sha256": "f87e4450a5d9bf1dc50f6056db6c6fae2659c322f39e51d38877f632ad37955d",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.2.0",
+          "date": "2026-10-02T19:56:26Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.2.0/Playport-0.2.0.ipa",
+          "size": 455838194,
+          "sha256": "8fe53761fd5b2c1a0b189f670356fbcf80bdeb0131c7307e6942be5bbfb58acb",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-10-02T09:18:28Z",
+          "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.1.0/Playport-0.1.0.ipa",
+          "size": 455435522,
+          "sha256": "610e209a3a2a3c496ed35828a677244151cb14c62348f4d4428b0c74c764ed16",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -379,6 +676,42 @@
           "size": 111250101,
           "version": "0.11.4",
           "releaseChannel": "beta"
+        },
+        {
+          "version": "0.11.3.1",
+          "date": "2026-08-26T21:59:38Z",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.3.1/Nyxian.ipa",
+          "size": 105810643,
+          "sha256": "f85c9cf007d96a6d2b059aede013b4c66559f64ac7a20153693b4ca625ed374c",
+          "releaseChannel": "beta",
+          "buildVersion": "20260826.307.RELEASE"
+        },
+        {
+          "version": "0.11.3",
+          "date": "2026-08-26T15:53:27Z",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.3/Nyxian.ipa",
+          "size": 105809283,
+          "sha256": "32984de3cdf79d4f386fc3b3cb4fe30d1204447f1be40eb700a999f5379066ce",
+          "releaseChannel": "beta",
+          "buildVersion": "20260826.278.RELEASE"
+        },
+        {
+          "version": "0.11.2",
+          "date": "2026-08-17T20:21:19Z",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.2/Nyxian.ipa",
+          "size": 105785852,
+          "sha256": "c7d62a9a05a10baa5a87e7ed3929f7c5dacafacac6a84946393ff9ace778474b",
+          "releaseChannel": "beta",
+          "buildVersion": "20260817.249.RELEASE"
+        },
+        {
+          "version": "0.11.1",
+          "date": "2026-08-13T21:49:16Z",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.1/Nyxian.ipa",
+          "size": 105848138,
+          "sha256": "eccb7bfeb60d80214f61bd4cb0607e79fc81c2cd211eb84f786fccd59339b7d5",
+          "releaseChannel": "beta",
+          "buildVersion": "20260813.30.RELEASE"
         }
       ]
     },
@@ -567,6 +900,33 @@
           "size": 145554426,
           "version": "v0.1.3",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v0.1.2",
+          "date": "2026-10-03T05:43:06Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.2/Madeira-0.1.2.ipa",
+          "size": 142471753,
+          "sha256": "ed1cd1fdb5e93a33d0f4584f74d04519ace8f39791eb4129487c8f36ff2e3815",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
+        {
+          "version": "v0.1.1",
+          "date": "2026-10-02T08:54:33Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.1/Madeira-0.1.1.ipa",
+          "size": 142473173,
+          "sha256": "045aeb8fd4c71c2e6a78fb4511f94c56f8ed7af14c47a3b0ea2937a4fc8bfcee",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-10-01T08:46:35Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.0/Madeira-0.1.0.ipa",
+          "size": 142433883,
+          "sha256": "29054bb5d167382f004ba3ae04d3995e31070e67f4c0acf7eb4f180280f93335",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -605,6 +965,15 @@
           "size": 27602175,
           "version": "1.1",
           "releaseChannel": "release"
+        },
+        {
+          "version": "R1",
+          "date": "2026-09-13T05:51:10Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R1/MCX360Edition.ipa",
+          "size": 28067835,
+          "sha256": "9d17eedf77bb200b97ca2dc3931c9096eb5063f14ce2d3935bb59fa5e4150596",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -682,6 +1051,33 @@
           "size": 4638147,
           "version": "v1.3.2",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v1.3.1",
+          "date": "2026-10-01T23:01:18Z",
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa",
+          "size": 4597510,
+          "sha256": "3fe8c922f8f3512a016e6961b4a94807b74e2634fa4ea9de1029d82191ee07d0",
+          "releaseChannel": "release",
+          "buildVersion": "1.3.1"
+        },
+        {
+          "version": "v1.3",
+          "date": "2026-09-20T02:08:32Z",
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa",
+          "size": 4452235,
+          "sha256": "c531991ef6c4df9a5bb530334eb0fc7bad5a58bc725cbc7326b5afca8fde9c6b",
+          "releaseChannel": "release",
+          "buildVersion": "1.3"
+        },
+        {
+          "version": "v1.2.5",
+          "date": "2026-09-19T22:19:08Z",
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa",
+          "size": 4180858,
+          "sha256": "8a36aef779a7f2ce18aa0e7e5ab3596b1ebe5be3f3f0376fc7bff5173f36acb6",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -722,6 +1118,42 @@
           "size": 67644766,
           "version": "beta.0.2.7",
           "releaseChannel": "beta"
+        },
+        {
+          "version": "v0.2.6-beta",
+          "date": "2026-08-29T21:52:54Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.6-beta/PSX3IOS-beta.0.2.6-unsigned.ipa",
+          "size": 67623829,
+          "sha256": "6c1357d9d85a32a34b856e9a7aa3cf64dabac2cdef3de7fb34cac437bcf3f250",
+          "releaseChannel": "beta",
+          "buildVersion": "202608300148"
+        },
+        {
+          "version": "v0.2.5-beta",
+          "date": "2026-08-24T23:07:50Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.5-beta/PSX3IOS-beta.0.5-unsigned.ipa",
+          "size": 67584625,
+          "sha256": "0cabe9139284b7c9d7231598a7b4e1ff9e90749d488c393c5e3074a2edb9b45e",
+          "releaseChannel": "beta",
+          "buildVersion": "202608241456"
+        },
+        {
+          "version": "v0.2.3-beta",
+          "date": "2026-08-23T03:07:31Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.3-beta/PSX3IOS-beta.0.3-unsigned.ipa",
+          "size": 67578508,
+          "sha256": "5f8b9246a5f89be9fd3a999cb7e69ac1ec4ccb30d7f37c732f16121d76ade17c",
+          "releaseChannel": "beta",
+          "buildVersion": "202608221857"
+        },
+        {
+          "version": "v0.2.0-beta",
+          "date": "2026-08-22T20:34:55Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.0-beta/PSX3IOS-beta.0.2-unsigned.ipa",
+          "size": 67578507,
+          "sha256": "c32eed5bf99b707317054ad56a129cd93f9a6cd678bbd1a177d3839b995b931e",
+          "releaseChannel": "beta",
+          "buildVersion": "202608221250"
         }
       ]
     },
@@ -795,6 +1227,60 @@
           "size": 20345841,
           "version": "1.0.2",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v1.0.1",
+          "date": "2026-06-08T03:25:57Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.1/DukeX.v1.0.1.ipa",
+          "size": 31683375,
+          "sha256": "071caf4b30289f9b67b0758ebc645e61e8304162b852a2270a9c495e6fb10354",
+          "releaseChannel": "release",
+          "buildVersion": "101"
+        },
+        {
+          "version": "v1.0.0",
+          "date": "2026-05-18T17:04:44Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.0/DukeX.v1.0.0.ipa",
+          "size": 14406551,
+          "sha256": "aa561df3a8607dfebce04d23cabdab25abad6eac198e045def3d8a643874fdff",
+          "releaseChannel": "release",
+          "buildVersion": "100"
+        },
+        {
+          "version": "v0.1.5",
+          "date": "2026-05-17T04:53:52Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.5/DukeX.Alpha.Build.v0.1.5.ipa",
+          "size": 14380846,
+          "sha256": "c58ac73b1511af754fbfd0d0fb825ab486934b06cb4630540f9a253490025d0f",
+          "releaseChannel": "alpha",
+          "buildVersion": "15"
+        },
+        {
+          "version": "v0.1.4",
+          "date": "2026-05-16T03:56:46Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.4/DukeX.Alpha.Build.v0.1.4.ipa",
+          "size": 12926956,
+          "sha256": "969999e6c371da539fb072ce81835393cbdfdfb6914bf9d962c23a9d1af45892",
+          "releaseChannel": "alpha",
+          "buildVersion": "14"
+        },
+        {
+          "version": "v0.1.3",
+          "date": "2026-05-16T00:31:39Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.3/DukeX.Alpha.Build.v0.1.3.ipa",
+          "size": 12926996,
+          "sha256": "ebf97aeddbf5b4cf2af06d20a786e9771e05fc5cfb9d3a49be57bf359db6c14b",
+          "releaseChannel": "alpha",
+          "buildVersion": "13"
+        },
+        {
+          "version": "v0.1.2",
+          "date": "2026-05-16T00:13:02Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.2/DukeX.Alpha.Build.v0.1.2.ipa",
+          "size": 12921574,
+          "sha256": "b7f3f1e7f3a0a50f78f46c666f5326c7a2b60212c84503076735f255ed255f16",
+          "releaseChannel": "alpha",
+          "buildVersion": "12"
         }
       ]
     },
@@ -834,6 +1320,105 @@
           "size": 66836754,
           "version": "0.5.7-beta",
           "releaseChannel": "beta"
+        },
+        {
+          "version": "0.5.6-beta",
+          "date": "2026-10-02T12:45:05Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.6-beta/nuvio-0.5.6-full-release.ipa",
+          "size": 66690752,
+          "sha256": "503a38bb00d29c05d4d6b89443faf9c5004fbd0cd6496e177e0cb1b4dcd0ce4c",
+          "releaseChannel": "beta",
+          "buildVersion": "138"
+        },
+        {
+          "version": "0.5.5-beta",
+          "date": "2026-09-30T19:22:54Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.5-beta/nuvio-0.5.5-full-release.ipa",
+          "size": 66647562,
+          "sha256": "ae4da6ce2738ea36e700b3774e0137dae5b0885d7d88ac46c6720b3be3c82433",
+          "releaseChannel": "beta",
+          "buildVersion": "137"
+        },
+        {
+          "version": "0.5.4-beta",
+          "date": "2026-09-28T09:23:38Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.4-beta/nuvio-0.5.4-full-release.ipa",
+          "size": 66389579,
+          "sha256": "f605463d51f304564833e82a2fc1478a326c2bea7fa15519d99e854eebb50b94",
+          "releaseChannel": "beta",
+          "buildVersion": "136"
+        },
+        {
+          "version": "0.5.3-beta",
+          "date": "2026-09-27T01:18:47Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.3-beta/nuvio-0.5.3-full-release.ipa",
+          "size": 66299682,
+          "sha256": "7ee79b969d904893f3656ab99de0f9611fb9b70141c72f8094d4c04d74f4a72a",
+          "releaseChannel": "beta",
+          "buildVersion": "135"
+        },
+        {
+          "version": "0.5.2-beta",
+          "date": "2026-09-25T18:03:57Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.2-beta/nuvio-0.5.2-full-release.ipa",
+          "size": 66138236,
+          "sha256": "8fec187194082829268c41c0ba468aa3fc47accd4e178e65f8cc49188f3e9dae",
+          "releaseChannel": "beta",
+          "buildVersion": "134"
+        },
+        {
+          "version": "0.5.1-beta",
+          "date": "2026-09-23T06:37:37Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.1-beta/nuvio-0.5.1-full-release.ipa",
+          "size": 66042992,
+          "sha256": "801bb9d82efddbc0698ce92a4a8e6a741209b40bf5e7b6053d33a68b81d905fc",
+          "releaseChannel": "beta",
+          "buildVersion": "133"
+        },
+        {
+          "version": "0.5.0-beta",
+          "date": "2026-09-22T10:10:10Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.0-beta/nuvio-0.5.0-full-release.ipa",
+          "size": 66006978,
+          "sha256": "14cc46e4098e4568e2e20a86a8b5dc7dba3da7e28ab7567972338fba460421ef",
+          "releaseChannel": "beta",
+          "buildVersion": "132"
+        },
+        {
+          "version": "0.4.26-beta",
+          "date": "2026-09-21T09:49:45Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.26-beta/nuvio-0.4.26-full-release.ipa",
+          "size": 65234840,
+          "sha256": "50bb70d89a4201070840b7530ea730e1bf2c603c72a1bdfed48126740d6dde07",
+          "releaseChannel": "beta",
+          "buildVersion": "131"
+        },
+        {
+          "version": "0.4.25-beta",
+          "date": "2026-09-19T15:15:17Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.25-beta/nuvio-0.4.25-full-release.ipa",
+          "size": 65152407,
+          "sha256": "794c90209bc4ae414bf97576257e045696bb8b3be1e385c981f84de897340626",
+          "releaseChannel": "beta",
+          "buildVersion": "130"
+        },
+        {
+          "version": "0.4.23-beta",
+          "date": "2026-09-17T09:40:44Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.23-beta/nuvio-0.4.23-full-release.ipa",
+          "size": 51420909,
+          "sha256": "5b47a730e6467ca18baf39ee2ef589714761fdb4d0ff5b2040800a8c994c1e40",
+          "releaseChannel": "beta",
+          "buildVersion": "128"
+        },
+        {
+          "version": "0.4.22-beta",
+          "date": "2026-09-16T11:00:33Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.22-beta/nuvio-0.4.22-full-release.ipa",
+          "size": 51383038,
+          "sha256": "eab72aed2dc126a01366eae0c9a40998a4b6594d6d3bc608d896830a0420ba98",
+          "releaseChannel": "beta",
+          "buildVersion": "127"
         }
       ]
     },
@@ -873,6 +1458,105 @@
           "sha256": "9482b76aad39898683e1f2edbb74c631c998aed6ac9968dba6f43f5811ea73f5",
           "buildVersion": "38",
           "releaseChannel": "release"
+        },
+        {
+          "version": "0.8.1",
+          "date": "2026-10-07T11:26:52Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.1/Husk.ipa",
+          "size": 46728037,
+          "sha256": "162f322d2b8955cb022de0f504dd558fca2fdf1792b046160a16d6002ee4efc5",
+          "releaseChannel": "release",
+          "buildVersion": "31"
+        },
+        {
+          "version": "0.8.0",
+          "date": "2026-10-06T21:57:43Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.8.0/Husk.ipa",
+          "size": 46478895,
+          "sha256": "2d194c18d176fa140191e4dff9a3bf8def54b86abe057f8c6088360bee3c9e55",
+          "releaseChannel": "release",
+          "buildVersion": "27"
+        },
+        {
+          "version": "0.7.0",
+          "date": "2026-10-06T03:36:02Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.7.0/Husk.ipa",
+          "size": 44993209,
+          "sha256": "2409304d725964e15099bfd974a5c149c6bba49353e86b450458327ba770adbc",
+          "releaseChannel": "release",
+          "buildVersion": "17"
+        },
+        {
+          "version": "0.6.1",
+          "date": "2026-10-05T11:16:32Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.6.1/Husk.ipa",
+          "size": 40885768,
+          "sha256": "9ffa67b07e3d7a3f7faa261b5ec44bb6279180478cc5fc43daa6824e0d633509",
+          "releaseChannel": "release",
+          "buildVersion": "9"
+        },
+        {
+          "version": "0.6.0",
+          "date": "2026-10-04T23:36:46Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.6.0/Husk.ipa",
+          "size": 40778819,
+          "sha256": "16237bf6e85a53ce0a5c03c54d48fb6b04a190799b2f052e21c1dd96d30f4ebd",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
+        {
+          "version": "0.5.1",
+          "date": "2026-10-04T02:00:07Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.5.1/Husk.ipa",
+          "size": 40386325,
+          "sha256": "ddf055e4fc1a5dafec5c569464578fb1c40af2b733e400262c71a987d07a1835",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
+        {
+          "version": "0.5.0",
+          "date": "2026-10-01T23:46:10Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.5.0/Husk.ipa",
+          "size": 40279923,
+          "sha256": "83b7ce15a3673a6b6371c84584ea79f1b1c6527c3fea9b1cbd713805f2cac9c3",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
+        {
+          "version": "0.4.1",
+          "date": "2026-09-21T14:38:56Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.1/Husk.ipa",
+          "size": 40275539,
+          "sha256": "b5d3d9d51f9408cf8279b46e2e40fd054f987412c4b63d09fb51fc65849b2504",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.4.0",
+          "date": "2026-09-20T02:35:15Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.0/Husk.ipa",
+          "size": 40275335,
+          "sha256": "b7dd8ac0c4f703bbc0cd28c5c8c7030a10d2c082f8907154cde4b72db08b817e",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.3.2",
+          "date": "2026-09-19T02:57:31Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.3.2/Husk.ipa",
+          "size": 40271824,
+          "sha256": "ee2ea6be5e589f57a8d0cd60fc1828358a29ea826f7b488772ddd94d61904eb0",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.3.1",
+          "date": "2026-09-15T21:17:16Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.3.1/Husk.ipa",
+          "size": 40142603,
+          "sha256": "3170bd87726e9ad346cb7684a86762aa8731218be14452d9160ea379d2407571",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
@@ -912,6 +1596,24 @@
           "size": 399916792,
           "version": "v0.2.0",
           "releaseChannel": "release"
+        },
+        {
+          "version": "v0.1.1",
+          "date": "2026-09-29T04:10:10Z",
+          "downloadURL": "https://github.com/intraducine/iridium/releases/download/v0.1.1/Iridium-unsigned.ipa",
+          "size": 415260196,
+          "sha256": "5b50713e54b39ff05f0002c986cacf863b03bffad85233a40df28b1a6c65fb98",
+          "releaseChannel": "release",
+          "buildVersion": "98.2"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-09-27T22:36:34Z",
+          "downloadURL": "https://github.com/intraducine/iridium/releases/download/v0.1.0/Iridium-unsigned.ipa",
+          "size": 415218419,
+          "sha256": "350caeba886756af1838e59db5a8eb405de92af7c1bd263044462cd8b8c30a44",
+          "releaseChannel": "release",
+          "buildVersion": "86.1"
         }
       ]
     },
