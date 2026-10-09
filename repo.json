@@ -1455,9 +1455,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/1.0.1",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/1.1.0",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -1473,13 +1473,22 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/1.0.1/Husk.ipa",
-        "checkedAt": "2026-10-09T06:29:56Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/1.1.0/Husk.ipa",
+        "checkedAt": "2026-10-09T09:48:28Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-10-09T09:47:21Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/1.1.0/Husk.ipa",
+          "size": 54385494,
+          "sha256": "f2044fea5b5f8287deffa0466f5f71bfd915fc4ee0d1cb852b10b0242c6ca949",
+          "releaseChannel": "release",
+          "buildVersion": "61"
+        },
         {
           "buildVersion": "51",
           "date": "2026-10-09T01:17:20Z",
@@ -1578,15 +1587,6 @@
           "sha256": "b5d3d9d51f9408cf8279b46e2e40fd054f987412c4b63d09fb51fc65849b2504",
           "size": 40275539,
           "version": "0.4.1"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-09-20T02:35:15Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.0/Husk.ipa",
-          "releaseChannel": "release",
-          "sha256": "b7dd8ac0c4f703bbc0cd28c5c8c7030a10d2c082f8907154cde4b72db08b817e",
-          "size": 40275335,
-          "version": "0.4.0"
         }
       ]
     },
