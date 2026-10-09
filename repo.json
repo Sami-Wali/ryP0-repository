@@ -1,6 +1,46 @@
 {
   "apps": [
     {
+      "name": "The Simpsons Game",
+      "bundleIdentifier": "com.devz.simpsons",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.2.4",
+          "date": "2026-10-08T17:06:44Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/download/v0.2.4/TheSimpsonsGame-v0.2.4.ipa",
+          "size": 30273313,
+          "buildVersion": "6",
+          "localizedDescription": "First release, the port has got enhanced improvements, that's why it's release got delayed.",
+          "releaseChannel": "release",
+          "sha256": "343aefc87a3e016f45af5ac0fbe3de1cd28e9786e4b31b45315fd0ef4603d0aa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.simpsons-343aefc87a3e.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/download/v0.2.4/TheSimpsonsGame-v0.2.4.ipa",
+        "checkedAt": "2026-10-09T19:19:55Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-devz-simpsons-249cc906",
+        "sourceURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS",
+        "workflowPath": ".github/workflows/update-app-com-devz-simpsons-249cc906.yml"
+      }
+    },
+    {
       "name": "Air",
       "bundleIdentifier": "com.air-devs.air",
       "developerName": "herbrine8403",
