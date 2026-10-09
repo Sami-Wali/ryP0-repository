@@ -1427,7 +1427,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-husk-app-9d1f0d0c",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/1.0.0",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/1.0.1",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -1443,13 +1443,22 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/1.0.0/Husk.ipa",
-        "checkedAt": "2026-10-08T23:30:16Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/1.0.1/Husk.ipa",
+        "checkedAt": "2026-10-09T01:18:29Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-10-09T01:17:20Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/1.0.1/Husk.ipa",
+          "size": 55925239,
+          "sha256": "f84f58c72ba1a9affccb3ceb5d1736094a31d0d4f6a86411ae6c289531a91b86",
+          "releaseChannel": "release",
+          "buildVersion": "51"
+        },
         {
           "version": "1.0.0",
           "date": "2026-10-08T22:48:20Z",
@@ -1546,15 +1555,6 @@
           "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.4.0/Husk.ipa",
           "size": 40275335,
           "sha256": "b7dd8ac0c4f703bbc0cd28c5c8c7030a10d2c082f8907154cde4b72db08b817e",
-          "releaseChannel": "release",
-          "buildVersion": "1"
-        },
-        {
-          "version": "0.3.2",
-          "date": "2026-09-19T02:57:31Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.3.2/Husk.ipa",
-          "size": 40271824,
-          "sha256": "ee2ea6be5e589f57a8d0cd60fc1828358a29ea826f7b488772ddd94d61904eb0",
           "releaseChannel": "release",
           "buildVersion": "1"
         }
