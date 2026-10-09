@@ -3063,14 +3063,22 @@
       "name": "YT Music",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.39.2-62ea6b4eaaca.ipa",
-        "checkedAt": "2026-10-09T06:29:56Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.40.2-3ca78ee22ef2.ipa",
+        "checkedAt": "2026-10-09T10:38:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Mod by Mark02-2012",
       "tintColor": "#848ef9",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.40.2",
+          "date": "2026-10-07T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.40.2-3ca78ee22ef2.ipa",
+          "size": 106796946,
+          "sha256": "3ca78ee22ef255d8e7264f2d944a50776fa130afcc30c2682fdb14ea9edf635a",
+          "buildVersion": "9.40.2"
+        },
         {
           "buildVersion": "9.39.2",
           "date": "2026-09-25T00:00:00Z",
