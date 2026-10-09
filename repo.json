@@ -26,6 +26,15 @@
           "sha256": "f77edaa3d9dbb9c09ce98b0a06b381ff76548487b66bc05727469fe1e60518e3",
           "releaseChannel": "release",
           "buildVersion": "5.0.0"
+        },
+        {
+          "version": "5.0.0-Preview",
+          "date": "2026-08-05T09:06:45Z",
+          "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0-Preview/Air-5.0.0-Preview.ipa",
+          "size": 193262814,
+          "sha256": "108401d60d4be90803df7af28c5c00d9ef6505088d1062ded621daab81f11252",
+          "releaseChannel": "prerelease",
+          "buildVersion": "5.0.0 Beta"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-4b7ef4e2f050.png",
@@ -34,7 +43,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
-        "checkedAt": "2026-10-09T17:43:43Z",
+        "checkedAt": "2026-10-09T17:43:55Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -45,7 +54,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-air-devs-air-43f6ee0c",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/tag/5.0.0",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/tag/5.0.0-Preview",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
       }
     },
