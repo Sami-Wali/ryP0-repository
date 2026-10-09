@@ -1,6 +1,46 @@
 {
   "apps": [
     {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "altstoreio",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "2.3.1",
+          "date": "2026-09-30T20:16:23Z",
+          "downloadURL": "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa",
+          "size": 40616419,
+          "buildVersion": "63",
+          "localizedDescription": "### New Remote AltServer * Supports sideloading apps without a computer * Install, refresh, and (de-)activate apps from anywhere with a WiFi connection * Tap “Set up Remote AltServer” in AltStore settings to get started * Thanks @jkcoxson and the entire SideStore team for making this possible! Liquid Glass UI * Updated design to fit at home on iOS 26 ### Improved * Includes `ALT_CLASSIC_VER` header with current build version when fetching sources * Uses app's tint color as background color when loading app icon * Improved error messages for better troubleshooting guidance * Raised minimum iOS version to 17.4 ### Fixed * Fixed unreadable text in light mode for some news alerts (thanks @partyknightsdev!) * Fixed showing empty text view for updates with no description * Fixed extra space above version description for app updates * Fixed category cells not being accessible with VoiceOver * Fixed My Apps tab badge count showing incorrect number of app updates * Fixed memory leak due to strong-reference cycle in news tab",
+          "releaseChannel": "release",
+          "sha256": "3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.rileytestut.AltStore-3cffaf3045f3.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa",
+        "checkedAt": "2026-10-09T05:39:59Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/altstoreio/Altstore"
+      },
+      "githubURL": "https://github.com/altstoreio/Altstore",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-rileytestut-altstore-1f602bad",
+        "sourceURL": "https://github.com/altstoreio/Altstore",
+        "workflowPath": ".github/workflows/update-app-com-rileytestut-altstore-1f602bad.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "uk-nouvborne-ketamine-d6fe07c8",
