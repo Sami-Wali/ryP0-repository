@@ -3510,6 +3510,14 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "date": "2026-05-22T19:53:53Z",
+          "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "size": 5474210,
+          "version": "0.2",
+          "releaseChannel": "release",
+          "localizedDescription": "## UX Changes - Moved tweaks into its own accessible section, and put Tools there at the bottom. - Moved logs out of the tab bar and into a toolbar item at the top of the primary views (you can change this back in settings). - Settings has been completed reorganized, with some new customization toggles for the app itself. ## Applying/Handling - Fixed kernelcache weirdness (kernelcache is now fetched locally) - Hybrid will now be used by default. ## Tweaks - Rewrote MobileGestalt View + Added a ton of tweaks! (thanks @jurre111) - Rewrote Liquid Glass View with nice previewer. - Fixed Passcode + Add repo viewer (thanks @neonmodder123) - Add SpringBoard Customizer (thanks @leminlimez and Cowabunga, as well as @jurre111 for fixing the view) - Add SystemColor patcher."
+        },
+        {
           "buildVersion": "Release",
           "date": "2026-05-22T19:53:37Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
@@ -3518,10 +3526,14 @@
           "version": "0.2"
         },
         {
-          "date": "2026-05-22T19:53:53Z",
-          "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
-          "size": 5474210,
-          "version": "0.2"
+          "version": "0.1",
+          "date": "2026-05-01T18:30:04Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.1-04e8617357d6.ipa",
+          "size": 5972209,
+          "sha256": "04e8617357d6cefae25e91e10341fa496b4178ec074e1ceb66fa4d4a8ab62ff9",
+          "releaseChannel": "release",
+          "localizedDescription": "this is the first proper release of lara. lara will be undergoing some major frontend and backend changes in the coming days and weeks, so expect things to move around, change, and function better. this build has a lot of issues currently, such as remotecall being super broken. if you are experiencing issues, it's recommended to wait rather than to open an issue or ask for support. if you are a contributor, it is highly recommended to not contribute anything until the rewrite is complete.",
+          "buildVersion": "Release"
         }
       ]
     },
