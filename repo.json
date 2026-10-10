@@ -448,7 +448,8 @@
           "releaseChannel": "release",
           "sha256": "2758e5dbfd52b83a67df1e040499fd8b28dbab81c2860b77a065246352a961a6",
           "size": 2884088,
-          "version": "v2.1.2"
+          "version": "v2.1.2",
+          "localizedDescription": "More texture compression fixes"
         },
         {
           "buildVersion": "7",
@@ -457,7 +458,8 @@
           "releaseChannel": "release",
           "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03",
           "size": 2884063,
-          "version": "v2.1.1"
+          "version": "v2.1.1",
+          "localizedDescription": "Another fix to make Factorio not use texture compression on unsupported devices Allow other factorio versions"
         },
         {
           "buildVersion": "6",
@@ -466,7 +468,8 @@
           "releaseChannel": "release",
           "sha256": "ca18577b9d1e33f9e1f208bf1b964e24c92f5f33883234f77ae3621df72b4881",
           "size": 2884327,
-          "version": "v2.1"
+          "version": "v2.1",
+          "localizedDescription": "Moved app files to Documents for easy access to saves and mods WARNING: Back up your saves and mods before updating because v2.1 does not migrate existing data. (Or use cloud save sync)"
         },
         {
           "buildVersion": "5",
@@ -475,7 +478,8 @@
           "releaseChannel": "release",
           "sha256": "f6c063cd6081691d5aafb18b07ea9d4f39cacb05138152571dadafdd7d7d7b0c",
           "size": 2885290,
-          "version": "v2.0.4"
+          "version": "v2.0.4",
+          "localizedDescription": "Added game-data import with a progress bar and fixed texture compression crashes on older devices."
         },
         {
           "buildVersion": "5",
@@ -484,7 +488,8 @@
           "releaseChannel": "release",
           "sha256": "a395d231620ddf111b8a0cb6d1b461a26f2bc6b0b5021c0a5329d1b1c5b8f5f1",
           "size": 2876626,
-          "version": "v2.0.3"
+          "version": "v2.0.3",
+          "localizedDescription": "Fix startup on devices without BC texture support, crash handling, and oversized logs."
         },
         {
           "buildVersion": "4",
@@ -493,7 +498,8 @@
           "releaseChannel": "release",
           "sha256": "ef638a74b8fe074777e2d0876c2cbf3fb160d9ed2c340cd77ad941b6f3eda875",
           "size": 2873939,
-          "version": "v2.0.2"
+          "version": "v2.0.2",
+          "localizedDescription": "FactorioPad now starts its log before the app opens its window."
         },
         {
           "buildVersion": "3",
@@ -502,7 +508,8 @@
           "releaseChannel": "release",
           "sha256": "32fed069e5d33113efe68e3c31bb332b4018a02629108cbeea6b03ba86c91529",
           "size": 2865743,
-          "version": "v2.0.1"
+          "version": "v2.0.1",
+          "localizedDescription": "FactorioPad now saves `FactorioPad.log` in your selected `FactorioData` folder. The file records device details, startup steps, errors, and game output, including output before a black screen or stalled startup."
         },
         {
           "buildVersion": "2",
@@ -511,7 +518,8 @@
           "releaseChannel": "release",
           "sha256": "8cbc8fd543fff90469066c5920ffa74c0d717aaaf38ae3ff43354da7534db0f0",
           "size": 2864184,
-          "version": "v2.0.0"
+          "version": "v2.0.0",
+          "localizedDescription": "Create your FactorioPad IPA with the new companion app. It supports Windows x64, Macs with Apple silicon, and Linux x64. You do not need Xcode. ### What changed - The companion extracts your Factorio DMG and prepares the IPA. - Game data stays in a separate folder. FactorioPad uses your selected folder without copying it. - You can share saves between devices through iCloud Drive. ### Get started 1. Download and extract the companion for your computer. 2. Download the Mac Factorio 2.0.77 DMG, even on Windows or Linux. 3. Select the DMG in the companion and click `Prepare app`. 4. Sideload the generated IPA and copy `FactorioData` to your device. 5. Open FactorioPad and choose your game folder. Requires iOS 17 or newer and a gamepad or keyboard and mouse. Touch supports menus. Factorio is not included. Use your own copy and keep your generated IPA private. [Full setup instructions](https://github.com/MyNameIsArko/FactorioPad#install-on-your-device)"
         }
       ]
     },
