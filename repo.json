@@ -1551,7 +1551,8 @@
           "releaseChannel": "beta",
           "sha256": "12e380470a1ba1aab42709480aa08fe440f9171d3872a91fa9ff7f9a3de194fe",
           "size": 66836754,
-          "version": "0.5.7-beta"
+          "version": "0.5.7-beta",
+          "localizedDescription": "- c2127769 fix(p2p): correct torrent cache path and usage @tapframe - [feat(player): add ExoPlayer native memory, VOD cache, and buffer setting (#2178)](https://github.com/NuvioMedia/NuvioMobile/pull/2178) @halibiram - e22baece feat(details): add letterbox zoom to hero trailer @tapframe - [feat(mdblist): choose which lists appear in the library (#2171)](https://github.com/NuvioMedia/NuvioMobile/pull/2171) @kernexshadow - 53ac5e53 fix(player): follow system brightness when touch gestures are off @tapframe - 459add64 feat(streams): match tv refresh spin in streams and player panels @tapframe - d3786272 feat(player): add switch player and stream info actions @tapframe - 909dd7dc feat(streams): spin refresh button until addons finish loading @tapframe - [fix custom poster pattern URL validation and decoding (#2153)](https://github.com/NuvioMedia/NuvioMobile/pull/2153) @skoruppa"
         },
         {
           "buildVersion": "138",
@@ -1560,7 +1561,8 @@
           "releaseChannel": "beta",
           "sha256": "503a38bb00d29c05d4d6b89443faf9c5004fbd0cd6496e177e0cb1b4dcd0ce4c",
           "size": 66690752,
-          "version": "0.5.6-beta"
+          "version": "0.5.6-beta",
+          "localizedDescription": "- 312f7399 feat(details): use desktop hero layout on tablets @tapframe - b3d7c5b6 feat(settings): show restart prompt when layout direction changes @tapframe - a984b390 fix(ios): declare supported localizations @tapframe - f0f980b3 fix(player): auto-play next episode on end after dismissing prompt @tapframe - [i18n(vi): update latest Vietnamese strings (#2146)](https://github.com/NuvioMedia/NuvioMobile/pull/2146) @blueocean2308 - [Preload next episode sources (#2140)](https://github.com/NuvioMedia/NuvioMobile/pull/2140) @skoruppa - [Fix mising poster fallback in Catalog Screen (#2139)](https://github.com/NuvioMedia/NuvioMobile/pull/2139) @skoruppa - [fix(player): backport automatic skip notifications from Desktop (#2137)](https://github.com/NuvioMedia/NuvioMobile/pull/2137) @Laskco"
         },
         {
           "buildVersion": "137",
@@ -1569,7 +1571,8 @@
           "releaseChannel": "beta",
           "sha256": "ae4da6ce2738ea36e700b3774e0137dae5b0885d7d88ac46c6720b3be3c82433",
           "size": 66647562,
-          "version": "0.5.5-beta"
+          "version": "0.5.5-beta",
+          "localizedDescription": "- [feat(i18n): add Bengali (বাংলা) language support and UI localization (#2113)](https://github.com/NuvioMedia/NuvioMobile/pull/2113) @TanvirSdq - [i18n(el): sync Greek translations and remove remaining English loanwords (#2132)](https://github.com/NuvioMedia/NuvioMobile/pull/2132) @nosvasedis - [Landscape clearlogo toggle, Simkl type hint, TMDB source priority, folder TMDB ID resolution (#2084)](https://github.com/NuvioMedia/NuvioMobile/pull/2084) @skoruppa - [fix(UI): Fix hero section sometimes shifting (#2128)](https://github.com/NuvioMedia/NuvioMobile/pull/2128) @ThEgIGN - [fix(player): show the swipe-to-seek preview in the new player layout (#2122)](https://github.com/NuvioMedia/NuvioMobile/pull/2122) @deejay189393 - 6aa42153 fix(debrid): select requested episode files @tapframe - [i18n(vi): update latest Vietnamese strings (#2096)](https://github.com/NuvioMedia/NuvioMobile/pull/2096) @blueocean2308 - [Translation improvements and adjustments for Slovak language (#2104)](https://github.com/NuvioMedia/NuvioMobile/pull/2104) @mmsw91 - [fix(mdblist): show newest library additions first (#2103)](https://github.com/NuvioMedia/NuvioMobile/pull/2103) @halibiram"
         },
         {
           "buildVersion": "136",
@@ -1578,7 +1581,8 @@
           "releaseChannel": "beta",
           "sha256": "f605463d51f304564833e82a2fc1478a326c2bea7fa15519d99e854eebb50b94",
           "size": 66389579,
-          "version": "0.5.4-beta"
+          "version": "0.5.4-beta",
+          "localizedDescription": "- 80860602 fix(player): ignore short clips for tracking @tapframe - cd4572e2 fix(ios): update quickjs to 1.0.15 @tapframe - 9980d643 fix(player): reduce buffer durations @tapframe - 75296263 fix(details): keep custom posters when returning to a title @tapframe - 4bdcfa3a fix(settings): use shared chip on detail page @tapframe - 2b8be69c fix(details): replay watched series from first episode @tapframe - c69b643a fix(player): resume restored player from current position @tapframe - c3920d40 fix(i18n): align episode labels and metadata with tv @tapframe - 24c7c89c fix(streams): prevent rotation during binge group lookup @tapframe - a1a43416 fix(profiles): center pin dialog content @tapframe - [Plugin timeout (#2091)](https://github.com/NuvioMedia/NuvioMobile/pull/2091) @paregi12"
         },
         {
           "buildVersion": "135",
@@ -1587,7 +1591,8 @@
           "releaseChannel": "beta",
           "sha256": "7ee79b969d904893f3656ab99de0f9611fb9b70141c72f8094d4c04d74f4a72a",
           "size": 66299682,
-          "version": "0.5.3-beta"
+          "version": "0.5.3-beta",
+          "localizedDescription": "- 0b7ab892 feat(poster): support addon landscape posters @tapframe - 60a0f4b3 feat(library): move downloads to library - 5ebb8ee5 feat(spinner): change indicator @tapframe - [i18n(ur): add Urdu localization (#2067)](https://github.com/NuvioMedia/NuvioMobile/pull/2067) @muzii9 - 23b048c3 feat(player): add episode shuffle @tapframe"
         },
         {
           "buildVersion": "134",
@@ -1596,7 +1601,8 @@
           "releaseChannel": "beta",
           "sha256": "8fec187194082829268c41c0ba468aa3fc47accd4e178e65f8cc49188f3e9dae",
           "size": 66138236,
-          "version": "0.5.2-beta"
+          "version": "0.5.2-beta",
+          "localizedDescription": "- 353b8cd9 fix(exo): update buffer defaults @tapframe - f50bd149 update engine libs @tapframe - 23e4d3f7 fix(ios): hide home indicator during playback @tapframe - [i18n(vi): update latest Vietnamese strings (#2064)](https://github.com/NuvioMedia/NuvioMobile/pull/2064) @blueocean2308 - [Fix badge cache, library poster scope, and next-episode post-credits timing (#2059)](https://github.com/NuvioMedia/NuvioMobile/pull/2059) @skoruppa - [Add landscape banner to Simkl More Like This items (#2058)](https://github.com/NuvioMedia/NuvioMobile/pull/2058) @skoruppa - [added the percent value to the swipe up gesture bars (#2057)](https://github.com/NuvioMedia/NuvioMobile/pull/2057) @AdityasahuX07 - [Simkl more like this (#2052)](https://github.com/NuvioMedia/NuvioMobile/pull/2052) @skoruppa - [Add per-screen toggles for custom poster URL overlay (#2050)](https://github.com/NuvioMedia/NuvioMobile/pull/2050) @skoruppa - [fix(i18n): render Show \"All\" Tab without backslashes (#2047)](https://github.com/NuvioMedia/NuvioMobile/pull/2047) @blueocean2308 - d4b69c2d fix(player): key player lifecycle by episode and source @tapframe - [Fix binary request and response handling in plugin fetch() (#2041)](https://github.com/NuvioMedia/NuvioMobile/pull/2041) @joojoooo"
         },
         {
           "buildVersion": "133",
@@ -1605,7 +1611,8 @@
           "releaseChannel": "beta",
           "sha256": "801bb9d82efddbc0698ce92a4a8e6a741209b40bf5e7b6053d33a68b81d905fc",
           "size": 66042992,
-          "version": "0.5.1-beta"
+          "version": "0.5.1-beta",
+          "localizedDescription": "- 0b427905 fix(mdblist): correct library sorting @tapframe - 647e4c09 fix(mdblist): batch and reuse rating requests @tapframe - [i18n(vi): update latest Vietnamese strings (#2037)](https://github.com/NuvioMedia/NuvioMobile/pull/2037) @blueocean2308 - [Fix custom posters missing in tmdb/trakt collections (#2035)](https://github.com/NuvioMedia/NuvioMobile/pull/2035) @skoruppa - [fix(details) adapt to the new aiom season poster method (#2038)](https://github.com/NuvioMedia/NuvioMobile/pull/2038) @chrisk325 - [Feature/spanish es translation (#2039)](https://github.com/NuvioMedia/NuvioMobile/pull/2039) @IberianSoldierPC"
         },
         {
           "buildVersion": "132",
@@ -1614,7 +1621,8 @@
           "releaseChannel": "beta",
           "sha256": "14cc46e4098e4568e2e20a86a8b5dc7dba3da7e28ab7567972338fba460421ef",
           "size": 66006978,
-          "version": "0.5.0-beta"
+          "version": "0.5.0-beta",
+          "localizedDescription": "- 4c82f9ac feat(settings): collapse tracker cards by default @tapframe - c9d6f5f6 fix(player): restore subtitles for each episode @tapframe - [feat(mdblist): add tracking and library support (#1900)](https://github.com/NuvioMedia/NuvioMobile/pull/1900) @tapframe - [remove inaccurate TMDB release date enrichment option (#2032)](https://github.com/NuvioMedia/NuvioMobile/pull/2032) @skoruppa - [Fix(player) record mx player completion when no position is returned (#2031)](https://github.com/NuvioMedia/NuvioMobile/pull/2031) @zuko726 - 4178d5cd fix(tmdb): sort blank collection release dates last @tapframe - fb9f859e fix(ios): use clean player framework archive @tapframe - 6ff7882a fix(player): preserve iOS audio during calls @tapframe - [Custom poster URL pattern support (#2025)](https://github.com/NuvioMedia/NuvioMobile/pull/2025) @skoruppa"
         },
         {
           "buildVersion": "131",
@@ -1623,7 +1631,8 @@
           "releaseChannel": "beta",
           "sha256": "50bb70d89a4201070840b7530ea730e1bf2c603c72a1bdfed48126740d6dde07",
           "size": 65234840,
-          "version": "0.4.26-beta"
+          "version": "0.4.26-beta",
+          "localizedDescription": "- 458f810b fix(streams): share addon filtering across pickers @tapframe - [i18n(nb): complete missing Norwegian Bokmål strings (#2005)](https://github.com/NuvioMedia/NuvioMobile/pull/2005) @SimSalabimse"
         },
         {
           "buildVersion": "130",
@@ -1632,7 +1641,8 @@
           "releaseChannel": "beta",
           "sha256": "794c90209bc4ae414bf97576257e045696bb8b3be1e385c981f84de897340626",
           "size": 65152407,
-          "version": "0.4.25-beta"
+          "version": "0.4.25-beta",
+          "localizedDescription": "- b5163558 fix(home): prevent hero flash when cycling @tapframe - 656f368c fix(pr): update workflow @tapframe - [i18n(el): sync Greek translations with the current English strings (#1991)](https://github.com/NuvioMedia/NuvioMobile/pull/1991) @nosvasedis - 98be8514 revert(ui): restore previous surface and chip styles @tapframe - [i18n(vi): update latest Vietnamese strings (#1990)](https://github.com/NuvioMedia/NuvioMobile/pull/1990) @blueocean2308 - [fix(simkl): three bugs in the shared Simkl read and write paths (#1988)](https://github.com/NuvioMedia/NuvioMobile/pull/1988) @Judzim - 99ced26a feat(player): add Infuse playback callbacks @tapframe - [fix(ios): bundle CJK font for subtitles (#1833)](https://github.com/NuvioMedia/NuvioMobile/pull/1833) @tinyKyuu"
         },
         {
           "buildVersion": "128",
@@ -1641,7 +1651,8 @@
           "releaseChannel": "beta",
           "sha256": "5b47a730e6467ca18baf39ee2ef589714761fdb4d0ff5b2040800a8c994c1e40",
           "size": 51420909,
-          "version": "0.4.23-beta"
+          "version": "0.4.23-beta",
+          "localizedDescription": "- 542aa570 fix(simkl): retain posters when marking items watched @tapframe - 08bdd629 fix(home): restore wide continue watching sizing @tapframe - [i18n(vi): update latest Vietnamese strings (#1975)](https://github.com/NuvioMedia/NuvioMobile/pull/1975) @blueocean2308 - a599340e fix(ui): use filled chips and consistent surface colors @tapframe - [feat(playback): support IntroDB movie segments and external forwarding (#1963)](https://github.com/NuvioMedia/NuvioMobile/pull/1963) @Laskco"
         },
         {
           "buildVersion": "127",
@@ -1650,7 +1661,8 @@
           "releaseChannel": "beta",
           "sha256": "eab72aed2dc126a01366eae0c9a40998a4b6594d6d3bc608d896830a0420ba98",
           "size": 51383038,
-          "version": "0.4.22-beta"
+          "version": "0.4.22-beta",
+          "localizedDescription": "- 12111fd8 feat(updater): add stable and beta update channels @tapframe - df589078 feat(tmdb): add personal API key override with credential sync @tapframe - 48bf5ed3 feat(details): parse addon episode runtimes @tapframe - [Use addon imdb_id as fallback for non-IMDB content enrichment (#1966)](https://github.com/NuvioMedia/NuvioMobile/pull/1966) @skoruppa - 3312374e fix(settings): keep page content visible during navigation @tapframe - [i18n(vi): update latest Vietnamese strings (#1959)](https://github.com/NuvioMedia/NuvioMobile/pull/1959) @blueocean2308 - [fix: limit anime ID preference to entries with anime-specific IDs (#1955)](https://github.com/NuvioMedia/NuvioMobile/pull/1955) @skoruppa - 177f4b5c feat(ratings): add rotten tomatoes status icons @tapframe"
         }
       ]
     },
