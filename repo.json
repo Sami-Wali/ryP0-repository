@@ -1560,7 +1560,7 @@
         "workflowPath" : ".github\/workflows\/update-app-com-mak5er-aircard-69cc17a8.yml"
       },
       "bundleIdentifier" : "com.mak5er.aircard",
-      "category" : "Sideloading",
+      "category" : "Tools",
       "developerName" : "Mak5er",
       "githubURL" : "https:\/\/github.com\/Mak5er\/AirCard-iOS",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.mak5er.aircard-c531991ef6c4.png",
@@ -1568,7 +1568,6 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/Mak5er\/AirCard-iOS"
       },
-      "localizedDescription" : "",
       "name" : "AirCard-iOS",
       "status" : {
         "checkedAt" : "2026-10-10T12:53:02Z",
@@ -1576,7 +1575,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
