@@ -1720,7 +1720,28 @@
           "localizedDescription": "Improvements: - Legacy shader compiler is now retired, default replaced by Recompiler with Interpreter Fixes: - Relaxed ZCull setting is now working at is should - Fixed bunch of games that got broken in v0.10",
           "sha256": "bc50cd4f309d04b8077e7f3c7db456c610f7d176136609bc735a5ea815fc7f9c",
           "size": 24265530,
-          "version": "0.10.1"
+          "version": "0.10.1",
+          "releaseChannel": "prerelease"
+        },
+        {
+          "version": "0.10",
+          "date": "2026-09-27T22:02:00Z",
+          "downloadURL": "https://github.com/XITRIX/RPCS3-iOS-Releases/releases/download/v0.10/RPCS3-VisionOS.ipa",
+          "size": 24219725,
+          "sha256": "53448ae1b863e09b25966fa556bcdc9b2ceac0412d6e3a0a9d97dccf2d33d889",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "What's new: - JIT-less mode — launch games without enabling JIT using static interpreters Improvements: - Updated RPCS3 core - ARM64 PPU and SPU improvements, including changes from the ARMSX3 team - Reduced CPU overhead in SPU execution, texture caching and GPU synchronization - Improved audio buffering and time stretching - Improved memory handling during game compilation Fixes: - Fixed Gran Turismo 6 startup hang and Prototype 2 launch failures - Fixed facial texture corruption and rectangular line artifacts in GTA V - Fixed crashes when stopping games after loading save states - Fixed stale graphics resources after changing resolution scale - Fixed ARM64 static and dynamic interpreter errors - Fixed socket error handling that could leave games stuck after cache loading - Removed unnecessary Extended Virtual Addressing warning",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.9",
+          "date": "2026-09-15T06:21:32Z",
+          "downloadURL": "https://github.com/XITRIX/RPCS3-iOS-Releases/releases/download/v0.9/RPCS3-VisionOS.ipa",
+          "size": 24149518,
+          "sha256": "a5b2ebc3fb3563d33601cf7f39670b2db4e5d84fefc24ef7ccb655a94fe4a952",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "What's new: - Live Activity and background game compilation - VisionOS release Improvements: - Updated core - Experimental paths enabled by default - Maximum JIT region limit increased to 1 GB Fixes: - Fixed some crashes on JIT allocation",
+          "buildVersion": "1"
         }
       ]
     },
