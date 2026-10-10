@@ -1,6 +1,46 @@
 {
   "apps": [
     {
+      "name": "Theft4",
+      "bundleIdentifier": "com.lukebrosious.theft4",
+      "developerName": "KoreanSeats1",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "date": "2026-10-09T12:36:35Z",
+          "downloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.1/Theft4-0.3.1-142-ios-arm64.ipa",
+          "size": 51636222,
+          "buildVersion": "142",
+          "localizedDescription": "# Theft4 0.3.1 — Performance Improvements **iPhone and iPad · version 0.3.1 · build 142** A performance follow-up to the direct Metal release: less repeated CPU work, cheaper first-use geometry, fewer allocations and better cache behavior. The original Theft4 icon is back. ## What changed - Faster cold geometry conversion and reusable immutable upload backing. - Less work per draw through cached shader metadata, pooled bindings and reusable frame bookkeeping. - Warm pipeline recipes survive cache pressure instead of being cleared together. - Upload VM allocation runs outside the cache mutex; retired sources are cleaned up incrementally and in-flight GPU resources retain their data. - Less CPU busy polling and allocation in multi-object waits. - Native attachment optimizations reduce proven redundant clear/load/store work while preserving the intended image. - Improved compact iPhone launcher layouts. ## Optional Mods menu - **Native Aspect Ratio:** expand the viewport to the launch-window shape, with matching camera/lighting reconstruction, odd-size effects fixes and proportional pause-menu/radar corrections. More visible scenery can increase frame time. - **Custom Time Cycle:** lighting/weather replacement for loose and packed installs. **Credit and thanks to SBerrix** for the custom time cycle. - **God Mode:** player damage/death protection. - **Unlimited Ammo:** reserve ammunition stays available while magazines deplete and reload normally. Select mods before Play; changes take effect on a fresh game launch. The realistic vehicle-handling mod remains planned work and is not included. ## Older devices GPUs without BC-texture support retain the one-time BC-to-ASTC preparation flow: progress, ETA, pause/resume and a saved cache reused on later launches. The tested A12Z uses it; the tested M5 supports BC directly and skips it. The check uses GPU capability rather than an age cutoff. Updating in place retains existing caches. ## Validation and current limits 33 native contracts, 9 mod contracts and 45 real-Metal graphics cases pass, alongside CPU wait sanitizer checks and Release optimization verification. The target remains under 30 ms of total frame work. Remaining first-use spikes, heavy views and device-specific performance are still being improved; this is not a universal locked-30-FPS guarantee. Host fixture savings are not whole-game FPS percentages. Optional mod coverage still needs broader gameplay testing. [Full changelog](https://github.com/KoreanSeats1/Theft4/blob/v0.3.1/CHANGELOG.md) · [0.3.1 release details](https://github.com/KoreanSeats1/Theft4/blob/v0.3.1/docs/RELEASE_0.3.1.md) · [Technical changes and evidence](https://github.com/KoreanSeats1/Theft4/blob/v0.3.1/docs/IOS_MODS.md) ## Install the IPA 1. Download **Theft4-0.3.1-142-ios-arm64.ipa** below. The Source code ZIP is not the IPA. 2. Install with a compatible sideloading tool such as AltStore or SideStore. The IPA is unsigned; your tool must sign it with your Apple account. **Update the existing app in place** to retain game files, saves and prepared textures. Do not delete the app first. 3. For a new install, launch once to create **Files → On My iPhone/iPad → Theft4 → game**, then close the app. 4. Prepare your legally obtained supported Xbox 360 USA retail game: title `545407F2`, media `6AC07221`, base `0.0.0.5`, matching TU8 patch to `0.0.8.5`. A raw ISO or unopened update package is not a prepared installation. 5. Copy the prepared folder's contents into Theft4's existing `game` folder. `default.xex` and `default.xexp` must be at its root, not under `game/game`. 6. Reopen, **Check Game Files**, complete ASTC preparation if required, then Play. Requires ARM64 iOS/iPadOS 26.0 or later. No retail game installation, title update, save, prepared texture cache or developer provisioning profile is included. The credited custom time-cycle resources are included. TestFlight is separate. [Complete installation instructions](https://github.com/KoreanSeats1/Theft",
+          "releaseChannel": "release",
+          "sha256": "2b80527f38a05ccf74a0a6c98e57cd5ac8d39f25b773c5499936ac63017b802b"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.lukebrosious.theft4-2b80527f38a0.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.1/Theft4-0.3.1-142-ios-arm64.ipa",
+        "checkedAt": "2026-10-10T07:27:55Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "sourceURL": "https://github.com/KoreanSeats1/Theft4"
+      },
+      "githubURL": "https://github.com/KoreanSeats1/Theft4",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-lukebrosious-theft4-0b652716",
+        "sourceURL": "https://github.com/KoreanSeats1/Theft4",
+        "workflowPath": ".github/workflows/update-app-com-lukebrosious-theft4-0b652716.yml"
+      }
+    },
+    {
       "name": "The Simpsons Game",
       "bundleIdentifier": "com.devz.simpsons",
       "developerName": "DevZer0D4Y",
