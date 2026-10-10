@@ -2390,6 +2390,12 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "date": "2026-09-08T16:35:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
+          "size": 46253576,
+          "version": "release-v2.0.1-build-9730"
+        },
+        {
           "buildVersion": "9730",
           "date": "2026-06-08T04:29:40Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
@@ -2398,10 +2404,24 @@
           "version": "release-v2.0.1-build-9730"
         },
         {
-          "date": "2026-09-08T16:35:50Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-          "size": 46253576,
-          "version": "release-v2.0.1-build-9730"
+          "version": "release-v2.0.1-build-9729",
+          "date": "2026-06-07T19:24:29Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9729-2100237f60a8.ipa",
+          "size": 46246197,
+          "sha256": "2100237f60a82e51ec5203b404a12d6ff18cb75498592b3b08accadb51ab09ce",
+          "releaseChannel": "release",
+          "localizedDescription": "# 2.0.1-9729 - Channel: release - Stage: stable - Version: 2.0.1 - Build number: 9729 - Commit: d1afdc63d - Published at: 2026-06-07T18:27:08Z - Source ref: refs/heads/xenios",
+          "buildVersion": "9729"
+        },
+        {
+          "version": "release-v2.0-build-9712",
+          "date": "2026-06-06T19:00:12Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0-build-9712-27e4b711c26b.ipa",
+          "size": 41493705,
+          "sha256": "27e4b711c26b1ca08a72d2a51433c10c186ba72211a7f1db22a3da9a6bf202a7",
+          "releaseChannel": "release",
+          "localizedDescription": "# 2.0-9712 - Channel: release - Stage: stable - Version: 2.0 - Build number: 9712 - Commit: 358deaee5 - Published at: 2026-06-06T19:11:40Z - Source ref: refs/heads/xenios",
+          "buildVersion": "9712"
         }
       ]
     },
