@@ -1919,7 +1919,18 @@
           "localizedDescription": "Fix MeloCafé auto assign Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.12...3.1.13",
           "sha256": "d730fdfde1aeb3d1d3cc0cc71404f85fb9eb295d38876e2bf668a5d630f20e8c",
           "size": 13544310,
-          "version": "3.1.13"
+          "version": "3.1.13",
+          "releaseChannel": "release"
+        },
+        {
+          "version": "3.1.12",
+          "date": "2026-09-27T20:57:00Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.12/StikDebug-3.1.12.ipa",
+          "size": 13544301,
+          "sha256": "4366ac05aeae0a4cc11ed60d9ed6fee44ea61e3940cbc73eab5ea5c3692ae54e",
+          "releaseChannel": "release",
+          "localizedDescription": "Should fix issues with DDI for iOS versions below 26.4. Also, lots of fixes and improvements for TXM scripts, location simulation, and keep-alives. **Full Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.11...3.1.12",
+          "buildVersion": "1"
         }
       ]
     },
