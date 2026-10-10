@@ -261,7 +261,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-air-devs-air-43f6ee0c",
-        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/actions/runs/38071105322",
+        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/actions/runs/38065993596",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -279,7 +279,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-8105017f520cc4d8c179c0311b859fed725cfc2b-38a486835061.ipa",
-        "checkedAt": "2026-10-10T20:11:39Z",
+        "checkedAt": "2026-10-10T20:12:00Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Minecraft Java Launcher fork of Air launcher",
@@ -349,6 +349,15 @@
           "buildVersion": "6.5.0"
         },
         {
+          "version": "37fc56179b68d64a63374cd1b5f72e8129aba3c3",
+          "date": "2026-10-10T16:01:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-37fc56179b68d64a63374cd1b5f72e8129aba3c3-124f6076ad63.ipa",
+          "size": 234675236,
+          "sha256": "124f6076ad63d32cac8a76112cb4fdb5a119e5b8a94b780d2d1099cb8cae1deb",
+          "releaseChannel": "actions",
+          "buildVersion": "6.5.0"
+        },
+        {
           "buildVersion": "6.0.0",
           "date": "2026-10-07T05:38:09Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
@@ -386,16 +395,6 @@
           "sha256": "f77edaa3d9dbb9c09ce98b0a06b381ff76548487b66bc05727469fe1e60518e3",
           "size": 193369366,
           "version": "5.0.0"
-        },
-        {
-          "buildVersion": "5.0.0 Beta",
-          "date": "2026-08-05T09:06:45Z",
-          "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0-Preview/Air-5.0.0-Preview.ipa",
-          "localizedDescription": "# Air 5.0.0 公测版 > [!CAUTION] > 此版本为测试版,可能存在一些难以言喻的 Bug,不建议日常使用,如果您在使用旧版本时遇到了无法正常启动 Minecraft 的问题,那么您可以尝试该版本. > [!NOTE] > 启动器现已更名为 Air,包名已更改为 `com.air-devs.air`,可与原版 Amethyst 及旧版 Amethyst iOS Remastered 共存,请悉知. ## 更新内容 * 全面美化 UI 界面 @herbrine8403 @yitenchen123 * 修复 TouchController 延迟问题并添加原生库通信方式 @herbrine8403 @fifth_light * 添加资源下载及资源管理功能 @yitenchen123 * 添加 CurseForge 下载源 @herbrine8403 * 添加 Forge/NeoForge 直装模式 @herbrine8403 * 修复 Iris 光影实体渲染错误 @yitenchen123 * 修复大部分兼容性问题 @herbrine8403 * 添加 Metal Universal Mod 支持 @EternityQwQ @yitenchen123 * 适配 Minecraft 26.X @yitenchen123 @herbrine8403 * 与上游同步复刻 @herbrine8403 * 其他内容请前往 Commit 界面查看 ## 贡献者 * @EternityQwQ - 添加 Metal Universal Mod 支持，允许启动器使用 Metal 渲染 Minecraft * @yitenchen123 - 项目维护者 **完整更新日志**: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/4.0.1...5.0.0-Preview --- # Air 5.0.0 Preview > [!CAUTION] > This is a test build and may contain various unforeseen bugs. It is not recommended for daily use. If you are unable to launch Minecraft properly with older versions, you may try this release. > [!NOTE] > The launcher has been renamed to Air, with its package name changed to `com.air-devs.air`. It can be installed alongside the original Amethyst and legacy Amethyst iOS Remastered. Please be advised. ## Changelog * Fully revamped and polished UI @herbrine8403 @yitenchen123 * Fixed TouchController latency issues and added native library communication mechanism @herbrine8403 @fifth_light * Added resource download and management features @yitenchen123 * Added CurseForge as a download source @herbrine8403 * Added direct installation mode for Forge/NeoForge @herbrine8403 * Fixed entity rendering glitches with Iris shaders @yitenchen123 * Resolved the majority of compatibility issues @herbrine8403 * Added support for Metal Universal Mod @EternityQwQ @yitenchen123 * Added compatibility with Minecraft 26.X @yitenchen123 @herbrine8403 * Synced and ported features from the upstream project @herbrine8403 * For additional changes, please visit the Commits page > At present, many pages are still without English translations. It is expected that support for English will be provided when the official version is released. ## Contributors * @EternityQwQ - Implemented Metal Universal Mod support, enabling the launcher to render Minecraft using Metal * @yitenchen123 - Project maintainer **Full changelog**: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/4.0.1...5.0.0-Preview",
-          "releaseChannel": "prerelease",
-          "sha256": "108401d60d4be90803df7af28c5c00d9ef6505088d1062ded621daab81f11252",
-          "size": 193262814,
-          "version": "5.0.0-Preview"
         }
       ]
     },
