@@ -1093,6 +1093,116 @@
           "sha256": "833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea",
           "size": 14241853,
           "version": "2.9.0"
+        },
+        {
+          "version": "2.8.2",
+          "date": "2026-04-22T09:18:46Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14242031,
+          "sha256": "4b93e029f0e779757b51938ac7ec1a3613c3744cc6a66b6bf2142d5ad39025ae",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [Impactor](https://github.com/claration/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Added support for Catalyst targets. * Added ability to rename existing certificates. * Added Arabic localizations by @mohammed1d1 in https://github.com/CLARATION/Feather/pull/624 ## New Contributors * @mohammed1d1 made their first contribution in https://github.com/CLARATION/Feather/pull/624 **Full Changelog**: https://github.com/CLARATION/Feather/compare/v2.7.0...v2.8.2",
+          "buildVersion": "63ec47d071c188f833fd607f152b58a5bc34ab9c"
+        },
+        {
+          "version": "2.7.0",
+          "date": "2026-04-05T16:01:10Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.7.0/Feather.ipa",
+          "size": 14154834,
+          "sha256": "ae4ec9bf6def2632834df5ba6c76adc8659d07dec749d993e36254a209d7e036",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [Impactor](https://github.com/claration/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Added support for using remote pairing on 17.4+, for 17.3 and below, use a standard pairing file. * Added more recommended sources by @CelloSerenity in https://github.com/CLARATION/Feather/pull/585 * Added option to inject into all available extensions within an app by @waruhachi in https://github.com/CLARATION/Feather/pull/592 ## New Contributors * @waruhachi made their first contribution in https://github.com/CLARATION/Feather/pull/592 **Full Changelog**: https://github.com/CLARATION/Feather/compare/v2.6.0...v2.7.0",
+          "buildVersion": "1"
+        },
+        {
+          "version": "2.6.0",
+          "date": "2026-02-04T08:07:54Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.6.0/Feather.ipa",
+          "size": 14118478,
+          "sha256": "01f4d8dc7c8ae97ed82943d668d1937b8ec8009dbfa0b6f45375b815c842a191",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Migrated codebase to use the *OS 26 SDK with help from @Nyasami. * Added Liquid Glass icon. * Added iOS 26 BackgroundTasks API for background downloads. * Added appearance options for changing library icon appearance (Light/Dark) on iOS 18.0+ with help from @hugeBlack. * Tinting options are available on iOS 18.2+. * Added appearance options for custom tint color. * Added success alert when updating SSL certificates by @planeklm. * Fixed issue where bundle was using outdated SSL certificates, causing common issues regarding being stuck on \"Ready\". * Fixed incorrect handling of `NSExtension` modifications by @Nyasami. * Fixed issue where certain app names would not appear in Library by @Nyasami. * Fixed an issue where certain apps weren't able to install by deleting a leftover `_CodeSignature` directory by @Nyasami. * Fixed issue where a malicious `.deb` was able to make Feather crash on launch. * Made the iOS 26+ arm64e slice fixup run regardless of version, mainly for exports. ## Preview | <img width=\"3306\" height=\"1788\" alt=\"MERGED_IMAGE\" src=\"https://github.com/user-attachments/assets/6a0b6981-0b94-4b4b-9199-f14a4c1ffe61\" /> | |:-:| ## New Contributors * @binnichtaktiv made their first contribution in https://github.com/khcrysalis/Feather/pull/548 * @planeklm made their first contribution in https://github.com/khcrysalis/Feather/pull/572 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.5.0...v2.6.0",
+          "buildVersion": "1"
+        },
+        {
+          "version": "2.5.0",
+          "date": "2025-12-23T01:13:23Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.5.0/Feather.ipa",
+          "size": 12720470,
+          "sha256": "a458af86ed44814324acbc375c5dba98a6689b5e7dadb98eb8aa0da13e205a0a",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Added the ability to choose when to stay active in the background by @Nyasami in https://github.com/khcrysalis/Feather/pull/502 - It will keep itself active when content is being downloaded or being installed. * Added ability for signing services to bundle default certificates inside of Feather, by following a set scheme: - References in code to how it imports signing-assets can be found [here](https://github.com/khcrysalis/Feather/blob/main/Feather/FeatherApp.swift#L196-L245). ``` Feather.app |__ signing-assets |__ SuperDuperSign |__ file.p12 |__ file.mobileprovision |__ file.txt |__ SuperDuperUltraSign |__ file.p12 |__ file.mobileprovision |__ file.txt ``` * Added LocalDevVPN integration by @CelloSerenity in https://github.com/khcrysalis/Feather/pull/546 * Also removed mentions of StosVPN as that is no longer on the App Store. * Added alerts for export/copy repo buttons by @neoarz in https://github.com/khcrysalis/Feather/pull/536 * Added support for altstudio date format (#529) by @Nyasami in https://github.com/khcrysalis/Feather/pull/532 * Fixes theme section clipping on iOS 26 by @shgew in https://github.com/khcrysalis/Feather/pull/492 * Fixes text cutoff in donation banner by @scratchyone in https://github.com/khcrysalis/Feather/pull/494 * Made unsigned/signed sections in the library tab not appear unless populated by @sdhEmily in https://github.com/khcrysalis/Feather/pull/500 ## New Contributors * @shgew made their first contribution in https://github.com/khcrysalis/Feather/pull/492 * @scratchyone made their first contribution in https://github.com/khcrysalis/Feather/pull/494 * @sdhEmily made their first contribution in https://github.com/khcrysalis/Feather/pull/500 * @mattp12 made their first contribution in https://github.com/khcrysalis/Feather/pull/518 * @neoarz made their first contribution in https://github.com/khcrysalis/Feather/pull/536 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.4.0...v2.5.0",
+          "buildVersion": "1"
+        },
+        {
+          "version": "2.4.0",
+          "date": "2025-09-26T22:49:23Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.4.0/Feather.ipa",
+          "size": 12711617,
+          "sha256": "14c117b26d7658b1777fa43b6a28bea4f4f94a71c4cfd19ad3c1ddbd90032d1b",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Fixes some repositories date from incorrectly showing, by adding another `date` key that people may use instead of `dateAdded` * Added sign & install option, which attempts to install after signing by @Nyasami in https://github.com/khcrysalis/Feather/pull/478 * Added simplified Chinese localisation by @lcp29 in https://github.com/khcrysalis/Feather/pull/486 * Updated turkish localization by @ismailcarlik in https://github.com/khcrysalis/Feather/pull/467 * Updates built-in SSL certificates ## New Contributors * @lcp29 made their first contribution in https://github.com/khcrysalis/Feather/pull/486 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.3.1...v2.4.0",
+          "buildVersion": "9a75da1fd4571c86c0b713694fbf0e0f654bf606"
+        },
+        {
+          "version": "2.3.1",
+          "date": "2025-08-08T08:16:25Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.3.1/Feather.ipa",
+          "size": 12633984,
+          "sha256": "6927656ae08a47c2beab7568d35c9eb2ce29f9d7710e8c42794add2a4eff2227",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Fixed injection path by @Nyasami in https://github.com/khcrysalis/Feather/pull/461 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.3.0...v2.3.1",
+          "buildVersion": "4d38127c4f435f70c0c0d2d8a0318ca801762fde"
+        },
+        {
+          "version": "2.3.0",
+          "date": "2025-08-04T03:04:43Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.3.0/Feather.ipa",
+          "size": 12695588,
+          "sha256": "a2cdbb8d2163904c4967b31da6d327816ad00ec45643a36c680d3f68fb9fa93d",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Adds proper app listings when tapping on an app cell, available for iOS 17+ * This shows displays `Author`, `Screenshots`, `What's Changed`, etc. * Adds more icons in the settings tab by @Nyasami in https://github.com/khcrysalis/Feather/pull/418 * When pressing on `Submit Feedback`, we now prefill issue body with metadata with necessary info for debugging, by @castdrian in https://github.com/khcrysalis/Feather/pull/429 * Add bulk deletions for library tab by @Nyasami in https://github.com/khcrysalis/Feather/pull/436 * Add missing Polish localizations by @marcinmajsc * Add missing Vietnamese localizations by @arm64x ## Preview | <img width=\"414\" height=\"896\" alt=\"IMG_6429\" src=\"https://github.com/user-attachments/assets/d214eb56-a281-4fda-8eb7-58ffaa2c3fd5\" /> | <img width=\"414\" height=\"896\" alt=\"IMG_6431\" src=\"https://github.com/user-attachments/assets/3fa587af-c99c-49b5-b5ab-4326a5a7dc0f\" /> | <img width=\"414\" height=\"896\" alt=\"IMG_6430\" src=\"https://github.com/user-attachments/assets/3bc836de-958a-486b-8511-f964a3827a90\" /> | |:-:|:-:|:-:| ## New Contributors * @braless made their first contribution in https://github.com/khcrysalis/Feather/pull/415 * @Nyasami made their first contribution in https://github.com/khcrysalis/Feather/pull/418 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.2.2...v2.3.0",
+          "buildVersion": "3219421717ea184cb9ade6892095c0be59b1a994"
+        },
+        {
+          "version": "2.2.2",
+          "date": "2025-06-29T13:25:07Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.2.2/Feather.ipa",
+          "size": 12474512,
+          "sha256": "58697b32378369b7fb64edcc6946870567a6b4bf9afcaed18554c04ddd8c47c4",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed - Fixed issue regarding a persistent invalid watchOS app, by just deleting it entirely. **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.2.1...v2.2.2",
+          "buildVersion": "8fa798f282c1e914950bb730c74ec2484143e0a2"
+        },
+        {
+          "version": "2.2.1",
+          "date": "2025-06-29T01:37:01Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.2.1/Feather.ipa",
+          "size": 12474633,
+          "sha256": "fd4d5efcba31ab5dabd3fe100e906b451fd64c5d4a00cbd0d08c77ddade6bfee",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed - Made signing more robust, hopefully should sign most if not all apps effectively now. - Made filtering options be saved instead of being temporary. **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.2.0...v2.2.1",
+          "buildVersion": "feb38ca25fb6a34fd43fbf44f639af3bb2967e36"
+        },
+        {
+          "version": "2.2.0",
+          "date": "2025-06-26T21:42:44Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.2.0/Feather.ipa",
+          "size": 12472153,
+          "sha256": "366968ab88ea1f854d29c223b99963e54d3e1a201055dd0a20646dc97754f0ea",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Fixed crash when exporting with sharesheet on iPad. * Fixes issues regarding navigation bar disappearing in sources. * Fixes app permissions. * Fixed some signing issues by recursively deleting `_CodeSignature` in all directories inside of the application, this also includes recursively checking for which binaries to sign. * Added icon-picker for those with AppID capabilities. * Added options to reset / clear cache the app has built-up. * Added URL scheme for exporting certificates, mainly useful for applications enabling JIT. - `feather://export-certificate?callback_template=<template>` - See https://github.com/SideStore/SideStore/pull/959 for more information. * Added URL scheme for importing certificates. - `feather://import-certificate?p12=<base64>&mobileprovision=<base64>&password=<base64>` * Added delete after signing option. * Added section for recommended repositories. * Added Polish Localizable by @marcinmajsc in https://github.com/khcrysalis/Feather/pull/397 * Cleaned up some views, installation and signing options are most prevalent. * Polished much of the UI. * Expanded scope for searching in repositories. ## New Contributors * @marcinmajsc made their first contribution in https://github.com/khcrysalis/Feather/pull/397 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.1.1...v2.2.0",
+          "buildVersion": "f1c0bf1ac97ac8fa392adba8e230753564a34d71"
+        },
+        {
+          "version": "2.1.1",
+          "date": "2025-06-16T14:26:19Z",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.1.1/Feather.ipa",
+          "size": 12123873,
+          "sha256": "173b9f79da8bc25e7be4a7900ca435df63a6d57cc1000bf04a4fba14f5e01f06",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [PlumeImpactor](https://github.com/khcrysalis/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Fixes some issues with sideloaded apps on iOS 26 by fixing old arm64e slice. * Fixes issue with some signing options not saving. * Fixes crashed related to revokation check, by making it do less requests. * Added ability to force liquid-glass in sideloaded applications for iOS 26. * Added an option to replace applications pre-injected with CydiaSubstrate with [ElleKit](https://github.com/tealbathingsuit/ellekit). * Added customization options in appearance settings, which includes an experiment for liquid glass. * Disable autocapitalization in textfields by @CelloSerenity in https://github.com/khcrysalis/Feather/pull/386 * Vietnamese language update strings by @arm64x in https://github.com/khcrysalis/Feather/pull/389 ## New Contributors * @CelloSerenity made their first contribution in https://github.com/khcrysalis/Feather/pull/386 **Full Changelog**: https://github.com/khcrysalis/Feather/compare/v2.1.0...v2.1.1",
+          "buildVersion": "0f804a285e9091b54c51feacb7f040370c8b10fb"
         }
       ]
     },
