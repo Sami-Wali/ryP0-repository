@@ -138,9 +138,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-air-devs-air-43f6ee0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/tag/5.0.0-Preview",
+        "configId": "com-air-devs-air-43f6ee0c",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37577290452",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -154,14 +154,23 @@
       },
       "name": "Air",
       "status": {
-        "checkedAt": "2026-10-10T06:12:58Z",
-        "checkedDownloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
+        "checkedAt": "2026-10-10T11:56:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Minecraft Java Launcher by Chinese Team",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "c4797387ca9a81f31fdcdd2723ec1050ca35fdb3",
+          "date": "2026-10-07T05:38:09Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
+          "size": 252649503,
+          "sha256": "c4e03c185919a06cc416cf570a3f56082665412eedd024df18c0189305800007",
+          "releaseChannel": "actions",
+          "buildVersion": "6.0.0"
+        },
         {
           "buildVersion": "5.1.0",
           "date": "2026-10-01T01:38:02Z",
