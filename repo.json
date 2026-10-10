@@ -2876,7 +2876,39 @@
           "date": "2026-08-19T17:23:28Z",
           "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
           "size": 3281026,
-          "version": "v1.1.1"
+          "version": "v1.1.1",
+          "releaseChannel": "release",
+          "localizedDescription": "# 3105 1.1.1 Hotfix sửa lỗi chạm — Files/Patch có thể tap lại bình thường. ## Cài đặt - Asset đính kèm là IPA **unsigned** (`Payload/3105.app`) để ký lại bằng ESign với chứng chỉ doanh nghiệp. - Bundle đích: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer. --- ## English summary 3105 1.1.1 is a quick hotfix for tap blocking in Files/Patch. The attached IPA is unsigned (`Payload/3105.app`) for enterprise-certificate/ESign signing. Bundle `com.apple.mobile.MobileHouseArrest`."
+        },
+        {
+          "version": "v1.1.0",
+          "date": "2026-08-19T16:23:34Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.0-80d77f655fd4.ipa",
+          "size": 3271690,
+          "sha256": "80d77f655fd4da9655fbc71e28aa0a7abf6dac7bfddfe8b0b5464d2603df8719",
+          "releaseChannel": "release",
+          "localizedDescription": "# 3105 1.1.0 Bản cập nhật tập trung vào mở rộng hỗ trợ iOS, onboarding khi cài đè và thông báo mật khẩu patch. ## Tính năng mới - Mở rộng iOS được xác minh: **iOS 17.0–17.7.x** và **iOS 18.0–18.7.1** (kexploit kernel), cùng với **iOS 26.0–26.6.1** và **iOS 27.0 Developer Beta 1–4 / Public Beta 1–2**. - Khi nhập patch `.3105` mà nhập sai mật khẩu sẽ hiển thị **\"Sai mật khẩu\"** rõ ràng thay vì lỗi chung. - **Onboarding hiển thị lại khi cài đè** — cài đè app cùng phiên bản (ví dụ cài lại 1.1.0 đè lên 1.1.0) sẽ hiện lại màn hình hướng dẫn, đảm bảo người dùng mới và người cập nhật đều thấy đầy đủ các bước. - Biểu tượng ứng dụng được làm mới. ## Cài đặt - Asset đính kèm là IPA **unsigned**, dành để ký lại bằng ESign với chứng chỉ doanh nghiệp. - Bundle đích: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer. - Chỉ dùng trên thiết bị và dữ liệu thuộc sở hữu của bạn; hãy sao lưu trước khi thay đổi app data. Cảm ơn [`0xjohnny`](https://x.com/0xjohnny) cho nghiên cứu FilzaSlop. --- ## English summary 3105 1.1.0 broadens verified support to **iOS 17.0–17.7.x** and **18.0–18.7.1** (kexploit kernel path) alongside 26.0–26.6.1 and 27.0 Developer Beta 1–4 / Public Beta 1–2. Importing a `.3105` patch with the wrong password now shows an explicit \"Incorrect password\" message. Overwriting the app with the same version (reinstalling 1.1.0 over 1.1.0) re-shows onboarding. App icon refreshed. The attached IPA is unsigned for enterprise-certificate/ESign signing. Bundle `com.apple.mobile.MobileHouseArrest`.",
+          "buildVersion": "6"
+        },
+        {
+          "version": "v1.0.1",
+          "date": "2026-08-15T08:37:54Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.1-cce50b1c6868.ipa",
+          "size": 4228516,
+          "sha256": "cce50b1c686847c8c9090322ce5ba4fcaf619d0d73eb503565d9c4352c59dcb0",
+          "releaseChannel": "release",
+          "localizedDescription": "# 3105 1.0.1 Bản cập nhật chính thức tập trung vào Patch workspace v2, trình quản lý Tệp và độ hoàn thiện UI/UX. ## Tính năng mới - Tạo patch bằng cây thư mục theo bundle trong `Trên iPhone của tôi/3105/Patches`; không lưu UUID container. - Tự đồng bộ workspace khi Áp dụng hoặc Xuất, đồng thời tiếp tục hỗ trợ patch v1. - Tự sao lưu file gốc; Khôi phục trả lại file cũ, xóa file patch đã thêm và dọn folder mới sau khi rỗng. - Nhiều tab Tệp độc lập, giữ nguyên vị trí từng tab, chọn nhiều mục, nén ZIP và giải nén ZIP an toàn. - Giao diện iPad split view/landscape, tùy chọn ẩn Dọn dẹp/Hình nền và giao diện nhóm cân đối hơn. - Sửa ô tìm kiếm bị nhấp nháy, tỷ lệ icon/hàng file, CTA trống của Patch và hướng dẫn PosterBoard trên iOS 27. - Bỏ giới hạn cố định cũ về tổng dung lượng payload và số file patch; giới hạn thực tế của thiết bị vẫn áp dụng. ## Hướng dẫn Patch nhanh 1. Vào **Patch → + → Tạo patch**, nhập tên và bundle ID. 2. Mở **Tệp → Workspace 3105 → Patches → tên patch → bundle ID**. 3. Tạo cây đường dẫn giống vị trí trong app data và đặt file thay thế vào đó. 4. Quay lại dự án rồi bấm **Áp dụng**; bấm **Khôi phục file gốc** khi muốn hoàn tác. Bạn cũng có thể giữ vào file/folder trong data container và chọn **Tạo patch** để app tự lấy bundle cùng đường dẫn. Xem [hướng dẫn Patch đầy đủ bằng tiếng Việt](https://github.com/YangJiiii/3105/blob/v1.0.1/docs/PATCH_GUIDE.vi.md) hoặc [English guide](https://github.com/YangJiiii/3105/blob/v1.0.1/docs/PATCH_GUIDE.md). ## Cài đặt - Asset đính kèm là IPA **unsigned**, dành để ký lại bằng ESign với chứng chỉ doanh nghiệp. - Bundle đích: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer. - Chỉ dùng trên thiết bị và dữ liệu thuộc sở hữu của bạn; hãy sao lưu trước khi thay đổi app data.",
+          "buildVersion": "5"
+        },
+        {
+          "version": "v1.0.0",
+          "date": "2026-08-14T16:56:21Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.0-5778e000299f.ipa",
+          "size": 2601562,
+          "sha256": "5778e000299f2a62cc31a38b25f5140f77ce6ee459dcbd3bb13afce784cc9964",
+          "releaseChannel": "release",
+          "localizedDescription": "## 3105 1.0 — Bản phát hành chính thức Đây là bản stable đầu tiên của 3105, nâng cấp trực tiếp từ `1.0 beta 3`. ### Có gì mới - **Trình quản lý tệp đầy đủ hơn:** chọn nhiều mục, sao chép, di chuyển, dán, đổi tên, xóa, tạo tệp/thư mục, xem trước, chia sẻ và nén nhiều tệp/thư mục thành ZIP. - **Nhập tệp linh hoạt:** nhập nhiều tệp cùng lúc; khi trùng tên có thể thay thế, giữ cả hai, thay thế tất cả hoặc giữ cả hai cho toàn bộ phiên nhập. - **Patch `.3105`:** bỏ giới hạn nhân tạo về số quy tắc và dung lượng gói/thay thế; đường dẫn vẫn được lưu theo **bundle identifier**, không lưu UUID container của từng máy. - **Mở patch trực tiếp:** hỗ trợ mở tệp `.3105` từ Files và nhập từ website qua liên kết HTTPS `threeoneosfive://import?url=...`. - **Cleaner:** sắp xếp dung lượng từ cao xuống thấp hoặc thấp lên cao; chọn/bỏ chọn tất cả và chọn toàn bộ kết quả đang tìm kiếm. - **Wallpaper Lab:** căn giữa lại nút Áp dụng và giữ giao diện gọn hơn. - **Ngôn ngữ:** các nội dung mới đã được bổ sung cho English, Tiếng Việt và 简体中文. ### Cài đặt - File đính kèm là **IPA chưa ký**, dành cho người dùng tự ký bằng chứng chỉ doanh nghiệp/ESign. - Bundle identifier phải giữ nguyên: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ cài qua SideStore, AltStore, 3uTools hoặc LiveContainer. ### An toàn dữ liệu - Hãy sao lưu trước khi sửa dữ liệu ứng dụng. - Cleaner chỉ xóa nội dung trong `Library/Caches` và `tmp` của ứng dụng đã chọn, sau khi người dùng xác nhận. - Patch nhập từ website được tải qua HTTPS, kiểm tra định dạng trước khi lưu và không tự động áp dụng. --- ## English summary 3105 1.0 adds multi-select file operations, preview/share and ZIP creation, conflict-aware multi-file import, uncapped `.3105` patch projects, direct Files/HTTPS website imports, Cleaner size sorting and bulk selection, and updated English/Vietnamese/Simplified Chinese localization. The attached IPA is unsigned and intended for enterprise-certificate/ESign signing. Keep the bundle identifier as `com.apple.mobile.MobileHouseArrest`.",
+          "buildVersion": "4"
         }
       ]
     },
