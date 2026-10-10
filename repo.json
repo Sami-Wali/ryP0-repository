@@ -2996,12 +2996,42 @@
           "version": "v1.3.1"
         },
         {
+          "version": "v1.3.0",
+          "date": "2026-10-05T18:55:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.0-fa10e9c3c280.ipa",
+          "size": 8883213,
+          "sha256": "fa10e9c3c280651e8af3bd3e842ed89573a218ea29488d6a9b3be2f16c931773",
+          "releaseChannel": "release",
+          "localizedDescription": "# Main changes: - Switched app signing to apple-codesign-quick (the same signer iLoader uses) - Signing is about 6-9x faster - SideInstaller is about 5 MB smaller - Popups that appear together are now merged into one card - The pairing code and its Settings steps are now one popup - An error and its fix steps are now one popup - The \"Installed\" message, the trust step and LiveContainer's certificate import are now one \"Success: last steps\" popup - Added clear explanations and steps for more errors - Apple Accounts that are too young to use developer services (error 1102) - Running out of App IDs for the week (error 9120) - Already having 3 apps installed with a free Apple ID - Logging in now automatically retries when Apple temporarily rate limits it (HTTP 429) - Added PanicAnalyzer to the apps that can receive the pairing file ## Fixes: - Fixed LiveContainer + SideStore not downloading while the official LiveContainer GitHub is down (it now uses a temporary mirror, which only has the nightly build) - Fixed imported .ipa files with spaces, symbols or non-Latin letters in their name failing to sign (error 35) - Fixed some imported .ipa files that still had parts of an old signature failing to install - Fixed Side by Side: when two people pair the same iPhone, the second one no longer breaks the first one's pairing - Fixed not being able to revoke \"Apple Development\" certificates (the ones Xcode makes) in the Certificates tool (error 7252) - Fixed AutoFill filling in the email and password separately on the login page",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.2.2",
+          "date": "2026-10-04T08:49:05Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.2-345cc88e2370.ipa",
+          "size": 9379704,
+          "sha256": "345cc88e2370cf98072cd23f124bad03354317f3c598891f34cae490c81885ed",
+          "releaseChannel": "release",
+          "localizedDescription": "- Fixed a bug in the installation of the latest nightly of SidesStore - The app would put the pairing file in the wrong path as it has been changed with an update. Issue has been fixed. - Improved visibility of popups",
+          "buildVersion": "1"
+        },
+        {
           "buildVersion": "2",
           "date": "2026-09-30T16:30:57Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.1-9d7f69c23d99.ipa",
           "sha256": "9d7f69c23d99d47b35e9f17db5d9f8ab299f868f778d6d8b6ccbcf3706a3ce0a",
           "size": 9349679,
           "version": "v1.2.1"
+        },
+        {
+          "version": "v1.2.0",
+          "date": "2026-09-30T14:26:55Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.0-99c632441fad.ipa",
+          "size": 9331555,
+          "sha256": "99c632441fad5210631609d18052d5dfda810c312146991ab987091efb455231",
+          "releaseChannel": "release",
+          "localizedDescription": "- Messages are now shown as popups to improve clarity - Added advanced options to the install page - Users can now choose the Sidestore (+ Livecontainer) version - Users can now manually import the pairing file on iOS 27+ #60 - Made transitions between pages smoother",
+          "buildVersion": "2"
         },
         {
           "buildVersion": "1",
@@ -3018,6 +3048,14 @@
           "version": "v1.0.0"
         },
         {
+          "date": "2026-08-07T14:00:16Z",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
+          "size": 7908297,
+          "version": "v0.9.0",
+          "releaseChannel": "release",
+          "localizedDescription": "Sorry for the instability these days. This update makes SideInstaller fully compatible with the latest releases of all apps, including SideStore Nightly. ## Changes: - SideStore, LiveContainer + SideStore and Feather now accept the pairing file SideInstaller puts in them, instead of asking you for one as though nothing had been placed. SideInstaller now switches on the setting those apps need to reach your iPhone over your local tunnel, which nothing was doing before. - The install may ask you to unlock your iPhone and tap Trust once, and it remembers the result so it won't ask again for that device. If that extra step doesn't work, your install still finishes exactly as it did before, and the log tells you what went out. Pairing tab - One button now writes the pairing file into every supported app it found, instead of you tapping through them one at a time. - One app refusing the pairing file no longer stops the others from getting it. - Export now shares the pairing file that every app can read, so importing it by hand works as well as letting SideInstaller place it."
+        },
+        {
           "buildVersion": "1",
           "date": "2026-08-07T13:59:57Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.9.0-73dd6b9027cb.ipa",
@@ -3032,10 +3070,24 @@
           "version": "0.9.0"
         },
         {
-          "date": "2026-08-07T14:00:16Z",
-          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
-          "size": 7908297,
-          "version": "v0.9.0"
+          "version": "v0.8.0",
+          "date": "2026-08-06T21:03:48Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.8.0-90825f8c7275.ipa",
+          "size": 8436151,
+          "sha256": "90825f8c727590ca756b7c22f4c3e5f89ed1681ed15b068bf5a277512ad508f7",
+          "releaseChannel": "release",
+          "localizedDescription": "# Note from the dev V1 is planned to be released by the time that Apple releases iSO 27’s official build. To ensure that, my goal currently is to bring a stable version of the app rather than introducing any new features. This update significantly brings us closer to that goal as it fixes the 2 most common and irritating errors reported so far. Please, keep testing it and share your issues on GitHub or on the discord server. <3 # Changes - Fixed the SideStore nightly error “`Domain=AltSign.Error Code=1 The app extension is missing a valid provisioning profile. UserInfo={NSLocalizedFailureReason =The app extension is missing a valid provisioning profile.}`” - To fix it, the app now writes embedded.mobileprovision into each .appex before sign::sign, and rust-core/Cargo.toml redirects the git dep to it - Fixed a bug that occurred when the app downloaded an .ipa from GitHub - The app now relies on the release’s download link rather than the GitHub API to ensure there are no API cap problems - [Updated dependencies](https://raw.githubusercontent.com/FrizzleM/SideInstaller/refs/heads/main/v0.8-dependency-updates.txt)",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.7.0",
+          "date": "2026-08-03T13:58:44Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.7.0-c58bee780540.ipa",
+          "size": 7626179,
+          "sha256": "c58bee7805409cd567321b42a1e0e08ffbca364ecefc7fd7b3f30a1132041ee7",
+          "releaseChannel": "release",
+          "localizedDescription": "This update brings significant changes to the backend. The app is now more optimized with LocalDevVPN, which should cause much less issues with tunnel connections being refused or expired. ## Custom IPAs - Users can now import any IPA from Files and SideInstaller signs and installs that instead of downloading. - Documents is now visible in **Files › On My iPhone › SideInstaller**. If you put a SideStore.ipa there, the install uses it. This can be useful for those who cannot access GitHub servers. #9 - A failed download falls back to a copy from an earlier run. - Imports are now backgrounded, work off iCloud Drive, don't destroy the previous file if they fail, and catch a truncated archive at import. ## Security - The pairing file and your signing certificate moved out of Documents to Application Support. This fixes a huge security flaw since apps could abusively access your pairing files without your consent, giving them access to potential security exploits. ## Tunnel and VPN - Any loopback VPN works, not just LocalDevVPN. The UI now says so and names ClashMi too. #9 - A tunnel on a mask other than /24 is detected; a Wi-Fi LAN on the same range no longer reads as a tunnel. - Entering LocalDevVPN's own address in Device IP is caught before the run starts, instead of failing at Connect. - Wi-Fi is only required for pairing. Installing with a saved pairing file works on cellular. ## Fixes - Added new languages, such as Chinese - Pairing tab no longer fails with \"adapter closed\" after sitting idle, it re-establishes the device link first. - The tunnel/Wi-Fi poll no longer redraws the UI twice a second. - Large builds are mapped rather than read into memory whole during upload. - The activity log is capped at 2000 lines. - Removed the copy button from the code since it can't be pasted into the settings app, meaning it was useless **Full changelog:** https://github.com/FrizzleM/SideInstaller/compare/v0.6.5...v0.7.0",
+          "buildVersion": "1"
         }
       ]
     },
