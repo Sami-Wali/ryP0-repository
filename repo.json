@@ -38,15 +38,13 @@
         "method" : "direct-url",
         "sourceURL" : "https:\/\/archive.org\/download\/deer_hunter_2014_2.2.0_ios_5.1\/Deer_Hunter_2014_2.2.0_ios_5.1.ipa"
       },
-      "localizedDescription" : "",
-      "name" : "Deer hunter 2014",
+      "name" : "Deer hunter",
       "status" : {
         "checkedAt" : "2026-10-10T08:16:35Z",
         "checkedDownloadURL" : "https:\/\/archive.org\/download\/deer_hunter_2014_2.2.0_ios_5.1\/Deer_Hunter_2014_2.2.0_ios_5.1.ipa",
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "static",
       "versions" : [
         {
