@@ -152,15 +152,13 @@
         "method" : "github",
         "sourceURL" : "https:\/\/github.com\/herbrine8403\/Amethyst-iOS-MyRemastered"
       },
-      "localizedDescription" : "",
-      "name" : "Air",
+      "name" : "Air: Minecraft Java",
       "status" : {
         "checkedAt" : "2026-10-10T06:12:58Z",
         "checkedDownloadURL" : "https:\/\/github.com\/herbrine8403\/Amethyst-iOS-MyRemastered\/releases\/download\/5.1.0\/Air-5.1.0.ipa",
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
