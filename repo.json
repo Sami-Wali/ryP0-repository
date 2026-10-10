@@ -10,21 +10,21 @@
       "versions": [
         {
           "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc",
-          "date": "2026-10-05T23:04:42Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-1fd3b83e5d48.ipa",
-          "size": 33925380,
+          "date": "2026-10-05T23:04:27Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+          "size": 191972732,
           "buildVersion": "1.0",
           "releaseChannel": "actions",
-          "sha256": "1fd3b83e5d48158f5e331e08de92fb20ae5398ae32403ddaf6de53cf1eae92cf"
+          "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556"
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.angelauramc.amethyst-1fd3b83e5d48.png",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.angelauramc.amethyst-9e934826b921.png",
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-1fd3b83e5d48.ipa",
-        "checkedAt": "2026-10-10T19:24:43Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+        "checkedAt": "2026-10-10T20:00:33Z",
         "message": "Imported and mirrored after IPA validation"
       },
       "importSource": {
