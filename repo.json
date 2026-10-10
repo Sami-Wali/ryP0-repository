@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "Manic EMU",
+      "bundleIdentifier": "com.aoshuang.manicemu",
+      "developerName": "Manic-EMU",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2026-09-18T09:29:42Z",
+          "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.1/ManicEMU.v2.0.1.SideloadJIT.ipa",
+          "size": 288525117,
+          "buildVersion": "12",
+          "localizedDescription": "- Added WonderSwan support - Added NAOMI, Atomiswave, and System SP arcade support - Added Flash support · Skin button binding · Hardware keyboard input · Software keyboard input · Touch input - Built-in, self-contained JIT — no external debugger required - Added Slow Motion - Improved GameCube and Wii performance - GameCube now supports multi-disc games - Improved Wii motion controls - Simulate the Wii IR pointer by touch - Add games from other emulators via a link - Fixed some arcade systems that wouldn’t run - Fixed Dreamcast games running too fast - Fixed PSP crashes - Added NDS lid open/close - Improved rotation: with orientation lock on in Control Center, the app no longer snaps back to portrait - In-game shortcut tips can now be turned off - Landscape library can disable carousel style - Smoother landscape carousel scrolling - MultiDisc Helper supports more formats - Hardware keyboard input for Symbian, Amiga, and C64 - Added RomM support · LAN self-hosted servers only · Sync only for games imported from RomM · Manual sync only, from the service card’s long-press menu · Pull ROMs, covers, metadata, manuals, and game saves - Fixed a launch timeout that could quit the app on older devices - N64 now supports ROMs larger than 64 MB",
+          "releaseChannel": "release",
+          "sha256": "b670b1c1c538325d82ff2c74ebacd97c9fb338af6dc8516cccbfade882147b71"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.aoshuang.manicemu-b670b1c1c538.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.1/ManicEMU.v2.0.1.SideloadJIT.ipa",
+        "checkedAt": "2026-10-10T20:08:29Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 12,
+        "sourceURL": "https://github.com/Manic-EMU/ManicEMU"
+      },
+      "githubURL": "https://github.com/Manic-EMU/ManicEMU",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-aoshuang-manicemu-c53539f7",
+        "sourceURL": "https://github.com/Manic-EMU/ManicEMU",
+        "workflowPath": ".github/workflows/update-app-com-aoshuang-manicemu-c53539f7.yml"
+      }
+    },
+    {
       "name": "Amethyst",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "developerName": "AngelAuraMC",
