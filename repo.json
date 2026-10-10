@@ -1269,7 +1269,9 @@
           "downloadURL": "https://github.com/claration/Feather/releases/download/v2.9.0/Feather.ipa",
           "sha256": "833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea",
           "size": 14241853,
-          "version": "2.9.0"
+          "version": "2.9.0",
+          "releaseChannel": "release",
+          "localizedDescription": "Thank you for all your feedback and contributions! > [!TIP] > For `idevice` configuration, you can use [Impactor](https://github.com/claration/Impactor?tab=readme-ov-file#pairing-file) for easily retrieving a pairing file for installing! ## What's Changed * Added tweak options in default signing options. * Added ability to search for identifier's in Library @ismailcarlik in https://github.com/claration/Feather/pull/652 * Fixed issue in the file enumeration logic, by using the path property instead of method. * Fixed credit links. * Fixed duplicate repository in recommended repositories. ## New Contributors * @xiangfeidexiaohuo made their first contribution in https://github.com/claration/Feather/pull/634 * @osageling made their first contribution in https://github.com/claration/Feather/pull/642 **Full Changelog**: https://github.com/claration/Feather/compare/v2.8.2...v2.9.0"
         },
         {
           "version": "2.8.2",
