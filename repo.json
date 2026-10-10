@@ -1303,44 +1303,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "com-ry0-ryp0-67c459ef",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json",
-        "workflowPath" : ".github\/workflows\/update-app-com-ry0-ryp0-67c459ef.yml"
-      },
-      "bundleIdentifier" : "com.ry0.ryP0",
-      "category" : "Sideloading",
-      "developerName" : "Sami-Wali",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/assets\/icon.png",
-      "importSource" : {
-        "method" : "repository",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0\/main\/repo.json"
-      },
-      "localizedDescription" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "name" : "ryP0",
-      "status" : {
-        "checkedAt" : "2026-10-10T12:53:02Z",
-        "checkedDownloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "subtitle" : "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "1",
-          "date" : "2026-10-01T19:27:43Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0\/releases\/download\/Release\/ryP0-unsigned.ipa",
-          "localizedDescription" : "Initial public release of ryP0.",
-          "sha256" : "f066a220fda92f341947b3d11bed7443bdb1ac29fbc41e3df701cd748dc3afe2",
-          "size" : 14846145,
-          "version" : "1.0.0"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "com-nadotv-nadotv-014a4e4a",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/t.me\/ipaarab\/13000",
