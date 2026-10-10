@@ -2921,6 +2921,14 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "date": "2026-02-25T15:28:02Z",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+          "size": 13591314,
+          "version": "EnsWilde3.1.3",
+          "releaseChannel": "release",
+          "localizedDescription": "# EnsWilde v3.1.3 ## Updates - You can now download DDI, fully resolving all DDI-related issues (updated via Settings) ## Features - Added an option to hide the Dynamic Island in Theme UI *(A device restart is required for this feature to take effect)* - Added Feature Flags for in-app functionalities *(A device restart is required for this feature to take effect)* - zpatch Custom no longer requires a password ## Guides - Updated the guide for obtaining default passcode files and Apple Wallet files *(You will need a Mac or a device that can receive AirDrop)* *(The guide is available in Settings)*"
+        },
+        {
           "buildVersion": "3",
           "date": "2026-02-25T15:25:49Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
@@ -2929,10 +2937,44 @@
           "version": "EnsWilde3.1.3"
         },
         {
-          "date": "2026-02-25T15:28:02Z",
-          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
-          "size": 13591314,
-          "version": "EnsWilde3.1.3"
+          "version": "EnsWilde3.1.2",
+          "date": "2026-02-01T14:58:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.2-88b502eb30d9.ipa",
+          "size": 13615407,
+          "sha256": "88b502eb30d95d466ebf2d205dafdb955fbb234cf3601292c972bd72c4d147ca",
+          "releaseChannel": "release",
+          "localizedDescription": "# Fixes & Improvements ## Bug Fixes - Fixed **StkJIT Code = -1** and **StkJIT Code = -60** - Fixed application **crash caused by outdated or invalid pairing files** - A warning message is now shown instead of crashing when an old pairing file is detected ## Testing & Verification - Tested and confirmed working on **LiveContainer** - Signed using a **personal certificate** --- Thank you for using and supporting the project.",
+          "buildVersion": "3"
+        },
+        {
+          "version": "EnsWilde3.1.1",
+          "date": "2026-01-22T11:37:58Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.1-822fdc9b3059.ipa",
+          "size": 13564791,
+          "sha256": "822fdc9b3059dbc9743ec8d5564733422c22ca2f6b84ed9953216685e2fc69eb",
+          "releaseChannel": "release",
+          "localizedDescription": "# Changelog ## Bug Fixes - Fixed an issue where **rdar** was not working in **Mobile Gestalt** ## New Features - Added a **Themes Store** to download passcode themes - You can also create your own custom theme - Contact me if you want your theme to be added ## Language Support - Added **multi-language support** - If you want to contribute a new language, please contact me",
+          "buildVersion": "3"
+        },
+        {
+          "version": "EnsWilde3.1",
+          "date": "2026-01-19T15:53:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1-06ec468721a6.ipa",
+          "size": 13311776,
+          "sha256": "06ec468721a64a6267dbb334cac11ed88065602dd779fca08941a550652e14f8",
+          "releaseChannel": "release",
+          "localizedDescription": "## ✅ Update Notes ### Fixed - DDI issue has been resolved ### Improvements - Added multi-language support ### New Features - UI Theme option added - Allows disabling the Liquid Glass effect for a cleaner and smoother interface",
+          "buildVersion": "3"
+        },
+        {
+          "version": "EnsWilde3.0",
+          "date": "2026-01-18T07:14:23Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.0-a4c3b2cf670d.ipa",
+          "size": 12773718,
+          "sha256": "a4c3b2cf670da9b7a242389733c653acfa03456834f647233262a4af86e75486",
+          "releaseChannel": "release",
+          "localizedDescription": "- **No longer requires StikDebug:** You only need to enable LocalDevVPN for it to work. - **App improvements:** Enhanced application performance and stability.",
+          "buildVersion": "3"
         }
       ]
     },
