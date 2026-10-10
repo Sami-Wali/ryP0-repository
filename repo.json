@@ -261,7 +261,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-air-devs-air-43f6ee0c",
-        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/actions/runs/38077518374",
+        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/actions/runs/38076009823",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -279,7 +279,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-8105017f520cc4d8c179c0311b859fed725cfc2b-38a486835061.ipa",
-        "checkedAt": "2026-10-10T20:10:10Z",
+        "checkedAt": "2026-10-10T20:10:35Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Minecraft Java Launcher fork of Air launcher",
@@ -309,6 +309,15 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-55a24135c0d4b05bd993a146a3a51d2ac9be9905-bd0f86baa67b.ipa",
           "size": 234682349,
           "sha256": "bd0f86baa67b2922927175e137a7a1af3ce0cf5eaa1b0ce32f6936159bb9e460",
+          "releaseChannel": "actions",
+          "buildVersion": "6.5.0"
+        },
+        {
+          "version": "9f610a6ae12a23312eaef3f634f561c6a5c7ded4",
+          "date": "2026-10-10T18:29:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-9f610a6ae12a23312eaef3f634f561c6a5c7ded4-97293e961a6b.ipa",
+          "size": 234679701,
+          "sha256": "97293e961a6b4387844e8f237e12862878b87155cf98ae9f860c0c540e0b5840",
           "releaseChannel": "actions",
           "buildVersion": "6.5.0"
         },
