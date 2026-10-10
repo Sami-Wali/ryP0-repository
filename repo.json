@@ -1467,7 +1467,8 @@
           "releaseChannel": "release",
           "sha256": "071caf4b30289f9b67b0758ebc645e61e8304162b852a2270a9c495e6fb10354",
           "size": 31683375,
-          "version": "v1.0.1"
+          "version": "v1.0.1",
+          "localizedDescription": "DukeX v1.0.1 brings Xbox Live profile groundwork, improved rendering stability, Touch Controls, AirPlay, personalization, cover art scraping, and native URL scheme support. What's New: - Partnership with XB.Live introduces profile integration for achievements, friends, messages, community events, and cloud sync support. - Core rendering and performance handling have been improved for better stability across more titles. - Touch Controls now support .manicskin layouts, .deltaskin and .gammaskin imports, haptic feedback, and the official DukeX Default skin. - AirPlay support lets compatible devices send gameplay to larger displays. - Themes, automatic cover art retrieval, and DukeX URL scheme support expand personalization and launch-link workflows. - Minimum iOS support has been experimentally lowered to iOS 16 on A14/M1 or newer hardware. Known Issue: - After device rotation, some touch controls may stop functioning as intended. For this release, launch the game in the orientation you plan to play in, portrait or landscape. DukeX does not include Xbox system files, game images, BIOS files, or copyrighted content. Users must provide their own legally obtained files."
         },
         {
           "buildVersion": "100",
@@ -1476,7 +1477,8 @@
           "releaseChannel": "release",
           "sha256": "aa561df3a8607dfebce04d23cabdab25abad6eac198e045def3d8a643874fdff",
           "size": 14406551,
-          "version": "v1.0.0"
+          "version": "v1.0.0",
+          "localizedDescription": "DukeX v1.0.0 is the first release build prepared for wider sideload testing. ## Highlights - Native SwiftUI game library, profile, and settings interface. - Game-library sorting by Favorites, Title, Live support, and Recent. - Per-game favorite toggles from the long-press menu. - Portrait and landscape library column controls. - Insignia-oriented NAT defaults and live indicators for supported titles. - User-accessible BIOS, ROMs, Covers, GameConfigs, and ShaderCaches folders. - Per-game cover art, custom config import, shader-cache clearing, and dashboard launch. - Built-in FPS/system statistics HUD and app-owned launch logs. - iOS 18.0+ install target with version-aware JIT behavior. ## User Notes - This IPA is unsigned and intended for sideload signing tools. - DukeX does not include Xbox system files, game images, BIOS files, HDD images, or signing certificates. - Users and testers must provide their own legally obtained files. - iOS 18.x uses W^X reprotection after JIT has been enabled for the DukeX process. - iOS 26 or later requires StikDebug with Universal.js assigned to `com.mafty.dukex`. - Rendering correctness and performance are still title- and device-dependent. - Apple's Metal HUD may not appear with the current presenter; use DukeX's built-in stats HUD for testing."
         },
         {
           "buildVersion": "15",
@@ -1485,7 +1487,8 @@
           "releaseChannel": "alpha",
           "sha256": "c58ac73b1511af754fbfd0d0fb825ab486934b06cb4630540f9a253490025d0f",
           "size": 14380846,
-          "version": "v0.1.5"
+          "version": "v0.1.5",
+          "localizedDescription": "## DukeX Alpha Build v0.1.5 ### Update Notes - Promotes the reorganized DukeX iOS source layout to `master`. - Adds Insignia live indicators to supported games in the Games tab. - Refreshes live status when entering the Games tab. - Captures title IDs during XISO import so game-specific services can use stable metadata. - Keeps the existing iOS 18.x W^X JIT path and iOS 26+ Universal.js flow from v0.1.4. ### Tester Notes - This is an unsigned sideload IPA for alpha testing. - Bundle ID: `com.mafty.dukex`. - iOS 18.x devices need JIT enabled for the DukeX process, but do not use Universal.js. - iOS 26 or later still requires the StikDebug Universal.js workflow. - DukeX does not include Xbox system files, game images, or signing certificates. Testers must provide their own legally obtained files. ### Known Issues - Rendering correctness still varies by title. - Some Halo 2 HUD effects remain incomplete on the current Vulkan/MoltenVK path. - Apple's Metal HUD does not currently appear for the embedded presenter."
         },
         {
           "buildVersion": "14",
@@ -1494,7 +1497,8 @@
           "releaseChannel": "alpha",
           "sha256": "969999e6c371da539fb072ce81835393cbdfdfb6914bf9d962c23a9d1af45892",
           "size": 12926956,
-          "version": "v0.1.4"
+          "version": "v0.1.4",
+          "localizedDescription": "## DukeX Alpha Build v0.1.4 This alpha build focuses on the iOS 18.x launch path while preserving the existing iOS 26+ Universal.js workflow. ### What's changed - Adds the iOS 18.x W^X reprotection launch path after JIT is enabled for DukeX. - Keeps iOS 26 or later on the StikDebug Universal.js workflow. - Passes `split-wx=on` for the iOS 18.x TCG path to avoid the launch stall/crash seen in earlier test builds. - Adds app-owned launch diagnostics at `Documents/DukeXLogs/latest.log` for tester reports. - Updates the app version to `0.1.4` build `14`. ### Tester notes - This IPA is unsigned and intended for sideload testing. - Bundle identifier: `com.mafty.dukex`. - Minimum iOS version: `18.0`. - iOS 18.x testers should enable JIT for DukeX through StikDebug; Universal.js is not used on that path. - iOS 26+ testers still need Universal.js assigned to DukeX in StikDebug. - DukeX does not include Xbox system files, game images, or signing certificates. Users and testers are required to provide their own legally obtained files. ### Known issues - Rendering correctness still varies by title. - Some Halo 2 HUD effects remain incomplete on the current Vulkan/MoltenVK path. - Apple's Metal HUD does not currently appear for the embedded presenter."
         },
         {
           "buildVersion": "13",
@@ -1503,7 +1507,8 @@
           "releaseChannel": "alpha",
           "sha256": "ebf97aeddbf5b4cf2af06d20a786e9771e05fc5cfb9d3a49be57bf359db6c14b",
           "size": 12926996,
-          "version": "v0.1.3"
+          "version": "v0.1.3",
+          "localizedDescription": "## DukeX Alpha Build v0.1.3 ### Update Notes - Lowers the DukeX app and embedded core deployment target from iOS 26.3 to iOS 18.0. - Keeps the iOS 26+ Universal.js JIT path intact while avoiding the Universal.js handoff on older supported iOS versions. - Updates runtime settings copy, build scripts, docs, and issue templates to reflect the iOS 18.0+ install target. - Bumps the app version to 0.1.3, build 13. ### Tester Notes - This is an unsigned sideload test build with bundle ID `com.mafty.dukex`. - Devices on iOS 26 or later still need StikDebug with Universal.js assigned to DukeX for JIT. - Devices on iOS 18 upward, but below iOS 26 should use their normal sideload/JIT workflow and are not forced through the Universal.js path. - Testers must provide legally obtained Xbox system files and game images. - Please report device model, iOS version, install method, JIT method, TB cache size, and whether launch reaches dashboard/gameplay. ### Known Issues - Rendering correctness and title-specific performance still vary by game. - Apple's Metal HUD may still not appear; use DukeX's built-in stats HUD for now."
         },
         {
           "buildVersion": "12",
@@ -1512,7 +1517,8 @@
           "releaseChannel": "alpha",
           "sha256": "b7f3f1e7f3a0a50f78f46c666f5326c7a2b60212c84503076735f255ed255f16",
           "size": 12921574,
-          "version": "v0.1.2"
+          "version": "v0.1.2",
+          "localizedDescription": "# DukeX Alpha Build v0.1.2 DukeX v0.1.2 is an early alpha test build of the iOS-focused original Xbox emulator frontend built on xemu. This release is intended for controlled tester feedback on real devices, especially around launch flow, JIT behavior, rendering, input, and title compatibility. ## Update Notes - Updated the app version to `0.1.2` with build number `12`. - Includes the current DukeX SwiftUI library, profile, and settings interface. - Includes the native Metal presenter path backed by the xemu Vulkan renderer through MoltenVK. - Includes the in-game exit overlay currently present on `master`. - Includes the built-in FPS/system statistics HUD for device-side performance testing. - Includes advanced runtime controls such as the TB cache size selector. - Keeps the current Insignia-oriented NAT defaults and profile tab behavior. ## Tester Notes - This IPA is unsigned. Testers must sign it with their own sideloading workflow before installing. - DukeX does not include Xbox system files, game images, or signing certificates. Testers are required to provide their own legally obtained files. - Required system files should be placed in the app's `BIOS` folder after installation. - XISO game images should be placed in the app's `ROMs` folder or imported through the Games tab. - JIT is required for practical gameplay testing. On iOS 26 or later, use StikDebug with Universal.js assigned to DukeX. - If Auto Enable StikDebug is enabled, close StikDebug before launching a game from DukeX. - For Insignia testing, Force NAT to Insignia should remain enabled and the dashboard/account still need to be registered through Insignia's normal process. ## Known Issues - This is alpha software and title compatibility varies heavily by game, device, thermal state, and JIT availability. - Some rendering issues remain, including known HUD/depth/primitive artifacts in certain titles. - Apple's Metal HUD may still not appear even when requested; use the built-in DukeX stats HUD for basic device-side readings. - Gameplay performance may vary between cutscenes, menus, and active gameplay. - The app is not intended for use with pirated materials. ## Build Details - Bundle ID: `com.mafty.dukex` - Version: `0.1.2` - Build: `12` - Target: iPhoneOS arm64 - Release type: unsigned alpha IPA"
         }
       ]
     },
