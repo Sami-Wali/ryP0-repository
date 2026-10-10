@@ -2120,6 +2120,12 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "date": "2026-09-08T16:21:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
+          "size": 17963367,
+          "version": "5.0.0b6"
+        },
+        {
           "buildVersion": "26",
           "date": "2026-06-20T07:09:18Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
@@ -2128,10 +2134,104 @@
           "version": "5.0.0b6"
         },
         {
-          "date": "2026-09-08T16:21:35Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-          "size": 17963367,
-          "version": "5.0.0b6"
+          "version": "5.0.0b5",
+          "date": "2026-06-16T21:42:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b5-9e03f90da7fc.ipa",
+          "size": 17963147,
+          "sha256": "9e03f90da7fc988d52e76f8aeed934f97657dec39bce0cff9b902e815ab9c3bf",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "* Fixed TXM check for non-jailbroken devices running iOS 26.6 or newer. (thanks @StephenDev0) * iOS 27 is still broken and requires additional work. The next update will be sometime after the next official Dolphin release. It will include a core update. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b4...v5.0.0b5",
+          "buildVersion": "25"
+        },
+        {
+          "version": "5.0.0b4",
+          "date": "2025-10-23T02:48:05Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b4-3654f513e019.ipa",
+          "size": 17963622,
+          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Fixed a crash when using JIT on devices running iOS 26 with an A12, A13, A14, or M1 chip. * Added additional JIT information to the Debug menu to assist in debugging problems. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b3...v5.0.0b4",
+          "buildVersion": "24"
+        },
+        {
+          "version": "5.0.0b3",
+          "date": "2025-10-18T17:01:54Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b3-9016d50856ca.ipa",
+          "size": 17963458,
+          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Added support for the Skylanders Portal of Power in Skylanders games for the Wii, courtesy of @deReeperJosh. * Enable \"Emulate Skylander Portal\" in Settings -> Config -> Wii and select \"Skylanders Portal\" in the in-game menu to load a figure. * Fixed an issue where devices with an A15+ or M2+ chip running iOS 17 or 18 would crash when starting a game in JIT mode. * Fixed an issue where \"vm_map\" errors would randomly occur. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b2...v5.0.0b3",
+          "buildVersion": "23"
+        },
+        {
+          "version": "5.0.0b2",
+          "date": "2025-10-13T02:16:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b2-9f7e91e76d7a.ipa",
+          "size": 17958160,
+          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Fixed an issue where some controller options would be incorrectly disabled. * Fixed an issue where there was a typo in text pertaining to \"memory size\" overrides. * Added additional alerts to help debug a crash on some devices running iOS 18 and older. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b1...v5.0.0b2",
+          "buildVersion": "22"
+        },
+        {
+          "version": "5.0.0b1",
+          "date": "2025-10-11T17:27:37Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b1-ea27bd1a7b8f.ipa",
+          "size": 17958943,
+          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "* Added support for JIT on iOS 26. * **[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** Using other JIT enablers may cause DolphiniOS to crash. * Enabled Liquid Glass on iOS 26. * Added new Liquid Glass app icons by Kongolabongo. * The Dolphin core was updated to 2509. * Save states made in previous versions of DolphiniOS are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Sped up Cached Interpreter by approximately 10%, courtesy of TellowKrinkle. * The version number has been increased to 5.0.0 to prevent confusion with DolphiniOS forks. ## For Developers * Due to changes made by Apple in iOS 26, Xcode is no longer a supported JIT enabler on devices utilizing TXM (A15+ or M2+) running iOS 26 or newer. * If you are running DolphiniOS within Xcode, you will need to use Cached Interpreter or switch to an older device to use JIT. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b9...v5.0.0b1",
+          "buildVersion": "21"
+        },
+        {
+          "version": "4.0.0b9",
+          "date": "2025-05-06T17:25:12Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b9-99b72c4f6419.ipa",
+          "size": 16149753,
+          "sha256": "99b72c4f6419605a7c4464d99fb4756f5f7a7f2b9e8784602bc38857199420b3",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "* The Dolphin core has been updated to 2503a. * Save states made in previous beta versions are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Fixed keyboards not showing up in the devices list in controller settings. (#201 by @SamoZ256) * Added a temporary fix for CMake 4.0+ compatibility. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b8...v4.0.0b9",
+          "buildVersion": "20"
+        },
+        {
+          "version": "4.0.0b8",
+          "date": "2025-01-17T21:00:27Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b8-9e058c0c1e2c.ipa",
+          "size": 15830129,
+          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "This is the fourth revision of beta 8. ### Changes * The Dolphin core has been updated to 2412. * Save states made in previous beta versions are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Added new app icons based off the macOS icon introduced in Dolphin 2407. (thanks Kongolabongo and @brand175 for the new iOS icons, and thanks MayImilae for the original macOS icon) * No JIT mode (**very slow**) has been added. (thanks @brand175) * When launching a game without JIT enabled, you can now choose to start it in No JIT mode. * The \"waiting for JIT\" screen can be bypassed entirely by manually changing the CPU Emulation Engine in Settings -> Config -> Advanced to Cached Interpreter. * No JIT mode is **very slow**. You will need a high-end device (like a recent iPhone or iPad Pro) and to enable speed hacks (VBI Skip, CPU underclock, etc) to achieve playable speeds. * Added a button to import BootMii NAND backups in the software list. * This is useful for those who want to play Wiimmfi online. * No JIT users beware: Wiimmfi will ban devices that run below 100% emulation speed in Mario Kart Wii. We recommend that Wiimmfi should only be used in JIT mode. * Added experimental support for rootless jailbreaks. * Added a menu to check which buttons are being pressed on physical controllers when mapping buttons. * Ported \"Respect Silent Mode\" toggle from Delta. * This setting controls whether DolphiniOS obeys the Ring/Silent switch on your device. If disabled, then audio will play even if silent mode is enabled. * Find it in Settings -> Config -> Audio. * Added Game Mode for devices running iOS 18. * Re-implemented the touch screen Wii pointer. * A new default mode has been added: \"drag\". This mode allows you to use your touch screen like a laptop trackpad when moving the Wii pointer. * The mode used in 3.2.1 and earlier is still available as \"follow\" mode. * Choose the mode you want as default in the top bar menu during emulation or in Settings -> Controllers -> Touchscreen. * Re-implemented automatic disc changing. * When a game asks for a different disc, DolphiniOS will automatically insert the correct disc into the emulated disc drive. * Both disc files must be imported (i.e. in the Software folder and visible in the software list) for this feature to work properly. * If it still does not work, ensure that \"Change Disc Automatically\" is enabled in Settings -> Config -> General. * Re-implemented the touch screen transparency level slider. * Re-implemented support for multiple save state slots. * Re-implemented the Open button in the software list. * Re-implemented the Delete button in the software list. * Re-implemented the Launch GameCube Main Menu button in the software list. * Matched the refresh rate of the `MTKView` to the display's refresh rate. * GameCube and Wii games do not run above 30/60Hz. * This is only for testing purposes. * Fixed many crashes, freezes, physics bugs, etc when using Cached Interpreter. * The fix for this bug (disabling \"fast math\" mode in Xcode) will likely result in a slight performance decrease. * While fast math does make math calculations run faster, it also causes [some calculations to return incorrect answers](https://simonbyrne.github.io/notes/fastmath/). * Accuracy is vital when emulating software. When fast math returns a wrong answer for a calculation, it can cause crashing and other bugs in the emulated software, as they always expect to receive correct answers. * For example, the Wii's System Menu immediately crashes when using Cached Interpreter in previous 4.0.0 beta builds, as the math used to calculate whether the pointer is hovering over a channel or not returns incorrect results. Disabling fast math fixes this issue. * Fixed an issue where the bottom of the \"waiting for JIT\" screen was cut off on some devices. (thanks @brand175) * Fixed an issue where booting Wii software during the first launch of the app could cause DolphiniOS to crash. * Fixed an ",
+          "buildVersion": "19"
+        },
+        {
+          "version": "4.0.0b7",
+          "date": "2024-01-19T20:55:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b7-31934065e81f.ipa",
+          "size": 13775833,
+          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "The full changelog can be found here: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b6...v4.0.0b7. This version fixes several critical bugs found in 4.0.0b6. Enabling JIT is still required on non-jailbroken devices. However, Apple made changes in iOS 17 which broke all JIT enablers. Please be aware that, as of the time of writing, **all JIT enablers that support iOS 17 require a Mac**. We are currently monitoring the situation with sideloading in Europe. We will have more to share once Apple and/or the European Commission releases information about how it will be implemented. # User-Facing Changes * Worked around an issue which causes fastmem initialization to fail (#115). * Fixed an issue which causes the app to freeze and/or crash when changing graphics settings. # Developer-Facing Changes * The UI thread is now the host thread while emulation is not running. When emulation is running, the host thread is whatever thread is executing for the host queue. * Calling `DOLHostQueueRunSync` on the host thread is now possible. * Calling `DOLHostQueueRunAsync` while on the host thread is now an illegal operation.",
+          "buildVersion": "15"
+        },
+        {
+          "version": "4.0.0b6",
+          "date": "2024-01-16T22:23:36Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b6-c40e383b03f5.ipa",
+          "size": 13773902,
+          "sha256": "c40e383b03f56728db7bf6c422b54011f73fe03043227e37a8cf757090973765",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "# DO NOT USE THIS VERSION! USE [4.0.0b7](https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b7) INSTEAD! --- The full changelog can be found at https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b5...v4.0.0b6. Enabling JIT is still required on non-jailbroken devices. However, Apple made changes in iOS 17 which broke all JIT enablers. Please be aware that, as of the time of writing, **all JIT enablers that support iOS 17 require a Mac**. We are currently monitoring the situation with sideloading in Europe. We will have more to share once Apple and/or the European Commission releases information about how it will be implemented. # User-Facing Changes * Updated the Dolphin core to 5.0-19708. * Added the Software Properties menu (tap and hold on a game in the game list). * Added the Gecko and Action Replay cheats menus in Software Properties. * Improved the updater to not prompt for an update if the currently running version is newer than the one reported by the server. # Developer-Facing Changes * Fixed an issue where using shared zstd would cause a build error on recent Xcode versions. (potentially issue #109) * Made the host thread be dynamically set to whatever thread is currently executing for a special dispatch queue. * Disabled the JitCache fast block map optimization to prevent fastmem issues.",
+          "buildVersion": "13"
+        },
+        {
+          "version": "4.0.0b5",
+          "date": "2023-02-18T08:33:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b5-68dfd5a85848.ipa",
+          "size": 13415869,
+          "sha256": "68dfd5a85848a536be64484976e4f4c31b94f0fd11535b4a215e6e67cf77c635",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "The full changelog can be found at https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b4...v4.0.0b5. NOTE: If you are upgrading from the TrollStore build of 4.0.0b2, your save files, settings, and imported games will appear to have been deleted. Due to a bug, DolphiniOS was putting the data in the wrong folder. If you want to recover your data, move the contents of the folder `/private/var/mobile/Documents/DolphiniOS` to the folder listed in Settings -> Debug -> Environment -> User Folder. ## User-Facing Changes * The status bar is now hidden during emulation. (issue #54, PR #58 by @icelaglace) * Removed the Software Renderer from the list of available graphics backends. * This backend never worked in the first place because OpenGL is not supported. * Fixed a bug which could cause the app to crash when attempting to clear the screen while stopping emulation. (issue #56) * Fixed a bug which caused the graphics backend menu to not set the correct backend. (issue #57)",
+          "buildVersion": "12"
         }
       ]
     },
