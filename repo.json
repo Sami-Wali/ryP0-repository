@@ -2394,6 +2394,12 @@
           "version": "2.0.1"
         },
         {
+          "date": "2026-09-08T16:27:51Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic.ipa",
+          "size": 273393210,
+          "version": "2.0.0"
+        },
+        {
           "buildVersion": "20",
           "date": "2026-09-03T08:41:00Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-2.0.0-7f2adf280dba.ipa",
@@ -2401,10 +2407,94 @@
           "version": "2.0.0"
         },
         {
-          "date": "2026-09-08T16:27:51Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic.ipa",
-          "size": 273393210,
-          "version": "2.0.0"
+          "version": "1.9.2",
+          "date": "2026-04-16T16:29:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.9.2-c1d53e59ed99.ipa",
+          "size": 227390683,
+          "sha256": "c1d53e59ed993588cfeb949d319b242b6e09dbd89269d81c9ed86b22c2444734",
+          "releaseChannel": "release",
+          "localizedDescription": "Urgent fix for J2ME (J2meJS) save file loading error Fixed the issue where Artic Base couldn't select the Australia region 3DS (Azahar) adds HLE and LLE emulation accuracy options. Fixed NDS crash when using Flex Skin",
+          "buildVersion": "0"
+        },
+        {
+          "version": "1.9.1",
+          "date": "2026-04-15T14:02:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.9.1-6e56733a8634.ipa",
+          "size": 227362235,
+          "sha256": "6e56733a8634829934f22a3a7630219c5b88b1d40c53d36984c9443f555ee932",
+          "releaseChannel": "release",
+          "localizedDescription": "Heads up: v1.9.1 will corrupt save files in J2ME (J2meJS core), and we’re really sorry about that. As a temporary workaround, we suggest backing up the save file \"XXX.j2mejs.srm\" in the \"Manic EMU - Datas\" folder. We'll look into whether we can recover the save data. ### JIT (iOS 26 & Earlier) - Implemented broad JIT support compatible with iOS 26 and earlier versions - Integrated support for StikDebug’s universal.js launcher (Special thanks to @Stossy11) - Added JIT support for: - 3DS (Citra) - Dreamcast (Flycast) - Nintendo DS (melonDS) - Nintendo 64 (GLideN64 RDP / mupen64plus.next Special thanks to @Fareblyat) - DOS (dosbox-pure) - PlayStation 1 (beetle-psx) - Added setting to enable/re-enable JIT directly from the app - Improved JIT handling flow for iOS 26 (automatic redirect to reinitialize when required) ### Core & Emulator Updates - Updated 3DS (Azahar) to latest upstream - Updated PSP (PPSSPP) to latest upstream - Added SNES core (snes9x; sideloaded availability) - Added PS1 core (PCSX-ReARMed) ### 3DS Improvements - Fixed Vulkan-related crashes (Azahar) - Fixed Home Menu compilation and freezing issues - Added Artic Base Home Menu support - Added support for transferring data from real hardware via Artic Base - Added Pretendo network configuration support - Improved Home Menu integration (direct install logic) - Added fast-forward support (Citra) - Added full-screen AirPlay mirroring (Citra) ### PSP - Added support for installing homebrew via ZIP import ### DOS - Added thumbstick to default DOS skin - Fixed legacy JIT crash issues ### J2ME - Performance optimizations (J2meJS) ### Controls & Input - Fixed numeric keypad mapping issues - Added support for direct native keyboard event mapping - Improved controller mapping compatibility - TriggerPro now supports native keyboard event mapping ### UI & Customization - Added new app icons - Added default emulator core selection setting - Added “Hide Platform” feature - Added manufacturer-based sorting - Fixed general UI issues - Improved theme customization options ### Library / Platform Organization - Game Boy can now be categorized as Chromatic (CHM) - DOS can now be categorized under Windows 95 / Windows 98 ### General Fixes & Stability - Fixed multiple UI and transition issues - Improved overall system stability across cores and features",
+          "buildVersion": "7"
+        },
+        {
+          "version": "1.9.0",
+          "date": "2026-03-25T00:16:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.9.0-602bf37a1675.ipa",
+          "size": 219481479,
+          "sha256": "602bf37a167538261ad7e57761e2f82d48c2b00d63c802417526b9435ab1bca4",
+          "releaseChannel": "release",
+          "localizedDescription": "• Added JAVA (J2ME) support > Includes two cores: J2meJS (based on Mozilla’s PluotSorbet) and freej2me (based on CheerpJ) > J2meJS supports fast-forward > J2meJS runs natively, offering improved performance and compatibility > J2meJS provides limited network access > J2meJS includes partial M3G support > freej2me relies on CheerpJ (requires an internet connection) > Automatically detects JAR resolution, with manual override available in J2ME settings > Support touchscreen version JAR apps > Screen scaling options available (stretch or fit) • Added MS-DOS support (powered by DOSBox-Pure) > Built-in gamepad and keyboard skins > Game screen can be used as a touchpad for mouse input > Added “Insert Disc” option for multi-disc workflows > Full DOSBox-Pure configuration available in both settings and in-game • Added DOOM support (powered by prboom) • Added XeniOS Link, allowing you to launch and manage your XeniOS library directly within Manic EMU • Added skin button sound effects support (by including CAF audio files in custom skins; can be toggled in Settings - Skin Sound Effects) • Fixed multiple issues caused by incorrect file paths on macOS • Fixed an issue where multi-file ROMs were not uploaded during iCloud sync • Fixed an issue where multi-line cheat codes did not work • Fixed incorrect C button mapping for MCD and 32X • Fixed an issue where UI could not be controlled via external controllers on iOS 26.3.1 • Various other fixes and improvements J2ME support in Manic EMU is made possible thanks to the outstanding work of @zixing131 (紫星) and @Rosabis. Their development of J2meJS laid the foundation for this feature. With their improvements, Manic achieves better MIDP compatibility and even supports M3G, which is essential for bringing J2ME into the Manic ecosystem. Special thanks to @StephenDev0 (developer of StikDebug) for contributions to DOOM core integration. Special thanks to @cocorograph-kaz for multiple fixes and contributions.",
+          "buildVersion": "3"
+        },
+        {
+          "version": "1.8.3",
+          "date": "2026-02-14T15:06:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.8.3-eacd340942c7.ipa",
+          "size": 199035201,
+          "sha256": "eacd340942c791044eaa7299a2c648b9ba370dc1b9e794df1a95708c8126e655",
+          "releaseChannel": "release",
+          "localizedDescription": "• Added PSP online functionality (configure in Settings → Online Game Settings → PSP Networking). • In full-screen mode, all buttons will be hidden. Tap the screen to display the menu button. • Fixed crashes on macOS. • Fixed crashes in some games when camera or microphone permissions were not granted. • Added Safe Mode for launching games. Long-press the Start button on the game setup page to activate. • Fixed an issue where MCD (JGenesis core) failed to load large .chd files. • Fixed excessive error messages in DSi Home Menu. • Added a ClownMDEmu core switching option for MCD (experimental). • Fixed touchscreen offset issues in NDS (DeSmuME). • Removed system registration for potentially confusing ROM file formats (.md, .zip, etc.) to avoid disrupting users’ normal workflows. • Implemented save compatibility between NDS (melonDS and DeSmuME). When switching cores or importing saves, .srm and .dsv formats will be automatically converted. • Upon first launch of v1.8.3, existing .dsv files will be automatically renamed to .srm unless a file with the same name already exists. • From v1.8.3 onward, the DeSmuME core reads only .srm save files. Users may manually manage DeSmuME old .dsv saves in Documents → 3DS → sdmc → saves → nds. • Other bug fixes.",
+          "buildVersion": "2"
+        },
+        {
+          "version": "1.8.2",
+          "date": "2026-01-30T05:49:25Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.8.2-199e44bf2696.ipa",
+          "size": 198849250,
+          "sha256": "199e44bf269641b36b3b49e78545ce488519ef0f32ced98dfc1b0c1253bb9f57",
+          "releaseChannel": "release",
+          "localizedDescription": "• Added support for Atari 2600, 5200, 7800, Jaguar, and Lynx platforms. • Re-added CD and 32X platform support in the App Store version using the JGenesis core. The SideStore version supports core switching. • Added the DeSmuME core for NDS games, with support for custom resolution settings. • Added real microphone support for NDS (DeSmuME). • Redrew the default NDS skin with a more modern design and improved control feel. • Optimized microphone drivers for Nintendo 3DS (Citra). • Added cheat code support to the Nintendo 3DS (Azahar) core. • Fixed and optimized shader issues for Nintendo 3DS (Azahar) and NDS. • Added microphone support to the Nintendo 3DS (Azahar) core. • Added Action Replay (cheat) support to the Nintendo 3DS (Azahar) core. • Nintendo 3DS now supports importing cheat codes in .txt format. • PSP now supports importing cheat codes in .db and .ini formats. • Added sorting functionality to the cheat code list. • Added a one-tap clear option to the cheat code list. • Added promo code redemption logic to the purchase page. • RomPatcher now supports local persistence without requiring network loading, and its UI has been redesigned to match the Manic style. • Improved the UI and interaction experience of the multi-disc assistant. • The FLEX skin now supports setting personalized backgrounds freely. • Added search functionality to the shader list. • Shaders can now be configured globally or per core (long-press the shader title to configure). • Added a “Merchandise” entry to the Settings page. • Improved the game manual feature, which now supports removing and re-uploading manuals, and remembers the last viewed page and zoom level. • Fixed a bunch of UI issues on iOS 15, including problems with context menus not popping up and layout glitches. • Other bug fixes.",
+          "buildVersion": "7"
+        },
+        {
+          "version": "1.8.1",
+          "date": "2025-12-18T03:16:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.8.1-1b25fc0db53d.ipa",
+          "size": 227809413,
+          "sha256": "1b25fc0db53d0e52543d3373672c59a895fb9a1e405689af04b9ab34b3c87607",
+          "releaseChannel": "release",
+          "localizedDescription": "Changes: • 3DS (azahar core only) now supports enabling JIT on iOS 26 via [StikDebug](https://github.com/StephenDev0/StikDebug). • 3DS (azahar) now supports camera functionality. • 3DS (azahar) now supports amiibo loading. • 3DS (azahar) now supports keyboard pop-up. • 3DS (azahar) now supports the accelerometer. • GB, GBC, and GBA (using the mGBA core) now support camera functionality.(Now you can snap your own retro photos with the Game Boy Camera. GB/GBC/GBA save location: Manic EMU - 3DS - sdmc - saves - gb. Use https://game-tools-collection.com/game-boy-camera-gb/save-editor to extract photos.) • Removed CIFilter support entirely, shifting fully to Shaders. • Shaders now support downloading, editing, and customization. • Added new app icons. • Built-in PlayCase skin. • Added support for linking with MeloNX (requires version 2.2 or higher). • Various other bug fixes. Currently Known Issues: • The azahar microphone driver is a bit buggy—it works intermittently. • Some Vulkan-related code may cause crashes. Certain game transitions involving this code may result in crashes. For now, this means azahar does not fully support those games; fixes will come later. • For dual-screen consoles like NDS and 3DS (azahar), there are some glitches when applying shaders. Crediting: Special thanks to the MeloNX team for their invaluable support and assistance. In particular, @Stossy11 provided extensive, hands-on help throughout the entire process. All core technical ideas originated from her brilliant and creative vision. I would also like to thank duy and hugeblack for their valuable help with script execution and implementation. Additionally, sincere thanks to the StikDebug team for their outstanding work, with special appreciation to @StephenDev0 for his crucial support and assistance.",
+          "buildVersion": "3"
+        },
+        {
+          "version": "1.8.0",
+          "date": "2025-11-25T09:13:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.8.0-96086752e301.ipa",
+          "size": 264477714,
+          "sha256": "96086752e301f0e40d03f33bd29416d9059fa97f7727ca8a246c04ce26ea49f2",
+          "releaseChannel": "release",
+          "localizedDescription": "• Added Arcade platform support. The App Store version includes the MAME core, while the Sideload version additionally supports FBNeo with full RetroAchievements integration. • Introduced the new Azahar core for the 3DS platform. Long-press a game cover to switch cores. This core restores missing features such as fast-forward, filters, and AirPlay support. • Updated the 3DS skin with an improved visual layout and refined button placement. • Added a new Manufacturer category to the Game Library (enable it in Theme Settings). • Game List now supports collapsible sections and item count display. • FLEX skin now supports aspect-ratio adjustment, allowing freeform stretching and perfect compatibility with Arcade Tate (vertical) mode. • Improved FLEX skin settings, fixing scaling issues and edge-adjustment problems on iPad mini devices. • Added iCloud Sync Status to Settings. • Added JIT Status to Settings. • Added an additional Dreamcast core with WinCE game support. • Optimized dual-screen layouts while using AirPlay. • Fixed an issue where adding a TriggerPro button on iPad could cause the window to stay open. • Increased the TriggerPro limit for non-members to 10 buttons. • Expanded TriggerPro mapping to allow assigning buttons not available in the default skin. • Fixed inaccurate directional input when a joystick was mapped to the D-Pad. • Improved the visual experience in Light Mode. • Fixed an issue where group headers in the Game Library could turn black while scrolling in Light Mode. • Other bug fixes.",
+          "buildVersion": "3"
+        },
+        {
+          "version": "1.7.3",
+          "date": "2025-10-28T05:07:13Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.7.3-c9c5a1b49652.ipa",
+          "size": 137310172,
+          "sha256": "c9c5a1b49652c666b37a348cefb954414603addf2bde9ae66ac4bef9302cdfa1",
+          "releaseChannel": "release",
+          "localizedDescription": "• Added TriggerPro — a full-featured customizable button system • Redesigned default skins for MS and SG-1000 platforms • Added support for multi-disc .cdi format on Dreamcast • Added support for generating .m3u files from .cdi ROMs in the MultiDisc Helper • Separated FDS and NES platforms for clearer distinction • Fixed random in-game stuttering issues • Fixed issue where the software keyboard could appear unexpectedly when using a Bluetooth keyboard • Improved accessibility features for visually impaired players • Other bug fixes and performance improvements",
+          "buildVersion": "2"
+        },
+        {
+          "version": "1.7.2",
+          "date": "2025-10-16T03:48:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/manic-1.7.2-568400593750.ipa",
+          "size": 129685514,
+          "sha256": "5684005937503d12ec0804ace038abf4cf5a9dbb1aaa92f9e60fd97daa93d947",
+          "releaseChannel": "release",
+          "localizedDescription": "Changelog: • Adapted for iOS 26 Liquid Glass • Added Light Mode appearance • Improved overall UI visual experience • Redesigned default skin for GB • Redesigned default skin for GG • Added microphone simulation for NES — use “Simulate Blowing” or press L3 on your controller • Added NES palette support with the option to upload custom .pal files • Added Famicom Disk System (FDS) support for NES — use “Swap Disc” or press L1 on your controller to flip the disk • Added game manual import feature • Added support for uploading custom background images in the game library • Added option to clean up unsupported skins • Fixed issue where Game Mode couldn’t be enabled properly • Fixed incorrect cover aspect ratios in some game library items • Fixed incorrect default skin in N64 landscape mode on iPhone SE • Added cover style support for game library in landscape mode • Fixed issue where Dreamcast .gdi files could fail to load • Other bug fixes and improvements",
+          "buildVersion": "1"
         }
       ]
     },
