@@ -1881,7 +1881,18 @@
           "localizedDescription": "Added Apple TV wireless pairing.",
           "sha256": "985318aa155bb1d169ef9456db9b0ba2f3cd526168d05e6df806bc9f998b4108",
           "size": 7735750,
-          "version": "1.2.0"
+          "version": "1.2.0",
+          "releaseChannel": "release"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2026-06-19T12:11:07Z",
+          "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.1.0/StikPair-1.1.0.ipa",
+          "size": 7581073,
+          "sha256": "faecddbef95cce3d735a63bc956613fe8be36849622425ab079775b348e82dc9",
+          "releaseChannel": "release",
+          "localizedDescription": "This update adds fallback background keep-alive options for devices where the Live Activity method doesn't work, updates the app icon, and fixes a visual issue. ## Changes * Added fallback background keep-alive methods when Live Activities are unavailable or unreliable * Updated the app icon * Fixed a visual issue ## Requirements * iOS 27 or later",
+          "buildVersion": "1"
         }
       ]
     },
