@@ -1880,7 +1880,8 @@
           "size": 67606241,
           "sha256": "d656c9d689061ac1afacabd44867e4bf65012a253a30e7e755d022d3a3fea675",
           "releaseChannel": "beta",
-          "buildVersion": "141"
+          "buildVersion": "141",
+          "localizedDescription": "- 1bb2b10e feat(servers): sync libraries that mix movies and shows @tapframe - 6f98691d fix(servers): mark playback info requests as playback @tapframe - e05178c8 feat(servers): show libraries that mix movies and shows @tapframe - de69f9a9 fix(servers): open libraries that need a genre on their first one @tapframe - c2ed4c5e fix(servers): skip versions that cannot play @tapframe - 5a24beb0 fix(servers): search each server once per type @tapframe - [i18n(vi): update strings.xml and add strings_mdblist.xml + strings_servers.xml (#2216)](https://github.com/NuvioMedia/NuvioMobile/pull/2216) @blueocean2308 - [Fix TorBox Cloud loading for large libraries (#2215)](https://github.com/NuvioMedia/NuvioMobile/pull/2215) @Laskco - [Defer custom poster URL resolution to UI layer (#2207)](https://github.com/NuvioMedia/NuvioMobile/pull/2207) @skoruppa - [fix(i18n): comprehensive update to Bengali localization (missing strings & UI fit) (#2204)](https://github.com/NuvioMedia/NuvioMobile/pull/2204) @TanvirSdq"
         },
         {
           "buildVersion": "139",
