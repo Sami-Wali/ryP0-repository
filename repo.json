@@ -208,28 +208,29 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-air-devs-air-43f6ee0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37577290452",
+        "configId": "com-air-devs-air-43f6ee0c",
+        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher",
         "workflowPath": ".github/workflows/update-app-com-air-devs-air-43f6ee0c.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
       "category": "EMU",
-      "developerName": "herbrine8403",
-      "githubURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-4b7ef4e2f050.png",
+      "developerName": "Gsjsjzhznsz",
+      "githubURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-173e2d9929db.png",
       "importSource": {
         "method": "github",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered"
+        "historyLimit": 12,
+        "sourceURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher"
       },
       "name": "Air",
       "status": {
-        "checkedAt": "2026-10-10T12:53:02Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-air-devs-air-43f6ee0c-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-10T20:07:31Z",
+        "message": "Imported from verified upstream source"
       },
-      "subtitle": "Minecraft Java Launcher by Chinese Team",
+      "subtitle": "Minecraft Java Launcher fork of Air launcher",
       "updatePolicy": "daily",
       "versions": [
         {
@@ -252,6 +253,16 @@
           "version": "5.1.0"
         },
         {
+          "version": "6.0.0",
+          "date": "2026-09-25T07:52:45Z",
+          "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.0.0/AngelAuraAmethyst-6.0.0.ipa",
+          "size": 219197659,
+          "buildVersion": "6.0.0",
+          "localizedDescription": "# Air 6.0.0 正式版 —— 渲染体系重构 + 装机反馈集中根治 5.1.0 之后累计 **60+ 次提交**，聚焦渲染体系（每游戏渲染器 + mg 全后端 FSR）与装机反馈问题根治。本版为第二个正式发行版。 ## ✨ 重点功能 - **渲染器每游戏强制单选**：设置页的全局渲染器选择退役，每个游戏在自己的设置页单独选择渲染器，未单独设置过的实例缺省\"自动\"（1.17+ 自动解析为 Vulkan 直连）。MobileGL 家族在渲染器列表里合并为唯一的 **mg** 条目：后端统一在 设置 > MobileGlues > 渲染后端 选择（Vulkan 直连 / GLES / OpenGL 4.0，默认 Vulkan 直连）。 - **mg 三个后端全部支持 FSR 1.0 超分**：GLES / OpenGL 4.0 后端为原生 EASU 放大 + RCAS 锐化双管线；**Vulkan 直连后端通过 Metal 呈现层拦截方案支持 FSR**（私有低分辨率交换层 + AMD FSR1 EASU/RCAS 移植到 Metal，MobileGL/MoltenVK 二进制零改动）——选择 FSR 档位即享受\"低分辨率渲染 + 放大锐化\"的帧率红利，Vulkan 直连推荐作为默认首选后端。 - **ES / OpenGL 4.0 黑屏根治**：强制开启的 DSA 扩展在 MobileGlues 模拟层 + FSR1 fb0 重定向下产生黑屏（多轮装机 A/B 实锤），已改回默认关闭并自动迁移存量配置。 - **新拟态 UI + 自定义背景**、**公告置顶**（推荐服务器 mysv.dpdns.org 已置顶）、**管理 Java 26.0+（Java 25）预选**、**TouchController 虚拟按钮回归**、**下载镜像策略**（默认加载速度快优先）等，完整清单见 README。 ## 🔧 装机反馈集中修复（Task 165-169） - CurseForge 加载源\"无法使用\"根治：镜像网关错误（上游瞬态 403/500 被包成无 data 键的 HTTP 200 JSON）不再被静默当成\"无结果\"——自动重试一次并把真实错误显示出来 - 本地整合包从\"文件\"App / 下载 / iCloud **任意位置选择即可直接安装**（不再需要先导入到应用文件） - 主页头像 **10s 超时 + 磁盘缓存秒显**（不再\"要点一下才有\"） - JIT 等待 **120s 超时 + 重试弹窗**（开启 JIT 偶发失败不再无限卡在\"正在开启 JIT\"） - Vulkan 直连首帧崩溃（交换链几何）、ES/4.0 函数解析层（gl* 符号劫持）等渲染链修复 ## 📦 安装 - 普通侧载（AltStore/SideStore/爱思助手等）：`AngelAuraAmethyst-6.0.0.ipa` - TrollStore：`AngelAuraAmethyst-6.0.0.tipa` - 首次启动游戏需要开启 JIT（设置 > JIT 里可选择 StikDebug / SideStore / JITStreamer 等工具） ## 🙏 反馈 遇到问题请上传 `latestlog.txt`（设置 > 日志）到仓库 Issues，带日志的问题基本都能一轮定位。 --- **Full changelog**: https://github.com/Gsjsjzhznsz/Air-Minecraft-iOS-Launcher/commits/main",
+          "releaseChannel": "release",
+          "sha256": "173e2d9929dbcd3e58858ac37a59b9bbdf5494f01dc54bff9ce785e024940fee"
+        },
+        {
           "buildVersion": "5.0.0",
           "date": "2026-08-24T03:05:18Z",
           "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.0.0/Air-5.0.0.ipa",
@@ -271,7 +282,8 @@
           "size": 193262814,
           "version": "5.0.0-Preview"
         }
-      ]
+      ],
+      "localizedDescription": "Minecraft Java Launcher fork of Air launcher"
     },
     {
       "appType": "Daily Update",
