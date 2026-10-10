@@ -1205,7 +1205,8 @@
           "releaseChannel": "release",
           "sha256": "9d17eedf77bb200b97ca2dc3931c9096eb5063f14ce2d3935bb59fa5e4150596",
           "size": 28067835,
-          "version": "R1"
+          "version": "R1",
+          "localizedDescription": "First iOS release."
         }
       ]
     },
