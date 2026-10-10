@@ -1358,7 +1358,8 @@
           "releaseChannel": "beta",
           "sha256": "6c1357d9d85a32a34b856e9a7aa3cf64dabac2cdef3de7fb34cac437bcf3f250",
           "size": 67623829,
-          "version": "v0.2.6-beta"
+          "version": "v0.2.6-beta",
+          "localizedDescription": "Various improvements added and bugs fixed"
         },
         {
           "buildVersion": "202608241456",
@@ -1367,7 +1368,8 @@
           "releaseChannel": "beta",
           "sha256": "0cabe9139284b7c9d7231598a7b4e1ff9e90749d488c393c5e3074a2edb9b45e",
           "size": 67584625,
-          "version": "v0.2.5-beta"
+          "version": "v0.2.5-beta",
+          "localizedDescription": "File selector fixed, TrollStore version added"
         },
         {
           "buildVersion": "202608221857",
@@ -1376,7 +1378,8 @@
           "releaseChannel": "beta",
           "sha256": "5f8b9246a5f89be9fd3a999cb7e69ac1ec4ccb30d7f37c732f16121d76ade17c",
           "size": 67578508,
-          "version": "v0.2.3-beta"
+          "version": "v0.2.3-beta",
+          "localizedDescription": "## beta 0.2.3 the per-game core settings translated into every language the app speaks, and two texts that were confidently telling people the wrong thing. ### Language - **The per-game core settings are readable in all fourteen languages.** The explanations under LLVM precompilation, SPU block size, resolution scale and the decoder mix existed only in English and Spanish, which meant that everyone else was choosing between values whose consequences were not written down anywhere they could read. Those, the two memory warnings, the settings notebook and the \"this device cannot emulate\" notice are now translated: 240 strings across the twelve remaining languages. What is still identical to English after this pass is the set of words that are the same word in that language — *Mono*, *Auto*, *Normal*, *Panel*, *Version* in German, *Options* in French — and changing those would only make them worse. ### Text - **The memory warning no longer promises that 8 GB of RAM is enough.** It ended by saying that devices with 8 GB or more need none of this, which is false and was reported by someone holding a phone with 12 GB who had just been blocked by it. The extended virtual addressing entitlement governs address space, not physical memory; extra RAM does not widen it. The notice now says the outcome depends on how the app was installed, which is the part the reader can act on. - **The credits show the version you are actually running.** The version was a translatable string copied by hand into all fourteen language blocks, and it had been left at `beta.0.1` while beta.0.2 was being handed out — three releases"
         },
         {
           "buildVersion": "202608221250",
@@ -1385,7 +1388,8 @@
           "releaseChannel": "beta",
           "sha256": "c32eed5bf99b707317054ad56a129cd93f9a6cd678bbd1a177d3839b995b931e",
           "size": 67578507,
-          "version": "v0.2.0-beta"
+          "version": "v0.2.0-beta",
+          "localizedDescription": "## beta 0.2.0 ### Emulation - **A cache-maintenance call no longer kills the thread that makes it.** `sys_icache_invalidate` touches memory to do its work, so a null pointer takes the caller down with a segfault at address 0. One of the two calls in the SPU recompiler's dispatch path sits on the common exit, where the patch-point pointer is legitimately null because nothing was rewritten. It was killing all five SPURS kernels one after another, which left the game's twelve PPU threads waiting on them forever. From the outside it looked exactly like a hang: no error, CPU at 16 %, millions of idle sleeps. Fixed at the call site, and `psx3ios_jit_flush` now refuses an invalid address and records it instead of dying. - **The graphics layer is back to a state that draws.** A merge from another ARM64 port had left 28 files of the RSX and Vulkan code changed, among them the swapchain, the image-layout transitions and the pipeline compiler. The result was a game that ran perfectly and displayed nothing — broken geometry or a black screen — which is a hard symptom to read, because the emulator looks healthy: it compiles shaders, counts frames and uses CPU. Two additions that had no business in an iOS app went with it: an Android Vulkan loader and a profiler's GPU timer. - **x18 is always reserved on Apple hardware.** It is the platform register and the system may overwrite it at any moment, but LLVM only infers that from the target triple, and ours deliberately says `linux` so that its runtime linker emits ELF and builds the branch islands a 266 MiB code arena needs. It is now reserved in the backend itself, where no chain of options can leave it open, and every launch records whether it took effect. ### Settings - **Your settings now win over the recommended database.** Turning something off for a game was being silently undone at boot: the emulator applies its recommended per-game configuration after everything else, so the database overwrote the user's own choice with no indication anywhere. The recommended values still fill in what you have not touched, but the keys you set for that game are removed from them before they are applied, and the log says how many were dropped. - **The recommended database can be switched off entirely**, and ships off, so a game starts with your settings and nothing else ### Setup - **The guided setup finishes the job.** Everything under Settings → JIT can now be completed without leaving it: enabling JIT, choosing the StikDebug script, and turning on the launch handoff, alongside firmware and the memory entitlements — seven steps instead of five. Each action button shows the real state rather than an instruction, so \"JIT enabled\" and a script's filename tell you there is nothing left to do on that page. - **Installing firmware no longer closes the setup screen.** It used to dismiss itself so the library could do the work, which dropped the user out halfway through configuration with the distinct impression they had broken something. The file picker is now presented over the guide and the install runs inside it, spinner and all, returning to the same card with the button reading \"Firmware installed\". ### Interface - **The background colour can be changed**, in Settings → Theme. It tints the gradient, the waves and the specks without touching the theme itself: the two are separate on purpose, since wanting a different colour is not a reason to be given a different layout. Six to choose from, all dark enough to keep what sits on top readable. - **Everything decorative stops while a game runs.** The waves and the specks kept animating behind a game that covered them completely — GPU and battery taken from the emulation to draw something nobody can see. They now suspend when a game starts and resume when you leave it, and coming back from the background does not restart them while a game is still running. The game's music stops at the same point, when the compilation screen gives way. - **Only the selected "
         }
       ]
     },
