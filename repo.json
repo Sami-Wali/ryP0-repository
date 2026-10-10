@@ -593,7 +593,8 @@
           "size": 2901399,
           "sha256": "dabb1071bcea8838234ee74ccf3f3099c4cc185eb12a7e986ea694be1f2b4a27",
           "releaseChannel": "prerelease",
-          "buildVersion": "9"
+          "buildVersion": "9",
+          "localizedDescription": "- Added support for other Factorio versions (fixed math lib that was preventing this) - Added native controller input as a choice - Added graphical selection for weaker devices"
         },
         {
           "buildVersion": "8",
