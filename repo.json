@@ -1,6 +1,36 @@
 {
   "apps": [
     {
+      "name": "Angry Birds 2009",
+      "bundleIdentifier": "com.clickgamer.AngryBirds",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "32bit",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-10T08:39:32Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.clickgamer.AngryBirds-1.0-cdea1290dcaa.ipa",
+          "size": 9769211,
+          "buildVersion": "1.0",
+          "sha256": "cdea1290dcaa67ec75cf555e78caaa8d90cfaa90021ec7f05e40089fb87944cf"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.clickgamer.AngryBirds-cdea1290dcaa.png",
+      "updatePolicy": "static",
+      "appType": "Static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.clickgamer.AngryBirds-1.0-cdea1290dcaa.ipa",
+        "checkedAt": "2026-10-10T08:39:37Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "upload-artifact"
+      }
+    },
+    {
       "name": "Deer hunter 2014",
       "bundleIdentifier": "com.glu.deerhunt2",
       "developerName": "Unknown Developer",
