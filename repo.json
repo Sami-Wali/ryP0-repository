@@ -1028,7 +1028,6 @@
         "method" : "telegram-r2",
         "sourceURL" : "https:\/\/t.me\/dpixel\/3768"
       },
-      "localizedDescription" : "Arabic Anime sub",
       "name" : "Anime Cloud",
       "status" : {
         "checkedAt" : "2026-10-10T06:12:58Z",
@@ -1036,7 +1035,7 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "Arabic Anime sub",
+      "subtitle" : "Anime Arabic Sub",
       "updatePolicy" : "daily",
       "versions" : [
         {
