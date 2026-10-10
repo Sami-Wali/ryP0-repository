@@ -1689,7 +1689,8 @@
           "releaseChannel": "release",
           "sha256": "f2044fea5b5f8287deffa0466f5f71bfd915fc4ee0d1cb852b10b0242c6ca949",
           "size": 54385494,
-          "version": "1.1.0"
+          "version": "1.1.0",
+          "localizedDescription": "## Game Support - Grand Theft Auto 5 (unofficial) ## What's Changed * fix: support TrollStore by @azyarashi in https://github.com/Leviidev/Husk/pull/68 * feat: downloading tab, direct http or local ip by @Leviidev ## New Contributors * @azyarashi made their first contribution in https://github.com/Leviidev/Husk/pull/68 **Full Changelog**: https://github.com/Leviidev/Husk/compare/1.0.1...1.1.0 ## Links: Discord Server: https://discord.gg/xApMHWAzkh X: https://x.com/leviidev01 Discord: @leviidev"
         },
         {
           "buildVersion": "51",
@@ -1698,7 +1699,8 @@
           "releaseChannel": "release",
           "sha256": "f84f58c72ba1a9affccb3ceb5d1736094a31d0d4f6a86411ae6c289531a91b86",
           "size": 55925239,
-          "version": "1.0.1"
+          "version": "1.0.1",
+          "localizedDescription": "## What's new? - Fixes a failure on logging into Google Accounts, (MissingDroidGuard) ## Notes: Check out Husk 1.0.0 release notes for all new features. ## Links: Discord Server: https://discord.gg/xApMHWAzkh X: https://x.com/leviidev01 Discord: @leviidev"
         },
         {
           "buildVersion": "51",
@@ -1707,7 +1709,8 @@
           "releaseChannel": "release",
           "sha256": "7daa45807f5821362b301e568a5888d961f24810020c53a3126b38035141bc80",
           "size": 47559993,
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "localizedDescription": "## What's new? - GoDot Engine - Google Play Store - Google Play Services - Fix File Picker (certificate sideloaded) - Customize Virtual Pad - Geode Mod Support (Geometry Dash) - Save Backup / Restore - Crash Screen (report issues easily) - Issue Template for GitHub - Switching Games w/o restart with Translation Layer - What's new UI on first startup - Typing in Minecraft - Compatibility Labels for games - JIT on startup (toggle) - TrollStore/Dopamine JIT support - Stop asking for android image, (toggle) - Having dev logs open then closing it has the screen perm locked to that bad position until restart - iOS 16+ support (used to be like 17.4+ or sum idk) - Other stuff I forgot ## Notes: This is Husk's first, actual stable release. This is the best release so far, and you will most definitely enjoy it. I really wanted to delay the release, because I had something big coming with it, but I just didn't want to. Husk 1.0 is the first stable release, and thats the spotlight. I hope you like it <3 ## Links: Discord Server: https://discord.gg/xApMHWAzkh X: https://x.com/leviidev01 Discord: @leviidev"
         },
         {
           "buildVersion": "38",
@@ -1716,7 +1719,8 @@
           "releaseChannel": "release",
           "sha256": "9482b76aad39898683e1f2edbb74c631c998aed6ac9968dba6f43f5811ea73f5",
           "size": 46958334,
-          "version": "0.9.0"
+          "version": "0.9.0",
+          "localizedDescription": "## What's new? - Sound for Unity and Java games - Turn on JIT at launch with a setting (StikJIT) - Share apps to Husk and import it (skips the file picker bugs) - New App User Interface - Game details for each game (screenshots, etc). ## Info Husk's first stable release (1.0.0), is right around the corner. It will probably be the best release, fixing issues for almost all devices, but it is not out yet. This IPA may not work, and that is ok. It will be fixed soon, just open a GitHub issue"
         },
         {
           "buildVersion": "31",
@@ -1725,7 +1729,8 @@
           "releaseChannel": "release",
           "sha256": "162f322d2b8955cb022de0f504dd558fca2fdf1792b046160a16d6002ee4efc5",
           "size": 46728037,
-          "version": "0.8.1"
+          "version": "0.8.1",
+          "localizedDescription": "## What’s new? - TrollStore/Dopamine JIT support (beta) - Per-app settings for Translation Layer Games - UI Revamp - Bug fixes ## Notes: If a game is failing to launch now, but it ran in the previous release, clear the data for the app in app settings. Your GlobalSave file may have nothing in it."
         },
         {
           "buildVersion": "27",
@@ -1734,7 +1739,8 @@
           "releaseChannel": "release",
           "sha256": "2d194c18d176fa140191e4dff9a3bf8def54b86abe057f8c6088360bee3c9e55",
           "size": 46478895,
-          "version": "0.8.0"
+          "version": "0.8.0",
+          "localizedDescription": "## What's new? - Touch Screen Gamepad for all games ## New game support ### Major: - Minecraft: Dungeons - GTA: San Andreas - Super Tux Kart ### Minor - Rocks'n'Diamonds - Brogue CE - Infra Arcana - Dungeon Crawl Stone Soup - Anarch RE - Pekka Kana 2 - Cat a shooter - Principia - Open Golf - Li-Ri - RTTT - Box Smasher - Alex vs Bus"
         },
         {
           "buildVersion": "17",
@@ -1743,7 +1749,8 @@
           "releaseChannel": "release",
           "sha256": "2409304d725964e15099bfd974a5c149c6bba49353e86b450458327ba770adbc",
           "size": 44993209,
-          "version": "0.7.0"
+          "version": "0.7.0",
+          "localizedDescription": "## What’s new? * Built-in StikJIT: pair on the device and enable JIT without a second app by @danperks in https://github.com/Leviidev/Husk/pull/37 * Wi-Fi support for all games * UI Revamp: Now fully built with Swift * Moved Translation layer to the main 4 tabs, replacing the Discover tab ## New game support * Beach Buggy Racing 2 - 60 FPS ## New Contributors * @danperks made their first contribution in https://github.com/Leviidev/Husk/pull/37 **Full Changelog**: https://github.com/Leviidev/Husk/compare/0.6.1...0.7.0 Discord server: https://discord.gg/xApMHWAzkh"
         },
         {
           "buildVersion": "9",
@@ -1752,7 +1759,8 @@
           "releaseChannel": "release",
           "sha256": "9ffa67b07e3d7a3f7faa261b5ec44bb6279180478cc5fc43daa6824e0d633509",
           "size": 40885768,
-          "version": "0.6.1"
+          "version": "0.6.1",
+          "localizedDescription": "## What’s new? - WiFi support for Unity Games - Geometry Dash support - Minecraft Support ## Notes This release only edits the Android Translation Layer. The fully emulated android OS has not been changed this build."
         },
         {
           "buildVersion": "3",
@@ -1761,7 +1769,8 @@
           "releaseChannel": "release",
           "sha256": "16237bf6e85a53ce0a5c03c54d48fb6b04a190799b2f052e21c1dd96d30f4ebd",
           "size": 40778819,
-          "version": "0.6.0"
+          "version": "0.6.0",
+          "localizedDescription": "## What's new? - Implementation for the experimental Android Translation Layer - You can test it by going to: Settings -> Android Translation Layer -> Add APK -> Chosen APK -> Run Translation Layer Attempt - It currently can 100% emulate Flappy Bird and Subway 60 FPS ## Credits Original Android Translation Layer: https://gitlab.com/android_translation_layer/android_translation_layer"
         },
         {
           "buildVersion": "2",
@@ -1770,7 +1779,8 @@
           "releaseChannel": "release",
           "sha256": "ddf055e4fc1a5dafec5c569464578fb1c40af2b733e400262c71a987d07a1835",
           "size": 40386325,
-          "version": "0.5.1"
+          "version": "0.5.1",
+          "localizedDescription": "## What's new? - Fixed iOS26 JIT crashes - Fixed a fatal pipe2 crash, (added fallback) ## Credits @Yaryk007 - made the HuskPatch repo where I got the iOS26 JIT fixes :) **Full Changelog**: https://github.com/Leviidev/Husk/compare/0.5.0...0.5.1"
         },
         {
           "buildVersion": "2",
@@ -1779,7 +1789,8 @@
           "releaseChannel": "release",
           "sha256": "83b7ce15a3673a6b6371c84584ea79f1b1c6527c3fea9b1cbd713805f2cac9c3",
           "size": 40279923,
-          "version": "0.5.0"
+          "version": "0.5.0",
+          "localizedDescription": "## What's Changed * Fix guest seed packaging and snapshot preservation by @creeper4004 in https://github.com/Leviidev/Husk/pull/29 * Add a light mode (Settings › Appearance) by @hernan0078 in https://github.com/Leviidev/Husk/pull/30 * Fixed UI bugs by @Leviidev ## New Contributors * @creeper4004 made their first contribution in https://github.com/Leviidev/Husk/pull/29 * @hernan0078 made their first contribution in https://github.com/Leviidev/Husk/pull/30 **Full Changelog**: https://github.com/Leviidev/Husk/compare/0.4.1...0.5.0"
         },
         {
           "buildVersion": "1",
@@ -1788,7 +1799,8 @@
           "releaseChannel": "release",
           "sha256": "b5d3d9d51f9408cf8279b46e2e40fd054f987412c4b63d09fb51fc65849b2504",
           "size": 40275539,
-          "version": "0.4.1"
+          "version": "0.4.1",
+          "localizedDescription": "## What's new - Hopefully fixed iOS 26 JIT not working"
         }
       ]
     },
