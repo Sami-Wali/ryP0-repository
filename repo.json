@@ -3574,7 +3574,29 @@
           "date": "2026-08-17T23:34:48Z",
           "downloadURL": "https://github.com/rooootdev/mond/releases/download/2.2/mond.ipa",
           "size": 3385608,
-          "version": "2.2"
+          "version": "2.2",
+          "releaseChannel": "release",
+          "localizedDescription": "added persist after reboot added cacheextra field editor bugfixes"
+        },
+        {
+          "version": "2.1",
+          "date": "2026-08-16T12:00:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.1-05c8bbd87c5e.ipa",
+          "size": 3333393,
+          "sha256": "05c8bbd87c5e43c6a33e5bad2e8933ab94a0b1775163f45833915cc6e44ec635",
+          "releaseChannel": "release",
+          "localizedDescription": "# mond 2.1 fixed a critical bug where tweaks wouldn't apply. (#105)",
+          "buildVersion": "1"
+        },
+        {
+          "version": "2.0",
+          "date": "2026-08-16T03:10:54Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.0-2e15d300985a.ipa",
+          "size": 3332224,
+          "sha256": "2e15d300985a59d3bf49cd74adbd96d280e3cdf1dbc687e9abf69f4fe5cae8fb",
+          "releaseChannel": "release",
+          "localizedDescription": "## mond 2.0 a LOT of bug fixes, new features: - PosterBoard Tendies Browser - HouseArrest File Browser general stability improvements.",
+          "buildVersion": "1"
         }
       ]
     },
