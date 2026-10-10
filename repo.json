@@ -2879,10 +2879,10 @@
         "workflowPath" : ".github\/workflows\/update-app-xenios.yml"
       },
       "bundleIdentifier" : "com.xenios.app",
-      "category" : "",
+      "category" : "EMU",
       "developerName" : "Xenios",
       "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/XeniOS-icon.png",
-      "localizedDescription" : "Xenios emulator port for iOS.",
+      "localizedDescription" : "Xenios XBOX360 emulator port for iOS.",
       "name" : "Xenios",
       "status" : {
         "checkedAt" : "2026-10-10T12:53:02Z",
