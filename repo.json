@@ -2264,6 +2264,12 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "date": "2026-09-08T16:33:48Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
+          "size": 31124277,
+          "version": "1.20.4"
+        },
+        {
           "buildVersion": "1.20.4",
           "date": "2026-05-16T12:42:59Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
@@ -2272,10 +2278,54 @@
           "version": "1.20.4"
         },
         {
-          "date": "2026-09-08T16:33:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-          "size": 31124277,
-          "version": "1.20.4"
+          "version": "1.20.3",
+          "date": "2026-03-15T17:52:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.3-463b9e004ab9.ipa",
+          "size": 30981742,
+          "sha256": "463b9e004ab939f5a70b565344553aeb0beff665c48e85603083ec247c972d70",
+          "releaseChannel": "release",
+          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
+          "buildVersion": "1.20.3"
+        },
+        {
+          "version": "1.20.2",
+          "date": "2026-03-10T13:35:52Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.2-b350842b49e8.ipa",
+          "size": 30962097,
+          "sha256": "b350842b49e8ed094f9da66bf12422e93521434488151308ffcc659473af62f5",
+          "releaseChannel": "release",
+          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
+          "buildVersion": "1.20.2"
+        },
+        {
+          "version": "1.20.1",
+          "date": "2026-03-03T14:57:23Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.1-69d63c7063f4.ipa",
+          "size": 30928281,
+          "sha256": "69d63c7063f44ee7f33e17825b50cca7294945ac32a1ee1fee2b92f6fd5f788d",
+          "releaseChannel": "release",
+          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
+          "buildVersion": "1.20.1"
+        },
+        {
+          "version": "1.20",
+          "date": "2026-03-03T14:30:33Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20-f70980c08b0f.ipa",
+          "size": 30929357,
+          "sha256": "f70980c08b0f0ea31861870f9d5634cf29be63ffedf0745cf4e04d5356e72aab",
+          "releaseChannel": "release",
+          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
+          "buildVersion": "1.20"
+        },
+        {
+          "version": "1.19.3",
+          "date": "2025-07-15T10:11:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.19.3-e604412d637a.ipa",
+          "size": 29930616,
+          "sha256": "e604412d637a9e3d52b0cbde4e39213f7d85a609256b400d77491b10566a18bc",
+          "releaseChannel": "release",
+          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
+          "buildVersion": "1.19.3"
         }
       ]
     },
