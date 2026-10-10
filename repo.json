@@ -3357,12 +3357,30 @@
           "version": "1.1.2"
         },
         {
+          "version": "1.1.1",
+          "date": "2026-10-02T03:30:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.1-2192f5ed265b.ipa",
+          "size": 12095211,
+          "sha256": "2192f5ed265b4216a4287abc90c2ba7450a4a7a06ebd3e2bf82eda36fde60c53",
+          "releaseChannel": "release",
+          "localizedDescription": "this is just a hotfix to fix a couple of issues. changelog: - fixed playit codesigning issues (again) - paper servers now download plugins from the mod manager rather than fabric mods",
+          "buildVersion": "1"
+        },
+        {
           "buildVersion": "1",
           "date": "2026-09-30T04:55:55Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
           "sha256": "97ff906c97c3ec23531e744571ba241158b98a89b9cbefc09f20745993f2e29f",
           "size": 12086786,
           "version": "1.1"
+        },
+        {
+          "date": "2026-03-30T23:25:32Z",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa",
+          "size": 9284359,
+          "version": "1.0.1",
+          "releaseChannel": "release",
+          "localizedDescription": "Changelog: Java 25 support (required for minecraft 26.1+)"
         },
         {
           "buildVersion": "1",
@@ -3372,10 +3390,64 @@
           "version": "1.0.1"
         },
         {
-          "date": "2026-03-30T23:25:32Z",
-          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa",
-          "size": 9284359,
-          "version": "1.0.1"
+          "version": "1.0",
+          "date": "2026-03-12T10:05:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0-e8a4ae46e685.ipa",
+          "size": 9263080,
+          "sha256": "e8a4ae46e6853615408c405427517e705465b1ec9fdcf2eac7a38c891d25bc02",
+          "releaseChannel": "release",
+          "localizedDescription": "there haven't been many changes since the release candidate, it's only really been a few minor bug fixes. Since this is the 1.0 release, here's the list of most important features in the app: - Ability to run minecraft servers (duh) - Built in JVM downloader, pick between Java 8, 17, and 21 (or download all of them!) - Server memory allocation slider - Easy to use server creator, with support for several server softwares - A file manager that allows you to easily manage several servers - Network tunneling via playit.gg and UPnP support - Integrated mod, modpack, resource pack, and datapack downloading via Modrinth and curseforge - Keep alive, run the server in the background even with the screen off - Server config GUI thank you to all of the beta testers!",
+          "buildVersion": "1"
+        },
+        {
+          "version": "rc",
+          "date": "2026-03-04T21:55:48Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-rc-f54894d4f3c8.ipa",
+          "size": 9255289,
+          "sha256": "f54894d4f3c85b0be5417a5c20fea486f8f17e036ba5e288d6d8d7cf5152ea6f",
+          "releaseChannel": "release",
+          "localizedDescription": "Changelog: - Proper TrollStore support, TrollStore devices will now spawn the JVM in a seperate process, meaning you can freely stop/start the server without the app closing - Keep Alive, JESSI can now run in the background, even in LiveContainer or if the screen is off! - UI improvements and bugfixes - There is now a built in tutorial in the app! On first app launch, you will be given a welcome message and be prompted to take a tour around the app - JVM's will automatically download via backup mirrors if necessary - Installation guides have been added to the github page under the wiki (the guide for ios 16.7/17.0.1-17.3.1 has not been written yet as I'm working on a separate app for JIT enabling on those versions, and that app has not been finished yet) - Some easter eggs have been added :eyes: - Removed Herobrine",
+          "buildVersion": "1"
+        },
+        {
+          "version": "b5",
+          "date": "2026-02-23T20:46:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b5-d59e4e855222.ipa",
+          "size": 7976762,
+          "sha256": "d59e4e8552222a5f23c4fe8f8efc4f2335fff5b7e536a5be399bba6c96596b5f",
+          "releaseChannel": "beta",
+          "localizedDescription": "Changelog: - TXM devices on iOS 26 are now supported! (note that 26.4 betas have broken jit temporarily on all devices, including non TXM) - Easy modpack, resource pack, and data pack installation - Curseforge support - Overhauled launch UI - Server properties editor - Several code improvements - Minor UI enhancements - Several miscellaneous bugfixes",
+          "buildVersion": "1"
+        },
+        {
+          "version": "b4",
+          "date": "2026-02-10T06:21:33Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b4-fd0b4199bda9.ipa",
+          "size": 7823073,
+          "sha256": "fd0b4199bda9348280c322e2b5d138f37542109a9d53cd12f47475a78577d315",
+          "releaseChannel": "beta",
+          "localizedDescription": "Changelog: - Integrated mod installation via Modrinth (thank you roooot) - Playit.gg support (thank you again roooot) - UPnP support (untested, likely broken) - File manager/text editor UI overhaul - Server creation menu UI overhaul - PaperMC support (if you have issues with it, please do not contact the PaperMC devs, contact me instead) - Various UI improvements throughout the app - Removed Herobrine",
+          "buildVersion": "1"
+        },
+        {
+          "version": "b3",
+          "date": "2026-02-02T10:34:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b3-703c1016ebca.ipa",
+          "size": 4227137,
+          "sha256": "703c1016ebca1d579604310b2786fdd476abc2159a7489d40aa878ce37d00456",
+          "releaseChannel": "beta",
+          "localizedDescription": "Changelog: - iOS 14, 15, and 26 are now supported! iOS 26 support on A15/M2 or newer is untested, and is unlikely to work. if it doesn't work, try enabling/disabling TXM support in settings - JVM's are no longer shipped in the ipa, cutting down the filesize by 96%! you can choose exactly which java versions you want to download directly in the app now - Improved memory slider and memory estimation - Additional useful info in settings - Fixed the UI on iPadOS - Removed Herobrine if you haven't already, join the discord for devlogs, announcements, and to report bugs! discord.gg/aZ9HbYXKur",
+          "buildVersion": "1"
+        },
+        {
+          "version": "b2",
+          "date": "2026-01-25T09:33:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b2-425cb5ff761e.ipa",
+          "size": 89686932,
+          "sha256": "425cb5ff761e41f93ea1d57a4ed959786b3bd2a9014b9933c8fecf7890a081e4",
+          "releaseChannel": "beta",
+          "localizedDescription": "This is the first release of JESSI on github! if you would like to download an older build, you can find it in the discord announcements channel. Here's a list of new features: - Automatic JIT detection - Custom launch arguments - System memory info - Fixed SideStore/iLoader support - Mild code cleanup",
+          "buildVersion": "0.1"
         }
       ]
     },
