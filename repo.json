@@ -19,7 +19,7 @@
           "sha256": "ed376f4c725aaa54a82ee97d35661bda35c6c403106db88a133d2b5dce339948"
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icons/ryP0-iOS.png",
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
