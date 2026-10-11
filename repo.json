@@ -2565,13 +2565,21 @@
       "name": "MeloNX",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.6-c862d86abac5.ipa",
-        "checkedAt": "2026-10-11T06:11:10Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.7-2dad0849a77c.ipa",
+        "checkedAt": "2026-10-11T07:12:39Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#f8566f",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.7",
+          "date": "2026-10-11T05:08:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.7-2dad0849a77c.ipa",
+          "size": 49196463,
+          "sha256": "2dad0849a77cfb0ce26a44cf682caff1485b1e7d92da70e77be64ae67668d8b0",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-02T09:11:00Z",
