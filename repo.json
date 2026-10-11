@@ -188,6 +188,15 @@
       "category": "EMU",
       "versions": [
         {
+          "version": "0.0.5",
+          "date": "2026-10-11T21:10:57Z",
+          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.5/NeoStation-0.0.5.ipa",
+          "size": 207408158,
+          "sha256": "af860e8b7f00fac46a1a1ab6483b0ddc59a8abd59b99dd2e4eda965118ce14d7",
+          "releaseChannel": "release",
+          "buildVersion": "443"
+        },
+        {
           "version": "0.0.2",
           "date": "2026-10-10T18:33:34Z",
           "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.4/NeoStation-0.0.4.ipa",
@@ -206,16 +215,6 @@
           "releaseChannel": "release",
           "localizedDescription": "# NeoStation iOS 0.0.3 — Build 427 **Libretro emulation cores**, also used by RetroArch, are now **embedded directly in NeoStation iOS**. For supported systems, your games launch inside NeoStation without opening the RetroArch app. - **BIOS files:** open **Files → On My iPhone/iPad → NeoStation → Libretro → System** and add your BIOS files, just as you did in RetroArch’s `system` folder. Keep the filenames and subfolders required by each core. No BIOS files are included. - **NeoPlay / AirPlay:** streaming is working. The **NeoPlay 0.8.0** Windows receiver is included with this release. Install it on your PC and connect your iPhone/iPad to the same local network. - **NeoSwap:** the swap system is still a work in progress. - **Credits and licenses:** notices for all 14 Libretro cores and their support libraries have been added to the license bundle. ## Coming next More additions are planned for future updates, including **shader support** to customize how your games look, as in RetroArch, and **skins** to personalize the appearance of the on-screen controls. Thank you to the Libretro and RetroArch teams, all emulator developers, and the NeoStation community for their work, support, and feedback! ## Downloads - `NeoStation-0.0.3.ipa` — iOS/iPadOS app, internal build 427. Sign it using your usual sideloading tool. - `NeoPlay-Setup-0.8.0.exe` — Windows installer. - `NeoStation-0.0.3-Licenses-and-Notices.zip` — licenses and credits. - `NeoStation-0.0.3-Source-Manifest.md` and the source archives — source and build provenance. - `NeoStation-0.0.3-SHA256SUMS.txt` — file checksums. ## Release information Based on build 427 (`6bfc9dd`). The emulator cores and compiled application code are preserved. The package has been updated to display version 0.0.3 and include the notices, then sealed again with ad hoc signatures. Successful build checks do not establish that every game and core has been tested on an iPhone. Each component remains subject to its own license. Non-commercial conditions and limitations in tracing the exact sources of precompiled binaries are documented in the accompanying files. Adding these notices is not a certification of legal compliance.",
           "buildVersion": "427"
-        },
-        {
-          "version": "0.0.1",
-          "date": "2026-09-29T09:00:17Z",
-          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.1/NeoStation.ipa",
-          "size": 143538718,
-          "sha256": "e1017b96842ec970be3ed0cd981083ee945d069cf76e689a4ca3c81339299b46",
-          "releaseChannel": "release",
-          "localizedDescription": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/TarbleFR/neostation-ios/5e6dc00b35b7bb7847c24198d9f4b08ade8ed9a0/assets/images/fork-icon-valid.jpg\" width=\"180\" alt=\"NeoStation iOS logo\"> </p> <h1 align=\"center\">🎮 NeoStation iOS — 0.0.1</h1> <p align=\"center\"><strong>First public GitHub release of NeoStation iOS.</strong></p> > [!IMPORTANT] > Please read the requirements, source information and third-party credits below before installing or redistributing NeoStation. NeoStation brings **embedded emulators, external integrations, native iOS ports, JIT workflows and library management** together in one interface. --- ## 📱 Compatible devices - ✅ iPhone or iPad - ✅ **iOS 18 or later** - ✅ **Developer Mode enabled** - ✅ NeoStation installed as a **standalone IPA** An **Apple Developer account** is recommended, especially to avoid the standard three-app sideloading limit and to use required entitlements more easily. Performance depends on the device, iOS version, emulator and game. --- ## 📦 Installation & signing NeoStation must be installed as a properly signed **standalone IPA**. Compatible methods can include: - SideStore - AltStore - compatible sideloading services - TrollStore, when supported - Apple Developer signing ### ❌ LiveContainer is not supported NeoStation relies on native iOS behavior including JIT, memory entitlements, URL schemes/deep links, external-app communication, native lifecycle management and emulator-specific permissions. --- ## 🕹️ Embedded emulators ### 🐬 Nintendo GameCube / Wii — DolphiniOS / Dolphin The GameCube/Wii engine is embedded directly in NeoStation. ### 🔵 PlayStation 2 — ARMSX2 / PCSX2 The PS2 engine is embedded directly in NeoStation. ### 🔷 PlayStation 3 — RPCS3 The PS3 engine is embedded directly in NeoStation. These are modified/integrated open-source components. Their original authors and licenses remain fully credited below. --- ## 👾 External emulator integrations ### 🔥 RetroArch The **RetroArch TestFlight / Beta version** is recommended for the supported external integration. RetroArch is installed separately. NeoStation can provide library synchronization, playlists, metadata and supported direct-launch/deep-link flows. Additional RetroArch cores/BIOS files may be required by the systems you use. --- ## ⚡ JIT — StikJIT NeoStation uses **StikJIT** for supported JIT workflows. Your environment may require: - a valid pairing file - **Alt Pairing File** when required - a compatible JIT route - appropriate app entitlements **NeoStation → Select Game → Play → JIT Activation → Game** --- ## 🔷 PlayStation 3 requirements RPCS3 may require: - JIT access - Virtual Addressing entitlement - Increased Memory entitlement - sufficient available RAM - correct pairing/JIT configuration Depending on the signing environment, **GetMoreRam** may also be required. ### ⚠️ Official PS3 firmware required You must provide and import your own legitimate PlayStation 3 system firmware. --- ## 🎮 Native iOS ports NeoStation includes integrations for native/recompiled game runtimes such as **KartPad** and **Dusklight**. > [!WARNING] > **NeoStation does not provide original commercial game files, ROMs, ISOs, firmware, BIOS files or copyrighted commercial game assets.** ### 🏎️ KartPad KartPad targets Mario Kart Wii. The pinned integration expects supported data from the user's own legally obtained copy; the current profile is PAL **RMCP01 revision 0**. ### 🗡️ Dusklight Dusklight is a Twilight Princess reimplementation. Users must provide supported game data from their own legally obtained copy as required by the upstream project. Software licenses for these runtimes do **not** grant rights in Nintendo-owned game content. --- ## 📚 Library setup NeoStation can: - add game folders - import supported games - synchronize emulator libraries - configure integrations - import BIOS and firmware files - download metadata/artwork - configure per-game settings - launch supported games Additional requirements can include:",
-          "buildVersion": "350"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.neogamelab.neostation-3290c87e0a48.png",
@@ -223,9 +222,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.4/NeoStation-0.0.4.ipa",
-        "checkedAt": "2026-10-11T16:23:41Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.5/NeoStation-0.0.5.ipa",
+        "checkedAt": "2026-10-11T21:14:12Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -236,7 +235,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-neogamelab-neostation-9e4b11c2",
-        "sourceURL": "https://github.com/TarbleFR/neostation-ios",
+        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.5",
         "workflowPath": ".github/workflows/update-app-com-neogamelab-neostation-9e4b11c2.yml"
       }
     },
