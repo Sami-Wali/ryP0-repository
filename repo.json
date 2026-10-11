@@ -1,6 +1,46 @@
 {
   "apps": [
     {
+      "name": "YouThoob",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "shreybaviskar",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "21.39.4",
+          "date": "2026-10-02T05:14:57Z",
+          "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-11/YouTubePlus_5.2.2.ipa",
+          "size": 138954659,
+          "buildVersion": "21.39.4",
+          "releaseChannel": "prerelease",
+          "sha256": "fe8fd46744bca7a7deff73050383c8c13d78484a46f0cfafcea2662e4a6eab58"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.ios.youtube-fe8fd46744bc.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-11/YouTubePlus_5.2.2.ipa",
+        "checkedAt": "2026-10-11T14:50:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 12,
+        "sourceURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA"
+      },
+      "githubURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-google-ios-youtube-7522dda3",
+        "sourceURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA",
+        "workflowPath": ".github/workflows/update-app-com-google-ios-youtube-7522dda3.yml"
+      }
+    },
+    {
       "name": "Podium",
       "bundleIdentifier": "com.leviidev.podium",
       "developerName": "sasobhabha",
