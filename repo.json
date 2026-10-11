@@ -70,41 +70,41 @@
     {
       "name": "Podium",
       "bundleIdentifier": "com.leviidev.podium",
-      "developerName": "sasobhabha",
-      "localizedDescription": "GitHub project request: sasobhabha/Podium.",
-      "subtitle": "GitHub project request: sasobhabha/Podium.",
+      "developerName": "Leviidev",
+      "localizedDescription": "GitHub project request: Leviidev/Podium.",
+      "subtitle": "GitHub project request: Leviidev/Podium.",
       "category": "EMU",
       "versions": [
         {
           "version": "0.1.0",
-          "date": "2026-10-10T05:49:55Z",
-          "downloadURL": "https://github.com/sasobhabha/Podium/releases/download/ios-7/Podium.ipa",
-          "size": 4920172,
+          "date": "2026-10-01T22:23:47Z",
+          "downloadURL": "https://github.com/Leviidev/Podium/releases/download/0.1.0/Podium_v0.1.0.ipa",
+          "size": 5193178,
           "buildVersion": "10",
-          "localizedDescription": "Kernel works, boot starts, but I dont have the patience to wait 1 hour without JIT.",
+          "localizedDescription": "Welcome to Podium 0.1.0! Podium is a iPod Touch emulator for iOS and currently **only** emulates iOS 6.1.6 with the iPod Touch (4th gen.). You can try other software versions and devices, but are probably going to fail as they aren't compatible. I hope you enjoy this release, and remember for JIT, you **must** use **universal.js** in StikDebug. TrollStore / Dopamine support soon.",
           "releaseChannel": "release",
-          "sha256": "1216084b937cc1ef96a34da75bd8d7e217feb172c41f717a4cae184674e72dac"
+          "sha256": "2e73a4259dc64d70c9c6b5f5ee79657b982e05d340f329f2e245edb90be70029"
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.leviidev.podium-1216084b937c.png",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.leviidev.podium-2e73a4259dc6.png",
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/sasobhabha/Podium/releases/download/ios-7/Podium.ipa",
-        "checkedAt": "2026-10-11T14:31:38Z",
+        "checkedDownloadURL": "https://github.com/Leviidev/Podium/releases/download/0.1.0/Podium_v0.1.0.ipa",
+        "checkedAt": "2026-10-11T14:58:36Z",
         "message": "Imported from verified upstream source"
       },
       "importSource": {
         "method": "github",
         "historyLimit": 3,
-        "sourceURL": "https://github.com/sasobhabha/Podium"
+        "sourceURL": "https://github.com/Leviidev/Podium"
       },
-      "githubURL": "https://github.com/sasobhabha/Podium",
+      "githubURL": "https://github.com/Leviidev/Podium",
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-leviidev-podium-a9727c04",
-        "sourceURL": "https://github.com/sasobhabha/Podium",
+        "sourceURL": "https://github.com/Leviidev/Podium",
         "workflowPath": ".github/workflows/update-app-com-leviidev-podium-a9727c04.yml"
       }
     },
