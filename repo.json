@@ -9,6 +9,15 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "v2.0",
+          "date": "2026-10-11T05:14:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/v2.0/ryP0-unsigned.ipa",
+          "size": 10585709,
+          "sha256": "b634dad0a73086c6de3a466b584452292af7e1adc6a673f510cde76a7dacfb78",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
           "version": "2.0",
           "date": "2026-10-11T05:14:56Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/v2.0/ryP0-unsigned.ipa",
@@ -25,8 +34,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/v2.0/ryP0-unsigned.ipa",
-        "checkedAt": "2026-10-11T06:24:09Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-11T07:24:12Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -37,7 +46,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-ry0-ryp0-67c459ef",
-        "sourceURL": "https://github.com/Sami-Wali/ryP0",
+        "sourceURL": "https://github.com/Sami-Wali/ryP0/releases/tag/v2.0",
         "workflowPath": ".github/workflows/update-app-com-ry0-ryp0-67c459ef.yml"
       }
     },
