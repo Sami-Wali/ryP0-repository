@@ -182,10 +182,9 @@
       "localizedDescription": "",
       "name": "Amethyst",
       "status": {
-        "checkedAt": "2026-10-11T06:11:10Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "update-error",
+        "checkedAt": "2026-10-11T10:04:03Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 404."
       },
       "subtitle": "",
       "updatePolicy": "daily",
