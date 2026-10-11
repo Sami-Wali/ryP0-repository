@@ -1,6 +1,45 @@
 {
   "apps": [
     {
+      "name": "ASJTok (No Plugins)",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "Ahmad Rashed",
+      "localizedDescription": "This is an original version, it has TikTok's original bundle ID. Delete the original TikTok before installing. It has Plugins/Extensions removed so it can be signed with any certificate, including a free Apple ID. Privacy, download and playback options for TikTok. Open it from its own row in the profile menu, under ASJ tools at the end of TikTok's own list. Its options are in the long-press menu too. Requires iOS 15.0 or later.",
+      "subtitle": "This is an original version, it has TikTok's original bundle ID. Delete the original TikTok before installing. It has Plugins/Extensions removed so it can be signed with any certificate, including a free Apple ID. Privacy, download and playback options for TikTok. Open it from its own row in the profile menu, under ASJ tools at the end of TikTok's own list. Its options are in the long-press menu too. Requires iOS 15.0 or later.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "47.0.0",
+          "date": "2026-09-29",
+          "downloadURL": "https://cdn.ahmadrashed.com/ipa/ASJTok-1.3_47.0.0.ipa",
+          "size": 491121749,
+          "buildVersion": "470044",
+          "localizedDescription": "This update contains the following changes: - ASJTikTok is now ASJTok. Same tweak, same settings. - Change the app icon. Four icons, including ASJTok's own — in the IPA and TrollStore builds. - Opens like TikTok's own settings. From the profile menu, with a back arrow and a swipe back. - Audio files sent back to back are fixed. The second one could go out as a microphone recording. - Send the sound of a video from Photos. Next to Files, behind the chat bar button. - Marking a story as seen is instant. The ring turns grey right away, and stories you didn't mark stay unseen. - The video count is back on profiles. - Hide the ASJ button or TikTok's Tako button. Two new switches in Feed settings. - General improvements and fixes.",
+          "sha256": "dd738dbba65279082031c6cc00897ed645bcf9e3871d106825ed18f60d73567f"
+        }
+      ],
+      "iconURL": "https://ahmadrashed.com/icons/ipa/asjtiktok.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://cdn.ahmadrashed.com/ipa/ASJTok-1.3_47.0.0.ipa",
+        "checkedAt": "2026-10-11T18:13:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "sourceURL": "https://altstore.ahmadrashed.com/"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-zhiliaoapp-musically-47f7aa1d",
+        "sourceURL": "https://altstore.ahmadrashed.com/",
+        "workflowPath": ".github/workflows/update-app-com-zhiliaoapp-musically-47f7aa1d.yml"
+      }
+    },
+    {
       "name": "kartpad",
       "bundleIdentifier": "dev.kartpad.app",
       "developerName": "chrissotraidis",
