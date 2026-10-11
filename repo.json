@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "Simpsons Hit & Run",
+      "bundleIdentifier": "com.c4rlox.simpsons.ios",
+      "developerName": "creeper4004",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2026-10-10T23:25:54Z",
+          "downloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
+          "size": 9468311,
+          "buildVersion": "1",
+          "localizedDescription": "First public iOS release of this community port, adapted from [Carlox33's Android port](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android), which builds on ZenoArrows' earlier ports. ## Downloads - **Simpsons-Hit-and-Run-iOS-0.1.ipa** — unsigned arm64 device build, version 0.1 (build 1), for iPhone/iPad targeting iOS 15.0 or later. Sign with your own Apple account using a compatible iOS sideloading tool. This is not an App Store or universally signed IPA. - **Source code (zip / tar.gz)** — GitHub's source archives for this release tag, below. - **Release-Documentation-0.1.zip** — installation, controls, credits, known issues and third-party notices (also included inside the IPA). - **ffmpeg-6.0.tar.xz** — the unmodified source used for the statically linked FFmpeg dependency. Build options are provided in `ios-project/build-ffmpeg.sh`. - **SHA256SUMS.txt** — checksums for the uploaded packages. ## Game files are not included Built with `SRR2_IOS_EMBED_GAME_ASSETS=OFF`; the finished IPA was inspected and contains no retail game data or bundled `game_assets` directory. Touch-control artwork is included. After signing and installing, open the app once, close it, then copy your own retail PC game files into **Files → On My iPhone/iPad → Simpsons Hit & Run → game**. Use a compatible **PAL** data set. Keep `art`, `movies`, `scripts`, `sound` and the `.rcf` archives directly inside `game`. See [installation instructions](https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/blob/v0.1/INSTALLATION.md) for the complete layout, Finder transfers, updates and backups. ## Status Includes touch controls, controller support, external game-data loading and recent iOS streaming/rendering improvements. This is an early release: performance, mission transitions, background/resume and full-story completion still need broader testing. Validation for this package: successful device Release build, arm64/iOS platform, minimum deployment target 15.0, version/build, IPA integrity and absence of game data. No new physical-device gameplay validation was performed during packaging. See [known issues](https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/blob/v0.1/KNOWN_ISSUES.md).",
+          "releaseChannel": "release",
+          "sha256": "1eb241943de3be8705526de17c643b06a4589b8803ef2f898434a127e8438eda"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.c4rlox.simpsons.ios-1eb241943de3.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
+        "checkedAt": "2026-10-11T15:04:01Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 12,
+        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS"
+      },
+      "githubURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-c4rlox-simpsons-ios-6899cb6a",
+        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS",
+        "workflowPath": ".github/workflows/update-app-com-c4rlox-simpsons-ios-6899cb6a.yml"
+      }
+    },
+    {
       "name": "Podium",
       "bundleIdentifier": "com.leviidev.podium",
       "developerName": "Leviidev",
