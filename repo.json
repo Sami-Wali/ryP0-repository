@@ -1,6 +1,44 @@
 {
   "apps": [
     {
+      "name": "Vesc_Tool_6.06.2",
+      "bundleIdentifier": "com.vesc-project.vesc-tool",
+      "developerName": "Vesc_Tool_6.06.2 x CyPwn",
+      "localizedDescription": "Configure your VESC Ecosystem",
+      "subtitle": "Configure your VESC Ecosystem",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "6.06.2",
+          "date": "2026-02-20",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
+          "size": 90446319,
+          "buildVersion": "6.06.2",
+          "sha256": "888b2fda381cb40344b0b6ae8f3f5bb8a7ec615fb64176ed6a1e1c0d7dce08db"
+        }
+      ],
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Vesc_Tool_6.06.2.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
+        "checkedAt": "2026-10-11T16:22:56Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-vesc-project-vesc-tool-438ba9e7",
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json",
+        "workflowPath": ".github/workflows/update-app-com-vesc-project-vesc-tool-438ba9e7.yml"
+      }
+    },
+    {
       "name": "Photos Backup",
       "bundleIdentifier": "com.g8row.photosbackup",
       "developerName": "g8row",
