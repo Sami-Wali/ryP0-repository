@@ -17,6 +17,16 @@
           "localizedDescription": "# Changelog v0.4.2 - Updated Xbox controller input on Windows and controller event handling on iOS. - Improved controller setup, remapping, menu navigation, and reconnect handling. - Kept player assignments stable in **P1 → P3 → P2 → P4** order. - Fixed Player 1 and Player 4 possession indicator alignment. - Improved camera tracking so players remain visible at the court corners. - Adjusted the inbound camera at both ends to avoid exposing missing scenery. - Removed private build paths and debug metadata from release binaries. - Added license notices, release notes, and matching source code packaging.",
           "releaseChannel": "release",
           "sha256": "cee8cef559b1991fc1bfd548cbb1d6793bf0006cf3baceece5c0d8e4533aec65"
+        },
+        {
+          "version": "R1",
+          "date": "2026-10-10T15:13:26Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/R1/NBA-Hangtime-iOS.ipa",
+          "size": 5968054,
+          "sha256": "a009b758079152a2c26568405aed918b0cc949e7d9b42b105f8888327d5c25af",
+          "releaseChannel": "release",
+          "localizedDescription": "First release",
+          "buildVersion": "5"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.nbahangtime-cee8cef559b1.png",
