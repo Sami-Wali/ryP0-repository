@@ -15,7 +15,8 @@
           "size": 257046586,
           "buildVersion": "1",
           "localizedDescription": "Merged orionblur’s fork back into the main repo",
-          "sha256": "81b9234163e17372e2f32f63867a0c53fe4860aa62441fb7effc5bc54fe0baa6"
+          "sha256": "81b9234163e17372e2f32f63867a0c53fe4860aa62441fb7effc5bc54fe0baa6",
+          "releaseChannel": "release"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/NeoFreeBird/app/v7/resources/icon_rounded.png",
