@@ -2780,7 +2780,8 @@
           "size": 110921859,
           "sha256": "55ca8a6a8a9194759be578ef340553372a4427257093c659d5dc3b2971d722e7",
           "releaseChannel": "release",
-          "buildVersion": "109"
+          "buildVersion": "109",
+          "localizedDescription": "## Welcome to Husk 2.0. I’ve been working hard over the past few days, and I’m glad to say, Husk 2.0 is out! You’ll enjoy it, a lot. ## What’s new? - Christmas Decoration - In-app help feature - Window manager - New UI - Removed downloads tab ## New App Support - Over 150+ games and apps, now running on Husk. ## Notes: Thank you all for the continuous support, It’s been a good few months, and I’m just amazed at how big Husk got. Thank you so much, and enjoy Husk 2.0. There is more to come. ## Links: - Discord: https://discord.gg/xApMHWAzkh - X Profile: https://x.com/leviidev01 - Discord User: @leviidev **Full Changelog**: https://github.com/Leviidev/Husk/compare/1.1.0...2.0"
         },
         {
           "buildVersion": "61",
