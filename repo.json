@@ -1,6 +1,44 @@
 {
   "apps": [
     {
+      "name": "CloverPit-1.4.8",
+      "bundleIdentifier": "com.PanikArcade.CloverPit",
+      "developerName": "CloverPit-1.4.8 x CyPwn",
+      "localizedDescription": "A rogue-lite slot machine nightmare",
+      "subtitle": "A rogue-lite slot machine nightmare",
+      "category": "Games",
+      "versions": [
+        {
+          "version": "1.4.8",
+          "date": "2026-07-07",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
+          "size": 146330883,
+          "buildVersion": "8",
+          "sha256": "cd55968e6f6b7f170572e2a86237ca62226ac8a7f7be099d44174553bc4fa732"
+        }
+      ],
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.8.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
+        "checkedAt": "2026-10-11T16:24:36Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-panikarcade-cloverpit-d6958602",
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json",
+        "workflowPath": ".github/workflows/update-app-com-panikarcade-cloverpit-d6958602.yml"
+      }
+    },
+    {
       "name": "NeoStation",
       "bundleIdentifier": "com.neogamelab.neostation",
       "developerName": "TarbleFR",
