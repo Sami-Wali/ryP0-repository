@@ -125,40 +125,39 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-google-ios-youtube-7522dda3",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA",
+        "configId": "com-google-ios-youtube-7522dda3",
+        "sourceURL": "https://altstore.ahmadrashed.com/",
         "workflowPath": ".github/workflows/update-app-com-google-ios-youtube-7522dda3.yml"
       },
       "bundleIdentifier": "com.google.ios.youtube",
       "category": "Social",
-      "developerName": "shreybaviskar",
-      "githubURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA",
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.ios.youtube-fe8fd46744bc.png",
+      "developerName": "Ahmad Rashed",
+      "iconURL": "https://ahmadrashed.com/icons/ipa/asjtube.png",
       "importSource": {
+        "method": "repository",
         "historyLimit": 12,
-        "method": "github",
-        "sourceURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA"
+        "sourceURL": "https://altstore.ahmadrashed.com/"
       },
-      "localizedDescription": "",
-      "name": "YouThoob",
+      "localizedDescription": "This is an original version, it has YouTube's original bundle ID. Delete the original YouTube before installing. It has Plugins/Extensions removed so it can be signed with any certificate, including a free Apple ID. Downloads, background audio and an ad-free YouTube — without changing how the app looks. Everything lives in one place: an ASJTube tab in YouTube's own bar. Requires iOS 17.0 or later.",
+      "name": "ASJTube (No Plugins)",
       "status": {
-        "checkedAt": "2026-10-11T14:50:35Z",
-        "checkedDownloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-11/YouTubePlus_5.2.2.ipa",
-        "message": "Imported from verified upstream source",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://cdn.ahmadrashed.com/ipa/ASJTube-1.4_21.39.4.ipa",
+        "checkedAt": "2026-10-11T15:42:07Z",
+        "message": "Imported from verified upstream source"
       },
-      "subtitle": "",
+      "subtitle": "This is an original version, it has YouTube's original bundle ID. Delete the original YouTube before installing. It has Plugins/Extensions removed so it can be signed with any certificate, including a free Apple ID. Downloads, background audio and an ad-free YouTube — without changing how the app looks. Everything lives in one place: an ASJTube tab in YouTube's own bar. Requires iOS 17.0 or later.",
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "21.39.4",
+          "date": "2026-10-03",
+          "downloadURL": "https://cdn.ahmadrashed.com/ipa/ASJTube-1.4_21.39.4.ipa",
+          "size": 147923687,
           "buildVersion": "21.39.4",
-          "date": "2026-10-02T05:14:57Z",
-          "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-11/YouTubePlus_5.2.2.ipa",
-          "releaseChannel": "prerelease",
-          "sha256": "fe8fd46744bca7a7deff73050383c8c13d78484a46f0cfafcea2662e4a6eab58",
-          "size": 138954659,
-          "version": "21.39.4"
+          "localizedDescription": "This update contains the following changes: - Download a whole playlist. Paste its link in My library — videos you already have are skipped. - YouTube Music in the library search. Play any song, or save it as audio. - Also new: sleep timer, SponsorBlock, an app icon picker, and switches for the channel watermark and the still-watching prompt. - The ASJ tab opens ASJTube's settings again. - Works with the newest YouTube, 21.39.4. - General improvements and fixes.",
+          "sha256": "1e74171f858fd587b4b9fdc3f25a05330de29e796ea2fa2593fcbc853116e6da"
         },
         {
           "buildVersion": "21.13.6",
