@@ -16,6 +16,26 @@
           "buildVersion": "1",
           "localizedDescription": "# 4.3 **Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3 * Removed Leaderboard * Removed Accounts * Removed Anti-Cheat",
           "sha256": "95994220d9f47050d484727c33a355f9d8fe3c41110466e443d00bb4eb6973d6"
+        },
+        {
+          "version": "4.2.2",
+          "date": "2022-06-11T23:28:05Z",
+          "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.2.2/org.brandonplank.flappybird.ipa",
+          "size": 2491387,
+          "sha256": "eb22fa3860ccc47029e2d0e7ba1f9c256bd1a418115586901c2981f8e6ad5cf2",
+          "releaseChannel": "release",
+          "localizedDescription": "* Generic improvements * Add in-game version number * Add much needed launch screen fonts.",
+          "buildVersion": "1"
+        },
+        {
+          "version": "4.2.1",
+          "date": "2022-06-11T17:47:03Z",
+          "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.2.1/org.brandonplank.flappybird.ipa",
+          "size": 2480239,
+          "sha256": "a68830d585ca123c4144ec301f6eaa988ac0544c7d905cc5271161acfaf4ea9d",
+          "releaseChannel": "release",
+          "localizedDescription": "* Fix version",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://i.imgur.com/tIUJeSs.png",
