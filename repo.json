@@ -1045,7 +1045,8 @@
           "localizedDescription": "First release!",
           "sha256": "344c83949a811056c90c6741c803ccf3f59380f5e284ccec1d5ad8f13cab8a22",
           "size": 35609295,
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "releaseChannel": "release"
         }
       ]
     },
