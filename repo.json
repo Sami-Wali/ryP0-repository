@@ -16,6 +16,33 @@
           "buildVersion": "21.39.4",
           "releaseChannel": "prerelease",
           "sha256": "fe8fd46744bca7a7deff73050383c8c13d78484a46f0cfafcea2662e4a6eab58"
+        },
+        {
+          "version": "ytp-7",
+          "date": "2026-04-01T04:56:01Z",
+          "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-7/YouTubePlus_5.2b4.ipa",
+          "size": 129414451,
+          "sha256": "d5aab0da9f45adb1a643b6852a1bd5c0a62824cbf3800e78427091d380e9225f",
+          "releaseChannel": "release",
+          "buildVersion": "21.13.6"
+        },
+        {
+          "version": "yt-2",
+          "date": "2026-03-25T05:20:49Z",
+          "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/yt-2/YouTube.Premium.IPA.-.21.12.4.ipa",
+          "size": 129288078,
+          "sha256": "47b755d2fde460a88912f462d07a17518a399ccc538dc34b929c71b20e715675",
+          "releaseChannel": "release",
+          "buildVersion": "21.12.4"
+        },
+        {
+          "version": "yt",
+          "date": "2026-03-17T05:49:53Z",
+          "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/yt/YouTubePlus_5.2b4.ipa",
+          "size": 129026827,
+          "sha256": "ed93911200690a5cefdd487a9f2eb09f1805280a2bf0e1108acf5cc667fe37c6",
+          "releaseChannel": "release",
+          "buildVersion": "21.11.4"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.ios.youtube-fe8fd46744bc.png",
