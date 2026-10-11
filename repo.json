@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "Podium",
+      "bundleIdentifier": "com.leviidev.podium",
+      "developerName": "sasobhabha",
+      "localizedDescription": "GitHub project request: sasobhabha/Podium.",
+      "subtitle": "GitHub project request: sasobhabha/Podium.",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-10-10T05:49:55Z",
+          "downloadURL": "https://github.com/sasobhabha/Podium/releases/download/ios-7/Podium.ipa",
+          "size": 4920172,
+          "buildVersion": "10",
+          "localizedDescription": "Kernel works, boot starts, but I dont have the patience to wait 1 hour without JIT.",
+          "releaseChannel": "release",
+          "sha256": "1216084b937cc1ef96a34da75bd8d7e217feb172c41f717a4cae184674e72dac"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.leviidev.podium-1216084b937c.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/sasobhabha/Podium/releases/download/ios-7/Podium.ipa",
+        "checkedAt": "2026-10-11T14:31:38Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "sourceURL": "https://github.com/sasobhabha/Podium"
+      },
+      "githubURL": "https://github.com/sasobhabha/Podium",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-leviidev-podium-a9727c04",
+        "sourceURL": "https://github.com/sasobhabha/Podium",
+        "workflowPath": ".github/workflows/update-app-com-leviidev-podium-a9727c04.yml"
+      }
+    },
+    {
       "name": "AieBeep",
       "bundleIdentifier": "com.linkpass888.airbeep",
       "developerName": "LinkPass888",
