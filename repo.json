@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "NBA Hangtime",
+      "bundleIdentifier": "com.devz.nbahangtime",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.4.2",
+          "date": "2026-10-10T21:04:19Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/R2/NBA-Hangtime-iOS.ipa",
+          "size": 5895580,
+          "buildVersion": "7",
+          "localizedDescription": "# Changelog v0.4.2 - Updated Xbox controller input on Windows and controller event handling on iOS. - Improved controller setup, remapping, menu navigation, and reconnect handling. - Kept player assignments stable in **P1 → P3 → P2 → P4** order. - Fixed Player 1 and Player 4 possession indicator alignment. - Improved camera tracking so players remain visible at the court corners. - Adjusted the inbound camera at both ends to avoid exposing missing scenery. - Removed private build paths and debug metadata from release binaries. - Added license notices, release notes, and matching source code packaging.",
+          "releaseChannel": "release",
+          "sha256": "cee8cef559b1991fc1bfd548cbb1d6793bf0006cf3baceece5c0d8e4533aec65"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.nbahangtime-cee8cef559b1.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/R2/NBA-Hangtime-iOS.ipa",
+        "checkedAt": "2026-10-11T13:19:41Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 12,
+        "sourceURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-devz-nbahangtime-9bde75b1",
+        "sourceURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS",
+        "workflowPath": ".github/workflows/update-app-com-devz-nbahangtime-9bde75b1.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "org-brandonplank-flappybird-fdba8804",
