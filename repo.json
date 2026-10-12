@@ -33,7 +33,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-12T02:29:52Z",
+        "checkedAt": "2026-10-12T02:53:44Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "importSource": {
