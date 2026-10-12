@@ -9,6 +9,15 @@
       "category": "Tools",
       "versions": [
         {
+          "version": "2.0_8",
+          "date": "2026-08-22T19:49:31Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
+          "size": 85139997,
+          "sha256": "199f5ff97622d84fb07baf7f4498bf9fd5709eef6931acf89677b786e4509b46",
+          "releaseChannel": "release",
+          "buildVersion": "15"
+        },
+        {
           "version": "1.0",
           "date": "2026-08-22T19:49:31Z",
           "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
@@ -25,8 +34,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
-        "checkedAt": "2026-10-12T02:26:59Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-12T02:28:43Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -37,7 +46,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-zurac-budgetbuddy-b1cd774a",
-        "sourceURL": "https://github.com/zzanehip/the-oldos-project",
+        "sourceURL": "https://github.com/zzanehip/The-OldOS-Project/releases/tag/2.0_8",
         "workflowPath": ".github/workflows/update-app-com-zurac-budgetbuddy-b1cd774a.yml"
       }
     },
