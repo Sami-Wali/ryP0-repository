@@ -17,6 +17,26 @@
           "localizedDescription": "- OCR dictionary support (iOS 18+): import Yomitan-compatible dictionaries in the app and look up words while reading. - Suwayomi built-in source: read and track from a Suwayomi instance, just like Komga and Kavita. - Auto scroll for webtoon reader: enable and press the play button to scroll without touching your device. - Fixed CloudFlare handling: CloudFlare issues that caused external sources to break should be resolved. - Overall performance improvements: the library loads much faster (@Amqx), and the webtoon reader was improved. - Source stability fixes and disable option: the issue where sources were causing the app to crash should not happen again, and now you can even disable a source that is broken until it receives an update. - Many more things: see [the website](https://aidoku.app/release-notes/) for a more complete list.",
           "releaseChannel": "release",
           "sha256": "86405861d3a0c90876a90aa1ca668bee54f4555a56249fede4444be5382833e8"
+        },
+        {
+          "version": "v0.8.4",
+          "date": "2026-07-03T05:27:41Z",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.8.4/Aidoku.ipa",
+          "size": 10136987,
+          "sha256": "4629068fac5fe7155e8d0d6eb4dcb594a63eb5485ec754b4d7ebb11371c54947",
+          "releaseChannel": "release",
+          "localizedDescription": "- Fixes for iOS 27: fixed settings pages freezing the app, along with other minor visual issues. - Improved backup restore time: restores should now take seconds instead of minutes. (@Amqx) - Failed download page retrying: less chance of missing pages in downloaded chapters from sources with aggressive rate limits. (@pxseu) - New chapter notifications (experimental): when Aidoku refreshes in the background, notification(s) of new chapters should be sent if enabled. (@Zareix) - Various other bug fixes and small features: see [the website](<https://aidoku.app/release-notes/>) for a more complete list.",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.8.3",
+          "date": "2026-05-18T19:02:38Z",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.8.3/Aidoku.ipa",
+          "size": 9287296,
+          "sha256": "261b0d1c3eb6df4bbd5d105cb385cc7b516ac64c455d084eaebe86ee044159a1",
+          "releaseChannel": "release",
+          "localizedDescription": "- New migration flow: view series details and optionally copy data instead of completely migrating. - Kavita API key login: in addition to OIDC and basic auth, use an API key if it works better for you. - Continuous with gaps reading mode: like the Webtoon mode, but with gaps between pages. - Fixed tracker search bar: should show again on iOS 26.4+. - Improved double page reader: new page offset setting and double page handling fixes. - Various other bug fixes and small features: see [the website](<https://aidoku.app/release-notes/>) for a more complete list.",
+          "buildVersion": "3"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.aidoku.Aidoku-86405861d3a0.png",
