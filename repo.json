@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "Kazumi",
+      "bundleIdentifier": "com.example.kazumi",
+      "developerName": "Predidit",
+      "localizedDescription": "GitHub project request: Predidit/Kazumi.",
+      "subtitle": "GitHub project request: Predidit/Kazumi.",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "2.3.8",
+          "date": "2026-10-07T03:41:05Z",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.3.8/Kazumi_ios_2.3.8_no_sign.ipa",
+          "size": 30463104,
+          "buildVersion": "20308",
+          "localizedDescription": "- 优化截图交互 (#2599) (@Predidit) - 统一应用内下拉菜单样式 (@Predidit) - 修复大字体下番剧详情页追番按钮与其他按钮重叠而无法点击的问题 (#2622) (@Predidit) - 修复宽屏设置页重复点击已选中分类时二级页面重复嵌套的问题 (#2607) (@Predidit) - 修复鼠标悬停时播放器控制栏动画反复重启的问题 (@Predidit) - 修复分集评论标题栏显示多余副标题的问题 (@Predidit) - 其他UI改进 (@Predidit)",
+          "releaseChannel": "release",
+          "sha256": "d3bede0e72bfa8fd092e20e8a6e6e854462811296c1ab1d8a3507ff6e263dc69"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.kazumi-d3bede0e72bf.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.3.8/Kazumi_ios_2.3.8_no_sign.ipa",
+        "checkedAt": "2026-10-12T06:52:55Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "sourceURL": "https://github.com/Predidit/Kazumi"
+      },
+      "githubURL": "https://github.com/Predidit/Kazumi",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-example-kazumi-364d8606",
+        "sourceURL": "https://github.com/Predidit/Kazumi",
+        "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
+      }
+    },
+    {
       "name": "Apollo for Reddit",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig (& Apollo-Reborn contributors)",
