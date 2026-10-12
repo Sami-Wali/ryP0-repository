@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "pziOS",
+      "bundleIdentifier": "com.knt.pzios",
+      "developerName": "onlyknt",
+      "localizedDescription": "GitHub project request: onlyknt/pziOS.",
+      "subtitle": "GitHub project request: onlyknt/pziOS.",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.9.0",
+          "date": "2026-10-11T21:07:19Z",
+          "downloadURL": "https://github.com/onlyknt/pziOS/releases/download/0.9.0/pziOS-0.9.0-beta.1-b42.21.ipa",
+          "size": 128784574,
+          "buildVersion": "1",
+          "localizedDescription": "pziOS runs Project Zomboid (Build 42) on an iPhone or iPad with no jailbreak. It is a launcher plus the runtime the game needs: a Java virtual machine built for iOS, an OpenGL-to-Metal graphics stack, and audio and input layers. ## Features - Solo play, mods, saves, and direct-connect multiplayer. - **Controls**: editable touch layout with an aim stick, game controllers, keyboard and mouse. On-screen controls hide when a controller or keyboard and mouse are connected. - **Display**: render resolution presets, UI margins sized to your screen (Auto, or set your own), up to 120 Hz, iPad layouts. - **Performance options**: memory limit tiers chosen from what iOS lets the app use, garbage collector choices (Parallel, pzGC, SGC, pzSGC), JIT compiler choices, ASTC texture compression with a disk cache. - **Setup guide** that imports the game and walks through JIT. ## Supported Devices - **iPhone 15 Pro or later.** - **iPad Pro A12z or later.** - **iPad Air M1 or later.** - **iPad Mini A17 Pro or later.** - **iPad A16 or later.** **(0.9.0 is a pre-release version of pziOS)**",
+          "releaseChannel": "release",
+          "sha256": "6264cc84b8b61f8955419416704dd32d96697e5193dae349c94daef48668aa5f"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.knt.pzios-6264cc84b8b6.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/0.9.0/pziOS-0.9.0-beta.1-b42.21.ipa",
+        "checkedAt": "2026-10-12T06:54:37Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "sourceURL": "https://github.com/onlyknt/pziOS"
+      },
+      "githubURL": "https://github.com/onlyknt/pziOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-knt-pzios-e8fd0907",
+        "sourceURL": "https://github.com/onlyknt/pziOS",
+        "workflowPath": ".github/workflows/update-app-com-knt-pzios-e8fd0907.yml"
+      }
+    },
+    {
       "name": "MiniWatts",
       "bundleIdentifier": "org.zhaohe.MiniWatts",
       "developerName": "ResistanceTo",
