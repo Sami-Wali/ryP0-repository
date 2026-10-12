@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "IPAID",
+      "bundleIdentifier": "com.shplash.ipaid",
+      "developerName": "shplash",
+      "localizedDescription": "GitHub project request: shplash/IPAID.",
+      "subtitle": "GitHub project request: shplash/IPAID.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.21",
+          "date": "2026-09-15T18:10:50Z",
+          "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+          "size": 1766144,
+          "buildVersion": "112",
+          "localizedDescription": "## What’s New Added an About screen with links to report issues, request features, visit the GitHub repository, and check for updates. It also includes an entirely optional support link, as well as a light/dark mode toggle. ### Changes - Added About screen - Project links - Light/dark mode toggle - Support link",
+          "releaseChannel": "release",
+          "sha256": "d9d441313ef35dd1ed50014a72e1d121fe6ae56d2ed74e36e06eecab15cd4e0a"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.shplash.ipaid-d9d441313ef3.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+        "checkedAt": "2026-10-12T00:37:26Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "sourceURL": "https://github.com/shplash/IPAID"
+      },
+      "githubURL": "https://github.com/shplash/IPAID",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-shplash-ipaid-0307e3cd",
+        "sourceURL": "https://github.com/shplash/IPAID",
+        "workflowPath": ".github/workflows/update-app-com-shplash-ipaid-0307e3cd.yml"
+      }
+    },
+    {
       "name": "Spy G",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Unknown Developer",
