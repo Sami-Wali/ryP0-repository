@@ -1,6 +1,44 @@
 {
   "apps": [
     {
+      "name": "Spy G",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "Spotify cracked releases",
+      "subtitle": "Spotify cracked releases",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-12T00:35:11Z",
+          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
+          "size": 129363025,
+          "buildVersion": "919002269",
+          "sha256": "7105be94d89564d16f1fdce51ac3a4281e44769d799af49f42fff9fdae78f455"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.spotify.client-7105be94d895.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
+        "checkedAt": "2026-10-12T00:35:22Z",
+        "message": "Imported to protected R2 after IPA validation"
+      },
+      "importSource": {
+        "method": "telegram-r2",
+        "historyLimit": 1,
+        "sourceURL": "https://t.me/spyg_vault/137"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "com-spotify-client-7f294ec0",
+        "sourceURL": "https://t.me/spyg_vault/137",
+        "workflowPath": ".github/workflows/update-app-com-spotify-client-7f294ec0.yml"
+      }
+    },
+    {
       "name": "Roam-Control",
       "bundleIdentifier": "com.roamcontrol",
       "developerName": "seanhowarthdev",
