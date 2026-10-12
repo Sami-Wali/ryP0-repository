@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "name": "Aidoku",
+      "bundleIdentifier": "app.aidoku.Aidoku",
+      "developerName": "Aidoku",
+      "localizedDescription": "Manga reading app",
+      "subtitle": "Manga reading app",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.9",
+          "date": "2026-09-03T20:17:08Z",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
+          "size": 14731108,
+          "buildVersion": "3",
+          "localizedDescription": "- OCR dictionary support (iOS 18+): import Yomitan-compatible dictionaries in the app and look up words while reading. - Suwayomi built-in source: read and track from a Suwayomi instance, just like Komga and Kavita. - Auto scroll for webtoon reader: enable and press the play button to scroll without touching your device. - Fixed CloudFlare handling: CloudFlare issues that caused external sources to break should be resolved. - Overall performance improvements: the library loads much faster (@Amqx), and the webtoon reader was improved. - Source stability fixes and disable option: the issue where sources were causing the app to crash should not happen again, and now you can even disable a source that is broken until it receives an update. - Many more things: see [the website](https://aidoku.app/release-notes/) for a more complete list.",
+          "releaseChannel": "release",
+          "sha256": "86405861d3a0c90876a90aa1ca668bee54f4555a56249fede4444be5382833e8"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.aidoku.Aidoku-86405861d3a0.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
+        "checkedAt": "2026-10-12T04:49:45Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "sourceURL": "https://github.com/Aidoku/Aidoku"
+      },
+      "githubURL": "https://github.com/Aidoku/Aidoku",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-aidoku-aidoku-c3112316",
+        "sourceURL": "https://github.com/Aidoku/Aidoku",
+        "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
+      }
+    },
+    {
       "name": "OldOS",
       "bundleIdentifier": "com.zurac.BudgetBuddy",
       "developerName": "@zzanehip (Zane)",
