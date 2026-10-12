@@ -508,6 +508,15 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v0.2",
+          "date": "2026-10-12T01:46:25Z",
+          "downloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.2/Simpsons-Hit-and-Run-iOS-0.2.ipa",
+          "size": 12454045,
+          "sha256": "62acaebf1dd613bc1a25c3c9c7a1a2905821c20aab1506633a4c782dc8f2c96a",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
+        {
           "version": "0.1",
           "date": "2026-10-10T23:25:54Z",
           "downloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
@@ -523,9 +532,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
-        "checkedAt": "2026-10-11T22:17:03Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.2/Simpsons-Hit-and-Run-iOS-0.2.ipa",
+        "checkedAt": "2026-10-12T01:48:39Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -536,7 +545,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-c4rlox-simpsons-ios-6899cb6a",
-        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS",
+        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/tag/v0.2",
         "workflowPath": ".github/workflows/update-app-com-c4rlox-simpsons-ios-6899cb6a.yml"
       }
     },
