@@ -516,9 +516,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "dev-kartpad-app-6eef8493",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/kartpad",
+        "configId": "dev-kartpad-app-6eef8493",
+        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.0",
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "bundleIdentifier": "dev.kartpad.app",
@@ -535,13 +535,22 @@
       "name": "kartpad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.7.15/KartPad-v0.7.15-ios-for-padmint.ipa",
-        "checkedAt": "2026-10-12T06:19:06Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.0/KartPad-v0.8.0-ios-for-padmint.ipa",
+        "checkedAt": "2026-10-12T08:08:45Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.0",
+          "date": "2026-10-12T08:04:11Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.0/KartPad-v0.8.0-ios-for-padmint.ipa",
+          "size": 9290784,
+          "sha256": "2ea31fa8ab541a367fba233d35f43ae5412c6c0e6a60380fb63ce31e993f8905",
+          "releaseChannel": "release",
+          "buildVersion": "262"
+        },
         {
           "buildVersion": "260",
           "date": "2026-10-09T08:12:40Z",
@@ -561,16 +570,6 @@
           "sha256": "f8263cee1fc93334b14d6dde484aca91896b777d2e3c74b512a4ac18e591679e",
           "size": 8642505,
           "version": "v0.7.14"
-        },
-        {
-          "buildVersion": "251",
-          "date": "2026-10-03T13:12:17Z",
-          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.7.8/KartPad-v0.7.8-ios-unsigned.ipa",
-          "localizedDescription": "KartPad 0.7.8 for Android and iPhone/iPad. **Your game pack keeps working**: this update needs no new pack. The apps below contain no game code: you make the game part yourself with [PadMint](https://github.com/chrissotraidis/padmint) from your own Mario Kart Wii disc. Nothing from your disc is uploaded. Full steps: **[Get KartPad](https://github.com/chrissotraidis/kartpad#get-kartpad)**. ### What's new - **Android: a connected controller can no longer end up with no player** (#378). In **Controller Player Setup**, choosing the empty option for Player 1 took the controller off Player 1 without giving it another player, so everything it sent was ignored. The same happened when Player 1 was saved for a controller that wasn't connected. Now every connected controller always gets a player. Player 1's empty choice is simply **Automatic** and picks the first connected controller. A controller saved to a player only keeps that spot while it's connected. - **Android: better controller details in diagnostic logs.** The log now lists each controller's name, which player it was given and how it was mapped, so a single report shows where a controller's input goes. ### Updating from 0.7.x - **Android:** install `KartPad-v0.7.8-android.apk` below over your current KartPad. Your saves, game pack and controller settings stay. If you're on 0.7.5 or later, **Update available** next to **Help** takes you here. - **iPhone and iPad:** nothing changes for you in this release. Coming from 0.6.x? Follow the full steps: 0.7.0 and later need one new game pack. ### Files - `KartPad-v0.7.8-android.apk`: the Android app without game code, signed with the same key as earlier versions. - `KartPad-v0.7.8-ios-unsigned.ipa`: the iPhone/iPad app without game code. PadMint adds your game pack to it; you install PadMint's result, not this file. - `KartPad-v0.7.8-padmint.json`: the recipe PadMint follows for this version. - `SHA256SUMS`: checksums for the files above. Tested before release on an Android emulator with two virtual controllers set up like the ones in #378. On 0.7.7, choosing Automatic for Player 1 left one controller sending nothing; with this version that controller works, and assigning the other one to Player 1 moves it to a free player instead. The public 0.7.3 app updated in place to this APK kept its game pack byte for byte and raced a Grand Prix with one controller. Not yet tested with physical controllers or a physical phone. Apps built from b152d68d; the tag points to the merge commit with the same source tree.",
-          "releaseChannel": "release",
-          "sha256": "d875c6360eacc68b9deb29f95733680326ca45f3e736f66a3ffa9d0016ac8a60",
-          "size": 8633787,
-          "version": "v0.7.8"
         }
       ]
     },
