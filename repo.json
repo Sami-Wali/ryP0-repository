@@ -4458,9 +4458,9 @@
     },
     {
       "automation": {
-        "configId": "sideinstaller",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.3.1",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.4.0",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -4470,13 +4470,22 @@
       "name": "SideInstaller",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.1-de6175558542.ipa",
-        "checkedAt": "2026-10-12T06:19:06Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.4.0-1baf1f2f3e19.ipa",
+        "checkedAt": "2026-10-13T15:07:38Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.4.0",
+          "date": "2026-10-12T13:21:32Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.4.0-1baf1f2f3e19.ipa",
+          "size": 9107400,
+          "sha256": "1baf1f2f3e192e865613da4c3d8f706c1555460b521172651ee1e2097953a807",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-06T16:24:26Z",
@@ -4568,16 +4577,6 @@
           "sha256": "90825f8c727590ca756b7c22f4c3e5f89ed1681ed15b068bf5a277512ad508f7",
           "size": 8436151,
           "version": "v0.8.0"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-08-03T13:58:44Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.7.0-c58bee780540.ipa",
-          "localizedDescription": "This update brings significant changes to the backend. The app is now more optimized with LocalDevVPN, which should cause much less issues with tunnel connections being refused or expired. ## Custom IPAs - Users can now import any IPA from Files and SideInstaller signs and installs that instead of downloading. - Documents is now visible in **Files › On My iPhone › SideInstaller**. If you put a SideStore.ipa there, the install uses it. This can be useful for those who cannot access GitHub servers. #9 - A failed download falls back to a copy from an earlier run. - Imports are now backgrounded, work off iCloud Drive, don't destroy the previous file if they fail, and catch a truncated archive at import. ## Security - The pairing file and your signing certificate moved out of Documents to Application Support. This fixes a huge security flaw since apps could abusively access your pairing files without your consent, giving them access to potential security exploits. ## Tunnel and VPN - Any loopback VPN works, not just LocalDevVPN. The UI now says so and names ClashMi too. #9 - A tunnel on a mask other than /24 is detected; a Wi-Fi LAN on the same range no longer reads as a tunnel. - Entering LocalDevVPN's own address in Device IP is caught before the run starts, instead of failing at Connect. - Wi-Fi is only required for pairing. Installing with a saved pairing file works on cellular. ## Fixes - Added new languages, such as Chinese - Pairing tab no longer fails with \"adapter closed\" after sitting idle, it re-establishes the device link first. - The tunnel/Wi-Fi poll no longer redraws the UI twice a second. - Large builds are mapped rather than read into memory whole during upload. - The activity log is capped at 2000 lines. - Removed the copy button from the code since it can't be pasted into the settings app, meaning it was useless **Full changelog:** https://github.com/FrizzleM/SideInstaller/compare/v0.6.5...v0.7.0",
-          "releaseChannel": "release",
-          "sha256": "c58bee7805409cd567321b42a1e0e08ffbca364ecefc7fd7b3f30a1132041ee7",
-          "size": 7626179,
-          "version": "v0.7.0"
         }
       ]
     },
