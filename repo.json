@@ -3514,7 +3514,9 @@
           "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa",
           "size": 13544340,
           "sha256": "2a4ec1af798648dddda33d3a7730554529f7a172a9dd090a999eff02552c0a68",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "localizedDescription": "Add Husk support **Full Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.13...3.1.14"
         },
         {
           "buildVersion": "1",
