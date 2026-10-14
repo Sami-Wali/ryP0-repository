@@ -4315,8 +4315,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2026.09.20-853140e900ff.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-14T00:03:42Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#29007a",
       "updatePolicy": "daily",
@@ -4376,6 +4376,15 @@
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
           "size": 27538857,
           "version": "Nightly-2026.09.08"
+        },
+        {
+          "version": "Nightly-2023.01.04",
+          "date": "2023-01-04T14:07:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2023.01.04-b082a52e2b19.ipa",
+          "size": 31137651,
+          "sha256": "b082a52e2b1949200caeaba9a72767004a99c850b5bcbe964b6edf076535d4ac",
+          "releaseChannel": "nightly",
+          "buildVersion": "0700"
         }
       ]
     },
