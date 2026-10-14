@@ -1263,9 +1263,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "amethyst",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/AngelAuraMC/Amethyst-iOS",
+        "configId": "amethyst",
+        "sourceURL": "https://github.com/AngelAuraMC/Amethyst-iOS/actions/runs/31392204231",
         "workflowPath": ".github/workflows/update-app-amethyst.yml"
       },
       "bundleIdentifier": "org.angelauramc.amethyst",
@@ -1281,9 +1281,10 @@
       "localizedDescription": "",
       "name": "Amethyst",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-14T00:27:22Z",
-        "message": "Private updater: Actions discovery failed: GitHub Actions artifact sources require UPSTREAM_GITHUB_TOKEN with Actions read access."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+        "checkedAt": "2026-10-14T00:47:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -1296,6 +1297,15 @@
           "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
           "size": 191972732,
           "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc"
+        },
+        {
+          "version": "9212a1894865e7ac0466029e25ddb0d895544c76",
+          "date": "2026-08-10T13:18:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/amethyst-9212a1894865e7ac0466029e25ddb0d895544c76-c11f94ad51bc.ipa",
+          "size": 191971554,
+          "sha256": "c11f94ad51bc97abf85466e18a8a78fbd06437f39cba0c271eac3d10461f6438",
+          "releaseChannel": "actions",
+          "buildVersion": "1.0"
         }
       ]
     },
