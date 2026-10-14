@@ -1273,9 +1273,8 @@
       "name": "Amethyst",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 404."
+        "checkedAt": "2026-10-14T00:02:51Z",
+        "message": "Private updater: Actions discovery failed: GitHub Actions artifact sources require UPSTREAM_GITHUB_TOKEN with Actions read access."
       },
       "subtitle": "",
       "updatePolicy": "daily",
