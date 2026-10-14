@@ -1034,9 +1034,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-nbahangtime-9bde75b1",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/tag/v0.4.3",
+        "configId": "com-devz-nbahangtime-9bde75b1",
+        "sourceURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/tag/v0.4.4",
         "workflowPath": ".github/workflows/update-app-com-devz-nbahangtime-9bde75b1.yml"
       },
       "bundleIdentifier": "com.devz.nbahangtime",
@@ -1052,12 +1052,21 @@
       "name": "NBA Hangtime",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/v0.4.3/NBA-Hangtime-iOS.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/v0.4.4/NBA-Hangtime-iOS.ipa",
+        "checkedAt": "2026-10-14T00:08:20Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.4",
+          "date": "2026-10-13T05:39:25Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/v0.4.4/NBA-Hangtime-iOS.ipa",
+          "size": 5910890,
+          "sha256": "34886a02ca4202477c536f4fa7a7d12bab9a860190fd2a3079a665c662b30cbd",
+          "releaseChannel": "release",
+          "buildVersion": "9"
+        },
         {
           "buildVersion": "8",
           "date": "2026-10-11T15:37:59Z",
