@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "TiebaPure-iOS",
+      "catalogID": "app-8e7e6db5a310455f85d91f822b18c6ea",
+      "bundleIdentifier": "dev.infinityf4p.tiebapure",
+      "developerName": "infinityf4p",
+      "localizedDescription": "GitHub project request: infinityf4p/TiebaPure-iOS.",
+      "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "1.4.15",
+          "date": "2026-10-10T06:07:37Z",
+          "downloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+          "size": 9347637,
+          "buildVersion": "59",
+          "localizedDescription": "## What's included - Stabilizes Home tab reselection and refresh behavior after scrolling. - Returning from a thread or search now closes that screen first; the next Home tap refreshes the feed. - A Home tap during an in-flight refresh returns to the top without creating a duplicate request. - Bumps the app and Open In extension to version `1.4.15` (build `59`). ## Download `TiebaPure-v1.4.15-unsigned.ipa` is an intentionally unsigned arm64 IPA for local installation/signing. - Minimum iOS: `16.4` - Commit: `5a87225190d6a79b1e3ad3b7d846edd407d416c7` - SHA-256: `28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123` CI `ci-ok` passed on PR #86, including unit tests, iOS compatibility checks, UI smoke tests, iPad layout tests, and the Release build.",
+          "releaseChannel": "release",
+          "sha256": "28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.infinityf4p.tiebapure-28fbe31e673b.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+        "checkedAt": "2026-10-14T21:16:47Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS"
+      },
+      "githubURL": "https://github.com/infinityf4p/TiebaPure-iOS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-8e7e6db5a310455f85d91f822b18c6ea",
+        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS",
+        "workflowPath": ".github/workflows/update-app-app-8e7e6db5a310455f85d91f822b18c6ea.yml"
+      }
+    },
+    {
       "name": "coolapk-desktop",
       "catalogID": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
       "bundleIdentifier": "com.coolapk.desktop",
