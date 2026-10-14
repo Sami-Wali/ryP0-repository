@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "SlamJam96-unsigned",
+      "catalogID": "app-2ed7ddd594214892a02a421843b25444",
+      "bundleIdentifier": "com.devz.slamjam96",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.2.2",
+          "date": "2026-10-13T12:32:12Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.2.2/SlamJam96-0.2.2-unsigned.ipa",
+          "size": 3076669,
+          "buildVersion": "5",
+          "localizedDescription": "SSF2T and Slam n Jam 0.2.2 iOS and Windows builds passed. iOS IPAs are unsigned; sign/install with ESign, keeping the existing bundle identifiers. Slam n Jam: startup asks for keyboard 1 or controller Start, with no coin prompt. Restart reads RESTART GAME. PS1 Select is available as Select (keyboard Tab, controller View); old settings migrate. Native gameplay canvas expands from 320 to 426 columns instead of stretching. Original-size sprites, text and HUD remain centered; textures live in original VRAM and expanded framebuffers use separate banks. CRT behavior is unchanged. SSF2T: reflected edge artwork removed. The visible gameplay window narrows symmetrically as the camera approaches finite stage boundaries, returning to the original 384 columns at either limit. It expands away from those limits. Menus keep their original proportions centered in a 512-column frame with colored sides. Validation: iOS and Windows builds, controller suite, canvas isolation and stage-boundary tests passed. Real Slam gameplay toggled 320 -> 426 -> 320 columns; all 81,920 pixels of the central original view matched the same saved frame exactly. Real SSF2T gameplay captures returned to 384 columns at both edges, and menu captures were 512 columns with colored margins. Device-specific iPhone and Windows gameplay still needs retesting. No game files or game screenshots are included. SSF2T and Slam n Jam are version 0.2.2. The unchanged THPS2 and UMK3 version 0.2.1 builds are also included here. Download NativePorts-Windows-x64.zip for all four current Windows builds; the smaller SSF2T-SlamJam96 ZIP contains only those two games. BUILD-VERSIONS.txt inside the complete ZIP identifies every game version.",
+          "releaseChannel": "release",
+          "sha256": "d519e135d810a6cac971d2c21b6be5b5b6980ad2a7322bf9d2c5a6094f8d32cf"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.slamjam96-d519e135d810.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.2.2/SlamJam96-0.2.2-unsigned.ipa",
+        "checkedAt": "2026-10-14T20:57:18Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.2.2/SlamJam96-0.2.2-unsigned.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/NativePorts"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/NativePorts",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-2ed7ddd594214892a02a421843b25444",
+        "sourceURL": "https://github.com/DevZer0D4Y/NativePorts",
+        "workflowPath": ".github/workflows/update-app-app-2ed7ddd594214892a02a421843b25444.yml"
+      }
+    },
+    {
       "name": "EspressU",
       "catalogID": "app-6038fee174ab4e5cba1069c4b21efede",
       "bundleIdentifier": "com.am4rdev.EspressU",
