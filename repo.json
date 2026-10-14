@@ -18,6 +18,26 @@
           "localizedDescription": "SSF2T and Slam n Jam 0.2.2 iOS and Windows builds passed. iOS IPAs are unsigned; sign/install with ESign, keeping the existing bundle identifiers. Slam n Jam: startup asks for keyboard 1 or controller Start, with no coin prompt. Restart reads RESTART GAME. PS1 Select is available as Select (keyboard Tab, controller View); old settings migrate. Native gameplay canvas expands from 320 to 426 columns instead of stretching. Original-size sprites, text and HUD remain centered; textures live in original VRAM and expanded framebuffers use separate banks. CRT behavior is unchanged. SSF2T: reflected edge artwork removed. The visible gameplay window narrows symmetrically as the camera approaches finite stage boundaries, returning to the original 384 columns at either limit. It expands away from those limits. Menus keep their original proportions centered in a 512-column frame with colored sides. Validation: iOS and Windows builds, controller suite, canvas isolation and stage-boundary tests passed. Real Slam gameplay toggled 320 -> 426 -> 320 columns; all 81,920 pixels of the central original view matched the same saved frame exactly. Real SSF2T gameplay captures returned to 384 columns at both edges, and menu captures were 512 columns with colored margins. Device-specific iPhone and Windows gameplay still needs retesting. No game files or game screenshots are included. SSF2T and Slam n Jam are version 0.2.2. The unchanged THPS2 and UMK3 version 0.2.1 builds are also included here. Download NativePorts-Windows-x64.zip for all four current Windows builds; the smaller SSF2T-SlamJam96 ZIP contains only those two games. BUILD-VERSIONS.txt inside the complete ZIP identifies every game version.",
           "releaseChannel": "release",
           "sha256": "8fbede0caaab1950bea942a6144d21eeb32023ee6dfe5b609eba91caf7d12136"
+        },
+        {
+          "version": "v0.2.0",
+          "date": "2026-10-12T12:40:28Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.2.0/UMK3-0.2.0-unsigned.ipa",
+          "size": 3935444,
+          "sha256": "5d747520f1692a4c5a1be57de1161f1e37f10964015c5c3bbb629ee78f810f72",
+          "releaseChannel": "release",
+          "localizedDescription": "NativePorts 0.2.0 includes Super Street Fighter II Turbo, Ultimate Mortal Kombat 3, Slam ’n Jam ’96 and Tony Hawk’s Pro Skater 2 for iOS and Windows. - Uses the supplied game artwork for each iOS app and Windows executable/window icon. Keeps unique bundle IDs unchanged to preserve installed game data. - Adds game-specific widescreen patches for SSF2T, UMK3 and Slam ’n Jam ’96, alongside the existing Flycast widescreen patch for THPS2. Widescreen can be toggled in display settings. - Updates aspect-ratio handling and NewPixie CRT rendering to preserve picture edges. CRT filtering remains enabled by default and can be disabled. - Refreshes cached core sources before builds so source changes rebuild the embedded engine. - Includes touch controls and remappable multiplayer controller support on both platforms. Download one unsigned IPA per game and sign it with your sideloading tool. For Windows, extract NativePorts-Windows-x64.zip and keep each EXE beside its SDL2.dll. Use your own game files; ROMs, disc images and signing credentials are not included. Known limitations: THPS2 on iOS uses an interpreter and may run below full speed. Slam ’n Jam ’96 can leave dark corners in some widescreen camera angles. NBA Showtime remains frontend-only and is not included. Validation: all four iOS build logs report success; Windows binaries were packaged from the latest local builds. Virtual controller tests passed for all five frontends, along with ROM-import checks, basketball action tests and both THPS2 texture-cache configurations. These checks do not establish full-speed performance or physical multiplayer operation on every device. SHA256SUMS.txt contains asset checksums.",
+          "buildVersion": "3"
+        },
+        {
+          "version": "v1.0",
+          "date": "2026-10-11T18:40:05Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v1.0/UMK3-0.1.1-unsigned.ipa",
+          "size": 870528,
+          "sha256": "59dc086c8f222b56123059efd01323fd3edee047ea095530462b335931ed5ccd",
+          "releaseChannel": "release",
+          "localizedDescription": "Super Street Fighter II Turbo 0.1.1, Ultimate Mortal Kombat 3 0.1.1, Slam 'n Jam '96 0.1.1 and Tony Hawk's Pro Skater 2 0.1.9 for iOS and Windows. Unsigned IPAs for sideloading (ESign, AltStore, SideStore, Sideloadly) and a Windows x64 package. No game files are included; see the README for what you need.",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.umk3-8fbede0caaab.png",
