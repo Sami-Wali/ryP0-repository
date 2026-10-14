@@ -1555,9 +1555,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-lukebrosious-theft4-0b652716",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/KoreanSeats1/Theft4",
+        "configId": "com-lukebrosious-theft4-0b652716",
+        "sourceURL": "https://github.com/KoreanSeats1/Theft4/releases/tag/v0.3.2",
         "workflowPath": ".github/workflows/update-app-com-lukebrosious-theft4-0b652716.yml"
       },
       "bundleIdentifier": "com.lukebrosious.theft4",
@@ -1572,12 +1572,23 @@
       "name": "Theft4",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.1/Theft4-0.3.1-142-ios-arm64.ipa",
-        "checkedAt": "2026-10-14T17:28:11Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
+        "checkedAt": "2026-10-14T19:02:51Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.3.2",
+          "date": "2026-10-14T18:59:19Z",
+          "downloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
+          "size": 51642084,
+          "sha256": "8f7d3a2865a10f34af0cdd736ee66677ac2614207651d60267d61a47cced9f57",
+          "upstreamAssetURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
+          "sourceAssetName": "Theft4-0.3.2-144-ios-arm64.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "144"
+        },
         {
           "buildVersion": "142",
           "date": "2026-10-09T12:36:35Z",
