@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "ByeTunes",
+      "catalogID": "app-d73c80b187cf4d91b1fc991bf5307c0e",
+      "bundleIdentifier": "com.EduAlexxis.MusicManager",
+      "developerName": "EduAlexxis",
+      "localizedDescription": "GitHub project request: EduAlexxis/ByeTunes.",
+      "subtitle": "GitHub project request: EduAlexxis/ByeTunes.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-10-12T03:52:22Z",
+          "downloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v2.6/ByeTunes.v2.6.-.Version.fix.ipa",
+          "size": 15631495,
+          "buildVersion": "2.2",
+          "localizedDescription": "# ByeTunes v2.6 – Favorites, Playlist Pinning & Background Downloads Reworked Hi guys, here is the 2.6 update for ByeTunes. A good amount of things got added, fixed and improved in this one. You can now properly favorite injected songs, pin playlists from inside ByeTunes, and keep downloads going in the background with a new Picture in Picture window. There were also a bunch of fixes around metadata, library management and database safety. **Favorites** There are three new options inside Library Repair: - **Create Favorites Playlist** creates the Favorites playlist using the right name for your device region. - **Fix Missing Favorites** repairs songs injected with an older version that you already favorited but that never actually appeared in Favorites. - **Delete Favorites Playlist** lets you delete that playlist from Library Repair. Songs injected from 2.6 onwards now get their store IDs during injection, so you can favorite them right away. If the metadata fetcher finds a match, ByeTunes uses the IDs from that match. Songs without a match get generated IDs instead. **Quick recommendation:** if you have older injected songs that you favorited but cannot find in Favorites, run **Fix Missing Favorites** inside Library Repair. **Playlist Pinning** You can now pin and unpin playlists from the On-Device Library. Long-press a playlist or use the Pin button from inside it. **Keep in mind: pinning and unpinning these playlists needs to be done through ByeTunes. The Pin option inside the Apple Music app does not work for them.** **Background Downloads** Background downloads got a big rework. ByeTunes now uses silent audio to keep downloads going in the background, with an optional Picture in Picture window so you can see what is happening after leaving the app. The window shows the current song's progress, what is next in the queue, and when metadata is being fetched. You can also customize it with themes, your own colors or a background picture. There is a live preview in Settings so you can see how it looks before using it. This replaces the old background download behavior and Live Activity support. Download progress now shows in the Picture in Picture window. If the app closes while songs are still downloading, those songs go back to the front of the queue the next time you open ByeTunes. Pause and Cancel were fixed too. They now properly stop background transfers instead of accidentally starting a fallback download after you already paused or cancelled the song. **Download Queue & Saving Files** Downloaded songs now get their metadata as part of the download process. You will see a \"fetching metadata\" state before the song is marked as done, instead of that work being left to a separate background metadata manager. A few other things got added or improved: - **Clear All** for completed items in the queue sheet. - Preview buttons in the album sheet and artist profile. - Icons instead of text in the download queue indicator. - Downloads are now limited to **2 at a time for MP3 and 1 for FLAC**, matching what the server supports. (This is temporal until I can pay for a better provider) - A **server status banner** appears when the server goes into maintenance. Downloads are blocked while the server is down. - A new **Save With Fetched Metadata** toggle that writes the fetched tags and cover artwork into the MP3 and FLAC copies you save. **Metadata Fixes** Metadata matching got a lot of attention in this update. There were cases where a remix could get the original song's information, or a song could get renamed to a different track from the same album. Those issues should now be fixed. - Downloaded songs now look up the exact Deezer track and album. An Apple Music match is only accepted if it belongs to the same album. - Apple Music track matching now checks the title, so songs should no longer get relabeled as another track from that album. - Apple Music search pages are requested in English so ByeTunes can find the Songs and Albu",
+          "releaseChannel": "release",
+          "sha256": "255147243f05d35ae94e7f01a9c7c8bda7ef7b1ef0542a1008c9355c3045034f"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.EduAlexxis.MusicManager-255147243f05.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v2.6/ByeTunes.v2.6.-.Version.fix.ipa",
+        "checkedAt": "2026-10-14T21:20:48Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v2.6/ByeTunes.v2.6.-.Version.fix.ipa",
+        "sourceURL": "https://github.com/EduAlexxis/ByeTunes"
+      },
+      "githubURL": "https://github.com/EduAlexxis/ByeTunes",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-d73c80b187cf4d91b1fc991bf5307c0e",
+        "sourceURL": "https://github.com/EduAlexxis/ByeTunes",
+        "workflowPath": ".github/workflows/update-app-app-d73c80b187cf4d91b1fc991bf5307c0e.yml"
+      }
+    },
+    {
       "name": "BlueWake",
       "catalogID": "app-9a2ffddfb1834d8998699fec4fcba929",
       "bundleIdentifier": "dev.bluewake.BlueWake",
