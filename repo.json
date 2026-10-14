@@ -518,7 +518,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dev-kartpad-app-6eef8493",
-        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.0",
+        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.1",
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "bundleIdentifier": "dev.kartpad.app",
@@ -535,13 +535,22 @@
       "name": "kartpad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.0/KartPad-v0.8.0-ios-for-padmint.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.1/KartPad-v0.8.1-ios-for-padmint.ipa",
+        "checkedAt": "2026-10-14T00:09:21Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.1",
+          "date": "2026-10-13T01:18:40Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.1/KartPad-v0.8.1-ios-for-padmint.ipa",
+          "size": 9292669,
+          "sha256": "4aacb65d70fe11e1b1924dc157acfd1305dae7e0bacdce39e04787d44fc2268b",
+          "releaseChannel": "release",
+          "buildVersion": "263"
+        },
         {
           "version": "v0.8.0",
           "date": "2026-10-12T08:04:11Z",
@@ -561,16 +570,6 @@
           "sha256": "bba58a5a579c3a82ffa2b0ec01bb2cf6610d72c13ba513424982061c97ace71f",
           "size": 8650148,
           "version": "0.7.15"
-        },
-        {
-          "buildVersion": "258",
-          "date": "2026-10-05T10:42:15Z",
-          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.7.14/KartPad-v0.7.14-ios-for-padmint.ipa",
-          "localizedDescription": "KartPad 0.7.14 updates itself on Android, and catches incomplete game data before you play. | You want KartPad on | How | |---|---| | **Android** | `KartPad-v0.7.14-android.apk` | | **iPhone, iPad and Mac** | Build it with [PadMint](https://github.com/chrissotraidis/padmint) | Full steps: **[Get KartPad](https://github.com/chrissotraidis/kartpad#get-kartpad)**. ### What's new - **Android: KartPad updates itself.** When an update is out, tap **Update available** on the game chooser, then **Update Now**. KartPad downloads it, checks it against this release's checksums and signing key, and Android asks you to confirm. The first time, Android asks you to allow KartPad to install apps. Your saves and game data stay. This starts with the next update: to get 0.7.14 itself, install this APK over your current KartPad once. - **Incomplete game data is caught up front.** KartPad now checks every game file when you import and on the game chooser. If a copy didn't finish (often a folder only partly downloaded from iCloud Drive or another cloud drive), you see which file is missing right away instead of \"The game stopped\" after pressing Play. This applies to PadMint builds on iPhone, iPad and Mac too. - **Android: music and game sounds, separately** (#411). In the ••• menu, **Sound…** has one switch, off by default. With it on, you get **Music** and **Game sounds** sliders, so you can mute just the music or the whole game. On the Mac this is in **Game → Game Settings… → Audio**. ### iPhone, iPad and Mac now build with PadMint From 0.7.14 there's no ready-to-play IPA or Mac download. [PadMint](https://github.com/chrissotraidis/padmint) builds KartPad on your computer from your own disc: choose **KartPad**, your disc image and where you'll play. Install the IPA it makes over your current KartPad with the same tool and Apple ID to keep your saves. The 0.7.9 to 0.7.13 downloads stay on their release pages but won't get updates. ### Updating - **Android:** install the APK over your current KartPad; don't uninstall first. Your saves and game data stay. - **iPhone, iPad and Mac:** build 0.7.14 with PadMint and install it over your current KartPad. **You still need your own Mario Kart Wii** (PAL, RMCP01, revision 0). No disc images, game files or keys are included. ### Checked before release - Android emulator (Android 16): a test build labelled 0.7.12 found 0.7.13 on GitHub, asked for the install permission, downloaded and checked the update and installed it over itself, twice, with the save unchanged and game data intact. Cancelling Android's prompt kept the old version. - This APK installs over 0.7.13 with the save unchanged and reaches a race; the game file check passes on complete data and names the missing file on a broken copy. - `KartPad-v0.7.14-ios-for-padmint.ipa` is the iPhone app without game code, for PadMint. Game packs made for 0.7.x keep working.",
-          "releaseChannel": "release",
-          "sha256": "f8263cee1fc93334b14d6dde484aca91896b777d2e3c74b512a4ac18e591679e",
-          "size": 8642505,
-          "version": "v0.7.14"
         }
       ]
     },
