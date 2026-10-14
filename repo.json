@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "MEGA MAN GAME",
+      "catalogID": "app-c4daaa1d8df94445a12f7b71de9c6d06",
+      "bundleIdentifier": "com.devz.megaman64",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "GitHub project request: DevZer0D4Y/MegaMan64Recompiled-Mobile.",
+      "subtitle": "GitHub project request: DevZer0D4Y/MegaMan64Recompiled-Mobile.",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.9.1",
+          "date": "2026-10-13T17:45:33Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile/releases/download/v0.9.1-mobile.1/MegaMan64-iOS-v0.9.1-mobile.1.ipa",
+          "size": 15317212,
+          "buildVersion": "2",
+          "localizedDescription": "Android and iOS mobile builds of Mega Man 64: Recompiled. - Editable gameplay and menu touch pads: movement stick, N64 buttons, position/size/opacity/color controls, and GAME PAD / MENU PAD switching. - SDL USB/Bluetooth controller support and configurable bindings. - Mobile renderer fixes, Android Vulkan surface/descriptor handling, and iOS screenshot/notification size restoration. - Persistent USA FlashRAM saves, atomic replacement, backup writes, and background save flushing. - The supplied Mega Man 64 artwork is now the app icon on both platforms. - Both application IDs are `com.devz.megaman64`, matching the other ports' naming convention. **Downloads:** install the ARM64 APK on Android 8.0+ with a compatible Vulkan GPU. Sign the ARM64 IPA for your own iOS 16+ device using eSign or another signing tool. The IPA contains no personal certificate or provisioning profile. `SHA256SUMS.txt` covers both downloads. **ROM:** supply your own Mega Man 64 USA ROM through the launcher. `.z64`, `.v64`, and `.n64` byte orders are accepted. Japanese Rockman DASH gameplay is not supported by this USA recompilation; the loader reports that limitation. No ROM or save data is bundled. **Existing saves:** the new IDs create separate app storage. Back up the old app's `config/saves` folder before changing builds, preserve filenames, and keep the old app installed until the backup is safe. Storage locations and restoration limits are described in MOBILE.md. Saves are not automatically migrated between different IDs. The repository starts with a clean source history and pinned dependencies. It excludes ROM-derived generated sources, ROMs, saves, logs, SDKs, local build folders, personal paths, and signing keys. Required build scripts, application assets, licenses, and upstream attribution remain available. Validation: source privacy and whitespace checks; dependency patches applied against pinned revisions; APK signature and 16 KB alignment; ARM64 package structure; ROM/private-path scans; icon pixel checks, application IDs, Android Java class and all renamed JNI entry points. Rendering/gameplay had been confirmed on iOS and Adreno 710 Android before these icon/ID/publication changes. Installation of this newly packaged release still needs verification on devices. Upstream: https://github.com/MegaMan64Recomp/MegaMan64Recompiled",
+          "releaseChannel": "release",
+          "sha256": "d9b2044cdc5348d282a5b379d197313305157b512a93cf5ffbe1eea11a2ea287"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.megaman64-d9b2044cdc53.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile/releases/download/v0.9.1-mobile.1/MegaMan64-iOS-v0.9.1-mobile.1.ipa",
+        "checkedAt": "2026-10-14T16:21:13Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile/releases/download/v0.9.1-mobile.1/MegaMan64-iOS-v0.9.1-mobile.1.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-c4daaa1d8df94445a12f7b71de9c6d06",
+        "sourceURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile",
+        "workflowPath": ".github/workflows/update-app-app-c4daaa1d8df94445a12f7b71de9c6d06.yml"
+      }
+    },
+    {
       "name": "pziOS",
       "bundleIdentifier": "com.knt.pzios",
       "developerName": "onlyknt",
