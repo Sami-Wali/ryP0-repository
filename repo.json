@@ -4459,7 +4459,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.4.0",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.5.0",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -4469,13 +4469,22 @@
       "name": "SideInstaller",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.4.0-1baf1f2f3e19.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.0-2a4ae00dae2c.ipa",
+        "checkedAt": "2026-10-14T00:03:14Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.5.0",
+          "date": "2026-10-13T17:27:12Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.0-2a4ae00dae2c.ipa",
+          "size": 7945191,
+          "sha256": "2a4ae00dae2c8ce8c2342a4c56148abcb4f10254eeb57dc2b90512638d16c355",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "version": "v1.4.0",
           "date": "2026-10-12T13:21:32Z",
@@ -4566,16 +4575,6 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
           "size": 7908297,
           "version": "0.9.0"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-08-06T21:03:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.8.0-90825f8c7275.ipa",
-          "localizedDescription": "# Note from the dev V1 is planned to be released by the time that Apple releases iSO 27’s official build. To ensure that, my goal currently is to bring a stable version of the app rather than introducing any new features. This update significantly brings us closer to that goal as it fixes the 2 most common and irritating errors reported so far. Please, keep testing it and share your issues on GitHub or on the discord server. <3 # Changes - Fixed the SideStore nightly error “`Domain=AltSign.Error Code=1 The app extension is missing a valid provisioning profile. UserInfo={NSLocalizedFailureReason =The app extension is missing a valid provisioning profile.}`” - To fix it, the app now writes embedded.mobileprovision into each .appex before sign::sign, and rust-core/Cargo.toml redirects the git dep to it - Fixed a bug that occurred when the app downloaded an .ipa from GitHub - The app now relies on the release’s download link rather than the GitHub API to ensure there are no API cap problems - [Updated dependencies](https://raw.githubusercontent.com/FrizzleM/SideInstaller/refs/heads/main/v0.8-dependency-updates.txt)",
-          "releaseChannel": "release",
-          "sha256": "90825f8c727590ca756b7c22f4c3e5f89ed1681ed15b068bf5a277512ad508f7",
-          "size": 8436151,
-          "version": "v0.8.0"
         }
       ]
     },
