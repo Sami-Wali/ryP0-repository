@@ -1,6 +1,49 @@
 {
   "apps": [
     {
+      "name": "EspressU",
+      "catalogID": "app-6038fee174ab4e5cba1069c4b21efede",
+      "bundleIdentifier": "com.am4rdev.EspressU",
+      "developerName": "EspressU",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-12T19:27:21Z",
+          "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.0/EspressU-1.0.ipa",
+          "size": 36685110,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "0201e4eb6052270ca0629cccc1490e7b86e04cacb1714297fdf345572da90b12"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.am4rdev.EspressU-0201e4eb6052.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.0/EspressU-1.0.ipa",
+        "checkedAt": "2026-10-14T16:53:08Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.0/EspressU-1.0.ipa",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu"
+      },
+      "githubURL": "https://github.com/EspressU/EspressU-Emu",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu",
+        "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
+      }
+    },
+    {
       "name": "SSF2T-unsigned",
       "catalogID": "app-c4151172e70a48e4955b6e2b461a9b61",
       "bundleIdentifier": "com.devz.ssf2t",
