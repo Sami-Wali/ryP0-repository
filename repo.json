@@ -2143,9 +2143,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-cod4ios-70b094ce",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS",
+        "configId": "com-devz-cod4ios-70b094ce",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R2",
         "workflowPath": ".github/workflows/update-app-com-devz-cod4ios-70b094ce.yml"
       },
       "bundleIdentifier": "com.devz.cod4ios",
@@ -2160,12 +2160,21 @@
       "name": "COD4iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R1/COD4iOS_v1.0.3.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R2/COD4iOS-1.0.4.ipa",
+        "checkedAt": "2026-10-14T00:07:52Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "R2",
+          "date": "2026-10-13T19:57:59Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R2/COD4iOS-1.0.4.ipa",
+          "size": 9665598,
+          "sha256": "d2ca1491e6cd797972399a3e73697e15ad50032d1b23112750ee5d89e4d0ed74",
+          "releaseChannel": "release",
+          "buildVersion": "7"
+        },
         {
           "buildVersion": "4",
           "date": "2026-10-03T08:11:50Z",
