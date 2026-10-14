@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "coolapk-desktop",
+      "catalogID": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
+      "bundleIdentifier": "com.coolapk.desktop",
+      "developerName": "daimiaopeng",
+      "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
+      "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.35.0",
+          "date": "2026-10-14T09:53:53Z",
+          "downloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0-beta.4/coolapk-v1.35.0-beta.4-ios-arm64-unsigned.ipa",
+          "size": 8062936,
+          "buildVersion": "135.0.4",
+          "localizedDescription": "## 测试版更新日志 比较范围：v1.34.1 → 6a28369 ### 新增 - 搜索分类支持拖动排序，并可收起不常用栏目。 - 无图模式新增详情页图片显示开关。 - 新增浅色界面底色自定义和动态背景图显示开关。 - 话题页新增我的点评卡片。 - 设置页新增“液态玻璃”总开关，默认关闭，可统一控制首页和话题导航的液态玻璃效果。 ### 优化 - 移动首页滚动时可自动收起搜索栏和底部导航；详情页底栏支持随滚动隐藏。 - 优化移动端上传、下载布局，并增加 CDN 上传入口。 - 优化首页与话题的沉浸式导航，适配 Android 和 iOS 安全区，并统一上下导航的玻璃效果。 - 优化设置页窄屏和大字体下的布局。 ### 修复 - 修复手机快捷入口图标缺失。 - 修复系统榜首屏内容不足时不继续加载下一页，以及双列瀑布流滚动抽动、短列加载不及时的问题。 - 修复切换应用窗口标签后话题列表意外刷新的问题。 - 修复头条刷新和分页时游标传递异常。 - 修复私信图片预览及输入区高度调节问题。 - 修复详情评论点赞状态的主题色显示，以及话题简介文字与背景对比度不足的问题。",
+          "releaseChannel": "beta",
+          "sha256": "b6caa191f7a9d38b0d934f5bd11df2cd42adf8a0902b16e230a491088ff902a7"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.coolapk.desktop-b6caa191f7a9.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0-beta.4/coolapk-v1.35.0-beta.4-ios-arm64-unsigned.ipa",
+        "checkedAt": "2026-10-14T21:15:19Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0-beta.4/coolapk-v1.35.0-beta.4-ios-arm64-unsigned.ipa",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop"
+      },
+      "githubURL": "https://github.com/daimiaopeng/coolapk-desktop",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop",
+        "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
+      }
+    },
+    {
       "name": "UMK3-unsigned",
       "catalogID": "app-a5c585a290ff4704b762141948429dfd",
       "bundleIdentifier": "com.devz.umk3",
