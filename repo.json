@@ -278,7 +278,8 @@
           "size": 85139997,
           "sha256": "199f5ff97622d84fb07baf7f4498bf9fd5709eef6931acf89677b786e4509b46",
           "releaseChannel": "release",
-          "buildVersion": "15"
+          "buildVersion": "15",
+          "localizedDescription": "2.0 (8): - iOS 4 Keyboard - Autocorrect - Predictive Touch - Text Suggestions - Magnifiers - Text Selection - Cut, Copy & Paste - Keyboard Variants"
         },
         {
           "version": "1.0",
