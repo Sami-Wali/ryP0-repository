@@ -3070,9 +3070,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.5.9-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.5.10-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -3088,13 +3088,22 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.9-beta/nuvio-0.5.9-full-release.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.10-beta/nuvio-0.5.10-full-release.ipa",
+        "checkedAt": "2026-10-14T00:17:26Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.5.10-beta",
+          "date": "2026-10-14T00:12:11Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.10-beta/nuvio-0.5.10-full-release.ipa",
+          "size": 67643251,
+          "sha256": "49e1d179f5a03ed641f46e6dda0958556bceb6a8776dd436d228c04f0974d3fa",
+          "releaseChannel": "beta",
+          "buildVersion": "142"
+        },
         {
           "buildVersion": "141",
           "date": "2026-10-10T17:30:30Z",
@@ -3204,16 +3213,6 @@
           "sha256": "794c90209bc4ae414bf97576257e045696bb8b3be1e385c981f84de897340626",
           "size": 65152407,
           "version": "0.4.25-beta"
-        },
-        {
-          "buildVersion": "128",
-          "date": "2026-09-17T09:40:44Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.23-beta/nuvio-0.4.23-full-release.ipa",
-          "localizedDescription": "- 542aa570 fix(simkl): retain posters when marking items watched @tapframe - 08bdd629 fix(home): restore wide continue watching sizing @tapframe - [i18n(vi): update latest Vietnamese strings (#1975)](https://github.com/NuvioMedia/NuvioMobile/pull/1975) @blueocean2308 - a599340e fix(ui): use filled chips and consistent surface colors @tapframe - [feat(playback): support IntroDB movie segments and external forwarding (#1963)](https://github.com/NuvioMedia/NuvioMobile/pull/1963) @Laskco",
-          "releaseChannel": "beta",
-          "sha256": "5b47a730e6467ca18baf39ee2ef589714761fdb4d0ff5b2040800a8c994c1e40",
-          "size": 51420909,
-          "version": "0.4.23-beta"
         }
       ]
     },
