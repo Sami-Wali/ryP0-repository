@@ -648,7 +648,8 @@
           "size": 210867021,
           "sha256": "13b7bfc70404b059089f027aad402772ed558d9eb03eeb4e29a3a4bb1019dd86",
           "releaseChannel": "release",
-          "buildVersion": "455"
+          "buildVersion": "455",
+          "localizedDescription": "# NeoStation iOS 0.0.7 🎮 *Build 455 · What's new since v0.0.6* - **Nintendo 3DS moves to Azahar 2127.0-alpha1**, with **Fast Interpreter** mode and improved BIOS/NAND imports, including supported console-encrypted NAND titles. - **AirPlay on Apple TV:** fixed how NeoStation menus are displayed. - **Your menu, your choice:** hide all consoles or disable embedded emulators individually. - **More ways to customize your games:** improved skin catalogs, new Libretro shaders and visual effects for Dolphin. - **Adjustable internal resolution:** choose a resolution for each supported embedded Libretro core, or set it for an individual game. - **Refined touch controls**, with improvements to on-screen buttons and virtual sticks. - **A new menu soundtrack:** “Once Upon a Time (loop)” by TAD (CC0), enabled by default and easy to turn off in Settings. 📦 **Build 455 is available below.** Download **NeoStation-0.0.7.ipa** and install it with your usual sideloading tool. [Third-party licenses and notices](https://github.com/TarbleFR/neostation-ios/releases/download/0.0.7/NeoStation-0.0.7-Licenses-and-Notices.zip) · [Updated guide](https://github.com/TarbleFR/neostation-ios/blob/Claude/README.md) · [License review and remaining questions](https://github.com/TarbleFR/neostation-ios/blob/Claude/docs/RELEASE_0.0.7_LICENSE_REVIEW.md) The supplemental notices do not modify the Build 455 IPA. SHA-256 checksums for both downloads are included below. Thanks for playing and for sharing your feedback!"
         },
         {
           "buildVersion": "443",
