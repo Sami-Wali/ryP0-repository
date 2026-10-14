@@ -2173,7 +2173,8 @@
           "size": 9665598,
           "sha256": "d2ca1491e6cd797972399a3e73697e15ad50032d1b23112750ee5d89e4d0ed74",
           "releaseChannel": "release",
-          "buildVersion": "7"
+          "buildVersion": "7",
+          "localizedDescription": "Fixed performance, you can now edit your controls, better stability (known crash after rescue Nikolai mission)."
         },
         {
           "buildVersion": "4",
