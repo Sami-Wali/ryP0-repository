@@ -5106,6 +5106,16 @@
           "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
           "size": 26820359,
           "version": "Nightly-2026.09.08"
+        },
+        {
+          "version": "Nightly-2026.06.08",
+          "date": "2026-06-08T05:22:40Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.06.08-a76462d652b0.ipa",
+          "size": 13698058,
+          "sha256": "a76462d652b054bcaf2f89f150cfa9c16e1a14436a3eb98e6a8aade985d719c2",
+          "releaseChannel": "prerelease",
+          "localizedDescription": "Experimental test build for ARMSX2 on iOS. Uses PCSX2 2.7 Core and now has a native arm64 jit instead of a x86 translation layer. Built off the work off the original iOS port. Thanks to @Zeruth and @isztldav for the native arm64 support.",
+          "buildVersion": "200"
         }
       ]
     },
