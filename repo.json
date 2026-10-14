@@ -615,9 +615,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-neogamelab-neostation-9e4b11c2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.5",
+        "configId": "com-neogamelab-neostation-9e4b11c2",
+        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.7",
         "workflowPath": ".github/workflows/update-app-com-neogamelab-neostation-9e4b11c2.yml"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
@@ -634,13 +634,22 @@
       "name": "NeoStation",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.5/NeoStation-0.0.5.ipa",
-        "checkedAt": "2026-10-13T23:00:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.7/NeoStation-0.0.7.ipa",
+        "checkedAt": "2026-10-14T00:08:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Emulation Frontend",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.7",
+          "date": "2026-10-13T20:17:23Z",
+          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.7/NeoStation-0.0.7.ipa",
+          "size": 210867021,
+          "sha256": "13b7bfc70404b059089f027aad402772ed558d9eb03eeb4e29a3a4bb1019dd86",
+          "releaseChannel": "release",
+          "buildVersion": "455"
+        },
         {
           "buildVersion": "443",
           "date": "2026-10-11T21:10:57Z",
@@ -660,16 +669,6 @@
           "sha256": "3290c87e0a48151bfe296b6ece548c1f0de83116e1d9d76e08962f7ccb6e569e",
           "size": 205917388,
           "version": "0.0.2"
-        },
-        {
-          "buildVersion": "427",
-          "date": "2026-10-09T16:58:04Z",
-          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.3/NeoStation-0.0.3.ipa",
-          "localizedDescription": "# NeoStation iOS 0.0.3 — Build 427 **Libretro emulation cores**, also used by RetroArch, are now **embedded directly in NeoStation iOS**. For supported systems, your games launch inside NeoStation without opening the RetroArch app. - **BIOS files:** open **Files → On My iPhone/iPad → NeoStation → Libretro → System** and add your BIOS files, just as you did in RetroArch’s `system` folder. Keep the filenames and subfolders required by each core. No BIOS files are included. - **NeoPlay / AirPlay:** streaming is working. The **NeoPlay 0.8.0** Windows receiver is included with this release. Install it on your PC and connect your iPhone/iPad to the same local network. - **NeoSwap:** the swap system is still a work in progress. - **Credits and licenses:** notices for all 14 Libretro cores and their support libraries have been added to the license bundle. ## Coming next More additions are planned for future updates, including **shader support** to customize how your games look, as in RetroArch, and **skins** to personalize the appearance of the on-screen controls. Thank you to the Libretro and RetroArch teams, all emulator developers, and the NeoStation community for their work, support, and feedback! ## Downloads - `NeoStation-0.0.3.ipa` — iOS/iPadOS app, internal build 427. Sign it using your usual sideloading tool. - `NeoPlay-Setup-0.8.0.exe` — Windows installer. - `NeoStation-0.0.3-Licenses-and-Notices.zip` — licenses and credits. - `NeoStation-0.0.3-Source-Manifest.md` and the source archives — source and build provenance. - `NeoStation-0.0.3-SHA256SUMS.txt` — file checksums. ## Release information Based on build 427 (`6bfc9dd`). The emulator cores and compiled application code are preserved. The package has been updated to display version 0.0.3 and include the notices, then sealed again with ad hoc signatures. Successful build checks do not establish that every game and core has been tested on an iPhone. Each component remains subject to its own license. Non-commercial conditions and limitations in tracing the exact sources of precompiled binaries are documented in the accompanying files. Adding these notices is not a certification of legal compliance.",
-          "releaseChannel": "release",
-          "sha256": "f98ab20268c81e01a12e1a8bde8d937407ceba2ac07edc25ce74990e32055bf4",
-          "size": 205767832,
-          "version": "0.0.3"
         }
       ]
     },
