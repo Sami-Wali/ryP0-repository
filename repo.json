@@ -109,6 +109,15 @@
           "buildVersion": "5.1.0"
         },
         {
+          "version": "a6daac59b4de66c01d972ea4ccc55f0a3d670a0d",
+          "date": "2026-10-05T07:34:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-a6daac59b4de66c01d972ea4ccc55f0a3d670a0d-7ed1e1df9ae5.ipa",
+          "size": 251134801,
+          "sha256": "7ed1e1df9ae51a5d5f91bc3b9cc50a6e2b1fe43a587bf54eb28281dbed8ff913",
+          "releaseChannel": "actions",
+          "buildVersion": "5.1.0"
+        },
+        {
           "version": "5.1.0",
           "date": "2026-10-01T01:38:02Z",
           "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
@@ -135,7 +144,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-        "checkedAt": "2026-10-15T10:11:01Z",
+        "checkedAt": "2026-10-15T10:11:32Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -149,7 +158,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-615d86a9e61e488c9803deb087829c90",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37301851780",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37278483532",
         "workflowPath": ".github/workflows/update-app-app-615d86a9e61e488c9803deb087829c90.yml"
       }
     },
