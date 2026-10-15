@@ -21,15 +21,13 @@
         "originURL" : "https:\/\/github.com\/Taylen-chud\/Amethyst-iOS\/releases\/download\/1.2.0\/Amethyst-1.2.0.ipa",
         "sourceURL" : "https:\/\/github.com\/Taylen-chud\/Amethyst-iOS"
       },
-      "localizedDescription" : "",
-      "name" : "Amethyst",
+      "name" : "Amethyst fork",
       "status" : {
         "checkedAt" : "2026-10-15T09:14:45Z",
         "checkedDownloadURL" : "https:\/\/github.com\/Taylen-chud\/Amethyst-iOS\/releases\/download\/1.2.0\/Amethyst-1.2.0.ipa",
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
