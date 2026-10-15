@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "NeoFreeBird-sideloaded-X",
+      "catalogID": "app-d0638a66808245a897965153726af6a3",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "NeoFreeBird",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "12.31.1",
+          "date": "2026-10-10T23:45:38Z",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.1.1/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+          "size": 260421912,
+          "buildVersion": "1",
+          "localizedDescription": "# Version 7.1.1 Starting from v7, NeoFreeBird will use web logins to access the platform. It’s recommended you do a fresh install of this version to avoid conflicts with web and native accounts. 1. Open the app. 2. Complete the login flow in the web view that shows up (passkeys don’t work here, so make sure you have another form of 2FA if applicable). 3. The app may crash, that’s normal (it helps ensure the credentials are saved). 4. Reopen the app, and you should be at your “For you” page! ## New Features ### From v6 * Added a feature to hide Blue checkmark tweets from the timeline and standalone replies in comment sections. This does not apply to profiles or if you are following the verified user. * Added a feature to hide the “Create Tweet” button in the bottom of the page, above the navigation bar. * Added a new contributors section to the NeoFreeBird settings page. * Added option to directly copy user URL. * Added option to hide the “typing” indicator in Chat. * Added a toggle to show unrounded counts, as well as added the ability to show the unrounded number of tweets. * The News tab is now hidden. * Added an option to disable the gesture to dock videos. * Added option to download voice messages (due to how XChat encrypts attachments, you need to play the message to have the option to download it). * Added ability to upload in 1080p (and 4k, but this is technically unsupported). * Added option to see poll results before voting. * Added option to tap to play/pause video with 2 fingers. * Added option to see where an account is located in a tweet. * Added option to disable screenshot detection in XChat (broken as of now, although I have a private fix) * Added option to disable the new media carousel (switches back to old grid view). * Added ability to remove retweets of tweets from users who’ve blocked you (please fix this X). * Doomscrolling can now be turned off with disabling video scroll. * Added ability to use Tenor GIFs instead of GIPHY. * Added option to export and import settings (no more coming soon!). * Added option to always download the highest-quality MP4 file from media downloads. * Added option to stop X from losing focus when staying out of the app for a long time. * Added option to hide Message button on tweets. * Added a “Download all Videos” button (only works when all media items are videos). * Added option to see quote and retweet numbers (with an option for unrounded counts). * Added an option to play a custom sound (under 7 seconds and with the AAC format) when a tweet is posted. * Hide the “Download Grok Bot” button on Grok Tweets. * NeoFreeBird now has (preliminary!) support for MacOS! ### v7-exclusive changes * New login flow, using the web client to remove the issues posed by attestation. ## App Updates * Updated X to 12.31.1 ## Fixes ### From v6 * Added back the color on the Tweet source label. * Fixed tab labels being off-center. * Fixed the “Restore Video Timestamp” option. * Tinted some buttons in the Chat menu. * Fixed the news button not being rebranded. * Added back the theme color to the horizontal scroll bar. * Forced the “more” bar to always be present (this was only an iPad issue). * Fixed the video timestamp not reflecting the custom font. * Moved “Copy Profile Info” to the profile overflow menu. This now means you can’t copy profile info from your own profile, but you can click “Edit profile” and get that, so not a massive loss. * Fixed bookmarked posts from verified accounts not followed not showing when the option to hide verified tweets was on. * Fix Dim theme search and selected-tab colors. * Fix Dim theme backgrounds after view reuse. * Fixed the “Confirm Follow” feature. * Changed tap to pause to use 2 fingers instead of one (this now allows you to dismiss the media view). * The in-app browser is off by default in LiveContainer installs. * Fixed a hang on first startup in LiveContainer installs. * Fixed X branding in newer versions. * Fixed voice message downloading (now requir",
+          "releaseChannel": "release",
+          "sha256": "37f8561448d69d799ac03eb3b4ee012f4147dae6a2f3974d6535bb4a160f5dcf"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.atebits.Tweetie2-37f8561448d6.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.1.1/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+        "checkedAt": "2026-10-15T08:12:13Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/NeoFreeBird/app/releases/download/v7.1.1/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+        "sourceURL": "https://github.com/NeoFreeBird/app"
+      },
+      "githubURL": "https://github.com/NeoFreeBird/app",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-d0638a66808245a897965153726af6a3",
+        "sourceURL": "https://github.com/NeoFreeBird/app",
+        "workflowPath": ".github/workflows/update-app-app-d0638a66808245a897965153726af6a3.yml"
+      }
+    },
+    {
       "name": "NeoFreeBird-sideloaded-Twitter",
       "catalogID": "app-e1919ebbcd4d441eb58192c4acb5e435",
       "bundleIdentifier": "com.atebits.Tweetie2",
