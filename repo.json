@@ -4357,9 +4357,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-cod4ios-70b094ce",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R3",
+        "configId": "com-devz-cod4ios-70b094ce",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R4",
         "workflowPath": ".github/workflows/update-app-com-devz-cod4ios-70b094ce.yml"
       },
       "bundleIdentifier": "com.devz.cod4ios",
@@ -4374,12 +4374,23 @@
       "name": "COD4iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R3/COD4iOS-1.0.4.ipa",
-        "checkedAt": "2026-10-15T17:15:40Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R4/COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
+        "checkedAt": "2026-10-15T18:42:31Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "R4",
+          "date": "2026-10-15T18:40:00Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R4/COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
+          "size": 9687390,
+          "sha256": "ea26f886f535e5bd0715cdfe6b4482e80d131a893e0442292ebed877d27f9a0e",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R4/COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
+          "sourceAssetName": "COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "10"
+        },
         {
           "buildVersion": "8",
           "date": "2026-10-14T12:20:08Z",
