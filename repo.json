@@ -4941,65 +4941,6 @@
         ]
       },
       "automation" : {
-        "configId" : "livecontainer-sidestore-nightly",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/tag\/nightly",
-        "workflowPath" : ".github\/workflows\/update-app-livecontainer-sidestore-nightly.yml"
-      },
-      "bundleIdentifier" : "com.kdt.livecontainer.nightly",
-      "category" : "Sideloading",
-      "developerName" : "(Nightly)",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/LC+SS_nightly-icon.png",
-      "localizedDescription" : "Nightly release: Experience the absolute latest features and commits of LiveContainer bundled with SideStore.",
-      "name" : "LC+SS (Nightly)",
-      "status" : {
-        "checkedAt" : "2026-10-15T04:59:40Z",
-        "checkedDownloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-sidestore-nightly-Nightly-2026.09.18-bec41bc21d75.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "tintColor" : "#FF2D55",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-18T23:13:11Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-sidestore-nightly-Nightly-2026.09.18-bec41bc21d75.ipa",
-          "sha256" : "bec41bc21d75a0f2e85a0aa589ce5772e24e410deb017486758a3bc0503c8de7",
-          "size" : 35926202,
-          "version" : "Nightly-2026.09.18"
-        },
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-13T01:45:40Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-sidestore-nightly-Nightly-2026.09.13-f7ac15dcb44d.ipa",
-          "size" : 32573145,
-          "version" : "Nightly-2026.09.13"
-        },
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-11T16:40:58Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-sidestore-nightly-Nightly-2026.09.11-eb4e87259ebd.ipa",
-          "size" : 32571985,
-          "version" : "Nightly-2026.09.11"
-        },
-        {
-          "date" : "2026-08-14T10:51:47Z",
-          "downloadURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/download\/nightly\/LiveContainer%2BSideStore.ipa",
-          "size" : 32361860,
-          "version" : "Nightly-2026.08.14"
-        }
-      ]
-    },
-    {
-      "appPermissions" : {
-        "entitlements" : [
-          "get-task-allow",
-          "com.apple.private.security.no-sandbox",
-          "com.apple.private.security.container-required"
-        ]
-      },
-      "automation" : {
         "configId" : "livecontainer-standalone-stable",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/tag\/3.8.0",
