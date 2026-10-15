@@ -964,8 +964,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
-        "checkedAt": "2026-10-14T21:52:36Z",
+        "checkedAt": "2026-10-15T02:03:03Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "importSource": {
