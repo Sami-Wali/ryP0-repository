@@ -172,49 +172,6 @@
       }
     },
     {
-      "name": "com.air-devs.air-ios",
-      "catalogID": "app-eac4208d00024dc2939804e87594f23f",
-      "bundleIdentifier": "com.air-devs.air",
-      "developerName": "herbrine8403",
-      "localizedDescription": "",
-      "subtitle": "",
-      "category": "EMU",
-      "versions": [
-        {
-          "version": "c4797387ca9a81f31fdcdd2723ec1050ca35fdb3",
-          "date": "2026-10-07T06:00:14Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-          "size": 252649503,
-          "buildVersion": "6.0.0",
-          "releaseChannel": "actions",
-          "sha256": "c4e03c185919a06cc416cf570a3f56082665412eedd024df18c0189305800007"
-        }
-      ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.air-devs.air-c4e03c185919.png",
-      "updatePolicy": "daily",
-      "appType": "Daily Update",
-      "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/com.air-devs.air-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-        "checkedAt": "2026-10-15T09:19:57Z",
-        "message": "Imported and mirrored after IPA validation"
-      },
-      "importSource": {
-        "method": "github",
-        "historyLimit": 0,
-        "deliveryMode": "mirror-release",
-        "originURL": "https://api.github.com/repos/herbrine8403/Amethyst-iOS-MyRemastered/actions/artifacts/11463433847/zip",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered"
-      },
-      "githubURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
-      "automation": {
-        "repository": "Sami-Wali/ryP0-automation",
-        "configId": "app-eac4208d00024dc2939804e87594f23f",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered",
-        "workflowPath": ".github/workflows/update-app-app-eac4208d00024dc2939804e87594f23f.yml"
-      }
-    },
-    {
       "appType": "Daily Update",
       "automation": {
         "configId": "app-f7a4121a094f4d6f87540e952a26ac12",
