@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Tsubomi",
+      "catalogID": "app-f391a03e45604e2e9ace242db56e0af1",
+      "bundleIdentifier": "org.vita3k.experimental.ios",
+      "developerName": "125hz",
+      "localizedDescription": "Vita emulator with jit",
+      "subtitle": "Vita emulator with jit",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.47.0",
+          "date": "2026-10-03T21:18:29Z",
+          "downloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
+          "size": 19485724,
+          "buildVersion": "470",
+          "localizedDescription": "Initial release of Tsubomi. PS Vita firmware files are required, but are not provided. You can get them from Sony's official site, or through Vita3k on your computer.",
+          "releaseChannel": "release",
+          "sha256": "2dd708ac9c0220ca00dcc5cfa1bae54c059d201c5699324fb4d15407c833c2c6"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.vita3k.experimental.ios-2dd708ac9c02.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
+        "checkedAt": "2026-10-15T04:11:38Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
+        "sourceURL": "https://github.com/125hz/Tsubomi"
+      },
+      "githubURL": "https://github.com/125hz/Tsubomi",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-f391a03e45604e2e9ace242db56e0af1",
+        "sourceURL": "https://github.com/125hz/Tsubomi",
+        "workflowPath": ".github/workflows/update-app-app-f391a03e45604e2e9ace242db56e0af1.yml"
+      }
+    },
+    {
       "name": "Scrcpy-Mobile",
       "catalogID": "app-40b6981de737404ebd000201c46ce755",
       "bundleIdentifier": "com.mobile.scrcpy-ios",
