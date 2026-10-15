@@ -662,7 +662,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-d4f5309c64c94e4ea74bfcf1f0032d33",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/34623127660",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/34536175975",
         "workflowPath": ".github/workflows/update-app-app-d4f5309c64c94e4ea74bfcf1f0032d33.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -682,7 +682,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-999f44fb126a281e14a69f4df89848949cd9a8de-0de0c9c6b269.ipa",
-        "checkedAt": "2026-10-15T08:31:54Z",
+        "checkedAt": "2026-10-15T08:31:58Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -833,6 +833,15 @@
           "sha256": "c0985168d7c115b445c6aefcfc7251e05271159ed390e679a3a926a777ee4e02",
           "releaseChannel": "actions",
           "buildVersion": "3.8.10"
+        },
+        {
+          "version": "adf1f297dcfdb81580a2c4aed3c7d8338f124b0e",
+          "date": "2026-09-10T22:11:29Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-adf1f297dcfdb81580a2c4aed3c7d8338f124b0e-50bf069e9ef6.ipa",
+          "size": 4764233,
+          "sha256": "50bf069e9ef6654cf5c9af47c3075ebba63d9a3afdba4a4816ce06861f0b5b1a",
+          "releaseChannel": "actions",
+          "buildVersion": "3.8.9"
         },
         {
           "buildVersion": "3.8.0",
