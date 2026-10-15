@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "SideStore",
+      "catalogID": "app-5d25dc266a154f1e9274170b8280263a",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "0.7.0-20260911.328+6032424a",
+          "date": "2026-09-15T11:12:49Z",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
+          "size": 27770821,
+          "buildVersion": "0700",
+          "localizedDescription": "## Build Info Built at (UTC): `Fri Sep 11 21:25:58 2026` Built at (UTC date): `2026-09-11` Commit SHA: `6032424a0e56c1c319762e786099bdd9186a238b` Version: `0.7.0-20260911.328+6032424a` #### What's Changed: - **fixes for 503 during sign-in**: There were some changes from apple server side which broke 0.6.4 and prior versions and prevent them from signing into sidestore. This temporary version addresses the sign-in issue with 503 status code #### Full Changelog: [0.6.4...0.7.0-alpha](https://github.com/SideStore/SideStore/compare/0.6.4...0.7.0-alpha)",
+          "releaseChannel": "alpha",
+          "sha256": "e334f86e6ceeab2e0d886c07611246533f474bb18838cf13ebc09ed1f0d622b5"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.SideStore.SideStore-e334f86e6cee.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
+        "checkedAt": "2026-10-15T08:13:14Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
+        "sourceURL": "https://github.com/SideStore/SideStore"
+      },
+      "githubURL": "https://github.com/SideStore/SideStore",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-5d25dc266a154f1e9274170b8280263a",
+        "sourceURL": "https://github.com/SideStore/SideStore",
+        "workflowPath": ".github/workflows/update-app-app-5d25dc266a154f1e9274170b8280263a.yml"
+      }
+    },
+    {
       "name": "NeoFreeBird-sideloaded-X",
       "catalogID": "app-d0638a66808245a897965153726af6a3",
       "bundleIdentifier": "com.atebits.Tweetie2",
