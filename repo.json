@@ -5197,65 +5197,6 @@
       ]
     },
     {
-      "appPermissions" : {
-        "entitlements" : [
-          "get-task-allow",
-          "com.apple.private.security.no-sandbox",
-          "com.apple.private.security.container-required"
-        ]
-      },
-      "automation" : {
-        "configId" : "livecontainer-standalone-nightly",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/tag\/nightly",
-        "workflowPath" : ".github\/workflows\/update-app-livecontainer-standalone-nightly.yml"
-      },
-      "bundleIdentifier" : "com.kdt.livecontainer.standalone.nightly",
-      "category" : "Sideloading",
-      "developerName" : "(Nightly)",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/LC_nightly-icon.png",
-      "localizedDescription" : "Nightly release: Standalone version of LiveContainer.",
-      "name" : "LiveContainer (Nightly)",
-      "status" : {
-        "checkedAt" : "2026-10-15T04:59:40Z",
-        "checkedDownloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-standalone-nightly-Nightly-2026.09.18-a45932c71e1e.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "tintColor" : "#FF2D55",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-18T23:13:09Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-standalone-nightly-Nightly-2026.09.18-a45932c71e1e.ipa",
-          "sha256" : "a45932c71e1ee491215106608518a7148c2050d9867de5e660c4ceec91870d7f",
-          "size" : 4744948,
-          "version" : "Nightly-2026.09.18"
-        },
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-13T01:45:39Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-standalone-nightly-Nightly-2026.09.13-d6fd4bb06255.ipa",
-          "size" : 4745477,
-          "version" : "Nightly-2026.09.13"
-        },
-        {
-          "buildVersion" : "3.8.10",
-          "date" : "2026-09-11T16:40:57Z",
-          "downloadURL" : "https:\/\/github.com\/Sami-Wali\/ryP0-repository\/releases\/download\/nightly\/livecontainer-standalone-nightly-Nightly-2026.09.11-c0985168d7c1.ipa",
-          "size" : 4744316,
-          "version" : "Nightly-2026.09.11"
-        },
-        {
-          "date" : "2026-09-06T09:06:54Z",
-          "downloadURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/download\/nightly\/LiveContainer.ipa",
-          "size" : 4743241,
-          "version" : "Nightly-2026.09.06"
-        }
-      ]
-    },
-    {
       "automation" : {
         "configId" : "getmoreram",
         "repository" : "Sami-Wali\/ryP0-automation",
