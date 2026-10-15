@@ -4389,7 +4389,8 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R4/COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
           "sourceAssetName": "COD4iOS-1.0.4-build10-renderer-crash-fix-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "10"
+          "buildVersion": "10",
+          "localizedDescription": "COD4iOS 1.0.4 build 10. This is the exact IPA tested by the reporter, who confirmed the crash is fixed. - Fixes dynamic-lighting memory overwrites and invalid static-model draw data involved in the Blackout/Nikolai crash. - Includes campaign checkpoint protection, Resume recovery, and persistent mission unlocks. - Includes the touch-control editor and Metal upload/memory improvements from the preceding builds. Both single-player and multiplayer engines are included. Renderer, checkpoint, campaign-transition and mission-progress regression tests pass. FPS improvements have not been measured on the affected device. The IPA is unsigned: use your signing/sideload tool and install as an update with the same app identifier to preserve existing data. Back up your `players` folder before updating. The matching build-source archive and SHA-256 checksums are attached. The source archive includes the complete build checkout, including pre-existing source changes beyond the release tag. Retail game data, personal saves and signing keys are not included. IPA SHA-256: `ea26f886f535e5bd0715cdfe6b4482e80d131a893e0442292ebed877d27f9a0e`"
         },
         {
           "buildVersion": "8",
