@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Wrapin",
+      "catalogID": "app-5e49ea18bc764edc8bc7bf099b414fa0",
+      "bundleIdentifier": "com.suversal.wrappin.selfsigned",
+      "developerName": "suversal",
+      "localizedDescription": "GitHub project request: suversal/WrapPin.",
+      "subtitle": "GitHub project request: suversal/WrapPin.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0.18",
+          "date": "2026-10-14T16:51:39Z",
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+          "size": 4909665,
+          "buildVersion": "61",
+          "localizedDescription": "## 主要变化 本版改进异常会话恢复和停止处理，并新增可选的后台定位指示器设置。 - **异常中断后可恢复**：坐标写入失败或停止未获设备确认时，保留上次位置与路线进度，无需重启 App 即可选择继续模拟或恢复真实位置。 - **停止等待有了限时**：坐标写入和位置清除增加超时处理，避免设备无响应时一直停留在“正在停止”。未确认清除成功时，仍会保留恢复入口。 - **改善后台保持处理**：定位服务遇到暂时错误时保留更新请求；返回前台后重新检查权限和后台保持状态，首页提示后台保持不可用的情况。 - **新增“减少后台定位指示器”**：默认关闭，主动开启后需要“始终”定位权限。未获得该权限时保持原有显示行为；关闭开关不会撤回已授予的权限，可在系统设置中修改。 - **补充隧道跳转说明**：列表用于选择自动打开的应用，不限制兼容软件。其他代理或 VPN 软件只要正确配置兼容设备隧道，也可手动开启后使用。 ## 下载与安装 - 标准版：`WrapPin-Standard-1.0.18-build61-unsigned.ipa`，供 SideStore 或其他自签方式使用。 - 隧道版：`WrapPin-Tunnel-1.0.18-build61-unsigned.ipa`，需要带 Packet Tunnel 权限的签名证书及描述文件。 - 两个版本均为未签名 IPA，最低系统为 iOS 27.0。免费 Apple 账号和 SideStore 请使用标准版。 SHA-256： - 标准版：`a897774a0dee14f8c2c7a24a9c97eaa041d281c441f116d1613f5164d92aaa57` - 隧道版：`62e66c1036d1046532e30ed1d3e604f06403d8f01afa85988ad40e1d5d037ff2` ## 验证与边界 - 维护者已用 Build 60 在真机上验证主要功能，未逐项记录测试清单。Build 61 的功能代码相同，本身尚未独立装机。 - 两个 scheme 的 Debug、Release 构建，8 个检查脚本及 Rust 10 项单元测试均通过。 - 这次提供异常中断后的手动恢复，不会自动重连，也不保证所有后台连接都能持续。 - 坐标写入和清除分别有 15 秒限时；写入接近限时才完成、随后清除又超时时，停止可能接近 30 秒。限时以 App 能够正常执行为前提。 - 指示器的最终显示由 iOS 决定，系统可能定期提醒后台定位使用。后台保持收到的坐标仍不保存、不上传。 - 从多任务界面划掉 App 会结束模拟连接；VPN 仍显示已连接，不代表模拟仍在生效。 - 原有蜂窝网络限制不变：通过 Shadowrocket、Surge、Loon 建立设备连接仍不可靠，建议使用 Wi-Fi。",
+          "releaseChannel": "release",
+          "sha256": "62e66c1036d1046532e30ed1d3e604f06403d8f01afa85988ad40e1d5d037ff2"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.suversal.wrappin.selfsigned-62e66c1036d1.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+        "checkedAt": "2026-10-15T06:20:12Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+        "sourceURL": "https://github.com/suversal/WrapPin"
+      },
+      "githubURL": "https://github.com/suversal/WrapPin",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-5e49ea18bc764edc8bc7bf099b414fa0",
+        "sourceURL": "https://github.com/suversal/WrapPin",
+        "workflowPath": ".github/workflows/update-app-app-5e49ea18bc764edc8bc7bf099b414fa0.yml"
+      }
+    },
+    {
       "name": "OldOS",
       "catalogID": "app-f88faeb40d324b78b47fe49626060200",
       "bundleIdentifier": "com.zurac.BudgetBuddy",
