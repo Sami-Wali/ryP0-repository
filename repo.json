@@ -1891,46 +1891,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "com-atebits-tweetie2-18894e3c",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/NeoFreeBird\/app\/refs\/heads\/v7\/resources\/AltSource-X.json",
-        "workflowPath" : ".github\/workflows\/update-app-com-atebits-tweetie2-18894e3c.yml"
-      },
-      "bundleIdentifier" : "com.atebits.Tweetie2",
-      "category" : "Social",
-      "developerName" : "actuallyaridan, orionblur, nyaathea",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/orionblur\/NeoFreeBird\/v7\/resources\/x_icon_rounded.png",
-      "importSource" : {
-        "historyLimit" : 12,
-        "method" : "repository",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/NeoFreeBird\/app\/refs\/heads\/v7\/resources\/AltSource-X.json"
-      },
-      "localizedDescription" : "NeoFreeBird, looking like the modern X app.",
-      "name" : "X",
-      "status" : {
-        "checkedAt" : "2026-10-15T04:59:40Z",
-        "checkedDownloadURL" : "https:\/\/github.com\/NeoFreeBird\/app\/releases\/download\/v7.1.1\/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
-        "message" : "Download is available",
-        "state" : "healthy"
-      },
-      "subtitle" : "NeoFreeBird, looking like the modern X app.",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "1",
-          "date" : "2026-10-10T23:55:36Z",
-          "downloadURL" : "https:\/\/github.com\/NeoFreeBird\/app\/releases\/download\/v7.1.1\/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
-          "localizedDescription" : "Merged orionblur’s fork back into the main repo.",
-          "releaseChannel" : "release",
-          "sha256" : "37f8561448d69d799ac03eb3b4ee012f4147dae6a2f3974d6535bb4a160f5dcf",
-          "size" : 260421912,
-          "version" : "12.31.1"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "com-c4rlox-simpsons-ios-6899cb6a",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/github.com\/creeper4004\/The-Simpsons-Hit-and-Run-iOS\/releases\/tag\/v0.2",
