@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Scrcpy-Mobile",
+      "catalogID": "app-40b6981de737404ebd000201c46ce755",
+      "bundleIdentifier": "com.mobile.scrcpy-ios",
+      "developerName": "wsvn53",
+      "localizedDescription": "GitHub project request: wsvn53/scrcpy-mobile.",
+      "subtitle": "GitHub project request: wsvn53/scrcpy-mobile.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "4.6.0",
+          "date": "2026-09-08T17:26:25Z",
+          "downloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+          "size": 30037601,
+          "buildVersion": "1",
+          "localizedDescription": "Built on scrcpy **v4.0** (SDL3 + FFmpeg 8.1.1). ### Fixes **Mirrored picture geometry** - Fix the picture overflowing the window and not being draggable back. The porting layer applied `SDL_SetRenderScale(nativeScale)` on top of the density conversion scrcpy v4 already performs, magnifying the geometry by density × nativeScale (4× on @2x, 9× on @3x). - Fix the picture being offset to one side from the moment a session connects. The Stage Manager resize path compared the view size in pixels against `SDL_GetWindowSize()`, which SDL3 reports in points, so the sizes never matched and every layout pass pushed a resize event carrying a pixel-sized geometry. **Black screen on high-contrast scene changes** - A full display-layer queue is normal back-pressure; it no longer escalates to flushing the queue and restarting the server-side encoder after 5 dropped frames. Recovery now requires a sustained stall, and the reset cooldown was raised so a second reset cannot land before the previous restart has produced a keyframe. **Disk filling with logs** - The active log file is now bounded at runtime (previously only older files were cleaned, and only at cold start — one user reported a single 76 GB log). - Decoder and render error logs are rate-limited; they previously wrote one line per packet or per frame for as long as the error persisted. **Crashes and background behaviour** - Fix `SIGTRAP`/`SIGABRT` during teardown (`sc_server_destroy`, `sc_main_thread_destroy`, `sc_screen_destroy`/`sc_fps_counter_destroy`) when a session is re-entered in the same process. - Fix the background timeout ignoring the configured duration, and a background-task handle leak that could disconnect an already-disconnected session. - Fix a VNC connect crash and a blank screen after ADB disconnect. ### Install The attached IPA is **Ad Hoc signed** and installs only on devices registered to the developer account. For general use, install via TestFlight or the App Store.",
+          "releaseChannel": "release",
+          "sha256": "aadfbedcc4f6dcd779a41223f420a5bd772a3250da34bb27bb06af459ad5428b"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mobile.scrcpy-ios-aadfbedcc4f6.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+        "checkedAt": "2026-10-15T04:06:12Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+        "sourceURL": "https://github.com/wsvn53/scrcpy-mobile"
+      },
+      "githubURL": "https://github.com/wsvn53/scrcpy-mobile",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-40b6981de737404ebd000201c46ce755",
+        "sourceURL": "https://github.com/wsvn53/scrcpy-mobile",
+        "workflowPath": ".github/workflows/update-app-app-40b6981de737404ebd000201c46ce755.yml"
+      }
+    },
+    {
       "name": "ByeTunes",
       "catalogID": "app-d73c80b187cf4d91b1fc991bf5307c0e",
       "bundleIdentifier": "com.EduAlexxis.MusicManager",
