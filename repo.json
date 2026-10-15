@@ -2301,7 +2301,8 @@
           "upstreamAssetURL": "https://github.com/onlyknt/pziOS/releases/download/0.90-beta.2/pziOS-0.9.0-beta.2-b42.21.ipa",
           "sourceAssetName": "pziOS-0.9.0-beta.2-b42.21.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "2"
+          "buildVersion": "2",
+          "localizedDescription": "### New - **Virtual Gamepad (Controls tab).** The on-screen controls can act as a game controller (two sticks, A/B/X/Y, D-pad, bumpers, triggers, Back/Start). - **Increased Memory** Holds the game's Java memory in helper processes, so iOS does not count it against the app's own limit (the app's memory then shows lower; the device's real RAM is still the limit). It uses private iOS features, needs the app's extensions (it does not work inside container apps such as LiveContainer) and may stop working after an iOS update. ### Fixed - **The game crashed at the main menu on a fresh install.** The game's preview videos need a video library pziOS does not ship; pziOS now keeps the game's \"video effects\" option off. ### Improved - **Clearer JIT helper errors.** If the built-in JIT helper cannot start, the message now says what to check and shows an error number. The first lines of `jvm.log` now show the app's bundle ID, version, JIT method and helper ID, which makes problem reports much easier to read. ### We're Actively Looking For Beta Testers Join Us In https://discord.gg/7fNEVQpkaA"
         },
         {
           "buildVersion": "1",
