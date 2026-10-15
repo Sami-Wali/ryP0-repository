@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "LiveContainer+SideStore",
+      "catalogID": "app-f2abe97caae34e08b24fc5f72e7db77f",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "3.8.10",
+          "date": "2026-09-18T23:13:08Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "size": 35926202,
+          "buildVersion": "3.8.10",
+          "localizedDescription": "**Commit:** [4dbe0f9a626de801184a42c0be8d2cb105058e3d](https://github.com/LiveContainer/LiveContainer/commit/4dbe0f9a626de801184a42c0be8d2cb105058e3d) **Message:** Update litehook: add arm64e_x1 dsc suffix This is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/35404675698/attempts/1).",
+          "releaseChannel": "nightly",
+          "sha256": "bec41bc21d75a0f2e85a0aa589ce5772e24e410deb017486758a3bc0503c8de7"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.kdt.livecontainer-bec41bc21d75.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+        "checkedAt": "2026-10-15T08:03:40Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer"
+      },
+      "githubURL": "https://github.com/LiveContainer/LiveContainer",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer",
+        "workflowPath": ".github/workflows/update-app-app-f2abe97caae34e08b24fc5f72e7db77f.yml"
+      }
+    },
+    {
       "name": "LiveContainer",
       "catalogID": "app-d4f5309c64c94e4ea74bfcf1f0032d33",
       "bundleIdentifier": "com.kdt.livecontainer",
