@@ -3416,7 +3416,8 @@
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
           "sourceAssetName": "ryP0-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "localizedDescription": "# What's New ## ryP0 2.0 brings a rebuilt native iOS experience with more ways to discover, download, and organize apps. - Native SwiftUI interface with Liquid Glass controls on iOS 26. - Search, category filters, and support for multiple app sources. - Favorites and a New Releases page with searchable updates. - Available version history, release-channel filters, and Patch Notes. - In-app IPA downloads with progress, cancellation, and retry. - Background downloads and Live Activities on supported installations. - Save downloaded IPAs to Files or share them without downloading again. - LiveContainer, AltStore, and SideStore integrations. - Return to LiveContainer directly when running inside it. - Submit app requests and follow their status in My Requests. - Save app icons to Photos or copy their URLs. - Light, Dark, and System appearance with customizable accent colors. - Offline access to saved catalogs and cached icons. ## Notes **LiveContainer users:** Run ryP0 as a Shared App in LiveContainer 2 to keep LiveContainer 1 available for installations."
         },
         {
           "buildVersion": "1",
