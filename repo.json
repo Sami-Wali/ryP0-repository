@@ -10,10 +10,10 @@
       },
       "bundleIdentifier" : "com.kdt.livecontainer",
       "catalogID" : "app-f2abe97caae34e08b24fc5f72e7db77f",
-      "category" : "Tools",
+      "category" : "Sideloading",
       "developerName" : "LiveContainer",
       "githubURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.kdt.livecontainer-bec41bc21d75.png",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/LC+SS_stable-icon.png",
       "importSource" : {
         "deliveryMode" : "direct-source",
         "historyLimit" : 0,
@@ -21,7 +21,6 @@
         "originURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer\/releases\/download\/nightly\/LiveContainer%2BSideStore.ipa",
         "sourceURL" : "https:\/\/github.com\/LiveContainer\/LiveContainer"
       },
-      "localizedDescription" : "",
       "name" : "LiveContainer+SideStore",
       "status" : {
         "checkedAt" : "2026-10-15T08:03:40Z",
@@ -29,7 +28,6 @@
         "message" : "Imported from verified upstream source",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
