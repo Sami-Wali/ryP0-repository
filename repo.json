@@ -2938,9 +2938,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-aidoku-aidoku-c3112316",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Aidoku/Aidoku",
+        "configId": "app-aidoku-aidoku-c3112316",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/releases/tag/v0.9-4",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "bundleIdentifier": "app.aidoku.Aidoku",
@@ -2957,13 +2957,24 @@
       "name": "Aidoku",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
-        "checkedAt": "2026-10-16T21:31:48Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+        "checkedAt": "2026-10-16T22:27:29Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.9-4",
+          "date": "2026-10-16T22:25:27Z",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+          "size": 14753154,
+          "sha256": "473e28cda194e57434f2a9e3ad26abbc8f9c18784047eb0e931a51b47df8970c",
+          "upstreamAssetURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+          "sourceAssetName": "Aidoku.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "4"
+        },
         {
           "buildVersion": "3",
           "date": "2026-09-03T20:17:08Z",
@@ -2983,16 +2994,6 @@
           "sha256": "4629068fac5fe7155e8d0d6eb4dcb594a63eb5485ec754b4d7ebb11371c54947",
           "size": 10136987,
           "version": "v0.8.4"
-        },
-        {
-          "buildVersion": "3",
-          "date": "2026-05-18T19:02:38Z",
-          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.8.3/Aidoku.ipa",
-          "localizedDescription": "- New migration flow: view series details and optionally copy data instead of completely migrating. - Kavita API key login: in addition to OIDC and basic auth, use an API key if it works better for you. - Continuous with gaps reading mode: like the Webtoon mode, but with gaps between pages. - Fixed tracker search bar: should show again on iOS 26.4+. - Improved double page reader: new page offset setting and double page handling fixes. - Various other bug fixes and small features: see [the website](<https://aidoku.app/release-notes/>) for a more complete list.",
-          "releaseChannel": "release",
-          "sha256": "261b0d1c3eb6df4bbd5d105cb385cc7b516ac64c455d084eaebe86ee044159a1",
-          "size": 9287296,
-          "version": "v0.8.3"
         }
       ]
     },
