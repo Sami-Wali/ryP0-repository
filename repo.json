@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Need for Speed Most Wanted (2005)",
+      "catalogID": "app-f8914557173c4e2593cd39a01e9dafc9",
+      "bundleIdentifier": "com.bep1s.nfsmwios",
+      "developerName": "bep1s69",
+      "localizedDescription": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
+      "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
+      "category": "32bit",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-10-14T16:35:17Z",
+          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
+          "size": 29891937,
+          "buildVersion": "3",
+          "localizedDescription": "## 0.3.0 - **Fixes for freezes.** The freeze after leaving the safehouse (and in some tollbooth races): the picture stopped while music and controls went on. And a rare black-screen hang at boot. - **iOS 26 works with the native renderer.** It froze on the last movie frame or showed a black screen with only sound and controls: the game's shaders were built for iOS 27 only. - **Invisible cars in career with Black Edition on.** Black Edition needs more car records than the game's table holds, and the extra ones were not saved with the career. They are now kept beside the save (from this version on: careers already affected keep their invisible cars). - **HDMI and AirPlay.** An external display shows the game by itself, full size, while the phone keeps the touch controls. - **MetalFX** (native renderer): temporal upscaling with the game's motion, to the screen, lighter, or anti-aliasing only. FXAA, MSAA where the game draws without it, and the game's own mip levels. - **Battery and heat.** Battery mode (lower resolution, half-size shadows, car reflections updated less often), 30 fps in menus and pause, 30 fps when warm or on Low Power, 0.75x when hot, each also on its own. Less CPU spent waiting, no idle 120 Hz screen refresh, steadier frame pacing. - **Touch controls switch by themselves** between the Pad layout in menus and the Drive layout while driving (with a small D-pad for free roam). - **11\" iPads**: 4:3 fills the screen. \"Stretch to full screen\" is gone. - Extra Options: Quick Race laps, opponents, traffic and weather. - Save manager: saves, backups, export and import, iCloud Drive sync, cash and bounty per save. ### Known issues - Skipping a movie can turn its last frame red for a moment. - Launching the game for the first time may have stutters as it is caching all shaders in the background.",
+          "releaseChannel": "release",
+          "sha256": "5823fd26d7b9a1bac32e66265a6d879c1b9d21f02462e25b3ba66ad02ffae1ac"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.bep1s.nfsmwios-5823fd26d7b9.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
+        "checkedAt": "2026-10-16T08:18:36Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios"
+      },
+      "githubURL": "https://github.com/bep1s69/nfsmw-ios",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios",
+        "workflowPath": ".github/workflows/update-app-app-f8914557173c4e2593cd39a01e9dafc9.yml"
+      }
+    },
+    {
       "name": "taurus",
       "catalogID": "app-73947c8c16cb444ea67fc7f58d581dbb",
       "bundleIdentifier": "com.spotify.client",
