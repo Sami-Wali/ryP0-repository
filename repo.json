@@ -16,7 +16,8 @@
           "size": 5181163,
           "buildVersion": "45",
           "localizedDescription": "## What's Changed 🧐 ### 摘要 - 优化视频详情页、系列横向滚动和相关推荐布局。 - 改进播放列表弹窗交互。 - 改进 Cloudflare 验证恢复、收藏同步、下载删除失败处理。 - 更改后台下载会话标识。 - 调整订阅控件、标签标题、间距和界面适配。 - 增加 Cloudflare、会话、收藏、滚动布局等测试。 ### 工程 - 仓库迁移到 celia-sh 下，欢迎 PR。 ## 说明 小修小补。 macOS 版本未公证，首次打开时需要在系统安全设置中允许。也可以在终端执行： ```bash xattr -dr com.apple.quarantine /Applications/Hana.app open /Applications/Hana.app ``` 喜欢不妨点亮仓库的小星星～🌟 方便的管理更新：[**添加到侧载工具**](https://sideload.celia.sh) ↗️ 了解其它项目：[**celia-sh/Novella**](https://github.com/celia-sh/Novella) 📚 闲聊吹水 / 反馈问题：[**点此加入**](https://t.me/+xNDJEfc_naRlMGEx) ✈️",
-          "sha256": "4150dfd231e5be0c9af186bb12136e86967ac6443644d62db38cfb6f56e1e47f"
+          "sha256": "4150dfd231e5be0c9af186bb12136e86967ac6443644d62db38cfb6f56e1e47f",
+          "releaseChannel": "release"
         }
       ],
       "iconURL": "https://sideload.celia.sh/assets/apps/hana.png",
