@@ -1,6 +1,48 @@
 {
   "apps": [
     {
+      "name": "taurus",
+      "catalogID": "app-73947c8c16cb444ea67fc7f58d581dbb",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "samj.",
+      "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
+      "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-08T22:17:09Z",
+          "downloadURL": "https://files.catbox.moe/4mlz6g.ipa",
+          "size": 131027351,
+          "buildVersion": "919002269",
+          "sha256": "3327b9e7b773136ebeae4b3010d2ab738d5f3df13a32a3f6430af26879f54636"
+        }
+      ],
+      "iconURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/960px-Spotify_App_Logo.svg.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://files.catbox.moe/4mlz6g.ipa",
+        "checkedAt": "2026-10-16T08:18:08Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://files.catbox.moe/4mlz6g.ipa",
+        "selector": "entry-12680207ec1ef9e9cdce91fdb7f7758de87987edc02713aec126a8fe52a10941",
+        "sourceURL": "https://raw.githubusercontent.com/samj-exe/taurus/stable/altstore-source.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-73947c8c16cb444ea67fc7f58d581dbb",
+        "sourceURL": "https://raw.githubusercontent.com/samj-exe/taurus/stable/altstore-source.json",
+        "workflowPath": ".github/workflows/update-app-app-73947c8c16cb444ea67fc7f58d581dbb.yml"
+      }
+    },
+    {
       "name": "ryP0",
       "catalogID": "app-6687eb0f937a4bf79078799a639af989",
       "bundleIdentifier": "com.ry0.ryP0",
