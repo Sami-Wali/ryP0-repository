@@ -1,6 +1,49 @@
 {
   "apps": [
     {
+      "name": "Hana",
+      "catalogID": "app-33790dbdac9a4202a2529ee61fb9986a",
+      "bundleIdentifier": "sh.celia.hana",
+      "developerName": "CELIA",
+      "localizedDescription": "使用 SwiftUI 构建的 Hanime1 客户端，面向 iOS、iPadOS 与 macOS。",
+      "subtitle": "使用 SwiftUI 构建的 Hanime1 客户端，面向 iOS、iPadOS 与 macOS。",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-08-27T09:13:24Z",
+          "downloadURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
+          "size": 5181163,
+          "buildVersion": "45",
+          "localizedDescription": "## What's Changed 🧐 ### 摘要 - 优化视频详情页、系列横向滚动和相关推荐布局。 - 改进播放列表弹窗交互。 - 改进 Cloudflare 验证恢复、收藏同步、下载删除失败处理。 - 更改后台下载会话标识。 - 调整订阅控件、标签标题、间距和界面适配。 - 增加 Cloudflare、会话、收藏、滚动布局等测试。 ### 工程 - 仓库迁移到 celia-sh 下，欢迎 PR。 ## 说明 小修小补。 macOS 版本未公证，首次打开时需要在系统安全设置中允许。也可以在终端执行： ```bash xattr -dr com.apple.quarantine /Applications/Hana.app open /Applications/Hana.app ``` 喜欢不妨点亮仓库的小星星～🌟 方便的管理更新：[**添加到侧载工具**](https://sideload.celia.sh) ↗️ 了解其它项目：[**celia-sh/Novella**](https://github.com/celia-sh/Novella) 📚 闲聊吹水 / 反馈问题：[**点此加入**](https://t.me/+xNDJEfc_naRlMGEx) ✈️",
+          "sha256": "4150dfd231e5be0c9af186bb12136e86967ac6443644d62db38cfb6f56e1e47f"
+        }
+      ],
+      "iconURL": "https://sideload.celia.sh/assets/apps/hana.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
+        "checkedAt": "2026-10-16T14:02:03Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
+        "selector": "entry-da00c35e3c46173379139322143942711e57342f96c4f4235f5f88dab0c739e1",
+        "sourceURL": "https://sideload.celia.sh/source.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-33790dbdac9a4202a2529ee61fb9986a",
+        "sourceURL": "https://sideload.celia.sh/source.json",
+        "workflowPath": ".github/workflows/update-app-app-33790dbdac9a4202a2529ee61fb9986a.yml"
+      }
+    },
+    {
       "name": "Swiftgram (TGExtra)",
       "catalogID": "app-850baf81ebbe4138aec0982bd41a2873",
       "bundleIdentifier": "app.swiftgram.ios",
