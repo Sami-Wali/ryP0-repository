@@ -5599,7 +5599,8 @@
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
           "sourceAssetName": "nuvio-0.6.1-full-release.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "144"
+          "buildVersion": "144",
+          "localizedDescription": "- f352f2b2 fix(party): let only the host change what's playing @tapframe"
         },
         {
           "buildVersion": "143",
