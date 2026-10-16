@@ -2174,7 +2174,8 @@
           "releaseChannel": "release",
           "sha256": "0201e4eb6052270ca0629cccc1490e7b86e04cacb1714297fdf345572da90b12",
           "size": 36685110,
-          "version": "1.0"
+          "version": "1.0",
+          "localizedDescription": "Based on MuffinEMU by Void"
         }
       ]
     },
