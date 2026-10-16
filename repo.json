@@ -1,6 +1,49 @@
 {
   "apps": [
     {
+      "name": "Swiftgram (TGExtra)",
+      "catalogID": "app-850baf81ebbe4138aec0982bd41a2873",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "swiftleopard & IPA Vault",
+      "localizedDescription": "Swiftgram 12.9.4 with TGExtra 1.7.7",
+      "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "13.0",
+          "date": "2026-10-13",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
+          "size": 89262870,
+          "buildVersion": "319",
+          "localizedDescription": "IPA Vault build for Swiftgram (TGExtra), version 13.0",
+          "sha256": "652a5578867d4f03f56323dbdfdf03afb8a7e6e16f6b44eb10ca86559beaa041"
+        }
+      ],
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Swiftgram-Icons/Swiftgram-AppStore-1024x1024.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
+        "checkedAt": "2026-10-16T13:59:08Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
+        "selector": "entry-5f0f6768a7ebcc92505c9625dbfd83073f0155efa1729c838e773c7672b6d632",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-850baf81ebbe4138aec0982bd41a2873",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+        "workflowPath": ".github/workflows/update-app-app-850baf81ebbe4138aec0982bd41a2873.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "app-6687eb0f937a4bf79078799a639af989",
