@@ -6703,9 +6703,9 @@
     },
     {
       "automation": {
-        "configId": "sideinstaller",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.5.2",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.5.3",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -6715,13 +6715,24 @@
       "name": "SideInstaller",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.2-3e46708f6aa8.ipa",
-        "checkedAt": "2026-10-16T16:51:43Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.3-4a7ce3e04607.ipa",
+        "checkedAt": "2026-10-16T17:58:08Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.5.3",
+          "date": "2026-10-16T17:52:51Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.3-4a7ce3e04607.ipa",
+          "size": 9208665,
+          "sha256": "4a7ce3e04607b91f09eccc81e296fb0f172d8057f4bc06f602656d4113f71161",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.5.3/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-15T07:49:16Z",
@@ -6821,14 +6832,6 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.0.0-0bf74b00c964.ipa",
           "size": 9243749,
           "version": "v1.0.0"
-        },
-        {
-          "date": "2026-08-07T14:00:16Z",
-          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
-          "localizedDescription": "Sorry for the instability these days. This update makes SideInstaller fully compatible with the latest releases of all apps, including SideStore Nightly. ## Changes: - SideStore, LiveContainer + SideStore and Feather now accept the pairing file SideInstaller puts in them, instead of asking you for one as though nothing had been placed. SideInstaller now switches on the setting those apps need to reach your iPhone over your local tunnel, which nothing was doing before. - The install may ask you to unlock your iPhone and tap Trust once, and it remembers the result so it won't ask again for that device. If that extra step doesn't work, your install still finishes exactly as it did before, and the log tells you what went out. Pairing tab - One button now writes the pairing file into every supported app it found, instead of you tapping through them one at a time. - One app refusing the pairing file no longer stops the others from getting it. - Export now shares the pairing file that every app can read, so importing it by hand works as well as letting SideInstaller place it.",
-          "releaseChannel": "release",
-          "size": 7908297,
-          "version": "v0.9.0"
         }
       ]
     },
