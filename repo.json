@@ -2655,10 +2655,9 @@
       "localizedDescription": "Spotify cracked releases",
       "name": "Spy G",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:15:14Z",
+        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Spotify cracked releases",
       "updatePolicy": "daily",
@@ -2877,10 +2876,9 @@
       "localizedDescription": "A rogue-lite slot machine nightmare",
       "name": "CloverPit-1.4.8",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:15:05Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
       "updatePolicy": "daily",
@@ -2976,10 +2974,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:14:56Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
@@ -4586,10 +4583,9 @@
       "localizedDescription": "Code: 22455",
       "name": "Nado TV",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:14:45Z",
+        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "updatePolicy": "daily",
       "versions": [
@@ -4621,10 +4617,9 @@
       },
       "name": "Anime Cloud",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:14:39Z",
+        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Anime Arabic Sub",
       "updatePolicy": "daily",
@@ -5684,14 +5679,22 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "name": "StikDebug",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+        "checkedAt": "2026-10-16T08:14:29Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.1.15",
+          "date": "2026-10-15T00:00:00Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+          "size": 13543234,
+          "sha256": "060cbf9287be8e5ebacb45f31f7ce5e81ec9538f971c521badd9cefa4a970039",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-12T00:00:00Z",
@@ -6361,10 +6364,9 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Minecraft-icon.png",
       "name": "Minecraft",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:14:21Z",
+        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "tintColor": "#4B8B3B",
       "updatePolicy": "daily",
@@ -7307,15 +7309,23 @@
       "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostYT and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS",
       "name": "YT Music",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.40.2-09c26c1ba9b4.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.41.2-b61e8c8f6ef6.ipa",
+        "checkedAt": "2026-10-16T08:14:24Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Mod by Mark02-2012",
       "tintColor": "#848ef9",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.41.2",
+          "date": "2026-10-14T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.41.2-b61e8c8f6ef6.ipa",
+          "size": 107159481,
+          "sha256": "b61e8c8f6ef6ec4a278f8d84b86f9d8ff58dcf1b0e6fb96b1dd8527884ede95a",
+          "buildVersion": "9.41.2"
+        },
         {
           "buildVersion": "9.40.2",
           "date": "2026-10-08T00:00:00Z",
@@ -7382,10 +7392,9 @@
       "localizedDescription": "Video Editor",
       "name": "Video Star",
       "status": {
-        "checkedAt": "2026-10-16T04:49:46Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-16T08:14:56Z",
+        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Video Editor",
       "updatePolicy": "daily",
