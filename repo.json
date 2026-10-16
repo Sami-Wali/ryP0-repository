@@ -42,7 +42,8 @@
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.1/ryP0-unsigned.ipa",
           "sourceAssetName": "ryP0-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "localizedDescription": "# What’s New ## ryP0 2.1 - Fixed IPA downloads for non LiveContainer users. - Added the new **Orbit** theme. - App requests now require **GitHub sign-in**, making it easier to track request status. ## Notes **LiveContainer users:** Run ryP0 as a Shared App in LiveContainer 2 to keep LiveContainer 1 available for installations."
         },
         {
           "buildVersion": "1",
