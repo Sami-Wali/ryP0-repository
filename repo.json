@@ -5565,9 +5565,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.0-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.1-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -5582,14 +5582,25 @@
       "localizedDescription": "",
       "name": "Nuvio",
       "status": {
-        "checkedAt": "2026-10-16T11:46:13Z",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.0-beta/nuvio-0.6.0-full-release.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
+        "checkedAt": "2026-10-16T14:47:48Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.1-beta",
+          "date": "2026-10-16T14:44:49Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
+          "size": 68517984,
+          "sha256": "d18faf37f1304d5d2a62c302077285aedf6de973e2b6eecbff3a0bfc1d28ad2d",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
+          "sourceAssetName": "nuvio-0.6.1-full-release.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "144"
+        },
         {
           "buildVersion": "143",
           "date": "2026-10-16T08:52:28Z",
@@ -5701,16 +5712,6 @@
           "sha256": "14cc46e4098e4568e2e20a86a8b5dc7dba3da7e28ab7567972338fba460421ef",
           "size": 66006978,
           "version": "0.5.0-beta"
-        },
-        {
-          "buildVersion": "131",
-          "date": "2026-09-21T09:49:45Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.26-beta/nuvio-0.4.26-full-release.ipa",
-          "localizedDescription": "- 458f810b fix(streams): share addon filtering across pickers @tapframe - [i18n(nb): complete missing Norwegian Bokmål strings (#2005)](https://github.com/NuvioMedia/NuvioMobile/pull/2005) @SimSalabimse",
-          "releaseChannel": "beta",
-          "sha256": "50bb70d89a4201070840b7530ea730e1bf2c603c72a1bdfed48126740d6dde07",
-          "size": 65234840,
-          "version": "0.4.26-beta"
         }
       ]
     },
