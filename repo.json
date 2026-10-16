@@ -2832,7 +2832,8 @@
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.2/KartPad-v0.8.2-ios-for-padmint.ipa",
           "sourceAssetName": "KartPad-v0.8.2-ios-for-padmint.ipa",
           "releaseChannel": "release",
-          "buildVersion": "264"
+          "buildVersion": "264",
+          "localizedDescription": "KartPad 0.8.2 fixes Mac build retries, keyboard settings and a Retro Rewind race-start crash. - Repeated PadMint builds reuse verified prepared files and preserve earlier app/ZIP outputs. - Keyboard reset restores defaults; remaps and clears save immediately and reach the game. Shift, Control and Option can be captured; Command shortcuts remain reserved. - Retro Rewind skips a malformed model texture link that caused a fatal memory access when entering a race. Mac players: use [PadMint](https://github.com/chrissotraidis/padmint/releases/latest), choose **Mario Kart Wii → This Mac**, and build from your own disc. The Mac game requires Apple Silicon. Intel Macs can still use PadMint for supported mobile builds; Intel iPhone/iPad builds remain experimental. [Mac setup and update instructions](https://github.com/chrissotraidis/kartpad/blob/v0.8.2/docs/INSTALL_MACOS.md). Android: install the APK over the existing app. iPhone/iPad: use PadMint; the `ios-for-padmint.ipa` file is a game-code-free build input, not a ready-to-play app. Keep existing saves and game files. The focused Mac checks covered race entry, remapped input, normal quitting and reopening in Original and Retro Rewind. Original completed a race; a full Retro race was not required or completed. Native Apple Silicon and Intel CI passed. This release does not claim to fix the reported high-FPS regression. Build 264. Source, notices, recipe and checksums are included below. No ready-to-play Apple app is distributed."
         },
         {
           "buildVersion": "263",
