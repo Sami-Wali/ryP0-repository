@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "COD4iOS-build12-fog-fix-diagnostics-unsigned",
+      "catalogID": "app-579e0df21f5346cd94533d71632260b6",
+      "bundleIdentifier": "com.devz.cod4ios",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-10-16T09:47:41Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R5-beta.2/COD4iOS-1.0.4-build12-fog-fix-diagnostics-unsigned.ipa",
+          "size": 9692384,
+          "buildVersion": "12",
+          "localizedDescription": "# COD4iOS 1.0.4 build 12 — fog fix and crash diagnostics This is an unsigned test IPA. The reported War Pig crash remains unresolved; this build must not be described as a confirmed crash fix. The shader translator now preserves zero masks on Metal pixel-output MUL/MAD operations. A zero fog weight previously multiplied unused NaN/Inf lighting and produced invalid output instead of the fog colour. This defect is consistent with black fully fogged surfaces, but the complete War Pig scene has not been reproduced on the affected device. Validation: - Native Apple M1 GPU regression: 80 cases; before 96 incorrect channels, after 0. Covers MUL/MAD, both operand orders, signed zero, NaN/Inf, and finite controls. - 299 representative retail shaders translated and compiled with 0 failures. Retail shader assets are not included in this package. - GLES/GLSL source fingerprints unchanged across all 299 shaders. Android was not rebuilt. - ARM64 fatal-signal diagnostics test passes with PC/LR/SP/FP and x0–x28 recorded. - Release arm64 iPhoneOS SP and MP engines rebuilt; embedded engines match the build outputs. - Packaging verifies ZIP integrity, exported symbols and temporary ad-hoc signatures, removed before delivery. Bundle version, gameplay watermark and diagnostics now share build number 12. The old screenshot's build-10 watermark came from Git revision count and did not identify the installed IPA version. The clip shows an exit shortly after normal gameplay starts. No development device was connected to collect the report. After reproducing the exit, attach Files → COD4iOS → diagnostics → native-crash.txt and campaign-events.txt. If there is no native crash record, the iOS Analytics report for COD4iOS or JetsamEvent may be needed to distinguish an OS memory termination. Install by signing with your usual tool and updating the existing com.devz.cod4ios installation. Keep a backup of your players folder. Existing control/save/campaign changes are retained. No game data or saves are included. Code and IPA are committed in tag R5-beta.2. This is a pre-release; R4 remains the latest stable release. The source archive reflects the complete local build tree, including earlier uncommitted work; the new code commit contains only the scoped iOS changes. Compatibility reference: [DXVK D3D9 float-emulation configuration](https://raw.githubusercontent.com/doitsujin/dxvk/master/dxvk.conf).",
+          "releaseChannel": "beta",
+          "sha256": "489b7038448fb836fdf7bef0e3cd6e6fd53c8bd2e1a9cd19a61dde17582f6083"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.cod4ios-489b7038448f.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R5-beta.2/COD4iOS-1.0.4-build12-fog-fix-diagnostics-unsigned.ipa",
+        "checkedAt": "2026-10-16T14:09:28Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R5-beta.2/COD4iOS-1.0.4-build12-fog-fix-diagnostics-unsigned.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-579e0df21f5346cd94533d71632260b6",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS",
+        "workflowPath": ".github/workflows/update-app-app-579e0df21f5346cd94533d71632260b6.yml"
+      }
+    },
+    {
       "name": "COD4iOS-build10-renderer-crash-fix-unsigned",
       "catalogID": "app-d5b5c6fb7d234d088fa1dadf31a3a202",
       "bundleIdentifier": "com.devz.cod4ios",
