@@ -5432,7 +5432,8 @@
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.0-beta/nuvio-0.6.0-full-release.ipa",
           "sourceAssetName": "nuvio-0.6.0-full-release.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "143"
+          "buildVersion": "143",
+          "localizedDescription": "- [feat(party): add experimental watch parties (#2253)](https://github.com/NuvioMedia/NuvioMobile/pull/2253) @tapframe - b9d2c39d fix(player): pause other apps audio on android @tapframe - [feat(mdblist): show dynamic and liked lists in the library (#2268)](https://github.com/NuvioMedia/NuvioMobile/pull/2268) @kernexshadow - [i18n(el): translate new 0.5.10 strings (#2263)](https://github.com/NuvioMedia/NuvioMobile/pull/2263) @nosvasedis - [Complete missing Italian translations (#2260)](https://github.com/NuvioMedia/NuvioMobile/pull/2260) @WhiteGiso - [fix(ios): improve PiP transitions and recover playback after closing PiP (#2259)](https://github.com/NuvioMedia/NuvioMobile/pull/2259) @WhiteGiso - [fix(ios): restore Now Playing by limiting audio mixing to calls (#2246)](https://github.com/NuvioMedia/NuvioMobile/pull/2246) @WhiteGiso - [fix(i18n): update, complete and review Brazilian Portuguese (pt-BR) localization (#2234)](https://github.com/NuvioMedia/NuvioMobile/pull/2234) @jhojhocraazy - [feat(mdblist): show external lists in the library (#2172)](https://github.com/NuvioMedia/NuvioMobile/pull/2172) @kernexshadow"
         },
         {
           "buildVersion": "142",
