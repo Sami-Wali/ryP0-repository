@@ -4396,7 +4396,8 @@
           "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.0/FactorioPad-template.ipa",
           "sourceAssetName": "FactorioPad-template.ipa",
           "releaseChannel": "prerelease",
-          "buildVersion": "11"
+          "buildVersion": "11",
+          "localizedDescription": "Added touch controls for iPhone and iPad with automatic gamepad detection. Medium graphics is now the default to reduce memory use"
         },
         {
           "buildVersion": "9",
