@@ -1,6 +1,51 @@
 {
   "apps": [
     {
+      "name": "ryP0",
+      "catalogID": "app-6687eb0f937a4bf79078799a639af989",
+      "bundleIdentifier": "com.ry0.ryP0",
+      "developerName": "Sami-Wali",
+      "localizedDescription": "GitHub project request: Sami-Wali/ryP0.",
+      "subtitle": "GitHub project request: Sami-Wali/ryP0.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-10-11T05:14:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
+          "size": 10751321,
+          "buildVersion": "1",
+          "localizedDescription": "# What's New ## ryP0 2.0 brings a rebuilt native iOS experience with more ways to discover, download, and organize apps. - Native SwiftUI interface with Liquid Glass controls on iOS 26. - Search, category filters, and support for multiple app sources. - Favorites and a New Releases page with searchable updates. - Available version history, release-channel filters, and Patch Notes. - In-app IPA downloads with progress, cancellation, and retry. - Background downloads and Live Activities on supported installations. - Save downloaded IPAs to Files or share them without downloading again. - LiveContainer, AltStore, and SideStore integrations. - Return to LiveContainer directly when running inside it. - Submit app requests and follow their status in My Requests. - Save app icons to Photos or copy their URLs. - Light, Dark, and System appearance with customizable accent colors. - Offline access to saved catalogs and cached icons. ## Notes **LiveContainer users:** Run ryP0 as a Shared App in LiveContainer 2 to keep LiveContainer 1 available for installations.",
+          "releaseChannel": "release",
+          "sha256": "d8e59292693233d070233c375346935dd2bce18b18ece4ea1e77125aa40911cf"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icons/ryP0-iOS.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
+        "checkedAt": "2026-10-16T08:17:34Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
+        "selector": "entry-ddfef9d10552f335f7e6070d79f3722f22ca43b2510d4ebec273bcf173e6a103",
+        "sourceURL": "https://github.com/Sami-Wali/ryP0"
+      },
+      "githubURL": "https://github.com/Sami-Wali/ryP0",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-6687eb0f937a4bf79078799a639af989",
+        "sourceURL": "https://github.com/Sami-Wali/ryP0",
+        "workflowPath": ".github/workflows/update-app-app-6687eb0f937a4bf79078799a639af989.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "app-615d86a9e61e488c9803deb087829c90",
