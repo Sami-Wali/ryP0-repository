@@ -5693,7 +5693,9 @@
           "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
           "size": 13543234,
           "sha256": "060cbf9287be8e5ebacb45f31f7ce5e81ec9538f971c521badd9cefa4a970039",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "localizedDescription": "**Full Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.14...3.1.15 Attempt to fix ServiceNotFound errors, add debugging"
         },
         {
           "buildVersion": "1",
