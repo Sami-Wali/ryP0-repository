@@ -6318,9 +6318,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/2.0",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/3.0",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -6336,13 +6336,24 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/2.0/Husk.ipa",
-        "checkedAt": "2026-10-17T20:49:27Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+        "checkedAt": "2026-10-17T21:37:07Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-10-17T21:34:58Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+          "size": 140126095,
+          "sha256": "112a1ddbb3143ae25e80c18c5b195b6dfa5067d66cbf99d2188fc03f4ab0f61d",
+          "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+          "sourceAssetName": "Husk.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "129"
+        },
         {
           "buildVersion": "109",
           "date": "2026-10-11T22:41:49Z",
@@ -6452,16 +6463,6 @@
           "sha256": "ddf055e4fc1a5dafec5c569464578fb1c40af2b733e400262c71a987d07a1835",
           "size": 40386325,
           "version": "0.5.1"
-        },
-        {
-          "buildVersion": "2",
-          "date": "2026-10-01T23:46:10Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.5.0/Husk.ipa",
-          "localizedDescription": "## What's Changed * Fix guest seed packaging and snapshot preservation by @creeper4004 in https://github.com/Leviidev/Husk/pull/29 * Add a light mode (Settings › Appearance) by @hernan0078 in https://github.com/Leviidev/Husk/pull/30 * Fixed UI bugs by @Leviidev ## New Contributors * @creeper4004 made their first contribution in https://github.com/Leviidev/Husk/pull/29 * @hernan0078 made their first contribution in https://github.com/Leviidev/Husk/pull/30 **Full Changelog**: https://github.com/Leviidev/Husk/compare/0.4.1...0.5.0",
-          "releaseChannel": "release",
-          "sha256": "83b7ce15a3673a6b6371c84584ea79f1b1c6527c3fea9b1cbd713805f2cac9c3",
-          "size": 40279923,
-          "version": "0.5.0"
         }
       ]
     },
