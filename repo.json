@@ -112,6 +112,19 @@
           "ipaBundleIdentifier": "com.devz.cod4ios",
           "releaseChannel": "release",
           "buildVersion": "7"
+        },
+        {
+          "version": "R1",
+          "date": "2026-10-03T06:49:12Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R1/COD4iOS_v1.0.3.ipa",
+          "size": 9596607,
+          "sha256": "8a1bbf9d9af10c16aa6fdac32668d444ad9f5b592902963041ce5ae32e3172f0",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R1/COD4iOS_v1.0.3.ipa",
+          "sourceAssetName": "COD4iOS_v1.0.3.ipa",
+          "sourceAppName": "COD4iOS",
+          "ipaBundleIdentifier": "com.devz.cod4ios",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.cod4ios-dbbc5e981f6f.png",
@@ -121,7 +134,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build14-clean-unsigned.ipa",
-        "checkedAt": "2026-10-17T15:41:45Z",
+        "checkedAt": "2026-10-17T15:41:50Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -136,7 +149,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d37fa54a16fcff88adb8d85be873840f",
-        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R2",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-project-d37fa54a16fcff88adb8d85be873840f.yml"
       }
     },
