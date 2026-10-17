@@ -6352,7 +6352,8 @@
           "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
           "sourceAssetName": "Husk.ipa",
           "releaseChannel": "release",
-          "buildVersion": "129"
+          "buildVersion": "129",
+          "localizedDescription": "## Husk 3.0 The coolest and biggest Husk release yet. Hundreds of new Android games, PS4 support, and more. ## What's new? - Console-style home screen - New library UI - Proper first run - Contains full setup guide + optional walkthrough ### PS4 Games - Add a game with the + button. Either a PKG, a folder of PKG's, or an extracted game folder. Updates install with their game. - Tested: Bloodborne, Minecraft: PlayStation 4 Edition, Sonic Mania - Shaders are kept inbetween launches with Shader Cache - If a game requires keyboard input, it'll open the iOS keyboard ### Android - 366 newly working games - view in compatibility list - Unofficial ports: Sonic Robo Blast 2, Nethack, PokeWilds and more - GoDot 4 - Store downloads include OBB files - Typing works in all games - Optional language fonts (chinese, japanese, etc) ### Also - Lots of fixes - TrollStore JIT fully complete ## Known Issues - Bloodborne runs, but very poorly. - Some Unity 6 games can render slowly ## Final notes Thank you all. Enjoy ❤️ Discord Server: https://discord.gg/xApMHWAzkh"
         },
         {
           "buildVersion": "109",
