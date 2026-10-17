@@ -1074,9 +1074,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/32741278966",
+        "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly",
         "workflowPath": ".github/workflows/update-app-app-f2abe97caae34e08b24fc5f72e7db77f.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -1095,12 +1095,23 @@
       "name": "LiveContainer+SideStore",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-f2abe97caae34e08b24fc5f72e7db77f-999f44fb126a281e14a69f4df89848949cd9a8de-367642d147d5.ipa",
-        "checkedAt": "2026-10-17T04:50:02Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+        "checkedAt": "2026-10-17T08:33:08Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-10-17T08:31:58Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "size": 24155286,
+          "sha256": "33831bb279d74f2da1be08eb3cc6d3646992a6120da32ffb763269696052b868",
+          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "sourceAssetName": "LiveContainer+SideStore.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "3.8.11"
+        },
         {
           "buildVersion": "3.8.10",
           "date": "2026-10-14T13:43:07Z",
@@ -1136,17 +1147,6 @@
           "sha256": "a8c79c65d2c93f79bcde6d02512875bb39c25a4db23b902371f72119739bb8e0",
           "size": 42828044,
           "version": "6635cb2589a4fe9a1d94dcc96a04cddfc05fcec3"
-        },
-        {
-          "buildVersion": "3.8.10",
-          "date": "2026-09-18T23:13:11Z",
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "releaseChannel": "nightly",
-          "sha256": "bec41bc21d75a0f2e85a0aa589ce5772e24e410deb017486758a3bc0503c8de7",
-          "size": 35926202,
-          "sourceAssetName": "LiveContainer+SideStore.ipa",
-          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "version": "nightly"
         },
         {
           "buildVersion": "3.8.10",
