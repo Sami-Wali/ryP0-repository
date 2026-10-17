@@ -1076,7 +1076,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/39017541871",
         "workflowPath": ".github/workflows/update-app-app-f2abe97caae34e08b24fc5f72e7db77f.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -1096,7 +1096,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-        "checkedAt": "2026-10-17T08:33:08Z",
+        "checkedAt": "2026-10-17T08:33:17Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -1110,6 +1110,15 @@
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
           "sourceAssetName": "LiveContainer+SideStore.ipa",
           "releaseChannel": "nightly",
+          "buildVersion": "3.8.11"
+        },
+        {
+          "version": "9108ae624ea001f7d7696d48407f890b48fa2653",
+          "date": "2026-10-17T08:29:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-f2abe97caae34e08b24fc5f72e7db77f-9108ae624ea001f7d7696d48407f890b48fa2653-33831bb279d7.ipa",
+          "size": 24155286,
+          "sha256": "33831bb279d74f2da1be08eb3cc6d3646992a6120da32ffb763269696052b868",
+          "releaseChannel": "actions",
           "buildVersion": "3.8.11"
         },
         {
