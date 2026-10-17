@@ -13,6 +13,16 @@
           "version": "1.0.9",
           "date": "2026-10-16T14:17:17Z",
           "downloadURL": "https://github.com/DevZer0D4Y/ProjectReignition-iOS/releases/download/1.0.9/ProjectReignition-iOS.ipa",
+          "size": 1944594351,
+          "buildVersion": "5",
+          "localizedDescription": "## 1.0.9 (build 5) - The homing attack's aura no longer stays on Sonic. Godot's Mobile renderer ignores the fade the game uses for it; the port now fades such objects itself, which also fixes item box glows, fire souls, debris, the Evil Foundry golem's core and Pirate Storm's lightning. - No more black patches where Lost Prologue's Wonderblocks appear: the Mobile renderer halved multiply-blended effects, which now draw as on PC there and in later stages. - Cutscenes that showed only subtitles and sound play their video again (the one after the first stage, Events 4 to 9, the openings, the endings and the developer intro). ## 1.0.9 (build 4) First iOS release, built from Project Reignition 1.0.9 (`dev/v1.0.x` at e13abfa). - On-screen touch controls that act as an Xbox controller; controller support. - Cutscenes as Ogg Theora. - Up to 120 FPS on ProMotion screens; lighter iOS defaults for reflections and soft shadows. - Menus take input: scenes are exported as text, which keeps their lists of buttons and videos. - Saves work and stay in the app's Documents folder across updates; deleting a save removes it. - Lost Prologue's bloom works on the Mobile renderer. - No more errors logged every frame in levels, a source of stutter. - Garbage collections run during loading screens instead of gameplay. - Frame-time log and test modes for benchmarks and saves. Known issues: the first visit to an area can stutter while shaders compile, and Party mode's local network play is untested. Install: sign and install the IPA with ESign, AltStore, SideStore or Sideloadly. Needs iOS 15+ and about 6 GB free while installing. Unofficial fan project, not affiliated with or endorsed by SEGA; must not be sold. Project Reignition is distributed under the [Open Sonic Fan Game License](LICENSE.md); its graphical assets are owned by SEGA and used under that license.",
+          "releaseChannel": "release",
+          "sha256": "9959b3fe8b58fcf5c95945e25fa2706c71ff26038e1bdd7add7365d62b31b142"
+        },
+        {
+          "version": "1.0.9",
+          "date": "2026-10-16T14:17:17Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/ProjectReignition-iOS/releases/download/1.0.9/ProjectReignition-iOS.ipa",
           "size": 1944738652,
           "buildVersion": "4",
           "localizedDescription": "## 1.0.9 (build 4) First iOS release, built from Project Reignition 1.0.9 (`dev/v1.0.x` at e13abfa). - On-screen touch controls that act as an Xbox controller; controller support. - Cutscenes as Ogg Theora. - Up to 120 FPS on ProMotion screens; lighter iOS defaults for reflections and soft shadows. - Menus take input: scenes are exported as text, which keeps their lists of buttons and videos. - Saves work and stay in the app's Documents folder across updates; deleting a save removes it. - Lost Prologue's bloom works on the Mobile renderer. - No more errors logged every frame in levels, a source of stutter. - Garbage collections run during loading screens instead of gameplay. - Frame-time log and test modes for benchmarks and saves. Known issues: multiply-blended effects render too dark, the first visit to an area can stutter while shaders compile, and Party mode's local network play is untested. Install: sign and install the IPA with ESign, AltStore, SideStore or Sideloadly. Needs iOS 15+ and about 6 GB free while installing. Unofficial fan project, not affiliated with or endorsed by SEGA; must not be sold. Project Reignition is distributed under the [Open Sonic Fan Game License](LICENSE.md); its graphical assets are owned by SEGA and used under that license.",
@@ -20,14 +30,14 @@
           "sha256": "cbd22baeff6c464edd2f0b5119dd1c5c763d8302bbe84273456ab0e360a56389"
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.projectreignition-cbd22baeff6c.png",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.projectreignition-9959b3fe8b58.png",
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/ProjectReignition-iOS/releases/download/1.0.9/ProjectReignition-iOS.ipa",
-        "checkedAt": "2026-10-17T04:50:02Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-17T06:01:02Z",
+        "message": "Imported from verified upstream source"
       },
       "importSource": {
         "method": "github",
