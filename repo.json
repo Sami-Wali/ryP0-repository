@@ -276,7 +276,7 @@
       },
       "githubURL": "https://github.com/itzzace/ytkace",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
         "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v0.9.0",
