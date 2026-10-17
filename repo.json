@@ -662,10 +662,9 @@
       "localizedDescription": "",
       "name": "Amethyst",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
-        "checkedAt": "2026-10-17T04:57:48Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-10-17T04:57:56Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "",
       "updatePolicy": "daily",
