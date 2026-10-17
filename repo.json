@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ytkace",
+      "catalogID": "project-17abd0e8d00f737225b122e8e81c2b72",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "itzzace",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "21.41.5",
+          "date": "2026-10-11T21:22:52Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
+          "size": 137158764,
+          "buildVersion": "21.41.5",
+          "releaseChannel": "release",
+          "sha256": "78656bc7d405dd5d95511e043bb79614da9561eef8364ed95949b6a7b92e6a58",
+          "sourceAppName": "YouTube",
+          "sourceAssetName": "YTKACE_1.1.3_YouTube_21.41.5.ipa",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.ios.youtube-78656bc7d405.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
+        "checkedAt": "2026-10-17T15:35:18Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
+        "sourceURL": "https://github.com/itzzace/ytkace"
+      },
+      "githubURL": "https://github.com/itzzace/ytkace",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
+        "sourceURL": "https://github.com/itzzace/ytkace",
+        "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
+      }
+    },
+    {
       "name": "Mori",
       "catalogID": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
       "bundleIdentifier": "com.mori.downloader",
