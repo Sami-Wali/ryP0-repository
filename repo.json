@@ -112,6 +112,19 @@
           "ipaBundleIdentifier": "com.google.ios.youtube",
           "releaseChannel": "release",
           "buildVersion": "21.38.3"
+        },
+        {
+          "version": "v1.0.1",
+          "date": "2026-09-21T19:47:04Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.0.1/YTKACE_1.0.1_YouTube_21.38.2.ipa",
+          "size": 137039590,
+          "sha256": "1fef63df79e36a575dca65ff3584b1a293958e3dc6dc597af9ba05f4a2e56dbb",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.0.1/YTKACE_1.0.1_YouTube_21.38.2.ipa",
+          "sourceAssetName": "YTKACE_1.0.1_YouTube_21.38.2.ipa",
+          "sourceAppName": "YouTube",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "releaseChannel": "release",
+          "buildVersion": "21.38.2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.ios.youtube-78656bc7d405.png",
@@ -121,7 +134,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
-        "checkedAt": "2026-10-17T15:36:15Z",
+        "checkedAt": "2026-10-17T15:36:23Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -136,7 +149,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
-        "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v1.1.0",
+        "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v1.0.1",
         "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
       }
     },
