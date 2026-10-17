@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Mori",
+      "catalogID": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
+      "bundleIdentifier": "com.mori.downloader",
+      "developerName": "coflyn",
+      "localizedDescription": "GitHub project request: coflyn/Mori.",
+      "subtitle": "GitHub project request: coflyn/Mori.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "4.5.0",
+          "date": "2026-10-15T01:40:00Z",
+          "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.0/Mori-v4.5.0-iOS-Unsigned.ipa",
+          "size": 2096767,
+          "buildVersion": "21",
+          "localizedDescription": "What's New in v4.5.0 - Local Media Gallery: Scans downloaded media across Mori directories with categorized tabs (Video, Audio, Image, PDF), live counters, and persistent sorting (Newest, Oldest, A-Z, Size) - In-App Native PDF Viewer: Bundled offline PDF.js engine with high-DPI canvas rendering, viewport lazy rendering, page 1 cover generator, and page count subtitle - High-Resolution 640px Thumbnails: Upgraded Android native frame extraction, web canvas generator, and PDF covers to 640px JPEG with sequential queue processing - Audio Gallery Previews & Grid Covers: History-style audio playback in gallery viewer with album art, track details, local binary streaming, and album artwork on grid cards - Gallery Favorites Priority: Favorited items float to top of grid with heart badge, accent card border, and real-time cross-tab synchronization - In-App File Deletion: Cross-platform file deletion via trash button, card long-press haptic, or viewer modal with Android MediaScanner purge and Tauri backend support - Player Volume Toggle & Unmute Badge: Dedicated volume button in player bar, floating frosted-glass \"Tap to unmute\" badge for WebKit/macOS autoplay restrictions, and decoupled fullscreen toggle - Desktop Tauri Backend Commands: Implemented native Rust commands for recursive directory scanning (tauri_list_dir) and filesystem deletion (tauri_delete_file) - Instant Auto-Paste & Native Paste: Reduced clipboard check delay to 300ms on start/resume, with native paste event listener on input for instant link analysis - Privacy Lock Protection: Integrated Gallery with Mori PIN and biometric authentication with auto-lock on app pause/minimize - Gallery DOM Card Reuse: Map-based card caching preserves DOM nodes during filter and sort switches, eliminating decoder lag and image flicker - Scan Concurrency & Duplicate Fixes: Replaced boolean lock with active promise deduplication and resolved Android directory namespace prefixes to prevent duplicate media cards - Video Aspect Ratio & Local Loop Fixes: Enforced contain fit for 9:16 portrait videos in viewer and synchronized HTML loop attributes with ended fallback - Settings Audit & Cleanup: Purged orphaned auto-clear toggles in favor of day-based retention select menus, preventing accidental launch cache wipes",
+          "releaseChannel": "release",
+          "sha256": "3a24eb95ad6c3e9c59c018da485b5f3c177764cf83424cf29a4e377ecf4a5ebe"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mori.downloader-3a24eb95ad6c.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.0/Mori-v4.5.0-iOS-Unsigned.ipa",
+        "checkedAt": "2026-10-17T15:24:03Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/coflyn/Mori/releases/download/v4.5.0/Mori-v4.5.0-iOS-Unsigned.ipa",
+        "sourceURL": "https://github.com/coflyn/Mori"
+      },
+      "githubURL": "https://github.com/coflyn/Mori",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
+        "sourceURL": "https://github.com/coflyn/Mori",
+        "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
+      }
+    },
+    {
       "name": "AirliftSilence-iOS",
       "catalogID": "app-09d8f1ab279d40c38882e11adad1af01",
       "bundleIdentifier": "com.yihoooong.airliftsilence",
