@@ -673,7 +673,7 @@
       "name": "Amethyst",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-17T05:17:34Z",
+        "checkedAt": "2026-10-17T06:22:36Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "",
