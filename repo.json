@@ -64,6 +64,19 @@
         {
           "version": "v1.1.1",
           "date": "2026-09-28T19:47:40Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.1/YTKACE_1.1.1_YouTube_iOS16_21.33.6.ipa",
+          "size": 133980194,
+          "sha256": "3dd5053bca5e0692ceec757ec479d3ca5134e2339822304aa2f777dbdf9b7664",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.1/YTKACE_1.1.1_YouTube_iOS16_21.33.6.ipa",
+          "sourceAssetName": "YTKACE_1.1.1_YouTube_iOS16_21.33.6.ipa",
+          "sourceAppName": "YouTube",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "releaseChannel": "release",
+          "buildVersion": "21.33.6"
+        },
+        {
+          "version": "v1.1.1",
+          "date": "2026-09-28T19:47:40Z",
           "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.1/YTKACE_1.1.1_YouTube_21.39.4.ipa",
           "size": 137241058,
           "sha256": "254873377463235d5145cf0ec97ea680dfd2bcd613b7935d3d6b9f203b7ed638",
@@ -82,7 +95,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
-        "checkedAt": "2026-10-17T15:35:52Z",
+        "checkedAt": "2026-10-17T15:36:00Z",
         "message": "Updated by private automation"
       },
       "importSource": {
