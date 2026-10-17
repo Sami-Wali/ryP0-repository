@@ -10,6 +10,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "R6-beta.1",
+          "date": "2026-10-16T17:42:31Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build14-clean-unsigned.ipa",
+          "size": 9691407,
+          "sha256": "9821b469b42f341657c742d6dd9c04263b029df1be202b83f367687996d4c9ee",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build14-clean-unsigned.ipa",
+          "sourceAssetName": "COD4iOS-1.0.4-build14-clean-unsigned.ipa",
+          "sourceAppName": "COD4iOS",
+          "ipaBundleIdentifier": "com.devz.cod4ios",
+          "releaseChannel": "beta",
+          "buildVersion": "14"
+        },
+        {
           "version": "1.0.4",
           "date": "2026-10-16T17:42:31Z",
           "downloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build13-performance_stats_enabled-unsigned.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build13-performance_stats_enabled-unsigned.ipa",
-        "checkedAt": "2026-10-17T15:41:08Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build14-clean-unsigned.ipa",
+        "checkedAt": "2026-10-17T15:41:17Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d37fa54a16fcff88adb8d85be873840f",
-        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS",
+        "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R6-beta.1",
         "workflowPath": ".github/workflows/update-app-project-d37fa54a16fcff88adb8d85be873840f.yml"
       }
     },
