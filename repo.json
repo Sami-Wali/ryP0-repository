@@ -18,6 +18,26 @@
           "localizedDescription": "### 功能 - 移除[详情页-评论-大家都在搜] - 移除直播-直播带货 - 移除动态-你可能感兴趣的UP主 - 移除动态广告 - 移除直播-顶部吊坠 - 移除竖屏模式的流量广告 - 移除竖屏模式的购物车广告，比如视频同款 立即购买 - 可选关闭「底部栏-关注」 - 启动页适配夜间模式 ### 修复 - 修复无根包无法安装问题",
           "releaseChannel": "release",
           "sha256": "a52531ab3b5f441a54051b18cf59446ded3d06d98c2345c9c9dc4dd54c2f142c"
+        },
+        {
+          "version": "3.0.0",
+          "date": "2026-05-31T05:46:55Z",
+          "downloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.0.0/BiliBiliMApp_8.89.0.v3.0.0.ipa",
+          "size": 283587599,
+          "sha256": "176df2c7ab08ea33d1280e86f06aeb85e8be840cda50d5eb8853e321c15bc82d",
+          "releaseChannel": "release",
+          "localizedDescription": "功能: - 适配8.89.0版本 - 移除视频全屏播放完毕-推荐列表的广告 - 移除iPad的推荐列表广告 - 移除直播的顶部吊坠 - 移除iPad的[首页-推荐]的banner",
+          "buildVersion": "88900100"
+        },
+        {
+          "version": "2.7.0",
+          "date": "2026-05-17T01:29:41Z",
+          "downloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/2.7.0/BiliBiliMApp_8.76.0.v2.7.0.ipa",
+          "size": 267266314,
+          "sha256": "3e04f2b9093412dc33e25f06579234e542536fa0c41d9e16468027894d8f01f5",
+          "releaseChannel": "release",
+          "localizedDescription": "功能: - 分享视频 - 「首页-推荐」的竖屏视频正常播放 - 移除[详情页-视频提及的广告]",
+          "buildVersion": "87600100"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/tv.danmaku.bilianime-a52531ab3b5f.png",
