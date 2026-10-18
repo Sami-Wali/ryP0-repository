@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "BiliBiliMApp",
+      "catalogID": "app-a8d81320a82b4d0f8c6aa277b7f95e7a",
+      "bundleIdentifier": "tv.danmaku.bilianime",
+      "developerName": "TouchFriend",
+      "localizedDescription": "GitHub project request: TouchFriend/BiliBiliMApp.",
+      "subtitle": "GitHub project request: TouchFriend/BiliBiliMApp.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "8.89.0",
+          "date": "2026-07-04T02:20:52Z",
+          "downloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.1.0/BiliBiliMApp_8.89.0.v3.1.0.ipa",
+          "size": 283757776,
+          "buildVersion": "88900100",
+          "localizedDescription": "### 功能 - 移除[详情页-评论-大家都在搜] - 移除直播-直播带货 - 移除动态-你可能感兴趣的UP主 - 移除动态广告 - 移除直播-顶部吊坠 - 移除竖屏模式的流量广告 - 移除竖屏模式的购物车广告，比如视频同款 立即购买 - 可选关闭「底部栏-关注」 - 启动页适配夜间模式 ### 修复 - 修复无根包无法安装问题",
+          "releaseChannel": "release",
+          "sha256": "a52531ab3b5f441a54051b18cf59446ded3d06d98c2345c9c9dc4dd54c2f142c"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/tv.danmaku.bilianime-a52531ab3b5f.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.1.0/BiliBiliMApp_8.89.0.v3.1.0.ipa",
+        "checkedAt": "2026-10-18T11:59:45Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.1.0/BiliBiliMApp_8.89.0.v3.1.0.ipa",
+        "sourceURL": "https://github.com/TouchFriend/BiliBiliMApp"
+      },
+      "githubURL": "https://github.com/TouchFriend/BiliBiliMApp",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-a8d81320a82b4d0f8c6aa277b7f95e7a",
+        "sourceURL": "https://github.com/TouchFriend/BiliBiliMApp",
+        "workflowPath": ".github/workflows/update-app-app-a8d81320a82b4d0f8c6aa277b7f95e7a.yml"
+      }
+    },
+    {
       "name": "COD4iOS-COD4NS",
       "catalogID": "project-d37fa54a16fcff88adb8d85be873840f",
       "bundleIdentifier": "com.devz.cod4ios",
