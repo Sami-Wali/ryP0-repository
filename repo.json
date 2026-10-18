@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Yuedu-reader",
+      "catalogID": "app-6bb26cc94bd14bec92f0452fb7413d15",
+      "bundleIdentifier": "com.zhangruilin.yuedureader",
+      "developerName": "CHANG-JUI-LIN",
+      "localizedDescription": "GitHub project request: CHANG-JUI-LIN/Yuedu-reader.",
+      "subtitle": "GitHub project request: CHANG-JUI-LIN/Yuedu-reader.",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-05-31T18:45:55Z",
+          "downloadURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+          "size": 22795452,
+          "buildVersion": "2",
+          "localizedDescription": "> 公告：自即日起，GitHub Release 不再提供 IPA 安裝包。需要安裝或更新的使用者，請改至 TestFlight 或 App Store 下載。 ## 閱讀 1.0.4（build 2） - 線上書源「段評」（段落評論）章節改以一般章節的排版渲染（首行縮排、置中標題、正常行距），段評數量徽章內嵌於段末。 - EPUB 目錄：子章節依錨點解析到所在頁，跳轉時直接落在該段落；目錄僅高亮目前所在章節（依章節 id，不再整個 spine 一起亮）。 - 修正 RegexSanitizer 的優先級反轉問題（Thread Performance Checker 標記的卡頓風險）。",
+          "releaseChannel": "release",
+          "sha256": "9a1814a2013ec085e9ff36b9cd56fe7525e05ae8d59ce17bb4d4fb307bb3b3bd"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.zhangruilin.yuedureader-9a1814a2013e.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+        "checkedAt": "2026-10-18T12:02:14Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+        "sourceURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader"
+      },
+      "githubURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-6bb26cc94bd14bec92f0452fb7413d15",
+        "sourceURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader",
+        "workflowPath": ".github/workflows/update-app-app-6bb26cc94bd14bec92f0452fb7413d15.yml"
+      }
+    },
+    {
       "name": "BiliBiliMApp",
       "catalogID": "app-a8d81320a82b4d0f8c6aa277b7f95e7a",
       "bundleIdentifier": "tv.danmaku.bilianime",
