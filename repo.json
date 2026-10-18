@@ -4181,9 +4181,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-linkpass888-airbeep-97a0139d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.4.1",
+        "configId": "com-linkpass888-airbeep-97a0139d",
+        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.5.1",
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
@@ -4200,13 +4200,24 @@
       "name": "AieBeep",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.4.1/airbeep-v2.4.1-unsigned.ipa",
-        "checkedAt": "2026-10-18T04:56:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.1/airbeep-v2.5.1-unsigned.ipa",
+        "checkedAt": "2026-10-18T05:58:11Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "https://github.com/LinkPass888/AirBeep/releases",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.5.1",
+          "date": "2026-10-18T05:52:54Z",
+          "downloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.1/airbeep-v2.5.1-unsigned.ipa",
+          "size": 5876450,
+          "sha256": "4ccd3ca424662ed607449f9523c762c5bcc51773a830ecbfb2bdf1b1e9e7bfc7",
+          "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.1/airbeep-v2.5.1-unsigned.ipa",
+          "sourceAssetName": "airbeep-v2.5.1-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "9"
+        },
         {
           "buildVersion": "6",
           "date": "2026-10-16T16:45:23Z",
@@ -4228,16 +4239,6 @@
           "sha256": "395f16d770b70cd5f8bb67106f247d2cd40746b2b9e2d5fd204dac6618c1aa4f",
           "size": 5806194,
           "version": "2.4.0"
-        },
-        {
-          "buildVersion": "5",
-          "date": "2026-10-09T17:11:05Z",
-          "downloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.3.0/airbeep-v2.3.0-unsigned.ipa",
-          "localizedDescription": "## [2.3.0] - 2026-10-09 > **English** — Release notes. | **中文** — 发行说明见下方中文版。 ### Fixed - **iOS 27.0.1 \"AirTraffic did not recover\"** on read: the airlift read probe now targets a non-empty payload and emits more diagnostic logging. ### Added - Runtime log collection (`AirBeepLog`) with on-device export in the About page for easier troubleshooting. - Manual pairing-file import via `UIDocumentPickerViewController` (`asCopy`), avoiding the sandbox security-scope read failure. - Screen keeps awake and shows a prominent \"do not exit the app\" warning banner while a silence / restore operation is running. ### Security - Removed the unused `BadQuery` vulnerability; only `airlift` is retained. ### English / Infrastructure - Updated supported range to iOS/iPadOS 18.0 – 27.2 B2 --- ### 已修复 - **修复 iOS 27.0.1 \"AirTraffic did not recover\"**（读取时）：airlift 读取 探针改为非空 payload，并增加诊断日志。 ### 新增 - **运行时日志采集**（`AirBeepLog`）+ 关于页一键导出，便于排查问题。 - **手动导入配对文件**：改用 `UIDocumentPickerViewController`（`asCopy`）， 规避沙盒安全作用域读取失败。 - **操作中屏幕常亮**，并显示醒目的\"操作中请不要退出软件\"提示横幅。 ### 安全 - 移除未使用的 `BadQuery` 漏洞，仅保留 `airlift`。 ### 基础设施 - 支持范围更新为 **iOS/iPadOS 18.0 – 27.2 B2** --- **Full Changelog**: [v2.2.0...v2.3.0](https://github.com/LinkPass888/AirBeep/compare/v2.2.0...v2.3.0) **Full Changelog**: https://github.com/LinkPass888/AirBeep/compare/v2.2.0...v2.3.0 **Full Changelog**: https://github.com/LinkPass888/AirBeep/compare/v2.2.0...v2.3.0",
-          "releaseChannel": "release",
-          "sha256": "3e5ebe03eb433e3e0ea5ee88bf9604da7e0f88550ab6732d61f8f88e2735255e",
-          "size": 5806198,
-          "version": "v2.3.0"
         }
       ]
     },
