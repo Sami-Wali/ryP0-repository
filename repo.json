@@ -3978,9 +3978,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-neogamelab-neostation-9e4b11c2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.7",
+        "configId": "com-neogamelab-neostation-9e4b11c2",
+        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.8",
         "workflowPath": ".github/workflows/update-app-com-neogamelab-neostation-9e4b11c2.yml"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
@@ -3997,13 +3997,24 @@
       "name": "NeoStation",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.7/NeoStation-0.0.7.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.8/NeoStation-0.0.8.ipa",
+        "checkedAt": "2026-10-19T11:29:33Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Emulation Frontend",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.8",
+          "date": "2026-10-18T14:13:32Z",
+          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.8/NeoStation-0.0.8.ipa",
+          "size": 226570105,
+          "sha256": "2e9f1868e6dc98d3724740727286639909851cc9d2215380f68e7340ed39825c",
+          "upstreamAssetURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.8/NeoStation-0.0.8.ipa",
+          "sourceAssetName": "NeoStation-0.0.8.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "480"
+        },
         {
           "buildVersion": "455",
           "date": "2026-10-13T20:17:23Z",
@@ -4023,16 +4034,6 @@
           "sha256": "af860e8b7f00fac46a1a1ab6483b0ddc59a8abd59b99dd2e4eda965118ce14d7",
           "size": 207408158,
           "version": "0.0.5"
-        },
-        {
-          "buildVersion": "435",
-          "date": "2026-10-10T18:33:34Z",
-          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.4/NeoStation-0.0.4.ipa",
-          "localizedDescription": "# NeoStation iOS 0.0.4 This release brings the skin catalog and fixes for PSP and Nintendo 3DS to NeoStation iOS. ## What's new - **Skin catalog:** browse the **[Provenance Skin Catalog](https://github.com/Provenance-Emu/skins)** for NeoStation's embedded Libretro consoles, install compatible skins, and choose separate portrait and landscape layouts. - **PSP:** fixed an issue that prevented games from launching. - **Nintendo 3DS:** fixed a crash that occurred when closing a game. Thank you to the emulator developers and the NeoStation community for your work, feedback, and patience! ## Using skins Open **Settings → Folders → Embedded consoles**, choose a console, then **Skins**. Use **Browse the Provenance catalog** or **Import from Files**, then select **Use in portrait**, **Use in landscape** or **Use in both orientations**. See the **[skin guide](https://github.com/TarbleFR/neostation-ios/blob/08145438cc907b22b7b860bf190d1b520040fef1/docs/SKINS.md)** for supported archive formats, default skins, game-specific choices and catalog sources. Catalog credits go to the **Provenance community**, format-reference credits to **Riley Testut and DeltaCore contributors**, and artwork credits to each **skin creator**. Community skins are optional downloads and retain their creators' terms. ## Download Download **`NeoStation-0.0.4.ipa`** below and sign it with your usual sideloading tool. `NeoStation-0.0.4-SHA256SUMS.txt` contains the IPA checksum. ## Release information - **Release:** 0.0.4 - **Internal build:** 435 - **Source commit:** `90a4e513e3a97f642bc45963bfb689f7c4677d46` - **Build:** [GitHub Actions run 38072379293](https://github.com/TarbleFR/neostation-ios/actions/runs/38072379293) This release distributes the existing Build 435 IPA. Its contents have not been rebuilt or modified; the download filename and GitHub release name use version 0.0.4. The app bundle retains its original marketing version, 0.0.2, and internal build number, 435.",
-          "releaseChannel": "release",
-          "sha256": "3290c87e0a48151bfe296b6ece548c1f0de83116e1d9d76e08962f7ccb6e569e",
-          "size": 205917388,
-          "version": "0.0.2"
         }
       ]
     },
