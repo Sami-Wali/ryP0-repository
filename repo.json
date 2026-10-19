@@ -7978,13 +7978,25 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-fdca03b55749.ipa",
-        "checkedAt": "2026-10-19T13:47:54Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-c703735468b3.ipa",
+        "checkedAt": "2026-10-19T16:22:28Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "Nightly-2026.10.19",
+          "date": "2026-10-19T13:17:07Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-c703735468b3.ipa",
+          "size": 40356686,
+          "sha256": "c703735468b3ef247ae3575e813d5ab590ebdc6701d731fab80e1a47e3a5e450",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261019/ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
+          "sourceAssetName": "ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
+          "ipaBundleIdentifier": "com.armsx2.ios.nightly",
+          "releaseChannel": "nightly",
+          "buildVersion": "260"
+        },
         {
           "version": "Nightly-2026.10.19",
           "date": "2026-10-19T13:17:07Z",
@@ -8083,12 +8095,6 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.09.11-d29a5e893a16.ipa",
           "size": 26821578,
           "version": "Nightly-2026.09.11"
-        },
-        {
-          "date": "2026-09-08T13:22:14Z",
-          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
-          "size": 26820359,
-          "version": "Nightly-2026.09.08"
         }
       ]
     },
