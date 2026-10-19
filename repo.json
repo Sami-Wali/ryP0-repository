@@ -6280,9 +6280,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.1-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.2-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -6298,13 +6298,24 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
+        "checkedAt": "2026-10-19T11:28:37Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.2-beta",
+          "date": "2026-10-18T23:13:01Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
+          "size": 68666779,
+          "sha256": "99d318c5882d53ec644c09cbde852c6b45649cc20e8452f457e6e88b0bae5eb2",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
+          "sourceAssetName": "nuvio-0.6.2-full-release.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "145"
+        },
         {
           "buildVersion": "144",
           "date": "2026-10-16T14:44:49Z",
@@ -6418,16 +6429,6 @@
           "sha256": "801bb9d82efddbc0698ce92a4a8e6a741209b40bf5e7b6053d33a68b81d905fc",
           "size": 66042992,
           "version": "0.5.1-beta"
-        },
-        {
-          "buildVersion": "132",
-          "date": "2026-09-22T10:10:10Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.0-beta/nuvio-0.5.0-full-release.ipa",
-          "localizedDescription": "- 4c82f9ac feat(settings): collapse tracker cards by default @tapframe - c9d6f5f6 fix(player): restore subtitles for each episode @tapframe - [feat(mdblist): add tracking and library support (#1900)](https://github.com/NuvioMedia/NuvioMobile/pull/1900) @tapframe - [remove inaccurate TMDB release date enrichment option (#2032)](https://github.com/NuvioMedia/NuvioMobile/pull/2032) @skoruppa - [Fix(player) record mx player completion when no position is returned (#2031)](https://github.com/NuvioMedia/NuvioMobile/pull/2031) @zuko726 - 4178d5cd fix(tmdb): sort blank collection release dates last @tapframe - fb9f859e fix(ios): use clean player framework archive @tapframe - 6ff7882a fix(player): preserve iOS audio during calls @tapframe - [Custom poster URL pattern support (#2025)](https://github.com/NuvioMedia/NuvioMobile/pull/2025) @skoruppa",
-          "releaseChannel": "beta",
-          "sha256": "14cc46e4098e4568e2e20a86a8b5dc7dba3da7e28ab7567972338fba460421ef",
-          "size": 66006978,
-          "version": "0.5.0-beta"
         }
       ]
     },
