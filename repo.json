@@ -2968,9 +2968,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-a5c585a290ff4704b762141948429dfd",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/NativePorts/releases/tag/v0.3.0",
+        "configId": "app-a5c585a290ff4704b762141948429dfd",
+        "sourceURL": "https://github.com/DevZer0D4Y/NativePorts/releases/tag/v0.4.6",
         "workflowPath": ".github/workflows/update-app-app-a5c585a290ff4704b762141948429dfd.yml"
       },
       "bundleIdentifier": "com.devz.umk3",
@@ -2990,13 +2990,24 @@
       "name": "UMK3-unsigned",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.3.0/UMK3-0.3.0-unsigned.ipa",
-        "checkedAt": "2026-10-19T13:47:54Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
+        "checkedAt": "2026-10-19T18:59:00Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.6",
+          "date": "2026-10-19T18:51:27Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
+          "size": 3937224,
+          "sha256": "a61990f324590ea83cd5ce08310cab663744c5cd8bd755edf0512722ffc91762",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
+          "sourceAssetName": "UMK3-0.4.2-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "42"
+        },
         {
           "buildVersion": "4",
           "date": "2026-10-16T09:29:41Z",
