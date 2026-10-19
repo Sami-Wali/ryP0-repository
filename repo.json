@@ -4333,7 +4333,8 @@
           "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
           "sourceAssetName": "airbeep-v2.5.2-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "10"
+          "buildVersion": "10",
+          "localizedDescription": "**Full Changelog**: https://github.com/LinkPass888/AirBeep/compare/v2.5.1...v2.5.2"
         },
         {
           "version": "v2.5.1",
