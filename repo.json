@@ -547,9 +547,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/coflyn/Mori",
+        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
+        "sourceURL": "https://github.com/coflyn/Mori/releases/tag/v4.5.1",
         "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
       },
       "bundleIdentifier": "com.mori.downloader",
@@ -569,13 +569,24 @@
       "name": "Mori",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.0/Mori-v4.5.0-iOS-Unsigned.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
+        "checkedAt": "2026-10-19T11:33:16Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v4.5.1",
+          "date": "2026-10-18T23:48:43Z",
+          "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
+          "size": 2099521,
+          "sha256": "8ca33f3c06a29cc8c7886768e38b28138209438558a017c1c1655cbcc28be07c",
+          "upstreamAssetURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
+          "sourceAssetName": "Mori-v4.5.1-iOS-Unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "22"
+        },
         {
           "buildVersion": "21",
           "date": "2026-10-15T01:40:00Z",
@@ -595,16 +606,6 @@
           "sha256": "bdd98a17fc151d97d02c9d9d4d30511672319f9b760badafe82a80dcdcc548e1",
           "size": 1662745,
           "version": "v4.4.0"
-        },
-        {
-          "buildVersion": "19",
-          "date": "2026-09-19T22:01:05Z",
-          "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.3.3/Mori-v4.3.3-iOS-Unsigned.ipa",
-          "localizedDescription": "What's New in v4.3.3 - Over-The-Air (OTA) Scraper Updates: Hot-patch scrapers dynamically without reinstalling the app - Scraper Core Rollback: Revert active OTA patches back to the bundled baseline with a confirmation modal - Custom Storage Directory: Select custom download folders across Android (SAF), Desktop (native dialogs), and iOS - Native Folder Opener: Open saved media locations directly in system file managers (Finder, Explorer, Android Files, and iOS Files app) - Android All Files Access: Optional storage permission for arbitrary directories - Desktop Media Streaming: Stream and play downloaded media from custom paths in Desktop player - Native Security Architecture: Precompiled native binaries linked via native FFI across Windows, macOS, and iOS - Safe-Mode Auto Recovery: Automatically purges invalid patches and falls back to bundled core without crashes - Desktop Native Security Verification: Resolved verification failure on Windows and macOS Tauri - iOS Native Security Verification: Resolved false-positive security error on iOS via native binary bridge - iOS Video Thumbnails: Replaced broken placeholders with native AVFoundation extraction and auto-healing for existing history - Android History Quota: Optimized thumbnail dimensions by ~97% and added auto-recovery pruning to prevent storage quota crashes - Android WebView Decompression: Resolved deflate-raw decompression errors on older WebViews using an ESM inflate fallback - Desktop Path Resolution: Fixed duplicate nested directories by preserving leading slashes and expanding tildes (~) - Douyin Parsing: Fixed album and slides extraction by resolving final redirect URLs in native bridges (#13) - Android Share Overlay: Fixed syntax error and scope mismatch in history saving",
-          "releaseChannel": "release",
-          "sha256": "84514e7df0afc15c3e053e40fad32c0d31f091af4e12e9bc6a94ce700de57cfc",
-          "size": 1735771,
-          "version": "v4.3.3"
         }
       ]
     },
