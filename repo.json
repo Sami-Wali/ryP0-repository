@@ -7958,7 +7958,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "armsx2-nightly",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261018",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261019",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "bundleIdentifier": "com.armsx2.nightly",
@@ -7969,13 +7969,25 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.18-684a77da8ee4.ipa",
-        "checkedAt": "2026-10-19T11:28:07Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-fdca03b55749.ipa",
+        "checkedAt": "2026-10-19T13:23:08Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "Nightly-2026.10.19",
+          "date": "2026-10-19T13:17:07Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-fdca03b55749.ipa",
+          "size": 40356715,
+          "sha256": "fdca03b557495f16ea003f066c914208068a0aa22450a0cd4405faecf016a667",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261019/ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
+          "sourceAssetName": "ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
+          "ipaBundleIdentifier": "com.armsx2.ios.nightly",
+          "releaseChannel": "nightly",
+          "buildVersion": "260"
+        },
         {
           "version": "Nightly-2026.10.18",
           "date": "2026-10-18T14:27:28Z",
@@ -8068,16 +8080,6 @@
           "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20260908/ARMSX2-nightly-20260908-fd8a8403bc-iOS-arm64.ipa",
           "size": 26820359,
           "version": "Nightly-2026.09.08"
-        },
-        {
-          "buildVersion": "200",
-          "date": "2026-06-08T05:22:40Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.06.08-a76462d652b0.ipa",
-          "localizedDescription": "Experimental test build for ARMSX2 on iOS. Uses PCSX2 2.7 Core and now has a native arm64 jit instead of a x86 translation layer. Built off the work off the original iOS port. Thanks to @Zeruth and @isztldav for the native arm64 support.",
-          "releaseChannel": "prerelease",
-          "sha256": "a76462d652b054bcaf2f89f150cfa9c16e1a14436a3eb98e6a8aade985d719c2",
-          "size": 13698058,
-          "version": "Nightly-2026.06.08"
         }
       ]
     },
