@@ -949,13 +949,21 @@
       "name": "taurus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://files.catbox.moe/4mlz6g.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://files.catbox.moe/gi8wku.ipa",
+        "checkedAt": "2026-10-19T08:58:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-18T22:25:00Z",
+          "downloadURL": "https://files.catbox.moe/gi8wku.ipa",
+          "size": 137673025,
+          "sha256": "81346641653fbd559b8fb30d725dab47ae13b4f73d935108accb4885382fb627",
+          "buildVersion": "919002269"
+        },
         {
           "buildVersion": "919002269",
           "date": "2026-10-08T22:17:09Z",
@@ -3728,8 +3736,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:58:27Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Spotify cracked releases",
@@ -3952,8 +3959,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:58:18Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -4051,8 +4057,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:58:19Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -5605,8 +5610,7 @@
       "name": "Nado TV",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:58:02Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "updatePolicy": "daily",
@@ -5640,8 +5644,7 @@
       "name": "Anime Cloud",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:57:54Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Anime Arabic Sub",
@@ -7396,8 +7399,7 @@
       "name": "Minecraft",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:57:36Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "tintColor": "#4B8B3B",
@@ -8440,8 +8442,7 @@
       "name": "Video Star",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
+        "checkedAt": "2026-10-19T08:58:05Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Video Editor",
