@@ -6314,7 +6314,8 @@
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
           "sourceAssetName": "nuvio-0.6.2-full-release.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "145"
+          "buildVersion": "145",
+          "localizedDescription": "- b253a7c5 feat(party): add chat to watch parties @tapframe - [Fix escaped apostrophes and missing Italian translations (#2312)](https://github.com/NuvioMedia/NuvioMobile/pull/2312) @WhiteGiso - [fix(ios): keep Watch Party in sync and apply party rules during PiP (#2308)](https://github.com/NuvioMedia/NuvioMobile/pull/2308) @WhiteGiso - [i18n(el): finish the Greek locale (party, media servers, MDBList, Auto Sync, season count) (#2292)](https://github.com/NuvioMedia/NuvioMobile/pull/2292) @nosvasedis - [Filename and infoHash matching for binge group, prefetch fixes (#2278)](https://github.com/NuvioMedia/NuvioMobile/pull/2278) @skoruppa"
         },
         {
           "buildVersion": "144",
