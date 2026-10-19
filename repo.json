@@ -1245,23 +1245,22 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-19T13:13:07Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
           "version": "v6.5.5",
-          "date": "2026-10-17T18:15:14Z",
+          "date": "2026-10-19T13:06:49Z",
           "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
-          "size": 235889999,
-          "sha256": "cff795c72910349e1d11c09acae3069ac02cd7b6382b252e773e28ac9f93c43e",
+          "size": 239371051,
+          "sha256": "9ba97375425f38948e4e796cb12feb4d4eb5ec93994ccf9e480966c0ae1c68ca",
           "upstreamAssetURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
           "sourceAssetName": "com.prisma-devs.prisma-6.5.5-ios.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "6.5.5",
-          "localizedDescription": "> **⚠️ 预发布（Beta）**：本版本为 **6.5.5 Beta 预发布**，供装机测试验证用；测试通过后将转为正式版。 # v6.5.5 Task 274：第三轮五路子代理全面审查 + 批量根修（P1×11 / P2×22）+ CI 热修四连。 ## 版本隔离 / 模组目录 - 四资源管理页（着色器 / 资源包 / 数据包 / 世界）不再绑定死 \"default\" 字面量——实时跟随当前选中实例，不再看/落隔壁实例或共享根 - A3 清扫守卫修复：真实默认键 \"(Default)\" 不再可能被误扫进隔离（共享模组\"消失\"类隐患根除） - 复用导入整合包后 staging 路径不再污染账本，删除整合包不再残留整棵实例文件夹（自愈） ## 崩溃原因展示（PCL CE 式） - 修复看门狗 150ms 抢杀：依赖冲突等 System.exit 崩溃现在能稳定走到崩溃分析呈现 - 会话内崩溃界面呈现成功后自动归档报告——下次启动不再重复弹同一崩溃 - 崩溃页日志改后台读尾部，呈现更快 ## 整合包 / 下载 - CurseForge 大包安装不再在死端点上逐文件空等 25s（prefetch 判死跳过） - 世界包下载重试链修复（此前重试必败报\"无 saves 目录\"） - 恶意 .mrpack 相对路径 \"..\" 逃逸清洗 - 换装备份自动收敛：每实例仅保留最近 2 份，不再无限膨胀 ## 稳定性 - PLProfiles / ServerService 并发锁收口（后台写 profiles 字典崩溃面根除） - csops/txmPath 未初始化三族、zink OOM 判空、dlopen 异常端口竞态等原生层 8 处加固 - localize() 全 UI 热路径 bundle 记忆化，界面语言切换即时生效 ## Java 侧 - 补丁代理读取契约修复（零字节 → ClassFormatError 根除） - 账户/版本 JSON 读写钉 UTF-8（非 UTF-8 环境中文用户名坏档根除） - 版本解析畸形名越界、fd 泄漏、O(n²) 读取修复 ## i18n / 版本 - English 界面 AI 修复文案语法修复；34 个重复翻译键清理 - ame273 崩溃键补注 40 表；v6.5.5 版本号全链路（Makefile / Info.plist / 欢迎页动态单源 / 官网） - VirGL 随包（mesa 上游宕机期间启用 Debian 池镜像回退） 完整变更：1fbcf20 / 4d87426 / c9938f5 / 549dcca / c466866 / 37bb978 > 构建锚：Task 275（dbc22bd，CI run 38855985641 一轮终绿；第四轮六路审查批量根修 107 文件） - 构建=`2309b07`（Task 278：连点旧式 sheet 根修 / 小窗漂移信念回写闸 / 玻璃感五面升级）"
+          "buildVersion": "6.5.5"
         },
         {
           "buildVersion": "6.5.0",
