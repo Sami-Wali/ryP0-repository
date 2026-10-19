@@ -5355,7 +5355,8 @@
           "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.3/MeleePad-v0.2.3-ios-unsigned.ipa",
           "sourceAssetName": "MeleePad-v0.2.3-ios-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "33"
+          "buildVersion": "33",
+          "localizedDescription": "MeleePad 0.2.3 for iPhone, iPad and now Mac. The app below contains no game code: PadMint adds your game module, made on your Apple Silicon Mac from your own Super Smash Bros. Melee (GALE01) disc, and saves your MeleePad copy. ### What's new - **Build it for this Mac.** In PadMint 0.5.5, choose MeleePad, your disc image and **This Mac**. PadMint saves a zip with MeleePad.app; move it to Applications. - The iPhone/iPad build is unchanged apart from the version. ### Get it Open PadMint (0.5.5 or newer for the Mac build), choose MeleePad and your own disc image, and follow the page. The full steps are in the [README](https://github.com/chrissotraidis/meleepad#readme). Already have MeleePad? Install the new copy over it with the same tool and Apple ID; your saves stay. ### Files - `MeleePad-v0.2.3-ios-unsigned.ipa`: the iPhone/iPad app without game code. PadMint uses it; it can't play by itself. - `MeleePad-v0.2.3-padmint.json`: the recipe PadMint follows for this version. - `SHA256SUMS`: checksums. Checked: clean PadMint builds (Apple's Python, empty PadMint folder) for iPhone/iPad with this app, and for the Mac, whose app opened. Mac gameplay and a physical-device run of this version are not checked yet."
         },
         {
           "buildVersion": "32",
