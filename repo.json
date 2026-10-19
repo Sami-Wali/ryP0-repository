@@ -4300,7 +4300,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-linkpass888-airbeep-97a0139d",
-        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.5.1",
+        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.5.2",
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
@@ -4317,13 +4317,24 @@
       "name": "AieBeep",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.1/airbeep-v2.5.1-unsigned.ipa",
-        "checkedAt": "2026-10-19T05:05:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
+        "checkedAt": "2026-10-19T11:38:06Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "https://github.com/LinkPass888/AirBeep/releases",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.5.2",
+          "date": "2026-10-19T11:35:11Z",
+          "downloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
+          "size": 5880046,
+          "sha256": "c7eff1f8613535d4ac04caa40241add4c0acd59190a134d024788531ee97afe9",
+          "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
+          "sourceAssetName": "airbeep-v2.5.2-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "10"
+        },
         {
           "version": "v2.5.1",
           "date": "2026-10-18T05:52:54Z",
@@ -4347,16 +4358,6 @@
           "sourceAssetName": "airbeep-v2.4.1-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.4.1/airbeep-v2.4.1-unsigned.ipa",
           "version": "v2.4.1"
-        },
-        {
-          "buildVersion": "6",
-          "date": "2026-10-10T08:42:06Z",
-          "downloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.4.0/airbeep-v2.4.0-unsigned.ipa",
-          "localizedDescription": "## [2.4.0] - 2026-10-10 > **English** — Release notes. | **中文** — 发行说明见下方中文版。 ### English / Changed - Removed the automatic tone-state check that ran at app launch. The app now restores the last known state from cache and performs no file access until the user flips the switch. - If anything goes wrong with the tones, you can force the original system tones back by changing the system language on the device. --- ### 中文 / 变更 - 移除 app 启动时自动执行的提示音文件状态校验。现在打开 app 不再做任何文件读取，改为从本地缓存恢复 上次的状态，仅在用户拨动开关时才进行实际操作。 - 若提示音出现异常，可通过**更改系统语言**强制恢复为系统默认提示音。 --- **Full Changelog**: [v2.3.0...v2.4.0](https://github.com/LinkPass888/AirBeep/compare/v2.3.0...v2.4.0)",
-          "releaseChannel": "release",
-          "sha256": "395f16d770b70cd5f8bb67106f247d2cd40746b2b9e2d5fd204dac6618c1aa4f",
-          "size": 5806194,
-          "version": "2.4.0"
         }
       ]
     },
