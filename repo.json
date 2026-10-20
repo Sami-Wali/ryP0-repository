@@ -3885,7 +3885,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-roamcontrol-00bbe3fc",
-        "sourceURL": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9",
+        "sourceURL": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.7",
         "workflowPath": ".github/workflows/update-app-com-roamcontrol-00bbe3fc.yml"
       },
       "bundleIdentifier": "com.roamcontrol",
@@ -3903,7 +3903,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
-        "checkedAt": "2026-10-20T18:38:27Z",
+        "checkedAt": "2026-10-20T18:43:16Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: seanhowarthdev/Roam-Control.",
@@ -3920,6 +3920,17 @@
           "releaseChannel": "release",
           "buildVersion": "105",
           "localizedDescription": "Eight-language localisation, improved mapping, automatic connection recovery, custom movement speeds and UI refinements. LocalDevVPN is still required. Thanks to everyone for testing!"
+        },
+        {
+          "version": "v0.9.7",
+          "date": "2026-10-08T19:54:46Z",
+          "downloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.7/RoamControl-0.9.7-Build96.ipa",
+          "size": 4111825,
+          "sha256": "8236b2005d96219ba6d00d6a1c9d9af08792ae32f3ea1e997662268df4a908d5",
+          "upstreamAssetURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.7/RoamControl-0.9.7-Build96.ipa",
+          "sourceAssetName": "RoamControl-0.9.7-Build96.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "96"
         },
         {
           "buildVersion": "96",
