@@ -3918,7 +3918,8 @@
           "upstreamAssetURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
           "sourceAssetName": "RoamControl-0.9.9-Build105.ipa",
           "releaseChannel": "release",
-          "buildVersion": "105"
+          "buildVersion": "105",
+          "localizedDescription": "Eight-language localisation, improved mapping, automatic connection recovery, custom movement speeds and UI refinements. LocalDevVPN is still required. Thanks to everyone for testing!"
         },
         {
           "buildVersion": "96",
