@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Piliplus",
+      "catalogID": "app-e7e44aca43c948218ec2d7f20ff1b6f4",
+      "bundleIdentifier": "com.example.piliplus",
+      "developerName": "bggRGjQaUbCoE",
+      "localizedDescription": "Use the BiliBili third-party client developed by Flutter",
+      "subtitle": "Use the BiliBili third-party client developed by Flutter",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "2.1.6",
+          "date": "2026-10-10T13:07:12Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
+          "size": 24353925,
+          "buildVersion": "5472",
+          "localizedDescription": "专栏支持跳转至评论 #3213 其他调整 #3208 by @My-Responsitories 修复 bug 修复搜索风控验证 #3106 修复窗口大小变化时图片闪烁 #2685 修复安卓视频暂停时画面裁切问题 #3034 by @Hdy08",
+          "releaseChannel": "release",
+          "sha256": "6cccd84c5459fbefeef2683659e7dbe3d65a76243862525d24238303d9a341ee"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.piliplus-6cccd84c5459.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
+        "checkedAt": "2026-10-20T04:41:55Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus"
+      },
+      "githubURL": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-e7e44aca43c948218ec2d7f20ff1b6f4",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+        "workflowPath": ".github/workflows/update-app-app-e7e44aca43c948218ec2d7f20ff1b6f4.yml"
+      }
+    },
+    {
       "name": "Yuedu-reader",
       "catalogID": "app-6bb26cc94bd14bec92f0452fb7413d15",
       "bundleIdentifier": "com.zhangruilin.yuedureader",
