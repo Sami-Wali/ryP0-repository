@@ -329,7 +329,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v0.9.0",
         "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
