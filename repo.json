@@ -18,6 +18,26 @@
           "localizedDescription": "专栏支持跳转至评论 #3213 其他调整 #3208 by @My-Responsitories 修复 bug 修复搜索风控验证 #3106 修复窗口大小变化时图片闪烁 #2685 修复安卓视频暂停时画面裁切问题 #3034 by @Hdy08",
           "releaseChannel": "release",
           "sha256": "6cccd84c5459fbefeef2683659e7dbe3d65a76243862525d24238303d9a341ee"
+        },
+        {
+          "version": "2.1.6.1",
+          "date": "2026-10-10T07:10:30Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.1/PiliPlus_ios_2.1.6%2B5471.ipa",
+          "size": 24353584,
+          "sha256": "f982376c963854332e9ae52d5b06b4fda4d81ad2ed5a3b8fbadd5618a5dbf0bc",
+          "releaseChannel": "release",
+          "localizedDescription": "专栏支持跳转至评论 #3213 其他调整 #3208 by @My-Responsitories 修复 bug 修复搜索风控验证 #3106 修复窗口大小变化时图片闪烁 #2685 修复安卓视频暂停时画面裁切问题 #3034 by @Hdy08",
+          "buildVersion": "5471"
+        },
+        {
+          "version": "2.1.5",
+          "date": "2026-09-25T04:14:09Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.5/PiliPlus_ios_2.1.5%2B5410.ipa",
+          "size": 23999265,
+          "sha256": "fee319c77d66612ad4c55d75ac18ab5b485d678d6e2acd5000ca45ee40cefaec",
+          "releaseChannel": "release",
+          "localizedDescription": "支持自定义主题颜色 #3009 综合搜索用户过滤黑名单 #3043 可复制文本工具栏默认添加站内搜索按钮 #2984 支持保存 SC 为图片 co-by @My-Responsitories 支持 Windows deeplink #2673 by @HChaZZY 支持 Linux deeplink #2931 by @Tobiichi-Origuchi 降低桌面端 PIP 大小限制 #2735 #2982 by @Aclguh 桌面端支持保存全部图片 #2920 #2983 by @My-Responsitories Linux 支持内嵌 WebView #3014 #3016 by @Tobiichi-Origuchi co-by @My-Responsitories 其他调整 #2962 #3025 #3027 by @My-Responsitories 修复分 P 视频链接 #2963 修复滑动快进/退震动失效 #2966 修复小窗模式下画面被 SC 遮挡 #3005 修复无痕模式出现直播入场提示 #2971 修复多次点击截图保存退出视频页面 #3017 修复更新媒体通知、后台连播 #2761 #2943 修复 iOS 静音模式下偶发视频无声修复 #3039 @sounfury 修复部分安卓无法登录 #2930 #3063 by @Tobiichi-Origuchi 修复 macOS 切换全屏控件无法点击 #2917 #2976 by @milk2715093695",
+          "buildVersion": "5410"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.piliplus-6cccd84c5459.png",
