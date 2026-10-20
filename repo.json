@@ -4004,9 +4004,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "dev-kartpad-app-6eef8493",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.3",
+        "configId": "dev-kartpad-app-6eef8493",
+        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.4",
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "bundleIdentifier": "dev.kartpad.app",
@@ -4023,13 +4023,24 @@
       "name": "kartpad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.3/KartPad-v0.8.3-ios-for-padmint.ipa",
-        "checkedAt": "2026-10-19T22:33:26Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
+        "checkedAt": "2026-10-20T05:07:22Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.4",
+          "date": "2026-10-20T05:02:16Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
+          "size": 9303837,
+          "sha256": "9796f7edfa7c5e4b0aa76460b831b0d73864d7005526c35cbecc4bc990dfa4f9",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
+          "sourceAssetName": "KartPad-v0.8.4-ios-for-padmint.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "266"
+        },
         {
           "buildVersion": "265",
           "date": "2026-10-17T05:10:28Z",
@@ -4053,16 +4064,6 @@
           "sourceAssetName": "KartPad-v0.8.2-ios-for-padmint.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.2/KartPad-v0.8.2-ios-for-padmint.ipa",
           "version": "v0.8.2"
-        },
-        {
-          "buildVersion": "263",
-          "date": "2026-10-13T01:18:40Z",
-          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.1/KartPad-v0.8.1-ios-for-padmint.ipa",
-          "localizedDescription": "KartPad 0.8.1 fixes two problems in 0.8.0: characters that disappeared on some Snapdragon phones, and Mac builds that refused most disc images. It also fixes choosing a game folder on iPhone and iPad. | You want KartPad on | How | |---|---| | **Android** | Download `KartPad-v0.8.1-android.apk` below | | **iPhone or iPad** | Build it with [PadMint](https://github.com/chrissotraidis/padmint/releases/latest) on a Mac, Windows or Linux computer | | **Mac** (Apple Silicon) | Build it with [PadMint](https://github.com/chrissotraidis/padmint/releases/latest): choose Mario Kart Wii and **This Mac** | Don't install `KartPad-v0.8.1-ios-for-padmint.ipa` yourself: it has no game in it. PadMint downloads it and adds the game from your own disc. Full steps: **[Get KartPad](https://github.com/chrissotraidis/kartpad#get-kartpad)**. ### Fixed - **Android: invisible characters on some Snapdragon phones.** 0.8.0 switched every Adreno 6xx/7xx GPU (Snapdragon 8 Gen 3 and older) to an experimental graphics path in **Automatic**, which hid the characters on phones that showed them before. **Automatic** works as it did in 0.7.15 again. If you switched **Help → Character Graphics Test** to a **Compare** option to get characters back, switch it back to **Automatic (recommended)**: the Compare options are slow. - **Mac: \"disc-image SHA-256 is unsupported\".** Building the Mac app with PadMint only accepted one exact disc image file. Any PAL (RMCP01) disc image whose game files are unmodified now works, whether it's an ISO or a WBFS. - **iPhone and iPad: choosing the game folder in Files could do nothing after Open (#380).** **Import from Extracted Folder…** now opens a picker that only chooses folders, and always tells you whether the import worked. ### New test option - **Android: Help → Character Graphics Test → Experimental: matrix rows like Dolphin.** For Snapdragon 8 Gen 3 and older phones where characters have always been invisible (#104, #301): it reads character bones the way Dolphin does. It's off unless you choose it, and we don't know yet whether it helps; if you try it, tell us on GitHub. ### Updating - **Android:** tap **Update available → Update Now** on the game chooser, or install the APK over your current KartPad; don't uninstall first. Saves and game data stay. - **iPhone and iPad:** build 0.8.1 with PadMint and install over your current KartPad with the same sideloading tool and Apple ID to keep your saves. Your game pack from 0.8.0 still fits. - **Mac:** build 0.8.1 with PadMint 0.5.1 or newer (**This Mac**). It replaces the old app; your saves stay. **You still need your own Mario Kart Wii** (PAL, RMCP01, revision 0). No disc images, game files or keys are included.",
-          "releaseChannel": "release",
-          "sha256": "4aacb65d70fe11e1b1924dc157acfd1305dae7e0bacdce39e04787d44fc2268b",
-          "size": 9292669,
-          "version": "v0.8.1"
         }
       ]
     },
