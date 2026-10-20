@@ -1309,18 +1309,18 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-20T05:47:42Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
           "version": "v6.5.5",
-          "date": "2026-10-19T18:27:55Z",
+          "date": "2026-10-20T05:44:58Z",
           "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
-          "size": 235514289,
-          "sha256": "d8684b0b8a0e901c497570fbf461b7064e54aaf310436c4a65c22a38d56a22dc",
+          "size": 235546053,
+          "sha256": "f6489fb6596732964568f3cce1e6ecbcdf3c8accb7b3ea791a04885e5dc4ff47",
           "upstreamAssetURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
           "sourceAssetName": "com.prisma-devs.prisma-6.5.5-ios.ipa",
           "releaseChannel": "beta",
