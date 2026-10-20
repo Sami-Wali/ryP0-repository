@@ -3930,7 +3930,8 @@
           "upstreamAssetURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.7/RoamControl-0.9.7-Build96.ipa",
           "sourceAssetName": "RoamControl-0.9.7-Build96.ipa",
           "releaseChannel": "release",
-          "buildVersion": "96"
+          "buildVersion": "96",
+          "localizedDescription": "## Stability and reliability improvements Roam Control 0.9.7 is a maintenance update focused on background location-session reliability and mobile-data connectivity. ### What's improved - Improved native connection handling for LocalDevVPN. - Corrected network-interface selection when LocalDevVPN and a separate Personal VPN are active simultaneously. - Improved reliability in tested background and mobile-data scenarios. - Verified fixed locations, Walking, Driving, Cycling, Stop & Restore and LocalDevVPN reconnection. These improvements were validated on the developer's iPhone. Compatibility with every VPN configuration is not guaranteed. No new features, interface changes or pairing implementation changes. ### Installation Requires iOS 27 or later, Developer Mode and LocalDevVPN. The IPA is unsigned and can be signed using SideStore. **Upgrading directly from 0.9.4?** Back up your favourites, history and supported settings before installing. The app identifier changed in 0.9.5, so existing data will not automatically transfer. Pairing must be completed again."
         },
         {
           "buildVersion": "96",
