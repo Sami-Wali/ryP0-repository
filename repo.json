@@ -919,20 +919,19 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-20T08:37:44Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "319",
-          "date": "2026-10-13",
+          "version": "13.0",
+          "date": "2026-10-13T00:00:00Z",
           "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
-          "localizedDescription": "IPA Vault build for Swiftgram (TGExtra), version 13.0",
-          "sha256": "652a5578867d4f03f56323dbdfdf03afb8a7e6e16f6b44eb10ca86559beaa041",
-          "size": 89262870,
-          "version": "13.0"
+          "size": 88702790,
+          "sha256": "d28d2519bb4effee66fab26fecf7911253d752b732834081124abae36839396f",
+          "buildVersion": "319"
         }
       ]
     },
@@ -3863,8 +3862,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:41Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Spotify cracked releases",
@@ -4089,8 +4087,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:25Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -4190,8 +4187,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:25Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -5758,8 +5754,7 @@
       "name": "Nado TV",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:09Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "updatePolicy": "daily",
@@ -5793,8 +5788,7 @@
       "name": "Anime Cloud",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:04Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Anime Arabic Sub",
@@ -7551,8 +7545,7 @@
       "name": "Minecraft",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:36:41Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "tintColor": "#4B8B3B",
@@ -8532,14 +8525,22 @@
       "name": "YT Music",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.41.2-b61e8c8f6ef6.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.42.2-25957d094098.ipa",
+        "checkedAt": "2026-10-20T08:36:46Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Mod by Mark02-2012",
       "tintColor": "#848ef9",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.42.2",
+          "date": "2026-10-18T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.42.2-25957d094098.ipa",
+          "size": 107426171,
+          "sha256": "25957d0940989d1971afc353348d91213ea88a92c24d1f5dcb34da7df35e4518",
+          "buildVersion": "9.42.2"
+        },
         {
           "buildVersion": "9.41.2",
           "date": "2026-10-14T00:00:00Z",
@@ -8615,8 +8616,7 @@
       "name": "Video Star",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-        "checkedAt": "2026-10-20T05:07:42Z",
+        "checkedAt": "2026-10-20T08:37:12Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Video Editor",
