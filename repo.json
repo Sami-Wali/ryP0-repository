@@ -6457,7 +6457,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-nuvio-media-579c450d",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.2-beta",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.3-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -6473,13 +6473,24 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
-        "checkedAt": "2026-10-20T21:47:29Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.3-beta/nuvio-0.6.3-full-release.ipa",
+        "checkedAt": "2026-10-21T04:48:05Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.3-beta",
+          "date": "2026-10-21T04:42:34Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.3-beta/nuvio-0.6.3-full-release.ipa",
+          "size": 68815810,
+          "sha256": "90cccaa6bfe194c0567e0eb763a2aa65c2fd32ea84660eab18ef336b83558640",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.3-beta/nuvio-0.6.3-full-release.ipa",
+          "sourceAssetName": "nuvio-0.6.3-full-release.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "146"
+        },
         {
           "version": "0.6.2-beta",
           "date": "2026-10-18T23:13:01Z",
@@ -6595,16 +6606,6 @@
           "sha256": "8fec187194082829268c41c0ba468aa3fc47accd4e178e65f8cc49188f3e9dae",
           "size": 66138236,
           "version": "0.5.2-beta"
-        },
-        {
-          "buildVersion": "133",
-          "date": "2026-09-23T06:37:37Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.1-beta/nuvio-0.5.1-full-release.ipa",
-          "localizedDescription": "- 0b427905 fix(mdblist): correct library sorting @tapframe - 647e4c09 fix(mdblist): batch and reuse rating requests @tapframe - [i18n(vi): update latest Vietnamese strings (#2037)](https://github.com/NuvioMedia/NuvioMobile/pull/2037) @blueocean2308 - [Fix custom posters missing in tmdb/trakt collections (#2035)](https://github.com/NuvioMedia/NuvioMobile/pull/2035) @skoruppa - [fix(details) adapt to the new aiom season poster method (#2038)](https://github.com/NuvioMedia/NuvioMobile/pull/2038) @chrisk325 - [Feature/spanish es translation (#2039)](https://github.com/NuvioMedia/NuvioMobile/pull/2039) @IberianSoldierPC",
-          "releaseChannel": "beta",
-          "sha256": "801bb9d82efddbc0698ce92a4a8e6a741209b40bf5e7b6053d33a68b81d905fc",
-          "size": 66042992,
-          "version": "0.5.1-beta"
         }
       ]
     },
