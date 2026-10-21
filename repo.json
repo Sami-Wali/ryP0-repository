@@ -3525,13 +3525,24 @@
       "name": "pziOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.4-b42.21.ipa",
-        "checkedAt": "2026-10-21T19:42:39Z",
+        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.5-b42.21.ipa",
+        "checkedAt": "2026-10-21T19:53:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: onlyknt/pziOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "pziOS",
+          "date": "2026-10-21T19:40:08Z",
+          "downloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.5-b42.21.ipa",
+          "size": 135057730,
+          "sha256": "9766192d9f40175e55abd0b82c8e9cdb39e0d625a0240a47f8f6577c931b1b26",
+          "upstreamAssetURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.5-b42.21.ipa",
+          "sourceAssetName": "pziOS-0.9.0-beta.5-b42.21.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "4"
+        },
         {
           "version": "pziOS",
           "date": "2026-10-21T19:40:08Z",
@@ -3555,16 +3566,6 @@
           "sourceAssetName": "pziOS-0.9.0-beta.2-b42.21.ipa",
           "upstreamAssetURL": "https://github.com/onlyknt/pziOS/releases/download/0.90-beta.2/pziOS-0.9.0-beta.2-b42.21.ipa",
           "version": "0.90-beta.2"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-10-11T21:07:19Z",
-          "downloadURL": "https://github.com/onlyknt/pziOS/releases/download/0.9.0/pziOS-0.9.0-beta.1-b42.21.ipa",
-          "localizedDescription": "pziOS runs Project Zomboid (Build 42) on an iPhone or iPad with no jailbreak. It is a launcher plus the runtime the game needs: a Java virtual machine built for iOS, an OpenGL-to-Metal graphics stack, and audio and input layers. ## Features - Solo play, mods, saves, and direct-connect multiplayer. - **Controls**: editable touch layout with an aim stick, game controllers, keyboard and mouse. On-screen controls hide when a controller or keyboard and mouse are connected. - **Display**: render resolution presets, UI margins sized to your screen (Auto, or set your own), up to 120 Hz, iPad layouts. - **Performance options**: memory limit tiers chosen from what iOS lets the app use, garbage collector choices (Parallel, pzGC, SGC, pzSGC), JIT compiler choices, ASTC texture compression with a disk cache. - **Setup guide** that imports the game and walks through JIT. ## Supported Devices - **iPhone 15 Pro or later.** - **iPad Pro A12z or later.** - **iPad Air M1 or later.** - **iPad Mini A17 Pro or later.** - **iPad A16 or later.** **(0.9.0 is a pre-release version of pziOS)**",
-          "releaseChannel": "release",
-          "sha256": "6264cc84b8b61f8955419416704dd32d96697e5193dae349c94daef48668aa5f",
-          "size": 128784574,
-          "version": "0.9.0"
         }
       ]
     },
