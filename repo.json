@@ -4031,7 +4031,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dev-kartpad-app-6eef8493",
-        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.4",
+        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.5",
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "bundleIdentifier": "dev.kartpad.app",
@@ -4048,13 +4048,24 @@
       "name": "kartpad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
-        "checkedAt": "2026-10-20T21:47:29Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.5/KartPad-v0.8.5-ios-for-padmint.ipa",
+        "checkedAt": "2026-10-21T02:12:23Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.5",
+          "date": "2026-10-21T02:06:27Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.5/KartPad-v0.8.5-ios-for-padmint.ipa",
+          "size": 9303796,
+          "sha256": "894803ea0eb22936823663b2cf011b0e5d127c1d19220fb9cac17df59f01074a",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.5/KartPad-v0.8.5-ios-for-padmint.ipa",
+          "sourceAssetName": "KartPad-v0.8.5-ios-for-padmint.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "267"
+        },
         {
           "version": "v0.8.4",
           "date": "2026-10-20T05:02:16Z",
@@ -4078,18 +4089,6 @@
           "sourceAssetName": "KartPad-v0.8.3-ios-for-padmint.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.3/KartPad-v0.8.3-ios-for-padmint.ipa",
           "version": "v0.8.3"
-        },
-        {
-          "buildVersion": "264",
-          "date": "2026-10-16T08:09:34Z",
-          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.2/KartPad-v0.8.2-ios-for-padmint.ipa",
-          "localizedDescription": "KartPad 0.8.2 fixes Mac build retries, keyboard settings and a Retro Rewind race-start crash. - Repeated PadMint builds reuse verified prepared files and preserve earlier app/ZIP outputs. - Keyboard reset restores defaults; remaps and clears save immediately and reach the game. Shift, Control and Option can be captured; Command shortcuts remain reserved. - Retro Rewind skips a malformed model texture link that caused a fatal memory access when entering a race. Mac players: use [PadMint](https://github.com/chrissotraidis/padmint/releases/latest), choose **Mario Kart Wii → This Mac**, and build from your own disc. The Mac game requires Apple Silicon. Intel Macs can still use PadMint for supported mobile builds; Intel iPhone/iPad builds remain experimental. [Mac setup and update instructions](https://github.com/chrissotraidis/kartpad/blob/v0.8.2/docs/INSTALL_MACOS.md). Android: install the APK over the existing app. iPhone/iPad: use PadMint; the `ios-for-padmint.ipa` file is a game-code-free build input, not a ready-to-play app. Keep existing saves and game files. The focused Mac checks covered race entry, remapped input, normal quitting and reopening in Original and Retro Rewind. Original completed a race; a full Retro race was not required or completed. Native Apple Silicon and Intel CI passed. This release does not claim to fix the reported high-FPS regression. Build 264. Source, notices, recipe and checksums are included below. No ready-to-play Apple app is distributed.",
-          "releaseChannel": "release",
-          "sha256": "359d8b2e5c5fd4f6afd72faa0758df079c007ddf33f9091a360405d0cd45419a",
-          "size": 9292659,
-          "sourceAssetName": "KartPad-v0.8.2-ios-for-padmint.ipa",
-          "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.2/KartPad-v0.8.2-ios-for-padmint.ipa",
-          "version": "v0.8.2"
         }
       ]
     },
