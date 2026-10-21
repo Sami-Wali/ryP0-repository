@@ -2859,7 +2859,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
-        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.10.0",
+        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.11.0",
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
@@ -2880,13 +2880,24 @@
       "name": "Cyanide",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.10.0/Cyanide-1.10.0.ipa",
-        "checkedAt": "2026-10-21T21:53:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.11.0/Cyanide-1.11.0.ipa",
+        "checkedAt": "2026-10-21T22:27:26Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.11.0",
+          "date": "2026-10-21T22:25:03Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.11.0/Cyanide-1.11.0.ipa",
+          "size": 7072561,
+          "sha256": "491282359521d45d683052a81f5d8088f6e935498412435292d763a3333de955",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.11.0/Cyanide-1.11.0.ipa",
+          "sourceAssetName": "Cyanide-1.11.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1011000"
+        },
         {
           "version": "v1.10.0",
           "date": "2026-10-20T22:02:38Z",
@@ -2910,16 +2921,6 @@
           "releaseChannel": "release",
           "buildVersion": "1009000",
           "localizedDescription": "> **Supported:** iPhone / iPad on iOS/iPadOS `17.0 – 18.7.1` or `26.0 – 26.0.1`. > **Not supported:** iPhone 17 (A19 / A19 Pro) and M5 — Memory Integrity Enforcement. > Any other device on a supported version works. [Details](https://github.com/kolbicz/Cyanide#supported-devices) # Cyanide 1.9.0 Daemons, System Info, a Reboot button and a smarter Location Services toggle, plus three rounds of review fixes. ## New - **Daemons.** Turn launchd system services off and on. Changes are staged and written on Save, risky groups stay behind a second switch, and each row shows its process and PID. Turning Software Updates back on also clears the OTA blocks. - **System Info.** Device and iOS details, uptime, kernel-access status, battery health and storage per app, with icons and sorting. - **Reboot.** A Reboot button next to Respring in Quick Actions. It stops live tweaks first, then asks iOS to restart. - **Faster respring.** SpringBoard is asked to restart itself instead of being forced to; the old way is still used if that request can't be confirmed. - **Location Services toggle goes back where you were.** From Control Center or Shortcuts over an app, Cyanide returns to that app afterwards; from the Home Screen, to the Home Screen. Run while Cyanide is open, it stays. - **File Browser app names.** Container folders show the app's name and icon, with a jump between an app's bundle and its data. - **What's New is back** in Settings, with Show Less at the top. ## Fixes - Tweaks no longer report \"applied\" when the change couldn't be confirmed: SBCustomizer, Drag Coefficient, Powercuff, NiceBar Lite, Watch Pairing, Location Simulator and OTA now say when something didn't take. - Turning off a DarkSword patch now offers a respring; it stays active until then. - A tweak removed from its source is stopped and uninstalled, and an out-of-date repo script no longer runs. - A failed theme apply keeps the current theme instead of breaking it. - Imports are size-limited while reading, archives never clear a folder that has content, and files that change while being read are rejected. - The install queue can't start a second run while one is in progress. - More kernel-access and SpringBoard-session paths stop safely instead of risking a reboot. - NiceBar Lite no longer writes your location into the log. ## Good to know > [!CAUTION] > **You're responsible for your changes.** Disabling daemons or editing files can break iOS or your data. Keep a backup before changing anything you are unsure about. - Some file-system tweaks (OTA, Watch Pairing, Passcode Style, Call Recording Sound) now stop with an error on devices where Cyanide's safer file-access path doesn't work, instead of using a riskier fallback. - A reboot takes as long as a normal iPhone restart; Cyanide's own part is a few seconds. ## About A18 / M4 - **pe_v3 is the default A18/M4 exploit path.** It stages once, hunts one mapping and re-rolls a fresh layout instead of grinding a hunt that has gone on too long. pe_v1 stays available as the compatibility path. - **Checks after every hunt.** The app verifies its mapping after each hunt and after a successful acquisition before doing any further work. This catches a broken state earlier; it doesn't make a run risk-free, and a run can still reboot an A18 / M4 device."
-        },
-        {
-          "buildVersion": "1008000",
-          "date": "2026-10-10T21:29:14Z",
-          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.8.0/Cyanide-1.8.0.ipa",
-          "localizedDescription": "> **Supported:** iPhone / iPad on iOS/iPadOS `17.0 – 18.7.1` or `26.0 – 26.0.1`. > **Not supported:** iPhone 17 (A19 / A19 Pro) and M5 — Memory Integrity Enforcement. > Any other device on a supported version works. [Details](https://github.com/kolbicz/Cyanide#supported-devices) # Cyanide 1.8.0 A File Browser, a Location Services switch for Control Center and Shortcuts, and a long list of safety fixes. ## New - **File Browser.** Browse the file system, view files and edit plists right on the device. Editing is off until you turn on write mode. Read-only root access (through launchd) is a separate option, also off by default. Every save keeps a backup, and a save that couldn't finish is reported instead of leaving a half-written file. You can share files up to 64 MB. - **No write access as root, on purpose.** Root access is read-only. This isn't a technical limit: writing to system files as root is one of the easiest ways to leave a device unable to boot, so Cyanide doesn't offer it. - **Location Services toggle for Control Center (iOS 18).** Turns Location Services on or off from Control Center. Cyanide opens with a small progress screen and goes back to where you were when it's done. - **Location Services action for Shortcuts (iOS 17+).** The same switch as a Shortcuts action (Toggle, Turn On, Turn Off), also usable from Siri and the Action button. - **Location Services links.** `cyanide://location-services/on`, `/off` and `/toggle` for your own automations. Off by default, because any app can open a link: turn them on in Settings → Launch Options → Location Services links. - **Tools on the Home tab.** Process Viewer and File Browser are now one tap away. ## How the Location Services switch behaves - It needs kernel access from an earlier run. It never starts a full exploit run on its own; after a restart, open Cyanide and run it once first. - If the switch had to open Cyanide, Cyanide removes itself from the App Switcher afterwards. If Cyanide was already open, or live tweaks are running, it stays. ## Improvements - **Process Viewer:** more accurate CPU usage. Force Quit checks that the row is still the same process before acting. The list shows when it stops updating. - **Importing passcode originals** now runs in the background with a progress alert and a Cancel button. - **Sources:** the refresh banner now says when some sources failed. Error details appear only when you refresh yourself, not at every launch. - **Removing a repo package or deleting a source** now also stops its running script. - **Log upload:** only the most recent part of the log is sent, and paths to your own files and data are removed first. ## Fixes - Fixed a SpringBoard crash (respring) that could follow using the File Browser after the Process Viewer. - Importing a damaged ZIP or `.deb` now fails as a whole instead of leaving half-imported files behind. - SBCustomizer, Home Layout Extras and the DarkSword tweaks stop safely when SpringBoard doesn't answer, instead of guessing and possibly applying a change twice. Their status now only reports changes SpringBoard confirmed. - Double Tap to Lock can no longer end up installed twice. - Axon can no longer show a notification twice after switching apps in its filter. - Many more places in the kernel access code now stop safely when a read or write fails, instead of continuing with bad data. That kind of failure is what can reboot the device. ## Good to know > [!CAUTION] > **You're responsible for your changes.** Editing files with the File Browser is at your own risk. We can't take responsibility for changes you make that break iOS, your apps or your data. Keep a backup before editing anything you aren't sure about. - On A18 / M4, a run can still reboot the device instead of succeeding. pe_v3 (Settings → Launch Options → A18 exploit path) makes this less likely.",
-          "releaseChannel": "release",
-          "sha256": "562bce4331dc0edcb8b9605abc5a94c12c99d70dcc753527dd46af2a18da3822",
-          "size": 6865682,
-          "version": "1.8.0"
         }
       ]
     },
