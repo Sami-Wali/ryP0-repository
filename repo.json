@@ -3506,9 +3506,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-knt-pzios-e8fd0907",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/onlyknt/pziOS/releases/tag/0.90-beta.2",
+        "configId": "com-knt-pzios-e8fd0907",
+        "sourceURL": "https://github.com/onlyknt/pziOS/releases/tag/pziOS",
         "workflowPath": ".github/workflows/update-app-com-knt-pzios-e8fd0907.yml"
       },
       "bundleIdentifier": "com.knt.pzios",
@@ -3525,13 +3525,24 @@
       "name": "pziOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/0.90-beta.2/pziOS-0.9.0-beta.2-b42.21.ipa",
-        "checkedAt": "2026-10-21T17:32:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.4-b42.21.ipa",
+        "checkedAt": "2026-10-21T19:42:39Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: onlyknt/pziOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "pziOS",
+          "date": "2026-10-21T19:40:08Z",
+          "downloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.4-b42.21.ipa",
+          "size": 135057730,
+          "sha256": "9766192d9f40175e55abd0b82c8e9cdb39e0d625a0240a47f8f6577c931b1b26",
+          "upstreamAssetURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.4-b42.21.ipa",
+          "sourceAssetName": "pziOS-0.9.0-beta.4-b42.21.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "4"
+        },
         {
           "buildVersion": "2",
           "date": "2026-10-15T14:43:10Z",
