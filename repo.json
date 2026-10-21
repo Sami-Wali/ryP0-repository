@@ -6489,7 +6489,8 @@
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.3-beta/nuvio-0.6.3-full-release.ipa",
           "sourceAssetName": "nuvio-0.6.3-full-release.ipa",
           "releaseChannel": "beta",
-          "buildVersion": "146"
+          "buildVersion": "146",
+          "localizedDescription": "- d45d4d36 fix(party): show the party's source as plain text @tapframe - 37a6656a fix(player): keep center controls in place on pause @tapframe - 344117e7 feat(player): show badges for what is playing @tapframe - ebb17678 feat(party): chat from your phone with the same profile @tapframe - 18268427 fix(player): move engine switch to top row with confirmation @tapframe - [feat(i18n): add Brazilian Portuguese (pt-BR) localization for watch party, servers, mdblist and autosync (#2288)](https://github.com/NuvioMedia/NuvioMobile/pull/2288) @jhojhocraazy - b8249380 fix(party): send chat messages with the return key @tapframe - [Update Hungarian translations (#2333)](https://github.com/NuvioMedia/NuvioMobile/pull/2333) @emgeje - [Fix binge group initial state from stream args, apply custom posters in library see-all (#2332)](https://github.com/NuvioMedia/NuvioMobile/pull/2332) @skoruppa - [i18n(vi): update strings.xml, translate watch party and auto sync strings into Vietnamese (#2297)](https://github.com/NuvioMedia/NuvioMobile/pull/2297) @blueocean2308"
         },
         {
           "version": "0.6.2-beta",
