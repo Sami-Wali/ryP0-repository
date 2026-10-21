@@ -5249,7 +5249,8 @@
           "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.1/FactorioPad-template.ipa",
           "sourceAssetName": "FactorioPad-template.ipa",
           "releaseChannel": "prerelease",
-          "buildVersion": "11"
+          "buildVersion": "11",
+          "localizedDescription": "Fixed touch keyboard key binding. Fixed issue where the keyboard button would not move to the bottom-right corner."
         },
         {
           "buildVersion": "11",
