@@ -3881,8 +3881,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:41:20Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Spotify cracked releases",
@@ -4131,8 +4130,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:41:05Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -4232,8 +4230,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:41:03Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -5812,8 +5809,7 @@
       "name": "Nado TV",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:40:52Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "updatePolicy": "daily",
@@ -5847,8 +5843,7 @@
       "name": "Anime Cloud",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:40:38Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Anime Arabic Sub",
@@ -7607,8 +7602,7 @@
       "name": "Minecraft",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:40:20Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "tintColor": "#4B8B3B",
@@ -8684,8 +8678,7 @@
       "name": "Video Star",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-        "checkedAt": "2026-10-22T05:11:51Z",
+        "checkedAt": "2026-10-22T08:40:54Z",
         "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID."
       },
       "subtitle": "Video Editor",
