@@ -3638,7 +3638,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-example-kazumi-364d8606",
-        "sourceURL": "https://github.com/Predidit/Kazumi/releases/tag/2.4.0",
+        "sourceURL": "https://github.com/Predidit/Kazumi/releases/tag/2.4.1",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -3655,13 +3655,24 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.0/Kazumi_ios_2.4.0_no_sign.ipa",
-        "checkedAt": "2026-10-22T12:14:54Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.1/Kazumi_ios_2.4.1_no_sign.ipa",
+        "checkedAt": "2026-10-22T15:07:44Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.4.1",
+          "date": "2026-10-22T15:04:45Z",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.1/Kazumi_ios_2.4.1_no_sign.ipa",
+          "size": 30514613,
+          "sha256": "e573c13a99c9f9aa2c28450f4a798b69df5cc616e5b09ba5ffdc13e5ce46957b",
+          "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.1/Kazumi_ios_2.4.1_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_2.4.1_no_sign.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "20401"
+        },
         {
           "version": "2.4.0",
           "date": "2026-10-22T09:47:59Z",
@@ -3684,16 +3695,6 @@
           "sourceAssetName": "Kazumi_ios_2.3.9_no_sign.ipa",
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.3.9/Kazumi_ios_2.3.9_no_sign.ipa",
           "version": "2.3.9"
-        },
-        {
-          "buildVersion": "20308",
-          "date": "2026-10-07T03:41:05Z",
-          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.3.8/Kazumi_ios_2.3.8_no_sign.ipa",
-          "localizedDescription": "- 优化截图交互 (#2599) (@Predidit) - 统一应用内下拉菜单样式 (@Predidit) - 修复大字体下番剧详情页追番按钮与其他按钮重叠而无法点击的问题 (#2622) (@Predidit) - 修复宽屏设置页重复点击已选中分类时二级页面重复嵌套的问题 (#2607) (@Predidit) - 修复鼠标悬停时播放器控制栏动画反复重启的问题 (@Predidit) - 修复分集评论标题栏显示多余副标题的问题 (@Predidit) - 其他UI改进 (@Predidit)",
-          "releaseChannel": "release",
-          "sha256": "d3bede0e72bfa8fd092e20e8a6e6e854462811296c1ab1d8a3507ff6e263dc69",
-          "size": 30463104,
-          "version": "2.3.8"
         }
       ]
     },
