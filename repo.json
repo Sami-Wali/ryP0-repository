@@ -3312,7 +3312,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-6038fee174ab4e5cba1069c4b21efede",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/releases/tag/v1.1",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/releases/tag/v1.2",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "bundleIdentifier": "com.am4rdev.EspressU",
@@ -3332,13 +3332,24 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.1/EspressU-1.1.ipa",
-        "checkedAt": "2026-10-22T17:28:56Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa",
+        "checkedAt": "2026-10-22T18:53:00Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.2",
+          "date": "2026-10-22T18:47:59Z",
+          "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa",
+          "size": 34408923,
+          "sha256": "13d0530a12065ea0952946a08e08d42e28da131f3481c632c250f8b9ff46c176",
+          "upstreamAssetURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa",
+          "sourceAssetName": "EspressU-1.2.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "version": "v1.1",
           "date": "2026-10-19T22:56:01Z",
