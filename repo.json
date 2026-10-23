@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "hollow-games-ios-builder",
+      "catalogID": "project-658e8475459bf1e77779945f7f854235",
+      "bundleIdentifier": "com.example.hollowgamesbuilder",
+      "developerName": "huzaifahshahid71-ops",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-10-23T14:03:10Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
+          "size": 20033836,
+          "buildVersion": "5",
+          "releaseChannel": "prerelease",
+          "sha256": "f855f931266c3079f8686b7d744dcac43a2e0ef8e55843848f5593db8b0a5f5e",
+          "sourceAppName": "Hollow Builder",
+          "sourceAssetName": "Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
+          "ipaBundleIdentifier": "com.example.hollowgamesbuilder",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.hollowgamesbuilder-f855f931266c.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
+        "checkedAt": "2026-10-23T17:10:34Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder"
+      },
+      "githubURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-658e8475459bf1e77779945f7f854235",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder",
+        "workflowPath": ".github/workflows/update-app-project-658e8475459bf1e77779945f7f854235.yml"
+      }
+    },
+    {
       "name": "BCD",
       "catalogID": "project-f948af035c5e0940c83aa30aa0c406fe",
       "bundleIdentifier": "com.thebcd69.bcd",
