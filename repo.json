@@ -21,6 +21,19 @@
           "sourceAssetName": "Layers-1.0.2.ipa",
           "ipaBundleIdentifier": "com.mikevillarroel.layers",
           "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa"
+        },
+        {
+          "version": "v1.0.1",
+          "date": "2026-10-22T15:43:36Z",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.1/Layers-1.0.1.ipa",
+          "size": 1319905,
+          "sha256": "f01c862f46e5c96731088e9bb85cb3cb94c770afd3ca658f09bf8e7d19152433",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.1/Layers-1.0.1.ipa",
+          "sourceAssetName": "Layers-1.0.1.ipa",
+          "sourceAppName": "Layers",
+          "ipaBundleIdentifier": "com.mikevillarroel.layers",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mikevillarroel.layers-589a4e9a993f.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
-        "checkedAt": "2026-10-23T21:34:11Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-23T21:34:24Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-07b0bf20965bbefea7e7883d126e128c",
-        "sourceURL": "https://github.com/mikevillarroel/layers",
+        "sourceURL": "https://github.com/mikevillarroel/layers/releases/tag/v1.0.1",
         "workflowPath": ".github/workflows/update-app-project-07b0bf20965bbefea7e7883d126e128c.yml"
       }
     },
