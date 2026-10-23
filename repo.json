@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "v1.0.5",
+          "date": "2026-10-22T15:43:31Z",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.5/TendieMaker-1.0.5.ipa",
+          "size": 4146025,
+          "sha256": "fc120eff0bfd921015bfd20305cecc34336ce8c1951733c8980032eeba4c2f66",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.5/TendieMaker-1.0.5.ipa",
+          "sourceAssetName": "TendieMaker-1.0.5.ipa",
+          "sourceAppName": "TendieMaker",
+          "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mikevillarroel.tendiemaker-21484800d6c0.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.7/TendieMaker-1.0.7.ipa",
-        "checkedAt": "2026-10-23T21:33:28Z",
+        "checkedAt": "2026-10-23T21:33:31Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
-        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.6",
+        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.5",
         "workflowPath": ".github/workflows/update-app-project-944612c4ab3539bf98ff7dfdda6ac9dc.yml"
       }
     },
