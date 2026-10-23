@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "BCD",
+      "catalogID": "project-f948af035c5e0940c83aa30aa0c406fe",
+      "bundleIdentifier": "com.thebcd69.bcd",
+      "developerName": "thebcd69",
+      "localizedDescription": "He’s",
+      "subtitle": "He’s",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.1.592",
+          "date": "2026-10-23T05:58:16Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
+          "size": 167537815,
+          "buildVersion": "592",
+          "releaseChannel": "alpha",
+          "sha256": "4e179192cfcd7c9afdc751c852f749f80c08da4a2f2bf20327ced452074afba9",
+          "sourceAppName": "BCD",
+          "sourceAssetName": "BCD.ipa",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.thebcd69.bcd-4e179192cfcd.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
+        "checkedAt": "2026-10-23T11:02:39Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
+        "sourceURL": "https://github.com/thebcd69/bcd-games"
+      },
+      "githubURL": "https://github.com/thebcd69/bcd-games",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
+        "sourceURL": "https://github.com/thebcd69/bcd-games",
+        "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "historySyncPending": false,
