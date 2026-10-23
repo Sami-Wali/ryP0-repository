@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "layers",
+      "catalogID": "project-07b0bf20965bbefea7e7883d126e128c",
+      "bundleIdentifier": "com.mikevillarroel.layers",
+      "developerName": "mikevillarroel",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-10-23T02:08:13Z",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+          "size": 1170494,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "589a4e9a993f39f7d7d6c2e873ffc49d398758352aeb79fe5d62c39d681b7c41",
+          "sourceAppName": "Layers",
+          "sourceAssetName": "Layers-1.0.2.ipa",
+          "ipaBundleIdentifier": "com.mikevillarroel.layers",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mikevillarroel.layers-589a4e9a993f.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+        "checkedAt": "2026-10-23T21:34:11Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+        "sourceURL": "https://github.com/mikevillarroel/layers"
+      },
+      "githubURL": "https://github.com/mikevillarroel/layers",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-07b0bf20965bbefea7e7883d126e128c",
+        "sourceURL": "https://github.com/mikevillarroel/layers",
+        "workflowPath": ".github/workflows/update-app-project-07b0bf20965bbefea7e7883d126e128c.yml"
+      }
+    },
+    {
       "name": "tendiemaker",
       "catalogID": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
       "bundleIdentifier": "com.mikevillarroel.tendiemaker",
