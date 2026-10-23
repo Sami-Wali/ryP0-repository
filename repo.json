@@ -47,6 +47,19 @@
           "ipaBundleIdentifier": "com.mikevillarroel.buildbox",
           "releaseChannel": "release",
           "buildVersion": "37"
+        },
+        {
+          "version": "v2.0.0",
+          "date": "2026-10-22T13:17:50Z",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.0/BuildBox-2.0.0.ipa",
+          "size": 17383818,
+          "sha256": "b6294fa1a5c05984216f83a9d784678b07a09b97ce40615ff9d1be1c6e8ac7b5",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.0/BuildBox-2.0.0.ipa",
+          "sourceAssetName": "BuildBox-2.0.0.ipa",
+          "sourceAppName": "BuildBox",
+          "ipaBundleIdentifier": "com.mikevillarroel.buildbox",
+          "releaseChannel": "release",
+          "buildVersion": "35"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mikevillarroel.buildbox-6a88224e60aa.png",
@@ -56,7 +69,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
-        "checkedAt": "2026-10-23T21:32:31Z",
+        "checkedAt": "2026-10-23T21:32:36Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -71,7 +84,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-dc2b41ad5c44522672a8382c60a8732a",
-        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/v2.0.1",
+        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/v2.0.0",
         "workflowPath": ".github/workflows/update-app-project-dc2b41ad5c44522672a8382c60a8732a.yml"
       }
     },
