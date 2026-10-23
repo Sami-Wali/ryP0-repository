@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release2",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release1",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "bundleIdentifier": "com.example.piliplus",
@@ -28,7 +28,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
-        "checkedAt": "2026-10-23T09:08:49Z",
+        "checkedAt": "2026-10-23T09:08:52Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -1965,6 +1965,19 @@
           "size": 21826478,
           "sha256": "3e84c2c4a2f0d4f40d85442ff626a9829a27a3e0cbc840dd65ccc9500d335a40",
           "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/release2/ios-release-no-sign.ipa",
+          "sourceAssetName": "ios-release-no-sign.ipa",
+          "sourceAppName": "PiliPalaX",
+          "ipaBundleIdentifier": "com.example.pilipalax",
+          "releaseChannel": "release",
+          "buildVersion": "123"
+        },
+        {
+          "version": "release1",
+          "date": "2024-11-12T03:27:03Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/release1/ios-release-no-sign.ipa",
+          "size": 21808296,
+          "sha256": "d91a207bc3e0092ab26c71117bfde8cbeea8723738eb63d381dfcf2664e23231",
+          "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/release1/ios-release-no-sign.ipa",
           "sourceAssetName": "ios-release-no-sign.ipa",
           "sourceAppName": "PiliPalaX",
           "ipaBundleIdentifier": "com.example.pilipalax",
