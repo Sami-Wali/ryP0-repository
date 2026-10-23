@@ -21,6 +21,19 @@
           "sourceAssetName": "TendieMaker-1.0.7.ipa",
           "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
           "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.7/TendieMaker-1.0.7.ipa"
+        },
+        {
+          "version": "v1.0.6",
+          "date": "2026-10-22T16:52:24Z",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.6/TendieMaker-1.0.6.ipa",
+          "size": 4216132,
+          "sha256": "d3320f2554639f60bafd26fa1b8569707976909f0ea83a96b2f80b280f8492c3",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.6/TendieMaker-1.0.6.ipa",
+          "sourceAssetName": "TendieMaker-1.0.6.ipa",
+          "sourceAppName": "TendieMaker",
+          "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mikevillarroel.tendiemaker-21484800d6c0.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.7/TendieMaker-1.0.7.ipa",
-        "checkedAt": "2026-10-23T21:33:21Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-23T21:33:28Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
-        "sourceURL": "https://github.com/mikevillarroel/tendiemaker",
+        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.6",
         "workflowPath": ".github/workflows/update-app-project-944612c4ab3539bf98ff7dfdda6ac9dc.yml"
       }
     },
