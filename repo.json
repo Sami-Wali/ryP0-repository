@@ -133,7 +133,7 @@
       },
       "githubURL": "https://github.com/mikevillarroel/buildbox-ios",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-dc2b41ad5c44522672a8382c60a8732a",
         "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/test8",
