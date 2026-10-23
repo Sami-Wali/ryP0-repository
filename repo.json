@@ -6067,7 +6067,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-23T09:09:50Z",
+        "checkedAt": "2026-10-23T09:15:22Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
