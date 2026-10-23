@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.15",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.14",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "bundleIdentifier": "com.example.piliplus",
@@ -28,7 +28,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
-        "checkedAt": "2026-10-23T04:41:22Z",
+        "checkedAt": "2026-10-23T04:41:26Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -735,6 +735,19 @@
           "ipaBundleIdentifier": "com.example.piliplus",
           "releaseChannel": "release",
           "buildVersion": "4285"
+        },
+        {
+          "version": "1.1.4.14",
+          "date": "2025-10-21T10:16:08Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/1.1.4.14/PiliPlus_ios_1.1.4%2B4282.ipa",
+          "size": 24416038,
+          "sha256": "e91d2fcf1a86f4127962ee6fb95490376651795755584bdfc998a6ab785bdcde",
+          "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/1.1.4.14/PiliPlus_ios_1.1.4%2B4282.ipa",
+          "sourceAssetName": "PiliPlus_ios_1.1.4+4282.ipa",
+          "sourceAppName": "PiliPlus",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "releaseChannel": "release",
+          "buildVersion": "4282"
         }
       ]
     },
