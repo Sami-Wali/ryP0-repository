@@ -21,6 +21,19 @@
           "sourceAssetName": "Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
           "ipaBundleIdentifier": "com.example.hollowgamesbuilder",
           "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa"
+        },
+        {
+          "version": "phone-v1.0.0",
+          "date": "2026-10-21T17:30:47Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.0.0/Hollow-Builder-1.0.0-Unsigned.ipa",
+          "size": 19700734,
+          "sha256": "c22577cf2ea77f943177392114cb2111f3de4a8fb296f316d723751e01baa224",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.0.0/Hollow-Builder-1.0.0-Unsigned.ipa",
+          "sourceAssetName": "Hollow-Builder-1.0.0-Unsigned.ipa",
+          "sourceAppName": "Hollow Builder",
+          "ipaBundleIdentifier": "com.example.hollowgamesbuilder",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.hollowgamesbuilder-f855f931266c.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
-        "checkedAt": "2026-10-23T17:10:34Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-23T17:10:44Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-658e8475459bf1e77779945f7f854235",
-        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/tag/phone-v1.0.0",
         "workflowPath": ".github/workflows/update-app-project-658e8475459bf1e77779945f7f854235.yml"
       }
     },
