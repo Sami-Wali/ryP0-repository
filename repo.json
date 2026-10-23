@@ -9542,21 +9542,21 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Minecraft-icon.png",
       "name": "Minecraft",
       "status": {
-        "checkedAt": "2026-10-22T21:50:37Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/minecraft/current.ipa",
+        "checkedAt": "2026-10-23T10:39:18Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#4B8B3B",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.26.52.03",
-          "date": "2026-10-02T12:12:04Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/minecraft/current.ipa",
-          "sha256": "daab2df0137fc2d475ffe8f0b00f5caeff4f4a7385ab847937c715f7219b0d43",
+          "version": "1.26.52",
+          "date": "2026-10-23T10:39:01Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/minecraft/current.ipa",
           "size": 693798752,
-          "version": "1.26.52"
+          "sha256": "daab2df0137fc2d475ffe8f0b00f5caeff4f4a7385ab847937c715f7219b0d43",
+          "buildVersion": "1.26.52.03"
         }
       ]
     },
