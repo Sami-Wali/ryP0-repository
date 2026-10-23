@@ -9562,9 +9562,9 @@
     },
     {
       "automation": {
-        "configId": "sideinstaller",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.5.3",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.6.0",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -9573,14 +9573,25 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Sideinstaller-icon.png",
       "name": "SideInstaller",
       "status": {
-        "checkedAt": "2026-10-22T21:50:37Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.3-4a7ce3e04607.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.0-8991eeeb4d42.ipa",
+        "checkedAt": "2026-10-23T09:52:27Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.6.0",
+          "date": "2026-10-23T08:22:02Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.0-8991eeeb4d42.ipa",
+          "size": 10156874,
+          "sha256": "8991eeeb4d4207f8d4205c23378ad06d308878e17d5ebd21e3be7aff45b56bc6",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.0/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-16T17:52:51Z",
@@ -9684,13 +9695,6 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.1.0-0099de539150.ipa",
           "size": 9252798,
           "version": "v1.1.0"
-        },
-        {
-          "buildVersion": "9",
-          "date": "2026-09-14T17:24:34Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.0.0-0bf74b00c964.ipa",
-          "size": 9243749,
-          "version": "v1.0.0"
         }
       ]
     },
