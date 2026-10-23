@@ -21,6 +21,19 @@
           "sourceAssetName": "BCD.ipa",
           "ipaBundleIdentifier": "com.thebcd69.bcd",
           "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa"
+        },
+        {
+          "version": "v0.1.580",
+          "date": "2026-10-22T07:13:02Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.580/BCD.ipa",
+          "size": 164196922,
+          "sha256": "f2d3f421fd7fe21cf99d7a625e53c56e88dd750f6f64a944d2ad2a4e8b8407ac",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.580/BCD.ipa",
+          "sourceAssetName": "BCD.ipa",
+          "sourceAppName": "BCD",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "releaseChannel": "alpha",
+          "buildVersion": "580"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.thebcd69.bcd-4e179192cfcd.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
-        "checkedAt": "2026-10-23T11:02:39Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-23T11:02:52Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
-        "sourceURL": "https://github.com/thebcd69/bcd-games",
+        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.580",
         "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
       }
     },
