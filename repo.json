@@ -6167,10 +6167,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-22T21:50:37Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-23T09:09:16Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
