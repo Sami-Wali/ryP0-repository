@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.ry0.ryP0",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "2.0",
+          "date": "2026-10-13T08:24:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
+          "size": 10751321,
+          "sha256": "d8e59292693233d070233c375346935dd2bce18b18ece4ea1e77125aa40911cf",
+          "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
+          "sourceAssetName": "ryP0-unsigned.ipa",
+          "sourceAppName": "ryP0",
+          "ipaBundleIdentifier": "com.ry0.ryP0",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ry0.ryP0-2780c7523e90.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.2/ryP0-unsigned.ipa",
-        "checkedAt": "2026-10-23T20:59:35Z",
+        "checkedAt": "2026-10-23T20:59:38Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4585a0a43e66bef44edd8300c82c7692",
-        "sourceURL": "https://github.com/Sami-Wali/ryP0/releases/tag/2.1",
+        "sourceURL": "https://github.com/Sami-Wali/ryP0/releases/tag/2.0",
         "workflowPath": ".github/workflows/update-app-project-4585a0a43e66bef44edd8300c82c7692.yml"
       }
     },
