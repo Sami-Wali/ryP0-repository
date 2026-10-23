@@ -9168,9 +9168,9 @@
       "developerName" : "c22dev",
       "githubProjectCard" : false,
       "githubURL" : "https:\/\/github.com\/c22dev\/muguet",
-      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/102235607?v=4",
+      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/muguet.png",
       "localizedDescription" : "A native Mach-O port for iOS\/macOS of GTA V, with multiplayer",
-      "name" : "muguet",
+      "name" : "GTA 5",
       "portDistribution" : "source-code",
       "updatePolicy" : "static",
       "versions" : [
