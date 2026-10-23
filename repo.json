@@ -7782,21 +7782,21 @@
       },
       "name": "Anime Cloud",
       "status": {
-        "checkedAt": "2026-10-22T21:50:37Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
+        "checkedAt": "2026-10-23T10:25:33Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Anime Arabic Sub",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-10-02T12:59:25Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
-          "sha256": "653972c0da4f6c894b4c708e18ca5696f431c42ba7a7b3ecc776acf1c50fa5c2",
+          "version": "6.5",
+          "date": "2026-10-23T10:25:28Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-animecloud-rm-aae34788/current.ipa",
           "size": 8939210,
-          "version": "6.5"
+          "sha256": "653972c0da4f6c894b4c708e18ca5696f431c42ba7a7b3ecc776acf1c50fa5c2",
+          "buildVersion": "1"
         }
       ]
     },
