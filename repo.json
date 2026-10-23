@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.example.hollowgamesbuilder",
           "releaseChannel": "beta",
           "buildVersion": "2"
+        },
+        {
+          "version": "phone-v0.1.0-beta.1",
+          "date": "2026-10-18T19:44:25Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v0.1.0-beta.1/Hollow-Builder-0.1.0-beta.1-Unsigned.ipa",
+          "size": 18326084,
+          "sha256": "d27c8a95558b5f1d2255142fdd10d31167f9dc5229968b7b5f89d3b054b098fa",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v0.1.0-beta.1/Hollow-Builder-0.1.0-beta.1-Unsigned.ipa",
+          "sourceAssetName": "Hollow-Builder-0.1.0-beta.1-Unsigned.ipa",
+          "sourceAppName": "Hollow Builder",
+          "ipaBundleIdentifier": "com.example.hollowgamesbuilder",
+          "releaseChannel": "beta",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.hollowgamesbuilder-f855f931266c.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/download/phone-v1.1.0-rc.1/Hollow-Builder-1.1.0-RC1-Unsigned.ipa",
-        "checkedAt": "2026-10-23T17:10:56Z",
+        "checkedAt": "2026-10-23T17:11:02Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-658e8475459bf1e77779945f7f854235",
-        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/tag/phone-v0.1.0-beta.2",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/tag/phone-v0.1.0-beta.1",
         "workflowPath": ".github/workflows/update-app-project-658e8475459bf1e77779945f7f854235.yml"
       }
     },
