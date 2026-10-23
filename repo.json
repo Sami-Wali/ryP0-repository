@@ -5605,7 +5605,8 @@
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa",
           "sourceAssetName": "Kazumi_ios_2.4.2_no_sign.ipa",
           "releaseChannel": "release",
-          "buildVersion": "20402"
+          "buildVersion": "20402",
+          "localizedDescription": "- 修复部分地区规则仓库无法访问的问题"
         },
         {
           "buildVersion": "20401",
@@ -5616,7 +5617,8 @@
           "size": 30514613,
           "sourceAssetName": "Kazumi_ios_2.4.1_no_sign.ipa",
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.1/Kazumi_ios_2.4.1_no_sign.ipa",
-          "version": "2.4.1"
+          "version": "2.4.1",
+          "localizedDescription": "- 修复规则镜像在部分地区无法访问的问题 (#2747 #2748) (@Predidit) - 修复 linux 平台 deeplink 无法使用的问题 (@Tobiichi-Origuchi) > [!NOTE] > 这是 2.4.0 的热修复版本，更多更新日志参考 2.4.0"
         },
         {
           "buildVersion": "20400",
@@ -5627,7 +5629,8 @@
           "size": 30514666,
           "sourceAssetName": "Kazumi_ios_2.4.0_no_sign.ipa",
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.0/Kazumi_ios_2.4.0_no_sign.ipa",
-          "version": "2.4.0"
+          "version": "2.4.0",
+          "localizedDescription": "- 新增 deeplink 支持 (#2628 #2281) (@samuelhe52) (@Predidit) - 现在移动平台编辑弹幕时自动暂停播放 (#2708 #933) (@JesseLee-CN) - 播放器进度条现在显示目标时间 (@rua103) - 修复部分老旧 android 设备打开视频时一直加载的问题 (#2727) (@Predidit) - 文档更新 (@0Chencc)"
         }
       ]
     },
