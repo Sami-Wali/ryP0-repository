@@ -68,7 +68,7 @@
       },
       "githubURL": "https://github.com/mikevillarroel/layers",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-07b0bf20965bbefea7e7883d126e128c",
         "sourceURL": "https://github.com/mikevillarroel/layers/releases/tag/v1.0.0",
