@@ -2984,7 +2984,8 @@
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.2/ryP0-unsigned.ipa",
           "sourceAssetName": "ryP0-unsigned.ipa",
           "releaseChannel": "release",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "localizedDescription": "# What’s New ## ryP0 2.2 - Install Apps Directly on LiveContainer 1 Without LiveContainer 2 (Thats include any Container App) - Improved background downloads and Live Activity handling (only for Sideload not work with Containers). - Added built-in file picker compatibility for **LiveContainer**, without requiring the **Fix File Picker** option. - Added the new **PS3** theme with and Colors. - Added Installation Location to track updates for installed apps - Improved download count and progress indicators on the **Downloads** tab. - Fix Sign-in with Google Account - Add sections for Port Category (Ready to Install) (Built it Yourself) ## Notes **LiveContainer or any Container App Users:** Enable **\"Switch App Without Asking\"** from settings."
         },
         {
           "buildVersion": "1",
