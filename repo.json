@@ -68,7 +68,7 @@
       },
       "githubURL": "https://github.com/Sami-Wali/ryP0",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4585a0a43e66bef44edd8300c82c7692",
         "sourceURL": "https://github.com/Sami-Wali/ryP0/releases/tag/2.0",
