@@ -7990,7 +7990,8 @@
           "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.2/FactorioPad-template.ipa",
           "sourceAssetName": "FactorioPad-template.ipa",
           "releaseChannel": "prerelease",
-          "buildVersion": "12"
+          "buildVersion": "12",
+          "localizedDescription": "Move the touch toggle and fix release version handling"
         },
         {
           "buildVersion": "11",
