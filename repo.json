@@ -11269,6 +11269,23 @@
       "versions" : [
 
       ]
+    },
+    {
+      "appType" : "Static",
+      "bundleIdentifier" : "source-port-23daa4d1cc55b34916d8022479e8a493",
+      "catalogID" : "source-port-23daa4d1cc55b34916d8022479e8a493",
+      "category" : "Ports",
+      "developerName" : "c22dev",
+      "githubProjectCard" : false,
+      "githubURL" : "https:\/\/github.com\/c22dev\/mush8",
+      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/102235607?v=4",
+      "localizedDescription" : "A native Mach-O iOS\/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "name" : "mush8",
+      "portDistribution" : "source-code",
+      "updatePolicy" : "static",
+      "versions" : [
+
+      ]
     }
   ],
   "categories" : [
