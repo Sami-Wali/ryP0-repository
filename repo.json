@@ -11252,6 +11252,23 @@
       "versions" : [
 
       ]
+    },
+    {
+      "appType" : "Static",
+      "bundleIdentifier" : "source-port-a59d7e84057f36c37e6d78fea38e8e28",
+      "catalogID" : "source-port-a59d7e84057f36c37e6d78fea38e8e28",
+      "category" : "Ports",
+      "developerName" : "herrtenma",
+      "githubProjectCard" : false,
+      "githubURL" : "https:\/\/github.com\/herrtenma\/tomodachi-life-ios",
+      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/204623914?v=4",
+      "localizedDescription" : "Tomodachi Life: Living the Dream for iPhone: a native port. Bring your own game.",
+      "name" : "tomodachi-life-ios",
+      "portDistribution" : "source-code",
+      "updatePolicy" : "static",
+      "versions" : [
+
+      ]
     }
   ],
   "categories" : [
