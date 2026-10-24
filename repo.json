@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "TheChoicerVoicer-iOS",
+      "catalogID": "project-cdec020bc46343cad57e5fa1522c9e67",
+      "bundleIdentifier": "com.devz.thechoicervoicer",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-23T16:49:26Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS/releases/download/1.0.0/TheChoicerVoicer-iOS.ipa",
+          "size": 28257735,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "fb2b100dc4089e25e8cadc771b4bd1b271ee7fbb79dda135454a45a46c757e4e",
+          "sourceAppName": "The Choicer Voicer",
+          "sourceAssetName": "TheChoicerVoicer-iOS.ipa",
+          "ipaBundleIdentifier": "com.devz.thechoicervoicer",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS/releases/download/1.0.0/TheChoicerVoicer-iOS.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.thechoicervoicer-fb2b100dc408.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS/releases/download/1.0.0/TheChoicerVoicer-iOS.ipa",
+        "checkedAt": "2026-10-24T05:16:16Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS/releases/download/1.0.0/TheChoicerVoicer-iOS.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-cdec020bc46343cad57e5fa1522c9e67",
+        "sourceURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS",
+        "workflowPath": ".github/workflows/update-app-project-cdec020bc46343cad57e5fa1522c9e67.yml"
+      }
+    },
+    {
       "name": "UT3-iOS",
       "catalogID": "project-6be329c2599dab0e71bfb5d743e506b4",
       "bundleIdentifier": "com.devz.ut3",
