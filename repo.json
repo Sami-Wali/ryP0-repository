@@ -3729,14 +3729,22 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://files.catbox.moe/gi8wku.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://files.catbox.moe/5gv4ku.ipa",
+        "checkedAt": "2026-10-24T08:13:41Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-24T08:51:00Z",
+          "downloadURL": "https://files.catbox.moe/5gv4ku.ipa",
+          "size": 137802884,
+          "sha256": "ca4f5dfce32b3435710dc1669ec6a40de033b2b504dbd384ef3a25fa6487a441",
+          "buildVersion": "919002269"
+        },
         {
           "buildVersion": "919002269",
           "date": "2026-10-18T22:25:00Z",
@@ -6612,10 +6620,9 @@
       "localizedDescription": "Spotify cracked releases",
       "name": "Spy G",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-24T08:17:02Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "Spotify cracked releases",
       "updatePolicy": "daily",
@@ -6862,10 +6869,9 @@
       "localizedDescription": "A rogue-lite slot machine nightmare",
       "name": "CloverPit-1.4.8",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-24T08:13:03Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
       "updatePolicy": "daily",
@@ -6963,10 +6969,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-24T08:12:50Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
@@ -8523,20 +8528,20 @@
       "localizedDescription": "Code: 22455",
       "name": "Nado TV",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
+        "checkedAt": "2026-10-24T08:12:39Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "5",
-          "date": "2026-10-02T13:04:24Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
-          "sha256": "8d6926bd90ab04774f97753dbfb255559c00a954ce4a38f6a60635ba790a773b",
+          "version": "1.0.4",
+          "date": "2026-10-24T08:12:35Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-nadotv-nadotv-014a4e4a/current.ipa",
           "size": 23701403,
-          "version": "1.0.4"
+          "sha256": "8d6926bd90ab04774f97753dbfb255559c00a954ce4a38f6a60635ba790a773b",
+          "buildVersion": "5"
         }
       ]
     },
@@ -11415,21 +11420,21 @@
       "localizedDescription": "Video Editor",
       "name": "Video Star",
       "status": {
-        "checkedAt": "2026-10-24T04:54:07Z",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-        "message": "Private updater: Missing required protected secret: TELEGRAM_API_ID.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
+        "checkedAt": "2026-10-24T08:14:58Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Video Editor",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1905",
-          "date": "2026-10-03T09:49:40Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
-          "sha256": "22553cb988c35a01bfd2577b92d671b5396f6799a9d15d4eb97853e3dcdec25e",
+          "version": "15.2.6",
+          "date": "2026-10-24T08:14:53Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-frontierdesign-videostar-e776c460/current.ipa",
           "size": 267419278,
-          "version": "15.2.6"
+          "sha256": "22553cb988c35a01bfd2577b92d671b5396f6799a9d15d4eb97853e3dcdec25e",
+          "buildVersion": "1905"
         }
       ]
     },
