@@ -99,6 +99,19 @@
           "ipaBundleIdentifier": "com.neogamelab.neostation",
           "releaseChannel": "release",
           "buildVersion": "455"
+        },
+        {
+          "version": "0.0.8",
+          "date": "2026-10-21T14:19:43Z",
+          "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.8/RewindBox-0.0.8.ipa",
+          "size": 226570105,
+          "sha256": "2e9f1868e6dc98d3724740727286639909851cc9d2215380f68e7340ed39825c",
+          "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.8/RewindBox-0.0.8.ipa",
+          "sourceAssetName": "RewindBox-0.0.8.ipa",
+          "sourceAppName": "NeoStation iOS",
+          "ipaBundleIdentifier": "com.neogamelab.neostation",
+          "releaseChannel": "release",
+          "buildVersion": "480"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.neogamelab.neostation-e1017b96842e.png",
@@ -108,7 +121,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.1/RewindBox.ipa",
-        "checkedAt": "2026-10-24T12:06:49Z",
+        "checkedAt": "2026-10-24T12:06:58Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -123,7 +136,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
-        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.7",
+        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.8",
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
       }
     },
