@@ -21,6 +21,19 @@
           "sourceAssetName": "Sonic06-iOS.ipa",
           "ipaBundleIdentifier": "com.devz.sonic2006",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa"
+        },
+        {
+          "version": "ios-2026-10-16-b",
+          "date": "2026-10-16T05:16:04Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-b/Sonic06-iOS.ipa",
+          "size": 35723108,
+          "sha256": "97d42db0d66b91598f7fcb483694f38a1f3a3709adaa9e8960c7d07cf2f8580a",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-b/Sonic06-iOS.ipa",
+          "sourceAssetName": "Sonic06-iOS.ipa",
+          "sourceAppName": "Sonic (2006)",
+          "ipaBundleIdentifier": "com.devz.sonic2006",
+          "releaseChannel": "release",
+          "buildVersion": "1.0.10"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-a4eaa970bee5.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
-        "checkedAt": "2026-10-24T05:18:12Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-24T05:18:23Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,7 +58,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-067687253ada6abecedacc3f9faf730d",
-        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-2026-10-16-b",
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
       }
     },
