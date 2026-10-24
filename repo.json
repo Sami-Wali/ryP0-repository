@@ -86,6 +86,19 @@
           "ipaBundleIdentifier": "com.devz.sonic2006",
           "releaseChannel": "prerelease",
           "buildVersion": "1.0.6"
+        },
+        {
+          "version": "ios-mods-2026-10-14-launchfix",
+          "date": "2026-10-14T12:00:12Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-mods-2026-10-14-launchfix/MarathonRecomp-mods-launchfix.ipa",
+          "size": 46869337,
+          "sha256": "33f741d50037f97067c84f1c5b1b7e5c7050095cddff2534e6f2d24ae49c3d2a",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-mods-2026-10-14-launchfix/MarathonRecomp-mods-launchfix.ipa",
+          "sourceAssetName": "MarathonRecomp-mods-launchfix.ipa",
+          "sourceAppName": "Marathon Recompiled",
+          "ipaBundleIdentifier": "com.devz.MarathonRecomp",
+          "releaseChannel": "prerelease",
+          "buildVersion": "v1.0.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-a4eaa970bee5.png",
@@ -95,7 +108,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
-        "checkedAt": "2026-10-24T05:18:44Z",
+        "checkedAt": "2026-10-24T05:18:50Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -110,7 +123,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-067687253ada6abecedacc3f9faf730d",
-        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-mods-2026-10-15",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-mods-2026-10-14-launchfix",
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
       }
     },
