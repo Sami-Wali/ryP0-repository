@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-cdec020bc46343cad57e5fa1522c9e67",
         "sourceURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS",
