@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "MarathonRecompilediOS",
+      "catalogID": "project-067687253ada6abecedacc3f9faf730d",
+      "bundleIdentifier": "com.devz.sonic2006",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-16T17:57:34Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
+          "size": 35806088,
+          "buildVersion": "1.0.11",
+          "releaseChannel": "release",
+          "sha256": "a4eaa970bee587ffa1ca4dbbe9752b80cb4d9f638cecad4c855a6f91a0a5d522",
+          "sourceAppName": "Sonic (2006)",
+          "sourceAssetName": "Sonic06-iOS.ipa",
+          "ipaBundleIdentifier": "com.devz.sonic2006",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-a4eaa970bee5.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
+        "checkedAt": "2026-10-24T05:18:12Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-067687253ada6abecedacc3f9faf730d",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS",
+        "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
+      }
+    },
+    {
       "name": "ProjectReignition-iOS",
       "catalogID": "project-b36c09a1e4cbb665a7c0e52bb2458fce",
       "bundleIdentifier": "com.devz.projectreignition",
