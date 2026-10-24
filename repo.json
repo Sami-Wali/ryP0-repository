@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.devz.sonic2006",
           "releaseChannel": "prerelease",
           "buildVersion": "1.0.8"
+        },
+        {
+          "version": "ios-mods-2026-10-15-arc-merge",
+          "date": "2026-10-15T18:29:22Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-mods-2026-10-15-arc-merge/Sonic06-iOS.ipa",
+          "size": 35715475,
+          "sha256": "be5965716fa3a5cd1819774d75957cccfeaae6cdc6decc5741c138eeab8fa205",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-mods-2026-10-15-arc-merge/Sonic06-iOS.ipa",
+          "sourceAssetName": "Sonic06-iOS.ipa",
+          "sourceAppName": "Sonic (2006)",
+          "ipaBundleIdentifier": "com.devz.sonic2006",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1.0.7"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-a4eaa970bee5.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
-        "checkedAt": "2026-10-24T05:18:34Z",
+        "checkedAt": "2026-10-24T05:18:39Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-067687253ada6abecedacc3f9faf730d",
-        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-mods-2026-10-15-u8-compat",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-mods-2026-10-15-arc-merge",
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
       }
     },
