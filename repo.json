@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/UT3-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-6be329c2599dab0e71bfb5d743e506b4",
         "sourceURL": "https://github.com/DevZer0D4Y/UT3-iOS",
