@@ -146,7 +146,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-067687253ada6abecedacc3f9faf730d",
         "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/R1",
