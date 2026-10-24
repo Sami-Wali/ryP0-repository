@@ -112,6 +112,19 @@
           "ipaBundleIdentifier": "com.devz.MarathonRecomp",
           "releaseChannel": "prerelease",
           "buildVersion": "v1.0.0"
+        },
+        {
+          "version": "R1",
+          "date": "2026-10-05T18:29:37Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/R1/Sonic06-iOS.ipa",
+          "size": 35609295,
+          "sha256": "344c83949a811056c90c6741c803ccf3f59380f5e284ccec1d5ad8f13cab8a22",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/R1/Sonic06-iOS.ipa",
+          "sourceAssetName": "Sonic06-iOS.ipa",
+          "sourceAppName": "Sonic (2006)",
+          "ipaBundleIdentifier": "com.devz.sonic2006",
+          "releaseChannel": "release",
+          "buildVersion": "1.0.5"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.sonic2006-a4eaa970bee5.png",
@@ -121,7 +134,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
-        "checkedAt": "2026-10-24T05:18:56Z",
+        "checkedAt": "2026-10-24T05:19:01Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -136,7 +149,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-067687253ada6abecedacc3f9faf730d",
-        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/ios-mods-2026-10-13",
+        "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
       }
     },
