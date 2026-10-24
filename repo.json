@@ -3003,7 +3003,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-d37fa54a16fcff88adb8d85be873840f",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-project-d37fa54a16fcff88adb8d85be873840f.yml"
