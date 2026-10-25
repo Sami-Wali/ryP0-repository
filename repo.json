@@ -10,6 +10,19 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "28",
+          "date": "2026-10-25T13:26:29Z",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.tipa",
+          "size": 55497406,
+          "sha256": "fb93f83424862956dc6a2916c1b8646a9267a03d942b3e783820e1fd8cee51ba",
+          "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.tipa",
+          "sourceAssetName": "Dopamine-2026-10-25_20-23-30.tipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
           "version": "27",
           "date": "2026-09-12T11:13:19Z",
           "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.tipa",
@@ -211,9 +224,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.tipa",
-        "checkedAt": "2026-10-25T11:54:18Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.tipa",
+        "checkedAt": "2026-10-25T13:28:27Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -227,7 +240,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/17",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/28",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       }
     },
