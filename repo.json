@@ -3839,10 +3839,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v0.9.0",
+        "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
+        "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v1.1.4",
         "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
       },
       "bundleIdentifier": "com.google.ios.youtube",
@@ -3862,14 +3862,27 @@
       "localizedDescription": "",
       "name": "ytkace",
       "status": {
-        "checkedAt": "2026-10-25T16:41:29Z",
-        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.3/YTKACE_1.1.3_YouTube_21.41.5.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.4/YTKACE_1.1.4_YouTube_21.42.4.ipa",
+        "checkedAt": "2026-10-25T17:38:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.4",
+          "date": "2026-10-25T17:36:23Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.4/YTKACE_1.1.4_YouTube_21.42.4.ipa",
+          "size": 138006169,
+          "sha256": "a7bd1ab52d34254df33b5f2479b7969bfcd538fc0bf10fb61a0f8cf13f83180f",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.4/YTKACE_1.1.4_YouTube_21.42.4.ipa",
+          "sourceAssetName": "YTKACE_1.1.4_YouTube_21.42.4.ipa",
+          "sourceAppName": "YouTube",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "releaseChannel": "release",
+          "buildVersion": "21.42.4"
+        },
         {
           "buildVersion": "21.41.5",
           "date": "2026-10-11T21:22:52Z",
