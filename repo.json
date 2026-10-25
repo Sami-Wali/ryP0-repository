@@ -7162,7 +7162,8 @@
           "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/NeoStation.ipa",
           "sourceAssetName": "NeoStation.ipa",
           "releaseChannel": "release",
-          "buildVersion": "530"
+          "buildVersion": "530",
+          "localizedDescription": "## RewindBox iOS — fix 0.0.9 (Build 530) This hotfix addresses the identified MeloNX crash path on iOS: Vulkan returned ErrorFeatureNotPresent during direct host-memory buffer import after a Nintendo Switch game began rendering. The embedded engine now avoids that unsupported import on iOS and uses its existing GPU buffer/readback fallback. - Rebuilt and source-verified embedded MeloNX NativeAOT engine. - Existing RPCS3 Core and other supported embedded emulators retained. - Ad-hoc signed for re-signing with SideStore/AltStore. - Automated native/iOS-simulator and packaging checks passed. Please test gameplay stability on a physical iPhone. The fix addresses the observed Vulkan API failure, but a successful long game session has not yet been independently verified. Version note: IPA build number 530; internal app version remains 0.0.8 because this targeted hotfix retains the previously validated application metadata. The release title is fix 0.0.9. Source: RewindBox development branch merged into main. No personal firmware, Switch keys or game files are bundled."
         },
         {
           "buildVersion": "480",
