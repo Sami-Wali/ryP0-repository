@@ -6145,7 +6145,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
-        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.14.0",
+        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.15.0",
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
@@ -6166,13 +6166,24 @@
       "name": "Cyanide",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.14.0/Cyanide-1.14.0.ipa",
-        "checkedAt": "2026-10-25T11:54:18Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.15.0/Cyanide-1.15.0.ipa",
+        "checkedAt": "2026-10-25T11:59:03Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.15.0",
+          "date": "2026-10-25T11:56:37Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.15.0/Cyanide-1.15.0.ipa",
+          "size": 7121769,
+          "sha256": "01f8ebd72aee2eb404919b8c8f19662e6a87e17a9a2ebd645640375376d85703",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.15.0/Cyanide-1.15.0.ipa",
+          "sourceAssetName": "Cyanide-1.15.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1015000"
+        },
         {
           "version": "v1.14.0",
           "date": "2026-10-25T10:08:29Z",
@@ -6196,18 +6207,6 @@
           "sourceAssetName": "Cyanide-1.13.0.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.13.0/Cyanide-1.13.0.ipa",
           "version": "v1.13.0"
-        },
-        {
-          "buildVersion": "1012000",
-          "date": "2026-10-23T13:51:26Z",
-          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.12.0/Cyanide-1.12.0.ipa",
-          "localizedDescription": "> **Supported:** iPhone / iPad on iOS/iPadOS `17.0 – 18.7.1` or `26.0 – 26.0.1`. > **Not supported:** iPhone 17 (A19 / A19 Pro) and M5 — Memory Integrity Enforcement. > Any other device on a supported version works. [Details](https://github.com/kolbicz/Cyanide#supported-devices) # Cyanide 1.12.0 **SpringBoard Tools** recolor the dock, folders, Control Center, notifications and the app switcher, and Powercuff works again. ## New - **SpringBoard Tools** (Settings → Lara). Idea from [lara](https://github.com/rooootdev/lara) by rooootdev, built differently: nothing in `/System` is changed. - Dock, Folder Background, Folder Blur, Control Center Modules, Control Center Blur, App Switcher Blur and Notification Banners. - Each one **Visible** (Apple's look), **Color** (your own tint and blur) or **Disabled** (no background). - Tap **Apply**: the dock, folder icons, Control Center and the app switcher change right away; opened folders and notifications the next time they appear. A respring undoes everything, so apply again after one. ## Fixes - **Powercuff:** Light, Moderate and Heavy now really throttle (check with an app like CPU X). A changed level is applied on the next Apply, and removing Powercuff turns the throttling off again instead of keeping it until a reboot. - **Repo sources:** a slow script download can no longer overwrite a newer script or bring back a deleted source; a source that suddenly lists no tweaks keeps its list while tweaks from it are installed; removing a repo package that switched on SBCustomizer, StatBar or Powercuff now turns that off too. - **Update check:** an update prompt that couldn't be shown (e.g. Cyanide was in the background) appears the next time you open Cyanide instead of a day later. ## Good to know - With **Color**, notifications show square on the Lock Screen: iOS draws them there as one shared blur cut into rounded shapes, and a changed one drops out of it (lara's files do the same). Banners elsewhere stay rounded. - With **Control Center Blur** on Color, Control Center's own uncolored blur shows for a moment while it closes. ## About A18 / M4 On A18 / M4 devices a run has about a 50/50 chance of rebooting the device (a kernel \"panic\") instead of succeeding — a known limit of these chips that can't be fully fixed. It's a coin flip, so if it reboots, just try again; a few attempts usually gets there. Once a run works, it stays working until your next restart. If you keep hitting panics, Settings → Launch Options has four knobs for the A18 chain — exploit path (pe_v3 default, pe_v1 / pe_v2), memory shaping, interleaved search and bounded search. Defaults are unchanged in this release; other combinations may do better on your device. Each applies to the next fresh run.",
-          "releaseChannel": "release",
-          "sha256": "9011231cbf6e7ef88374100798d21e862b2145a923c7e23cb90fdc7e1e527f0b",
-          "size": 7087293,
-          "sourceAssetName": "Cyanide-1.12.0.ipa",
-          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.12.0/Cyanide-1.12.0.ipa",
-          "version": "v1.12.0"
         }
       ]
     },
