@@ -882,10 +882,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
         "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.573",
+        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
+        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.600",
         "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
       },
       "bundleIdentifier": "com.thebcd69.bcd",
@@ -906,13 +906,26 @@
       "name": "BCD",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.600/BCD.ipa",
+        "checkedAt": "2026-10-25T02:01:21Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "He’s",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.600",
+          "date": "2026-10-24T19:48:29Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.600/BCD.ipa",
+          "size": 170096564,
+          "sha256": "e851b87138d5ff691e80ae7eb585916ff60832939aa566a75ef8322f5cddd67c",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.600/BCD.ipa",
+          "sourceAssetName": "BCD.ipa",
+          "sourceAppName": "BCD",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "releaseChannel": "alpha",
+          "buildVersion": "600"
+        },
         {
           "buildVersion": "592",
           "date": "2026-10-23T05:58:16Z",
@@ -3931,10 +3944,10 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://files.catbox.moe/5gv4ku.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-25T02:00:12Z",
+        "sourceMissingChecks": 1,
+        "message": "App absent from the upstream source; will unlist if the next check confirms it."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
@@ -4353,8 +4366,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T01:59:37Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -5941,10 +5954,9 @@
       "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "name": "coolapk-desktop",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0-beta.4/coolapk-v1.35.0-beta.4-ios-arm64-unsigned.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download returned HTTP 404"
+        "state": "update-error",
+        "checkedAt": "2026-10-25T01:57:43Z",
+        "message": "Private updater: No release with a matching IPA asset was found."
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "updatePolicy": "daily",
@@ -6825,8 +6837,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
+        "checkedAt": "2026-10-25T02:00:46Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "Spotify cracked releases",
@@ -7075,8 +7086,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
+        "checkedAt": "2026-10-25T01:55:14Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -7113,10 +7123,9 @@
       "localizedDescription": "Emulation Frontend",
       "name": "NeoStation",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.8/NeoStation-0.0.8.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download returned HTTP 404"
+        "state": "update-error",
+        "checkedAt": "2026-10-25T01:55:02Z",
+        "message": "Private updater: No release with a matching IPA asset was found."
       },
       "subtitle": "Emulation Frontend",
       "updatePolicy": "daily",
@@ -7176,8 +7185,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
+        "checkedAt": "2026-10-25T01:55:01Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -10056,8 +10064,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T01:49:56Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -10069,12 +10077,15 @@
           "version": "5.0.0b6"
         },
         {
-          "buildVersion": "26",
-          "date": "2026-06-20T07:09:18Z",
+          "version": "5.0.0b6",
+          "date": "2026-06-20T07:01:54Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
-          "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
           "size": 17963367,
-          "version": "5.0.0b6"
+          "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "26"
         },
         {
           "buildVersion": "25",
@@ -10200,8 +10211,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T01:50:39Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -10213,12 +10224,15 @@
           "version": "1.20.4"
         },
         {
-          "buildVersion": "1.20.4",
-          "date": "2026-05-16T12:42:59Z",
+          "version": "1.20.4",
+          "date": "2026-05-16T12:35:08Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
-          "sha256": "822c7042311ff47710c9148c8edb5aab649cf85ce6ba96b9e8190feb91f45a51",
           "size": 31124277,
-          "version": "1.20.4"
+          "sha256": "822c7042311ff47710c9148c8edb5aab649cf85ce6ba96b9e8190feb91f45a51",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1.20.4"
         },
         {
           "buildVersion": "1.20.3",
@@ -10326,8 +10340,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T01:51:00Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -10339,12 +10353,15 @@
           "version": "release-v2.0.1-build-9730"
         },
         {
-          "buildVersion": "9730",
-          "date": "2026-06-08T04:29:40Z",
+          "version": "release-v2.0.1-build-9730",
+          "date": "2026-06-08T04:29:36Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
-          "sha256": "61de6cfc9cf05389161272ceaa70d46662dab77de40ab11fdda3d4a2221621a7",
           "size": 46253576,
-          "version": "release-v2.0.1-build-9730"
+          "sha256": "61de6cfc9cf05389161272ceaa70d46662dab77de40ab11fdda3d4a2221621a7",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "9730"
         },
         {
           "buildVersion": "9729",
@@ -10390,27 +10407,30 @@
       "name": "LiveContainer (Stable)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+        "checkedAt": "2026-10-25T01:50:27Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "tintColor": "#3986FD",
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "3.8.0",
+          "date": "2026-07-17T07:44:20Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+          "size": 4707271,
+          "sha256": "b6fea95e30083382e29ffef88fa1aaa40b5069e1112e5307d490dab04648bba6",
+          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+          "sourceAssetName": "LiveContainer.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "3.8.0"
+        },
+        {
           "date": "2026-07-17T07:44:20Z",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
           "localizedDescription": "# LiveContainer 3.8.0 > [!Warning] > The standalone version requires **SideStore 0.6.2+** or **AltStore 2.2.1+** for installation. > To install LiveContainer with built-in SideStore (`LiveContainer+SideStore.ipa`), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details. # New Features ## Storage Management - Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked) - Added per-app storage details, including app bundle size, container sizes, and last-used date. - Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches. ## Multiple LiveContainers - Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (#1367) ## Share to Apps in LiveContainer Added a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (#1357) ## Multitasking - Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (#1208) - Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (#1228, #1250) - Added more multitask window animations and improved native-window scene handling. - URL schemes and `open-url` payloads can be passed to already-running multitask apps and native windows. ## JIT - Added StosDebug support as a JIT enabler. ## TweakLoader You can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN # Improvements - Added support for manually setting a container's IDFV. (#1194) - IDFV spoofing works even when Tweakloader is not loaded. - Reworked signing logic for tweaks and app installation, with multithreaded signing support. - Download alerts now block tab switching while a download is in progress. - Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions. - Add a \"Clear Notification\" button (#1388) - Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (#1417) # Bug Fixes - Fixed `livecontainer://open-url` dropping the deep link when launching an app from a cold start. (#1339) - Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (#1209) - Fixed a crash when opening Container Preferences if the app did not contain an `en.lproj` path. (#1239) - Fixed apps and AltStore sources not being searchable in some cases. (#1365, #1368) - Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (#1347) - Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (#1386) - Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (#1430) - Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (#1300, #1310, #1329) - Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (#1402, #844, #870) - Added support for iOS 27 developer beta. ",
           "releaseChannel": "release",
-          "size": 4707271,
-          "version": "3.8.0"
-        },
-        {
-          "buildVersion": "3.8.0",
-          "date": "2026-07-17T07:44:09Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
-          "sha256": "b6fea95e30083382e29ffef88fa1aaa40b5069e1112e5307d490dab04648bba6",
           "size": 4707271,
           "version": "3.8.0"
         },
@@ -10502,8 +10522,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T01:50:10Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
@@ -10516,12 +10536,15 @@
           "version": "nighlty"
         },
         {
-          "buildVersion": "1",
+          "version": "nightly",
           "date": "2026-09-12T14:39:53Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
-          "sha256": "e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274",
           "size": 2305445,
-          "version": "nightly"
+          "sha256": "e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274",
+          "upstreamAssetURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
@@ -10725,26 +10748,29 @@
       "name": "EnsWilde",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+        "checkedAt": "2026-10-25T01:50:09Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF9900",
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "EnsWilde3.1.3",
+          "date": "2026-02-25T15:28:02Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+          "size": 13591314,
+          "sha256": "a924663f814e2097378dd9e6c1367dec2119f4221e36e495fea5218c8d19165b",
+          "upstreamAssetURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+          "sourceAssetName": "EnsWilde.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
+        {
           "date": "2026-02-25T15:28:02Z",
           "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
           "localizedDescription": "# EnsWilde v3.1.3 ## Updates - You can now download DDI, fully resolving all DDI-related issues (updated via Settings) ## Features - Added an option to hide the Dynamic Island in Theme UI *(A device restart is required for this feature to take effect)* - Added Feature Flags for in-app functionalities *(A device restart is required for this feature to take effect)* - zpatch Custom no longer requires a password ## Guides - Updated the guide for obtaining default passcode files and Apple Wallet files *(You will need a Mac or a device that can receive AirDrop)* *(The guide is available in Settings)*",
           "releaseChannel": "release",
-          "size": 13591314,
-          "version": "EnsWilde3.1.3"
-        },
-        {
-          "buildVersion": "3",
-          "date": "2026-02-25T15:25:49Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-          "sha256": "a924663f814e2097378dd9e6c1367dec2119f4221e36e495fea5218c8d19165b",
           "size": 13591314,
           "version": "EnsWilde3.1.3"
         },
@@ -10880,26 +10906,29 @@
       "name": "PancakeStore",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+        "checkedAt": "2026-10-25T01:50:42Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#E2B974",
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "1.3.1",
+          "date": "2026-07-27T08:58:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+          "size": 3130839,
+          "sha256": "062c081e491ee3e5d7aeb660836fdf1538530f3761810956855a7dae4b23097d",
+          "upstreamAssetURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
+          "sourceAssetName": "PancakeStore_v1.3.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "Release"
+        },
+        {
           "date": "2026-07-27T08:58:47Z",
           "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
           "localizedDescription": "<div> <h1>EoL Notice</h1> <p><b>PancakeStore is officially EoL (End-of-Life) as of 8/22/2026.</b></p> <p>Apple has implemented server-side changes to the iTunes API that's used in PancakeStore, as well as other popular tools such as <a href=\"https://github.com/majd/ipatool/\">ipatool</a>, which primarily include <b>SEP-based device attestation.</b> What this means, in short, is that PancakeStore <b>will not work ever again</b> unless someone figures out an alternative route for downgrading apps, or successfully re-implements the attestation logic (both of which are very difficult).</p> <p>In the event that this occurs, or a new method for downgrading apps is discovered and made, we will update PancakeStore.<br>Until then, <b>consider the project EoL.</b></p> <p>Thank you all for all of your support of this tool, and we apologize that things have to halt like this.</p> <p>❤️</p> </div> # Original release notes This update mainly focuses on localizations, but we recommend updating nonetheless. ## Localizations We've added full localization for the following languages: - Spanish (@isacucho) - Arabic (@neonmodder123) - Dutch (@jurre111) - Vietnamese (@MineTurtlee) - Italian (@tiziodied) - Swedish (@nxtcoreee3) - Romanian (@nxtcoreee3) - Norwegian (@nxtcoreee3) As you can see, lots more languages compared to just over a day ago. We are very thankful for all of our volunteer translators for their contributions and assistance. ## Changes - Added new Translators section to the Credits list. - Very minor backend adjustments. Thank you everybody for your patience and support! Happy downgrading!",
           "releaseChannel": "release",
-          "size": 3130839,
-          "version": "1.3.1"
-        },
-        {
-          "buildVersion": "Release",
-          "date": "2026-07-27T08:58:42Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
-          "sha256": "062c081e491ee3e5d7aeb660836fdf1538530f3761810956855a7dae4b23097d",
           "size": 3130839,
           "version": "1.3.1"
         },
@@ -11445,26 +11474,29 @@
       "name": "lara",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
-        "checkedAt": "2026-10-25T01:44:05Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
+        "checkedAt": "2026-10-25T01:50:10Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF6600",
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "0.2",
+          "date": "2026-05-22T19:53:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
+          "size": 5474210,
+          "sha256": "c8ba0fec11137d36732108afa8cb3da1947779745bc368ba7e78f1af993298a2",
+          "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "sourceAssetName": "lara_v0.2.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "Release"
+        },
+        {
           "date": "2026-05-22T19:53:53Z",
           "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
           "localizedDescription": "## UX Changes - Moved tweaks into its own accessible section, and put Tools there at the bottom. - Moved logs out of the tab bar and into a toolbar item at the top of the primary views (you can change this back in settings). - Settings has been completed reorganized, with some new customization toggles for the app itself. ## Applying/Handling - Fixed kernelcache weirdness (kernelcache is now fetched locally) - Hybrid will now be used by default. ## Tweaks - Rewrote MobileGestalt View + Added a ton of tweaks! (thanks @jurre111) - Rewrote Liquid Glass View with nice previewer. - Fixed Passcode + Add repo viewer (thanks @neonmodder123) - Add SpringBoard Customizer (thanks @leminlimez and Cowabunga, as well as @jurre111 for fixing the view) - Add SystemColor patcher.",
           "releaseChannel": "release",
-          "size": 5474210,
-          "version": "0.2"
-        },
-        {
-          "buildVersion": "Release",
-          "date": "2026-05-22T19:53:37Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.2-c8ba0fec1113.ipa",
-          "sha256": "c8ba0fec11137d36732108afa8cb3da1947779745bc368ba7e78f1af993298a2",
           "size": 5474210,
           "version": "0.2"
         },
