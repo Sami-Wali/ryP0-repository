@@ -1414,7 +1414,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.600",
         "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
