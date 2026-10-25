@@ -23,6 +23,19 @@
           "buildVersion": "1"
         },
         {
+          "version": "28",
+          "date": "2026-10-25T13:26:25Z",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.ipa",
+          "size": 55497406,
+          "sha256": "fb93f83424862956dc6a2916c1b8646a9267a03d942b3e783820e1fd8cee51ba",
+          "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.ipa",
+          "sourceAssetName": "Dopamine-2026-10-25_20-23-30.ipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
           "version": "27",
           "date": "2026-09-12T11:13:19Z",
           "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.tipa",
@@ -225,7 +238,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.tipa",
-        "checkedAt": "2026-10-25T13:28:27Z",
+        "checkedAt": "2026-10-25T13:28:33Z",
         "message": "Updated by private automation"
       },
       "importSource": {
