@@ -7127,9 +7127,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-neogamelab-neostation-9e4b11c2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/TarbleFR/neostation-ios/releases/tag/0.0.8",
+        "configId": "com-neogamelab-neostation-9e4b11c2",
+        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9-fix.1",
         "workflowPath": ".github/workflows/update-app-com-neogamelab-neostation-9e4b11c2.yml"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
@@ -7145,13 +7145,25 @@
       "localizedDescription": "Emulation Frontend",
       "name": "NeoStation",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-25T01:55:02Z",
-        "message": "Private updater: No release with a matching IPA asset was found."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/NeoStation.ipa",
+        "checkedAt": "2026-10-25T03:12:22Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Emulation Frontend",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.9-fix.1",
+          "date": "2026-10-25T03:10:45Z",
+          "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/NeoStation.ipa",
+          "size": 186305438,
+          "sha256": "19c7eb51f4bd26a0becc460aee2dc61b95701ac8d7257713b8d9ec0ce8369ddb",
+          "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/NeoStation.ipa",
+          "sourceAssetName": "NeoStation.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "530"
+        },
         {
           "buildVersion": "480",
           "date": "2026-10-18T14:13:32Z",
@@ -7173,16 +7185,6 @@
           "sha256": "13b7bfc70404b059089f027aad402772ed558d9eb03eeb4e29a3a4bb1019dd86",
           "size": 210867021,
           "version": "0.0.7"
-        },
-        {
-          "buildVersion": "443",
-          "date": "2026-10-11T21:10:57Z",
-          "downloadURL": "https://github.com/TarbleFR/neostation-ios/releases/download/0.0.5/NeoStation-0.0.5.ipa",
-          "localizedDescription": "# 🚀 NeoStation iOS — Update 0.0.5 This update brings new features, an expanded library, and several fixes based on your feedback! ## 📚 Books & Manga - Read books and manga directly in NeoStation, with **EPUB, PDF, CBZ, and TXT** imports, reading progress tracking, and favorites. - Improved navigation and easier access to the back button in the readers. ## 🎮 Interface & Consoles - New **Consoles** tab in the main navigation bar to add and organize the consoles displayed in your menu. - **120 Hz Interface** option under **Settings → General** for smoother navigation on compatible devices. - New **BIOS Checker** under **Settings → Tools** to identify present and missing BIOS files, whether required or optional. - Clearer identification of **Embedded RetroArch** in the settings. ## 🌊 Dolphin — Wii & GameCube - Added a **Shake** control for Wii games, available through touch controls and configurable for a controller. - Improved phone shake detection with **three sensitivity levels**. - New display refresh-rate settings to better fine-tune smoothness. - Improved Dolphin display with **AirPlay and Apple TV**, including **Fit** and **Fill** modes while keeping the controls on the iPhone. **Fill** mode may crop part of the image. ## 🛠️ RPCS3 & Fixes - Fixes for **PS3 save importing and exporting**, with support for folders and ZIP archives, confirmation before replacing files, and backup copies. - Import **.RAP licenses** using the Import button in the PS3 game library. ## 🧠 NeoSwap Keeps Evolving This update improves how memory is prepared and allocated to RPCS3 during gameplay, as well as tracking the memory actually allocated. This work draws inspiration in part from MeloNX's memory management approach. **NeoSwap is still experimental and will continue to be updated alongside improvements to RPCS3.** Work on memory management, stability, and CPU, PPU, SPU, and RSX performance will continue in future releases. Results will vary depending on the game and device. ❤️ Thank you for your patience and feedback — they help NeoStation improve with every update! I hope the previously reported issues have been fixed. If you still encounter any problems, please don't hesitate to report them again. :) ## Download Download **`NeoStation-0.0.5.ipa`** from the assets below and sign/install it with your preferred sideloading method. The **`NeoStation-0.0.5-SHA256SUMS.txt`** file contains the checksum for verifying the IPA. ## Release information - **Release:** 0.0.5 - **Internal build:** 443 - **Source commit:** `79a5920af0f17b474bd8f1a0dcd88f798e2bede0` - **Build:** [GitHub Actions run 38173005985](https://github.com/TarbleFR/neostation-ios/actions/runs/38173005985) - **IPA SHA-256:** `af860e8b7f00fac46a1a1ab6483b0ddc59a8abd59b99dd2e4eda965118ce14d7` This release distributes the verified Build 443 IPA. The binary has not been rebuilt or modified; only the download filename and release name use 0.0.5. The app bundle retains its originally compiled version metadata. On-device installation and performance may vary and are not independently verified by this release process.",
-          "releaseChannel": "release",
-          "sha256": "af860e8b7f00fac46a1a1ab6483b0ddc59a8abd59b99dd2e4eda965118ce14d7",
-          "size": 207408158,
-          "version": "0.0.5"
         }
       ]
     },
