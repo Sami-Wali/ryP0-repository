@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Strata",
+      "catalogID": "project-a3509749fdbe8400cd67bd26d7c7b890",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "huzaifahshahid71-ops",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "3.8.11",
+          "date": "2026-10-22T21:58:31Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
+          "size": 54084890,
+          "buildVersion": "3.8.11",
+          "releaseChannel": "prerelease",
+          "sha256": "2bf47ba4ce23714aa88c82e9aec33000747e9895fee70c9bf46f33cbecfad802",
+          "sourceAppName": "Strata",
+          "sourceAssetName": "Strata+SideStore-3.8.11-r11.ipa",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.kdt.livecontainer-2bf47ba4ce23.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
+        "checkedAt": "2026-10-25T17:54:52Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata"
+      },
+      "githubURL": "https://github.com/huzaifahshahid71-ops/Strata",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-a3509749fdbe8400cd67bd26d7c7b890",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata",
+        "workflowPath": ".github/workflows/update-app-project-a3509749fdbe8400cd67bd26d7c7b890.yml"
+      }
+    },
+    {
       "name": "Skate2-iOS",
       "catalogID": "project-61b334bea77b5be039d895edce897ab8",
       "bundleIdentifier": "com.devz.skate2",
