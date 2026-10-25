@@ -3945,9 +3945,8 @@
       "name": "taurus",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-25T02:00:12Z",
-        "sourceMissingChecks": 1,
-        "message": "App absent from the upstream source; will unlist if the next check confirms it."
+        "checkedAt": "2026-10-25T02:07:01Z",
+        "message": "Private updater: The downloaded file is not a valid IPA ZIP archive."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
