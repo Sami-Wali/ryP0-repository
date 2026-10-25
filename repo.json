@@ -30,7 +30,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/Skate2-iOS/releases/download/v1.0.0/Skate2-iOS.ipa",
-        "checkedAt": "2026-10-25T17:16:56Z",
+        "checkedAt": "2026-10-25T17:18:07Z",
         "message": "Imported from verified upstream source"
       },
       "importSource": {
@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/Skate2-iOS",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-61b334bea77b5be039d895edce897ab8",
         "sourceURL": "https://github.com/DevZer0D4Y/Skate2-iOS",
