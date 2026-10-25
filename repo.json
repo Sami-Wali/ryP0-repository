@@ -55,7 +55,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
-        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9",
+        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9-fix.1",
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
@@ -76,13 +76,26 @@
       "name": "RewindBox",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9/RewindBox-Build527.ipa",
-        "checkedAt": "2026-10-25T01:44:41Z",
+        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/RewindBox-Build530.ipa",
+        "checkedAt": "2026-10-25T03:13:00Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.9-fix.1",
+          "date": "2026-10-25T03:12:50Z",
+          "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/RewindBox-Build530.ipa",
+          "size": 186305438,
+          "sha256": "19c7eb51f4bd26a0becc460aee2dc61b95701ac8d7257713b8d9ec0ce8369ddb",
+          "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/RewindBox-Build530.ipa",
+          "sourceAssetName": "RewindBox-Build530.ipa",
+          "sourceAppName": "RewindBox",
+          "ipaBundleIdentifier": "com.neogamelab.neostation",
+          "releaseChannel": "release",
+          "buildVersion": "530"
+        },
         {
           "version": "0.0.9",
           "date": "2026-10-24T22:07:14Z",
