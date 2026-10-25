@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Dopamine-roothide",
+      "catalogID": "project-e77446e3cb1fc908363cb7c5d877b8a8",
+      "bundleIdentifier": "com.opa334.Dopamine-roothide",
+      "developerName": "roothide",
+      "localizedDescription": "GitHub project request: roothide/Dopamine-roothide.",
+      "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "2.4.9.27",
+          "date": "2026-09-12T11:13:19Z",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.ipa",
+          "size": 54863273,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "761b668671b7724a856b9103a919f13e60a554a91ef74f0b32b90aa7385e045e",
+          "sourceAppName": "Dopamine",
+          "sourceAssetName": "Dopamine.ipa",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.opa334.Dopamine-roothide-761b668671b7.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.ipa",
+        "checkedAt": "2026-10-25T04:36:00Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.ipa",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide"
+      },
+      "githubURL": "https://github.com/roothide/Dopamine-roothide",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide",
+        "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
+      }
+    },
+    {
       "name": "lsx4",
       "catalogID": "project-83d98e759e50eaec64a233689e3f9aef",
       "bundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
