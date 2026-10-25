@@ -4290,8 +4290,7 @@
       "name": "taurus",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://files.catbox.moe/5gv4ku.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
+        "checkedAt": "2026-10-25T08:38:32Z",
         "message": "Private updater: The downloaded file is not a valid IPA ZIP archive."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
@@ -4711,8 +4710,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T08:38:09Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -7205,8 +7204,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
+        "checkedAt": "2026-10-25T08:39:07Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "Spotify cracked releases",
@@ -7455,8 +7453,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
+        "checkedAt": "2026-10-25T08:34:11Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -7493,10 +7490,9 @@
       "localizedDescription": "Emulation Frontend",
       "name": "NeoStation",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/NeoStation.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download returned HTTP 404"
+        "state": "update-error",
+        "checkedAt": "2026-10-25T08:34:07Z",
+        "message": "Private updater: No release with a matching IPA asset was found."
       },
       "subtitle": "Emulation Frontend",
       "updatePolicy": "daily",
@@ -7558,8 +7554,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
+        "checkedAt": "2026-10-25T08:33:59Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -10438,8 +10433,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T08:28:44Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -10585,8 +10580,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T08:29:30Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -10714,8 +10709,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T08:29:53Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -10896,8 +10891,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-25T05:05:26Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-25T08:29:03Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
