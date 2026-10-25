@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
           "releaseChannel": "release",
           "buildVersion": "128.9393"
+        },
+        {
+          "version": "ios-jit-128.9336",
+          "date": "2026-10-24T00:06:26Z",
+          "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9336/LSX4-JIT-128.9336.ipa",
+          "size": 64880897,
+          "sha256": "00ca502d75bf61a5a67605297a0c56a174dade6dd8a696cc20d4d82306eac140",
+          "upstreamAssetURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9336/LSX4-JIT-128.9336.ipa",
+          "sourceAssetName": "LSX4-JIT-128.9336.ipa",
+          "sourceAppName": "LSX4",
+          "ipaBundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+          "releaseChannel": "release",
+          "buildVersion": "128.9336"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.llayerlinux.LSX4RuntimeProbe-3d88254052f5.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa",
-        "checkedAt": "2026-10-25T04:35:12Z",
+        "checkedAt": "2026-10-25T04:35:20Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-83d98e759e50eaec64a233689e3f9aef",
-        "sourceURL": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9393",
+        "sourceURL": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9336",
         "workflowPath": ".github/workflows/update-app-project-83d98e759e50eaec64a233689e3f9aef.yml"
       }
     },
