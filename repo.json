@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "lsx4",
+      "catalogID": "project-83d98e759e50eaec64a233689e3f9aef",
+      "bundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+      "developerName": "lpfoj",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-24T21:10:26Z",
+          "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa",
+          "size": 72147726,
+          "buildVersion": "128.9408",
+          "releaseChannel": "release",
+          "sha256": "3d88254052f58843e2106fc40734653f2860cfdd7902bbbe8ff6d9a6e8a0e9d0",
+          "sourceAppName": "LSX4",
+          "sourceAssetName": "LSX4-JIT-128.9408.ipa",
+          "ipaBundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+          "upstreamAssetURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.llayerlinux.LSX4RuntimeProbe-3d88254052f5.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa",
+        "checkedAt": "2026-10-25T04:34:57Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa",
+        "sourceURL": "https://github.com/lpfoj/lsx4"
+      },
+      "githubURL": "https://github.com/lpfoj/lsx4",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-83d98e759e50eaec64a233689e3f9aef",
+        "sourceURL": "https://github.com/lpfoj/lsx4",
+        "workflowPath": ".github/workflows/update-app-project-83d98e759e50eaec64a233689e3f9aef.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-2f6459366580662a6ad0edd66b89cd63",
