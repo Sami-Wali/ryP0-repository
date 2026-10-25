@@ -52,7 +52,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
         "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9",
