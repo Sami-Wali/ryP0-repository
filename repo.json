@@ -34,6 +34,19 @@
           "sourceAssetName": "Dopamine.ipa",
           "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
           "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.ipa"
+        },
+        {
+          "version": "26",
+          "date": "2026-09-07T08:45:39Z",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/26/Dopamine.ipa",
+          "size": 54859511,
+          "sha256": "38d02ec6167772011e4f58aaf31566c7be4db86302962aeedc601f9b4795cc1f",
+          "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/26/Dopamine.ipa",
+          "sourceAssetName": "Dopamine.ipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.opa334.Dopamine-roothide-761b668671b7.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/27/Dopamine.tipa",
-        "checkedAt": "2026-10-25T04:36:08Z",
+        "checkedAt": "2026-10-25T04:36:12Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/27",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/26",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       }
     },
