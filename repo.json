@@ -407,10 +407,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-83d98e759e50eaec64a233689e3f9aef",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9294",
+        "configId": "project-83d98e759e50eaec64a233689e3f9aef",
+        "sourceURL": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9484",
         "workflowPath": ".github/workflows/update-app-project-83d98e759e50eaec64a233689e3f9aef.yml"
       },
       "bundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
@@ -430,14 +430,27 @@
       "localizedDescription": "",
       "name": "lsx4",
       "status": {
-        "checkedAt": "2026-10-25T16:41:29Z",
-        "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9408/LSX4-JIT-128.9408.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9484/LSX4-JIT-128.9484.ipa",
+        "checkedAt": "2026-10-25T19:38:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ios-jit-128.9484",
+          "date": "2026-10-25T19:35:07Z",
+          "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9484/LSX4-JIT-128.9484.ipa",
+          "size": 72149890,
+          "sha256": "1775423263e46fdd08f282649e97f736b6cfbde24ee789f7e9b5782e90530f57",
+          "upstreamAssetURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9484/LSX4-JIT-128.9484.ipa",
+          "sourceAssetName": "LSX4-JIT-128.9484.ipa",
+          "sourceAppName": "LSX4",
+          "ipaBundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+          "releaseChannel": "release",
+          "buildVersion": "128.9484"
+        },
         {
           "buildVersion": "128.9408",
           "date": "2026-10-24T21:10:26Z",
