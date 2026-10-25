@@ -5933,9 +5933,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop",
+        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/tag/v1.35.0",
         "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
       },
       "bundleIdentifier": "com.coolapk.desktop",
@@ -5954,13 +5954,25 @@
       "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "name": "coolapk-desktop",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-25T01:57:43Z",
-        "message": "Private updater: No release with a matching IPA asset was found."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+        "checkedAt": "2026-10-25T02:06:35Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.35.0",
+          "date": "2026-10-15T03:53:20Z",
+          "downloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+          "size": 8021392,
+          "sha256": "3c1ddcb04bfef77990a228404c0d11e54fc1cc3cf879296f2571532769059a75",
+          "upstreamAssetURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+          "sourceAssetName": "coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "135.9.99"
+        },
         {
           "buildVersion": "135.0.4",
           "date": "2026-10-14T09:53:53Z",
