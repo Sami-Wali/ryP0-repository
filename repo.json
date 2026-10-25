@@ -1124,7 +1124,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release1",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
