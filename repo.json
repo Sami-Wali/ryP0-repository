@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/SonicGenerations-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-022a76d64292cbea88b32fd75a7f3451",
         "sourceURL": "https://github.com/DevZer0D4Y/SonicGenerations-iOS",
