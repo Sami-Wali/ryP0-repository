@@ -7000,10 +7000,9 @@
       "localizedDescription": "",
       "name": "EspressU",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa",
-        "checkedAt": "2026-10-26T13:26:34Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-26T13:48:00Z",
+        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "",
       "updatePolicy": "daily",
