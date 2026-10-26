@@ -1111,7 +1111,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-b36c09a1e4cbb665a7c0e52bb2458fce",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/ProjectReignition-iOS",
         "workflowPath": ".github/workflows/update-app-project-b36c09a1e4cbb665a7c0e52bb2458fce.yml"
