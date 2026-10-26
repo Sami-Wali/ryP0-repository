@@ -1514,10 +1514,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-dc2b41ad5c44522672a8382c60a8732a",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/test8",
+        "configId": "project-dc2b41ad5c44522672a8382c60a8732a",
+        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/v2.1.0",
         "workflowPath": ".github/workflows/update-app-project-dc2b41ad5c44522672a8382c60a8732a.yml"
       },
       "bundleIdentifier": "com.mikevillarroel.buildbox",
@@ -1537,14 +1537,27 @@
       "localizedDescription": "",
       "name": "buildbox-ios",
       "status": {
-        "checkedAt": "2026-10-26T13:26:34Z",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+        "checkedAt": "2026-10-26T20:17:52Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.1.0",
+          "date": "2026-10-26T20:16:22Z",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+          "size": 17956353,
+          "sha256": "3c33a63f15589add88f7fd8d965192f37ef20005b7a3e959a2a7a5e65b746df8",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+          "sourceAssetName": "BuildBox-2.1.0.ipa",
+          "sourceAppName": "BuildBox",
+          "ipaBundleIdentifier": "com.mikevillarroel.buildbox",
+          "releaseChannel": "release",
+          "buildVersion": "82"
+        },
         {
           "buildVersion": "68",
           "date": "2026-10-23T20:46:23Z",
@@ -1649,6 +1662,9 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/test8/BuildBox-Test8.ipa",
           "version": "test8"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mikevillarroel.buildbox"
       ]
     },
     {
