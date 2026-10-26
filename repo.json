@@ -1260,7 +1260,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-07b0bf20965bbefea7e7883d126e128c",
-        "sourceURL": "https://github.com/mikevillarroel/layers/releases/tag/v1.0.3",
+        "sourceURL": "https://github.com/mikevillarroel/layers/releases/tag/v1.0.4",
         "workflowPath": ".github/workflows/update-app-project-07b0bf20965bbefea7e7883d126e128c.yml"
       },
       "bundleIdentifier": "com.mikevillarroel.layers",
@@ -1281,13 +1281,26 @@
       "name": "layers",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",
-        "checkedAt": "2026-10-26T16:13:40Z",
+        "checkedDownloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+        "checkedAt": "2026-10-26T16:48:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.4",
+          "date": "2026-10-26T16:46:16Z",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+          "size": 889934,
+          "sha256": "831710f7b09de83e23fbabb7c501eab45bdbab5f4e7f1944d833b79f8d2677ae",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+          "sourceAssetName": "Layers-1.0.4.ipa",
+          "sourceAppName": "Layers",
+          "ipaBundleIdentifier": "com.mikevillarroel.layers",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
         {
           "version": "v1.0.3",
           "date": "2026-10-26T16:10:40Z",
@@ -1340,6 +1353,9 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.0/Layers-v1.0.0.ipa",
           "version": "v1.0.0"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mikevillarroel.layers"
       ]
     },
     {
