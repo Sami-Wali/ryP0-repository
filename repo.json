@@ -811,10 +811,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9-fix.1",
+        "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
+        "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.10",
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
@@ -835,13 +835,26 @@
       "name": "RewindBox",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.9-fix.1/RewindBox-Build530.ipa",
-        "checkedAt": "2026-10-26T22:49:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
+        "checkedAt": "2026-10-26T23:42:51Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.10",
+          "date": "2026-10-26T23:39:28Z",
+          "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
+          "size": 188063063,
+          "sha256": "f16c2a3529537bfbaa933972ed63f6ce96bb2a9ca176f1e2d1726dcd7896480d",
+          "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
+          "sourceAssetName": "RewindBox-.0.0.10.ipa",
+          "sourceAppName": "RewindBox",
+          "ipaBundleIdentifier": "com.neogamelab.neostation",
+          "releaseChannel": "release",
+          "buildVersion": "559"
+        },
         {
           "buildVersion": "530",
           "date": "2026-10-25T03:12:50Z",
@@ -972,6 +985,9 @@
           "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.8/RewindBox-0.0.8.ipa",
           "version": "0.0.8"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.neogamelab.neostation"
       ]
     },
     {
