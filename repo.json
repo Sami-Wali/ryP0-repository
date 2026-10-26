@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "delta",
+      "catalogID": "project-980252c998a9793bc7b373b8ee46d61b",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "rileytestut",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2024-07-11T01:08:23Z",
+          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+          "size": 87734964,
+          "buildVersion": "102",
+          "releaseChannel": "release",
+          "sha256": "2e41f24f617b2e73618b786efadfd9d27a9c9de119e6576caa4b51dd36c2d07e",
+          "sourceAppName": "Delta",
+          "sourceAssetName": "Delta_1_6.ipa",
+          "ipaBundleIdentifier": "com.rileytestut.Delta",
+          "upstreamAssetURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.rileytestut.Delta-2e41f24f617b.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+        "checkedAt": "2026-10-26T03:32:06Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+        "sourceURL": "https://github.com/rileytestut/delta"
+      },
+      "githubURL": "https://github.com/rileytestut/delta",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-980252c998a9793bc7b373b8ee46d61b",
+        "sourceURL": "https://github.com/rileytestut/delta",
+        "workflowPath": ".github/workflows/update-app-project-980252c998a9793bc7b373b8ee46d61b.yml"
+      }
+    },
+    {
       "name": "god-of-war-3-IOS",
       "catalogID": "project-89132ca96fefd86ded3d81da828fffa6",
       "bundleIdentifier": "com.gow3ios.app",
