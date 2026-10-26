@@ -185,7 +185,7 @@
       },
       "githubURL": "https://github.com/rileytestut/delta",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-980252c998a9793bc7b373b8ee46d61b",
         "sourceURL": "https://github.com/rileytestut/Delta/releases/tag/1.0",
