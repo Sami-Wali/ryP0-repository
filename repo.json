@@ -7001,7 +7001,7 @@
       "name": "EspressU",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-26T13:48:00Z",
+        "checkedAt": "2026-10-26T14:12:45Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "",
