@@ -138,6 +138,19 @@
           "ipaBundleIdentifier": "com.rileytestut.Delta",
           "releaseChannel": "release",
           "buildVersion": "15"
+        },
+        {
+          "version": "1.1",
+          "date": "2019-10-16T18:29:16Z",
+          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/1.1/Delta_iOS_12.0%2B.ipa",
+          "size": 32013714,
+          "sha256": "bf3910fd590d062fb98556637d38036c18c54b9eceefce25794f9ca3e6755d0a",
+          "upstreamAssetURL": "https://github.com/rileytestut/Delta/releases/download/1.1/Delta_iOS_12.0%2B.ipa",
+          "sourceAssetName": "Delta_iOS_12.0+.ipa",
+          "sourceAppName": "Delta",
+          "ipaBundleIdentifier": "com.rileytestut.Delta",
+          "releaseChannel": "release",
+          "buildVersion": "15"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.rileytestut.Delta-2e41f24f617b.png",
@@ -147,7 +160,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
-        "checkedAt": "2026-10-26T03:32:39Z",
+        "checkedAt": "2026-10-26T03:32:42Z",
         "message": "Updated by private automation"
       },
       "importSource": {
