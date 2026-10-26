@@ -12605,6 +12605,23 @@
       "versions" : [
 
       ]
+    },
+    {
+      "appType" : "Static",
+      "bundleIdentifier" : "source-port-a49f8c36a985250e330aad3637f791fa",
+      "catalogID" : "source-port-a49f8c36a985250e330aad3637f791fa",
+      "category" : "Ports",
+      "developerName" : "seedds",
+      "githubProjectCard" : false,
+      "githubURL" : "https:\/\/github.com\/seedds\/nxnative",
+      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/3463322?v=4",
+      "localizedDescription" : "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+      "name" : "nxnative",
+      "portDistribution" : "source-code",
+      "updatePolicy" : "static",
+      "versions" : [
+
+      ]
     }
   ],
   "categories" : [
