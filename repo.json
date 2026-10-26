@@ -718,7 +718,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.9-fix.1",
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
