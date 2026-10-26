@@ -73,6 +73,19 @@
           "ipaBundleIdentifier": "com.rileytestut.Delta",
           "releaseChannel": "release",
           "buildVersion": "47"
+        },
+        {
+          "version": "1.3",
+          "date": "2021-04-21T21:04:29Z",
+          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/1.3/Delta_1_3.ipa",
+          "size": 19626483,
+          "sha256": "0b461fefea87e99504c058f0880ddf8cf55dcccf71516e46db4e41a3ed5e8d59",
+          "upstreamAssetURL": "https://github.com/rileytestut/Delta/releases/download/1.3/Delta_1_3.ipa",
+          "sourceAssetName": "Delta_1_3.ipa",
+          "sourceAppName": "Delta",
+          "ipaBundleIdentifier": "com.rileytestut.Delta",
+          "releaseChannel": "release",
+          "buildVersion": "43"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.rileytestut.Delta-2e41f24f617b.png",
@@ -82,7 +95,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
-        "checkedAt": "2026-10-26T03:32:24Z",
+        "checkedAt": "2026-10-26T03:32:27Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -97,7 +110,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-980252c998a9793bc7b373b8ee46d61b",
-        "sourceURL": "https://github.com/rileytestut/Delta/releases/tag/1.3.1",
+        "sourceURL": "https://github.com/rileytestut/Delta/releases/tag/1.3",
         "workflowPath": ".github/workflows/update-app-project-980252c998a9793bc7b373b8ee46d61b.yml"
       }
     },
