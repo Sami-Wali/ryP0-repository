@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "god-of-war-3-IOS",
+      "catalogID": "project-89132ca96fefd86ded3d81da828fffa6",
+      "bundleIdentifier": "com.gow3ios.app",
+      "developerName": "MohinShaikh5689",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.1.46",
+          "date": "2026-10-25T08:10:46Z",
+          "downloadURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
+          "size": 17855221,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "5dc23bb2ab58ad7c6d15aa667665a7985df04353bcfe3d519957b879f10a9b9d",
+          "sourceAppName": "Olympus",
+          "sourceAssetName": "gow3-ios-Release.ipa",
+          "ipaBundleIdentifier": "com.gow3ios.app",
+          "upstreamAssetURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.gow3ios.app-5dc23bb2ab58.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
+        "checkedAt": "2026-10-26T03:28:27Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
+        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS"
+      },
+      "githubURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-89132ca96fefd86ded3d81da828fffa6",
+        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
+        "workflowPath": ".github/workflows/update-app-project-89132ca96fefd86ded3d81da828fffa6.yml"
+      }
+    },
+    {
       "name": "LinuxRunner",
       "catalogID": "project-e065272d5820d1562f93989df1329bf3",
       "bundleIdentifier": "dev.linuxrunner.app",
