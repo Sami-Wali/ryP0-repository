@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "LinuxRunner",
+      "catalogID": "project-e065272d5820d1562f93989df1329bf3",
+      "bundleIdentifier": "dev.linuxrunner.app",
+      "developerName": "mxhm11cr",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-25T21:10:18Z",
+          "downloadURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.0.0/LinuxRunner-1.0.0.ipa",
+          "size": 14496024,
+          "buildVersion": "895",
+          "releaseChannel": "release",
+          "sha256": "710dcf42afa27c8a0fe1928352fa4d3ecbc6a3cbbd0f6801b409d23a872a686d",
+          "sourceAppName": "LinuxRunner",
+          "sourceAssetName": "LinuxRunner-1.0.0.ipa",
+          "ipaBundleIdentifier": "dev.linuxrunner.app",
+          "upstreamAssetURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.0.0/LinuxRunner-1.0.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.linuxrunner.app-710dcf42afa2.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.0.0/LinuxRunner-1.0.0.ipa",
+        "checkedAt": "2026-10-26T03:19:50Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.0.0/LinuxRunner-1.0.0.ipa",
+        "sourceURL": "https://github.com/mxhm11cr/LinuxRunner"
+      },
+      "githubURL": "https://github.com/mxhm11cr/LinuxRunner",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-e065272d5820d1562f93989df1329bf3",
+        "sourceURL": "https://github.com/mxhm11cr/LinuxRunner",
+        "workflowPath": ".github/workflows/update-app-project-e065272d5820d1562f93989df1329bf3.yml"
+      }
+    },
+    {
       "name": "Strata",
       "catalogID": "project-a3509749fdbe8400cd67bd26d7c7b890",
       "bundleIdentifier": "com.kdt.livecontainer",
