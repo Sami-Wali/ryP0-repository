@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/mxhm11cr/LinuxRunner",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e065272d5820d1562f93989df1329bf3",
         "sourceURL": "https://github.com/mxhm11cr/LinuxRunner",
