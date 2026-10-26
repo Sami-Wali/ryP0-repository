@@ -4649,9 +4649,8 @@
       "name": "taurus",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://files.catbox.moe/5gv4ku.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Private updater: The downloaded file is not a valid IPA ZIP archive."
+        "checkedAt": "2026-10-26T09:11:33Z",
+        "message": "Private updater: The upstream IPA download returned HTTP 504."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
@@ -5070,8 +5069,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-26T09:10:13Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -7402,13 +7401,21 @@
       "name": "Apollo for Reddit",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_3.9.0/Apollo-Reborn-3.9.0.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_4.0.0/Apollo-Reborn-4.0.0.ipa",
+        "checkedAt": "2026-10-26T09:06:56Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching: • Jump Bar, for super-fast hopping between subreddits • Super-charged Media Viewer for an amazing experience viewing images, GIFs, videos, albums, and more from a variety of sources. • Tabbed interface for easy navigating • Incredibly powerful Markdown composer for writing comments and posts • Full inline Imgur uploading, both images and albums • Large or compact posts depending on your preference • Dark mode (can be automatic) • Fully customizable gestures • Safari View Controller for browsing articles and links • Inline previews of media in comments • 3D Touch support • Beautifully organized Inbox • Filtering and blocking • Face ID / Touch ID / Passcode lock • Moderator features • Tons of settings to tweak • GIF scrubbing to go backward and forward in time • Multiple accounts • Powerful search • Full Markdown rendering • Unobtrusive Volume Indicator As well as much, much more and it's constantly evolving. If you have anything you'd specifically like to see, come to the ApolloApp subreddit and we'd love to hear it! Apollo is an unofficial app, and side effects may include an incredible browsing experience.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "4.0.0",
+          "date": "2026-10-25T17:15:04Z",
+          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_4.0.0/Apollo-Reborn-4.0.0.ipa",
+          "size": 97618297,
+          "sha256": "33d40ea86bbf52f8f91c154dd33d2834ab86bc302397fb7e80fdcfb9147a4a45",
+          "buildVersion": "302"
+        },
         {
           "buildVersion": "301",
           "date": "2026-10-09T22:56:25Z",
@@ -7428,16 +7435,6 @@
           "sha256": "e90d101cb782c3b18ce28aab6833a51ae1bf1c19d9aabc274f98daed3d2f0783",
           "size": 96696713,
           "version": "3.8.5"
-        },
-        {
-          "buildVersion": "299",
-          "date": "2026-09-25T03:11:32Z",
-          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_3.8.0/Apollo-Reborn-3.8.0.ipa",
-          "localizedDescription": "Mirrored from [Apollo-Reborn v1.15.11_3.8.0](https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.8.0). These IPAs are the **official Apollo-Reborn builds**, re-hosted here so this long-standing AltStore source keeps working for existing users. Apollo-Reborn also runs its own website and sources at https://apolloreborn.app --- ### Features - Add **Save All Media** to save every image, GIF, and video in a Reddit gallery, Imgur album, or ImageChest post at once, from the fullscreen viewer's menus or an album's long-press menu, with a progress ring and Cancel (#1048: @IllIIllIllIllII) - Fullscreen images offer Save Image next to Share, and holding an image in the viewer or a feed gallery offers Copy Image and Save Image for that image instead of jumping straight to the share sheet - Also fixes **Download Video** when only Reddit's copy is available, **Save GIF** in the share sheet, and missing post controls on albums opened from a link in a post - Add **Action Menus** (Interface → Menus) to reorder and hide the actions in Apollo's ••• menus and, for moderators, its moderator menus, one menu at a time with a live preview (#1131: @icpryde) - Redesign the **Account Switcher** as a themed bottom sheet with larger avatars, Add Account and Edit at the top, and drag-to-reorder that no longer refreshes your feed (#1077: @IllIIllIllIllII) - Also fixes a crash when switching accounts - Add **Automatic Backups** (Data → Backup Settings) — pick a folder in Files and your settings are backed up there every day, three days, or seven days, keeping the ten most recent automatic backups (#1060, #1148, #1152: @IllIIllIllIllII) - Backups now save as `.apollobackup` files with the Apollo icon, and opening one from Files asks before restoring; existing `.zip` backups still restore - Add **Settings Shortcuts** — press and hold the Settings tab to jump straight to up to 15 settings pages, chosen and reordered under Interface → Tab Bar → Settings Shortcuts (#1150: @IllIIllIllIllII) - Add a **Return Button** that appears beside Back after a status-bar tap takes you to the top; tap it, or the status bar again, to jump back to where you were reading, now on Liquid Glass too (#1116: @icpryde, @IllIIllIllIllII) - Turn the button off under Interface → Display & Navigation; the second status-bar tap keeps working either way - Rework **Hidden & Deleted** into a profile row that opens one combined feed of archived posts and comments, labeled Hidden, Removed, or Deleted, with inline images and swipeable albums (#1137: @IllIIllIllIllII) - Add **Profile Picture Shape** (Interface → Display & Navigation) to show profile pictures as Full, Circle, or rounded Square across posts, comments, messages, the profile tab, and the Account Switcher (#1136: @IllIIllIllIllII) - Extend **Immersive** profile artwork behind the status and navigation bars with a wider crop and smoother fade, and long-press a profile banner to view it fullscreen and save it (#1186: @IllIIllIllIllII) - Play GIF and video tiles silently in **Gallery View**'s grid while they're on screen, with separate **Play Videos in Gallery View** and **Play GIFs in Gallery View** switches (Media → Browsing, on by default) (#1142: @icpryde) - Speed up opening and closing **images and albums** — albums zoom straight out of the feed thumbnail like single images, the background fades as you swipe media away, and closing an album returns the feed carousel to the last image you viewed (#1143: @IllIIllIllIllII) - Smooth out scrolling through **video-heavy feeds** — playing videos take far less of the app's time, and the new **Smoother Video Scrolling** switch (Posts & Feeds → Feed, on by default) prepares players in the background and lets video posts draw without stalling the scroll (#1168: @icpryde) - Keep unsent **Chat** drafts in modern Direct Chat, saved per account and conversation and restored when you come back (#1207: @Thetromboneman1) - Add **Swipe Tab Bar to Navigate** (Interface → Tab Bar, Liq",
-          "releaseChannel": "release",
-          "sha256": "3c6a855d7e19351a966f7e833d1d27199a8e34e981e94af005d8d756bf5f9de7",
-          "size": 96553795,
-          "version": "3.8.0"
         }
       ]
     },
@@ -7566,8 +7563,7 @@
       "name": "Spy G",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
+        "checkedAt": "2026-10-26T09:09:59Z",
         "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
       },
       "subtitle": "Spotify cracked releases",
@@ -7816,8 +7812,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
+        "checkedAt": "2026-10-26T09:05:47Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -7854,8 +7849,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
+        "checkedAt": "2026-10-26T09:05:43Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -10734,8 +10728,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-26T09:00:22Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -10881,8 +10875,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-26T09:01:16Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -11010,8 +11004,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-26T09:01:32Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -11190,10 +11184,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "state": "broken",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download returned HTTP 404"
+        "checkedAt": "2026-10-26T09:00:33Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
@@ -11665,10 +11659,9 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
       "name": "ARMSX2 (Stable)",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-26T09:00:32Z",
+        "message": "Private updater: GitHub API returned HTTP 502."
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
@@ -12258,14 +12251,22 @@
       "name": "YT Music",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.42.2-25957d094098.ipa",
-        "checkedAt": "2026-10-26T05:08:59Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.43.2-a88f8913718d.ipa",
+        "checkedAt": "2026-10-26T09:00:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Mod by Mark02-2012",
       "tintColor": "#848ef9",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.43.2",
+          "date": "2026-10-24T00:00:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.43.2-a88f8913718d.ipa",
+          "size": 107825399,
+          "sha256": "a88f8913718d27e048450de3fbf78e2833c695725bf9f207ac418abfe1b57a8a",
+          "buildVersion": "9.43.2"
+        },
         {
           "buildVersion": "9.42.2",
           "date": "2026-10-18T00:00:00Z",
