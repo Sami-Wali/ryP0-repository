@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Bai",
+      "catalogID": "project-a96370eac0527f527e8707a94666765a",
+      "bundleIdentifier": "com.iSVG4.Bai",
+      "developerName": "iSVG4",
+      "localizedDescription": "Only TrollStore",
+      "subtitle": "Only TrollStore",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-24T19:13:29Z",
+          "downloadURL": "https://github.com/iSVG4/Bai/releases/download/Release/Bai.tipa",
+          "size": 1828906,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "8372ec8885f5510dd258b8201f180660975a7c86d2017eb1f61e25062e4e2d79",
+          "sourceAppName": "Bai",
+          "sourceAssetName": "Bai.tipa",
+          "ipaBundleIdentifier": "com.iSVG4.Bai",
+          "upstreamAssetURL": "https://github.com/iSVG4/Bai/releases/download/Release/Bai.tipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.iSVG4.Bai-8372ec8885f5.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/iSVG4/Bai/releases/download/Release/Bai.tipa",
+        "checkedAt": "2026-10-26T03:35:09Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/iSVG4/Bai/releases/download/Release/Bai.tipa",
+        "sourceURL": "https://github.com/iSVG4/Bai"
+      },
+      "githubURL": "https://github.com/iSVG4/Bai",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-a96370eac0527f527e8707a94666765a",
+        "sourceURL": "https://github.com/iSVG4/Bai",
+        "workflowPath": ".github/workflows/update-app-project-a96370eac0527f527e8707a94666765a.yml"
+      }
+    },
+    {
       "name": "delta",
       "catalogID": "project-980252c998a9793bc7b373b8ee46d61b",
       "bundleIdentifier": "com.rileytestut.Delta",
