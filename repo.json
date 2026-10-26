@@ -620,7 +620,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-83d98e759e50eaec64a233689e3f9aef",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9484",
         "workflowPath": ".github/workflows/update-app-project-83d98e759e50eaec64a233689e3f9aef.yml"
