@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89132ca96fefd86ded3d81da828fffa6",
         "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
