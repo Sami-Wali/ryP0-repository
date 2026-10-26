@@ -9038,7 +9038,8 @@
           "sourceAssetName": "FactorioPad-template.ipa",
           "ipaBundleIdentifier": "pl.adrian.FactorioPad",
           "releaseChannel": "prerelease",
-          "buildVersion": "13"
+          "buildVersion": "13",
+          "localizedDescription": "Add hold-to-drop and compact Pad controls"
         },
         {
           "buildVersion": "12",
