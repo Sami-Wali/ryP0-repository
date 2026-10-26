@@ -1589,10 +1589,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.600",
+        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
+        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.611",
         "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
       },
       "bundleIdentifier": "com.thebcd69.bcd",
@@ -1613,13 +1613,26 @@
       "name": "BCD",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.600/BCD.ipa",
-        "checkedAt": "2026-10-26T13:26:34Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.611/BCD.ipa",
+        "checkedAt": "2026-10-26T16:57:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "He’s",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.611",
+          "date": "2026-10-26T16:56:28Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.611/BCD.ipa",
+          "size": 182284110,
+          "sha256": "55da80eabafc522a465808cbf8cdfb4f57d1455f243cfcd85b308c5315249ecc",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.611/BCD.ipa",
+          "sourceAssetName": "BCD.ipa",
+          "sourceAppName": "BCD",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "releaseChannel": "alpha",
+          "buildVersion": "611"
+        },
         {
           "buildVersion": "600",
           "date": "2026-10-24T19:48:29Z",
@@ -1724,6 +1737,9 @@
           "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.573/BCD.ipa",
           "version": "v0.1.573"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.thebcd69.bcd"
       ]
     },
     {
