@@ -1537,7 +1537,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-067687253ada6abecedacc3f9faf730d",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
