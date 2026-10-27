@@ -9549,6 +9549,72 @@
           "sha256": "fcd4e6c811c34bb98f1322e53350acc1baff182ab91a1bddfc8712c2bf437bc9",
           "size": 31797033,
           "version": "v2.4.0"
+        },
+        {
+          "version": "v2.3.0",
+          "date": "2026-08-26T06:29:18Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.3.0/skate3.ipa",
+          "size": 32996465,
+          "sha256": "419d48dd82787588c6b44527f444cb7b50b1662cafea5fa1914eed12568d50a7",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "# ⚠️ There is a newer version **Download v2.4.0 instead → https://github.com/andrewnakas/skate3-ios-setup/releases/latest** v2.3.0 already runs at a locked 60fps; v2.4.0 keeps that and adds a performance menu on Start + Select, more controller options, and setup that explains how to get the game onto your phone. If you use AltStore or SideStore, you don't need to download anything by hand — add this source and it will keep itself updated: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` --- ### Original 2.3.0 notes **Locked 60fps.** Previous builds ran 45-50fps in career mode and drifted down over a session. This one holds a locked 60 on an iPhone 13 mini — median frame 16.7ms, and the 95th percentile is 16.8-17.8ms, so it's not an average with dips hiding in it. **Occlusion culling now works on iOS.** It never had. The depth grid it needs was only ever produced inside the ambient-occlusion pass, which iOS switches off to save memory — so the feature was silently doing nothing since the port began. It now builds that grid in a pass of its own. Roughly 480,000 hidden items are culled per session instead of zero. **The emulated passes the native renderer replaces are now skipped.** GPU timing showed the leftover emulation plumbing cost more per frame than drawing the actual world — 10 render-pass entries alone were 3.2ms, and on a phone GPU every one of those is a full tile load/store. Removing them took GPU time from 17.8-19.4ms to 11.0-11.9ms against a 16.67ms budget. **The world is drawn at console distance again.** Draw and LOD distance had been defaulting to twice what the Xbox 360 used, which is roughly four times the world area streaming — affordable standing still, not affordable at speed. That was behind the slowdowns when you built up speed through an area. **The startup and resume hangs are fixed.** Both were the same bug: the renderer allowed as many frames in flight as the swapchain had images, so it could ask for a drawable while every one was still held, and wait forever. There is now always one spare. Also: the texture cache budgets are bounded properly, which keeps memory near 1GB instead of 1.4GB and stops the frame-time drift over long sessions; caches are handed back when the app is backgrounded so iOS is less likely to evict it; and a logging bug is fixed that could turn a recoverable guest fault into a hang. **If lighting looks wrong** in some areas, add `native_render_suppress_mode=2` to `Documents/user/ios_args.txt` — that trades a few fps for the old behavior. As always: this contains no game content. You supply your own copy of the game.",
+          "buildVersion": "2.3.0"
+        },
+        {
+          "version": "v2.2.0",
+          "date": "2026-08-25T08:58:20Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.2.0/skate3.ipa",
+          "size": 32981702,
+          "sha256": "b01febd6719b618758acf85a2b4b643157c06a141ddfbff94e5630846cbe6fc7",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "# ⚠️ There is a newer version **Download v2.4.0 instead → https://github.com/andrewnakas/skate3-ios-setup/releases/latest** This build (2.2.0) runs 45-50fps and drifts down over a session. v2.4.0 holds a locked 60fps on an iPhone 13 mini - median frame 16.7ms, 95th percentile 16.8-17.8ms. If you use AltStore or SideStore, you don't need to download anything by hand — add this source and it will keep itself updated: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` --- ### Original v2.2.0 notes Custom map packs with a startup chooser, the mission stutter fixed, and the menu hangs fixed.",
+          "buildVersion": "2.2.0"
+        },
+        {
+          "version": "v2.1.2",
+          "date": "2026-08-25T00:13:50Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.1.2/skate3.ipa",
+          "size": 32960472,
+          "sha256": "e2418a5be0f089c00c8297dd34fa17eee880f6ee991f582c1d3a982c9bce495b",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "# ⚠️ There is a newer version **Download v2.4.0 instead → https://github.com/andrewnakas/skate3-ios-setup/releases/latest** This build (2.1.2) predates the 60fps work. v2.4.0 holds a locked 60fps on an iPhone 13 mini - median frame 16.7ms, 95th percentile 16.8-17.8ms. If you use AltStore or SideStore, you don't need to download anything by hand — add this source and it will keep itself updated: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` --- ### Original 2.1.2 notes The crash that kept ending sessions is fixed, at full frame rate. **You supply the game.** This release contains no game content. After installing, copy your own extracted game data into Files → On My iPhone → Skate 3 → game, and Title Update 3 alongside it. ## Fixed A fault inside MoltenVK's presentation path had been ending sessions at unpredictable times. It survived every fix aimed at memory, swapchain lifetime and the system's low-memory warning, and MoltenVK's latest release still has it. Presenting through a command buffer rather than calling presentDrawable directly builds the completion handler elsewhere and does not fault. The other workaround — synchronous submits — also worked but halved the frame rate, so this is the one that ships. Also in this release: the hang from moving quickly through the start menus, and a swapchain that could be destroyed while Metal still had work queued against it. ## Install Add this source in AltStore or SideStore: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` Or download the .ipa below and sideload it. It is unsigned — you sign it with your own Apple ID. A free Apple ID works. ## Custom maps Drop a pack folder (its `.big` and `.header` together) at the top of the app's Documents folder. It is staged at every start and appears in the game's own Freeskate list. One pack at a time. ## Performance 60fps on an iPhone 13 mini — median frame 16.7ms, 95th percentile 16.8ms — on stock and custom maps alike.",
+          "buildVersion": "2.0.0"
+        },
+        {
+          "version": "v2.1.1",
+          "date": "2026-08-24T23:59:06Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.1.1/skate3.ipa",
+          "size": 32959473,
+          "sha256": "ce929c03d2193a911a9e013f3372681c6fa34365ebc45e0d8e75e8d9b9934732",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "# ⚠️ There is a newer version **Download v2.4.0 instead → https://github.com/andrewnakas/skate3-ios-setup/releases/latest** This build (2.1.1) predates the 60fps work. v2.4.0 holds a locked 60fps on an iPhone 13 mini - median frame 16.7ms, 95th percentile 16.8-17.8ms. If you use AltStore or SideStore, you don't need to download anything by hand — add this source and it will keep itself updated: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` --- ### Original 2.1.1 notes Two crashes and a hang fixed. **You supply the game.** This release contains no game content. After installing, copy your own extracted game data into Files → On My iPhone → Skate 3 → game, and Title Update 3 alongside it. ## Fixed - **Crash when a phone call arrives.** The app never answered the system's low-memory warning, so when something else on the device needed memory, iOS reclaimed the app's graphics resources underneath the driver. It now hands back its texture and mesh caches, which rebuild on demand. - **Hang from moving quickly through the start menus.** A content-device query signalled its completion before returning, so the DLC enumerator could start waiting on something that had already happened. It now completes off the calling thread, like the enumeration calls beside it. - **Presentation crash on swapchain replacement.** A retired swapchain could be destroyed while Metal still had a presentation-completion block queued against its images. ## Install Add this source in AltStore or SideStore: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` Or download the .ipa below and sideload it. It is unsigned — you sign it with your own Apple ID. A free Apple ID works. ## Custom maps Drop a pack folder (its `.big` and `.header` together) at the top of the app's Documents folder. It is staged at every start and appears in the game's own Freeskate list. One pack at a time. ## Performance 60fps on an iPhone 13 mini, on stock and custom maps alike.",
+          "buildVersion": "2.0.0"
+        },
+        {
+          "version": "v2.1.0",
+          "date": "2026-08-24T23:32:26Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.1.0/skate3.ipa",
+          "size": 32957023,
+          "sha256": "ce537dab06651bc62172d2d3739dcec1228d6361549db2ad8de2cad422436da9",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "# ⚠️ There is a newer version **Download v2.4.0 instead → https://github.com/andrewnakas/skate3-ios-setup/releases/latest** This build (2.1.0) predates the 60fps work. v2.4.0 holds a locked 60fps on an iPhone 13 mini - median frame 16.7ms, 95th percentile 16.8-17.8ms. If you use AltStore or SideStore, you don't need to download anything by hand — add this source and it will keep itself updated: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` --- ### Original 2.1.0 notes Custom map packs, and the crash that kept ending sessions is fixed. **You supply the game.** This release contains no game content. After installing, copy your own extracted game data into Files → On My iPhone → Skate 3 → game, and Title Update 3 alongside it. The app will not start without them. ## What changed - **Fixed the presentation crash.** A swapchain was destroyed while Metal could still run a presentation-completion block against its images, which faulted on freed memory — 26 recorded crashes on one device, and the most common way a session ended. Retired swapchains are now held a few frames. - **Custom map packs load.** Drop a pack folder (its `.big` and `.header`) at the top of the app's Documents folder and it is staged into the content tree at every start, then appears in the game's own Freeskate list. One pack at a time. - **On-screen touch controls** when no controller is attached. ## Install Add this source in AltStore or SideStore: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` Or download the .ipa below and sideload it. It is unsigned — you sign it with your own Apple ID. A free Apple ID works. Prefer to build from your own disc image? See the [README](https://github.com/andrewnakas/skate3-ios-setup). ## Performance Around 53-59fps on an iPhone 13 mini with a 16.7ms median frame, on stock and custom maps alike. Frame times ease off after several minutes of continuous play as the device warms and memory pressure rises.",
+          "buildVersion": "2.0.0"
+        },
+        {
+          "version": "v2.0.0",
+          "date": "2026-08-24T21:50:20Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.0.0/skate3.ipa",
+          "size": 32948538,
+          "sha256": "eb61f2ef43c3d5eddb26add3f5faf19eb46cdbc7ade865cd6f4c746e42f44643",
+          "ipaBundleIdentifier": "com.skate3recomp.skate3",
+          "releaseChannel": "release",
+          "localizedDescription": "Static recompilation of Skate 3 for iOS. Sustained 60fps on an iPhone 13 mini. **You supply the game.** This release contains no game content — no assets, no title-update data. After installing, copy your own extracted game data into Files → On My iPhone → Skate 3 → game. The app will not start without it. ## Install Add this source in AltStore or SideStore: ``` https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/master/source.json ``` Or download the .ipa below and sideload it with AltStore, SideStore or Sideloadly. It is unsigned — you sign it with your own Apple ID, which those tools do for you. A free Apple ID works; free signing expires after 7 days and the tools re-sign automatically. Prefer to build it yourself from your own disc image? See the [README](https://github.com/andrewnakas/skate3-ios-setup) — that path needs a Mac and gives you the recompiler. ## This release - Sustained 60fps: median frame 16.7ms, 95th percentile 17.2ms - Translucent on-screen touch controls when no controller is attached; MFi and Bluetooth controllers picked up automatically - Requires iOS 16.0 or later",
+          "buildVersion": "2.0.0"
         }
       ]
     },
