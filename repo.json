@@ -6915,6 +6915,72 @@
           "sha256": "199f5ff97622d84fb07baf7f4498bf9fd5709eef6931acf89677b786e4509b46",
           "size": 85139997,
           "version": "1.0"
+        },
+        {
+          "version": "2.0_7",
+          "date": "2025-12-07T21:25:09Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
+          "size": 83206660,
+          "sha256": "ea9aab092b5e3d0ff0070fb072267db035da2aed6e2d5b177a608fb36943d2d5",
+          "ipaBundleIdentifier": "com.zrc.BudgetingBuddy",
+          "releaseChannel": "release",
+          "localizedDescription": "2.0 (7): - New Weather backend and added performance improvements - Updated home button - Everything else in 2.0 (1) - 2.0 (6)",
+          "buildVersion": "12"
+        },
+        {
+          "version": "2.0_1",
+          "date": "2025-06-29T18:05:10Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
+          "size": 108485082,
+          "sha256": "d2191ff4c84337f09c9055570f5d85f4af091a1a2d22ec136e019be2219db68b",
+          "ipaBundleIdentifier": "com.zurac.OldOSSL2",
+          "releaseChannel": "release",
+          "localizedDescription": "2.0 (1): Where to begin. This update, and my goal with it, is to bring the project back from the dead so to speak. In doing so, the codebase has been retooled and refactored, APIs have been restored, and compilation errors have been resolved. In the same vein, all (or maybe most?) bugs related to changes in iOS/Swift/SwiftUI over the past few years have been resolved. My goal is to put a new foundation in place to begin building on top of again. In other words, 2.0 returns OldOS to how it once was (and improves it perhaps too).",
+          "buildVersion": "1"
+        },
+        {
+          "version": "1.0_18",
+          "date": "2021-11-23T19:01:37Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+          "size": 88173533,
+          "sha256": "60c65a79a5fda77cb6bb42280a379196ba0ed8be5d9c03dab1da8b76a97ddb18",
+          "ipaBundleIdentifier": "com.zurac.OldOS",
+          "releaseChannel": "release",
+          "localizedDescription": "1.0 (18): - Mail is here! This is a full-blown email client, no ifs, ands, or buts - View mailboxes, read emails, move emails, manage inbox, and send emails - Fixes to YouTube backend - Other bug fixes",
+          "buildVersion": "18"
+        },
+        {
+          "version": "1.0_11",
+          "date": "2021-07-01T18:39:26Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_11/OldOS.ipa",
+          "size": 79267192,
+          "sha256": "0b9529d0dd1ff67c008b8b81d7902b41fc313b65df8fabf76576ffe3bafaa55e",
+          "ipaBundleIdentifier": "com.zurac.OldOS",
+          "releaseChannel": "release",
+          "localizedDescription": "- Allows you to set custom wallpapers from your camera roll. - Adds the extremely nostalgic battery charging lock-screen. - Fixes http/https issues in Safari.",
+          "buildVersion": "11"
+        },
+        {
+          "version": "1.0_10",
+          "date": "2021-06-20T15:14:03Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_10/OldOS.ipa",
+          "size": 78320393,
+          "sha256": "d15c4c2f8c719e8dd94af5f2ebe9a39e874b00eedef7c2ac7a98f411357f6858",
+          "ipaBundleIdentifier": "com.zurac.OldOS",
+          "releaseChannel": "release",
+          "localizedDescription": "- New icon - Fixes crashing with 100k+ photo libraries - Fixes TabView scrolling issues - Improves Home Screen animations - Fixes Camera not stopping after exiting app - Fixes Home Screen for iPhone 8 sized devices - Fixes game center - Improves shadows - Adds unlock sound",
+          "buildVersion": "10"
+        },
+        {
+          "version": "1.0_7",
+          "date": "2021-06-10T14:45:27Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_7/OldOS.ipa",
+          "size": 78494840,
+          "sha256": "de2fa107990acf8cb0283d6a0ff6ee9d9307ac23bccc9acf02d03ec116eb7830",
+          "ipaBundleIdentifier": "com.zurac.OldOS",
+          "releaseChannel": "release",
+          "localizedDescription": "First version of IPA available for self signing!",
+          "buildVersion": "7"
         }
       ]
     },
