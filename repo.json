@@ -522,7 +522,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-a96370eac0527f527e8707a94666765a",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/iSVG4/Bai",
         "workflowPath": ".github/workflows/update-app-project-a96370eac0527f527e8707a94666765a.yml"
