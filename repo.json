@@ -10306,9 +10306,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.4-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.5-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -10324,13 +10324,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.4-beta/nuvio-0.6.4-full-release.ipa",
-        "checkedAt": "2026-10-26T22:49:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
+        "checkedAt": "2026-10-27T02:07:33Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.5-beta",
+          "date": "2026-10-27T02:04:03Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
+          "size": 67965485,
+          "sha256": "599eff1327f1018e65f0f577f1d3e6070833dc3d291589105dfa173ef7b41d7e",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
+          "sourceAssetName": "nuvio-0.6.5-full-release.ipa",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "releaseChannel": "beta",
+          "buildVersion": "148"
+        },
         {
           "buildVersion": "147",
           "date": "2026-10-23T23:20:42Z",
@@ -10341,7 +10353,8 @@
           "size": 67805794,
           "sourceAssetName": "nuvio-0.6.4-full-release.ipa",
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.4-beta/nuvio-0.6.4-full-release.ipa",
-          "version": "0.6.4-beta"
+          "version": "0.6.4-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "146",
@@ -10353,7 +10366,8 @@
           "size": 68815810,
           "sourceAssetName": "nuvio-0.6.3-full-release.ipa",
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.3-beta/nuvio-0.6.3-full-release.ipa",
-          "version": "0.6.3-beta"
+          "version": "0.6.3-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "145",
@@ -10365,7 +10379,8 @@
           "size": 68666779,
           "sourceAssetName": "nuvio-0.6.2-full-release.ipa",
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
-          "version": "0.6.2-beta"
+          "version": "0.6.2-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "144",
@@ -10377,7 +10392,8 @@
           "size": 68517984,
           "sourceAssetName": "nuvio-0.6.1-full-release.ipa",
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
-          "version": "0.6.1-beta"
+          "version": "0.6.1-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "143",
@@ -10389,7 +10405,8 @@
           "size": 68513753,
           "sourceAssetName": "nuvio-0.6.0-full-release.ipa",
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.0-beta/nuvio-0.6.0-full-release.ipa",
-          "version": "0.6.0-beta"
+          "version": "0.6.0-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "142",
@@ -10399,7 +10416,8 @@
           "releaseChannel": "beta",
           "sha256": "49e1d179f5a03ed641f46e6dda0958556bceb6a8776dd436d228c04f0974d3fa",
           "size": 67643251,
-          "version": "0.5.10-beta"
+          "version": "0.5.10-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "141",
@@ -10409,7 +10427,8 @@
           "releaseChannel": "beta",
           "sha256": "d656c9d689061ac1afacabd44867e4bf65012a253a30e7e755d022d3a3fea675",
           "size": 67606241,
-          "version": "0.5.9-beta"
+          "version": "0.5.9-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "139",
@@ -10419,7 +10438,8 @@
           "releaseChannel": "beta",
           "sha256": "12e380470a1ba1aab42709480aa08fe440f9171d3872a91fa9ff7f9a3de194fe",
           "size": 66836754,
-          "version": "0.5.7-beta"
+          "version": "0.5.7-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "138",
@@ -10429,7 +10449,8 @@
           "releaseChannel": "beta",
           "sha256": "503a38bb00d29c05d4d6b89443faf9c5004fbd0cd6496e177e0cb1b4dcd0ce4c",
           "size": 66690752,
-          "version": "0.5.6-beta"
+          "version": "0.5.6-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "137",
@@ -10439,7 +10460,8 @@
           "releaseChannel": "beta",
           "sha256": "ae4da6ce2738ea36e700b3774e0137dae5b0885d7d88ac46c6720b3be3c82433",
           "size": 66647562,
-          "version": "0.5.5-beta"
+          "version": "0.5.5-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "buildVersion": "136",
@@ -10449,18 +10471,12 @@
           "releaseChannel": "beta",
           "sha256": "f605463d51f304564833e82a2fc1478a326c2bea7fa15519d99e854eebb50b94",
           "size": 66389579,
-          "version": "0.5.4-beta"
-        },
-        {
-          "buildVersion": "135",
-          "date": "2026-09-27T01:18:47Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.3-beta/nuvio-0.5.3-full-release.ipa",
-          "localizedDescription": "- 0b7ab892 feat(poster): support addon landscape posters @tapframe - 60a0f4b3 feat(library): move downloads to library - 5ebb8ee5 feat(spinner): change indicator @tapframe - [i18n(ur): add Urdu localization (#2067)](https://github.com/NuvioMedia/NuvioMobile/pull/2067) @muzii9 - 23b048c3 feat(player): add episode shuffle @tapframe",
-          "releaseChannel": "beta",
-          "sha256": "7ee79b969d904893f3656ab99de0f9611fb9b70141c72f8094d4c04d74f4a72a",
-          "size": 66299682,
-          "version": "0.5.3-beta"
+          "version": "0.5.4-beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.nuvio.media"
       ]
     },
     {
