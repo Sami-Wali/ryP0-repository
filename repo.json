@@ -11829,6 +11829,50 @@
           "size": 41493705,
           "version": "release-v2.0-build-9712",
           "ipaBundleIdentifier": "com.xenios.jp"
+        },
+        {
+          "version": "release-v1.0.1-build-9288",
+          "date": "2026-03-13T16:25:09Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.1-build-9288-e3f5d3b84c0d.ipa",
+          "size": 11703406,
+          "sha256": "e3f5d3b84c0dc6af4ff7cd56b0433ba44561982adb666e25f034fda4c4ec8225",
+          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
+          "releaseChannel": "release",
+          "localizedDescription": "# 1.0.1-9288 - Channel: release - Stage: stable - Version: 1.0.1 - Build number: 9288 - Commit: 056d2f64d - Published at: 2026-03-13T15:43:21Z - Source ref: refs/heads/xenios",
+          "buildVersion": "9288"
+        },
+        {
+          "version": "release-v1.0.0-build-9299",
+          "date": "2026-03-12T11:19:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9299-6aa2e871baa8.ipa",
+          "size": 11702981,
+          "sha256": "6aa2e871baa8223a251ee3cc7a4b10d395e0b9ca72b4ad22dce51e638c42e6b1",
+          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
+          "releaseChannel": "release",
+          "localizedDescription": "# 1.0.0-9299 - Channel: release - Stage: stable - Version: 1.0.0 - Build number: 9299 - Commit: d8c101905 - Published at: 2026-03-12T10:42:28Z - Source ref: refs/heads/xenios",
+          "buildVersion": "9299"
+        },
+        {
+          "version": "release-v1.0.0-build-9296",
+          "date": "2026-03-11T07:56:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9296-3d632d377c4e.ipa",
+          "size": 11702513,
+          "sha256": "3d632d377c4ec8d7d80dd5d98f151f23dd126fdbdf962b7170224277078fe2a5",
+          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
+          "releaseChannel": "release",
+          "localizedDescription": "# 1.0.0-9296 - Channel: release - Stage: stable - Version: 1.0.0 - Build number: 9296 - Commit: ab2ca341a - Published at: 2026-03-11T07:38:28Z - Source ref: refs/heads/xenios",
+          "buildVersion": "9296"
+        },
+        {
+          "version": "release-v1.0.0-build-9280",
+          "date": "2026-03-08T16:01:39Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9280-3afee85c1fa4.ipa",
+          "size": 11684380,
+          "sha256": "3afee85c1fa485dae4f331577b8e4b254a1f38c505327a654c57d6433c2adeba",
+          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
+          "releaseChannel": "release",
+          "localizedDescription": "# 1.0.0-9280 - Channel: release - Stage: stable - Version: 1.0.0 - Build number: 9280 - Commit: 2633e8177 - Published at: 2026-03-08T16:49:39Z - Source ref: refs/tags/release-v1.0.0-build-9280",
+          "buildVersion": "9280"
         }
       ],
       "bundleIdentifiers": [
