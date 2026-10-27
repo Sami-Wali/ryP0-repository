@@ -11,10 +11,10 @@
       "versions": [
         {
           "version": "build2",
-          "date": "2026-10-27T17:00:53Z",
+          "date": "2026-10-27T20:27:08Z",
           "downloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
-          "size": 17253509,
-          "sha256": "033b83d4e23bf6c43efc50685c7502719123a2a757e06cae4873ec150b3555b3",
+          "size": 17251061,
+          "sha256": "d78a632f0db0d094cc804126b61135c935eab4c1da68e25a09c0d8f12a19cd85",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
           "sourceAssetName": "Persona4Golden-iOS-0.1.1.ipa",
           "sourceAppName": "Persona 4 Golden",
@@ -43,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
-        "checkedAt": "2026-10-27T18:11:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-27T20:33:06Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
