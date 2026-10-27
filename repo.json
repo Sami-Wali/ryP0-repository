@@ -5617,10 +5617,10 @@
       },
       "name": "SideStore",
       "status": {
-        "checkedAt": "2026-10-26T22:49:28Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-27T04:23:16Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -5632,7 +5632,8 @@
           "releaseChannel": "alpha",
           "sha256": "e334f86e6ceeab2e0d886c07611246533f474bb18838cf13ebc09ed1f0d622b5",
           "size": 27770821,
-          "version": "0.7.0-20260911.328+6032424a"
+          "version": "0.7.0-20260911.328+6032424a",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "0604",
@@ -5642,7 +5643,8 @@
           "releaseChannel": "release",
           "sha256": "316d0dbe75ac6a5f05dc2946754cf7d5b634eeec5370f02cf1a91f9a0ed913b9",
           "size": 27609918,
-          "version": "0.6.4"
+          "version": "0.6.4",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "0603",
@@ -5652,7 +5654,8 @@
           "releaseChannel": "release",
           "sha256": "d7f8fa2bfafcb7f976071410c695ccac7df613a220cd27a870b29ac010a0b0f4",
           "size": 28632252,
-          "version": "0.6.3"
+          "version": "0.6.3",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "0602",
@@ -5662,7 +5665,8 @@
           "releaseChannel": "release",
           "sha256": "34d230f77367693bd2c1ff397a451304bfb512cd86c41bc6959703d31d5cc1d9",
           "size": 28873303,
-          "version": "0.6.2"
+          "version": "0.6.2",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "0601",
@@ -5672,7 +5676,8 @@
           "releaseChannel": "release",
           "sha256": "9c0dab547065e86be7200e2670b31f2797b24610bd7767cf995bb3342bdf8c39",
           "size": 26436952,
-          "version": "0.6.1"
+          "version": "0.6.1",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "6000",
@@ -5682,7 +5687,8 @@
           "releaseChannel": "release",
           "sha256": "3182f097b5b97acbcb5674248f0eb0bc8272730046f24cea260be03746c08c09",
           "size": 26349555,
-          "version": "0.6.0"
+          "version": "0.6.0",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5692,7 +5698,8 @@
           "releaseChannel": "release",
           "sha256": "856c1b1790016bb845477090a4ad3fd01dc80a04322f2b91292e5736e148ef02",
           "size": 9267842,
-          "version": "0.5.10"
+          "version": "0.5.10",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5702,7 +5709,8 @@
           "releaseChannel": "release",
           "sha256": "787b9f725f288f5bbd9c69a61591835dddd2bdf01cb368675999c460b27ca0f8",
           "size": 9266547,
-          "version": "0.5.9"
+          "version": "0.5.9",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "0700",
@@ -5712,7 +5720,8 @@
           "releaseChannel": "alpha",
           "sha256": "e334f86e6ceeab2e0d886c07611246533f474bb18838cf13ebc09ed1f0d622b5",
           "size": 27770821,
-          "version": "alpha"
+          "version": "alpha",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5722,7 +5731,8 @@
           "releaseChannel": "release",
           "sha256": "1b4ea33f3feadb73b4ace27fc2b4c58f21b88a495d3520cbe0e036e3fe7f9003",
           "size": 9351984,
-          "version": "0.5.8"
+          "version": "0.5.8",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5732,7 +5742,8 @@
           "releaseChannel": "release",
           "sha256": "0855913748bb1d91d0af5281856e962a5326a6c5b6c6478bcb06ecc6c57a412c",
           "size": 9341239,
-          "version": "0.5.7"
+          "version": "0.5.7",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5742,7 +5753,8 @@
           "releaseChannel": "release",
           "sha256": "1d35b283ac94682c9a196b8a5a1d35e721392321458dbd7f58ac012d90dd3b41",
           "size": 9203929,
-          "version": "0.5.6"
+          "version": "0.5.6",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5752,7 +5764,8 @@
           "releaseChannel": "release",
           "sha256": "9e27f20b01fd6635656a7afc63b7d9b3f78f52ed0ca50d64a681b2b7a68420a8",
           "size": 9202680,
-          "version": "0.5.4"
+          "version": "0.5.4",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5762,7 +5775,8 @@
           "releaseChannel": "release",
           "sha256": "80907bfca9164c77fac04d951f3953356923b6169b0656adcc703f78bd389f74",
           "size": 9195333,
-          "version": "0.5.2"
+          "version": "0.5.2",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5772,7 +5786,8 @@
           "releaseChannel": "release",
           "sha256": "8c170350868c62b5ea0ba6f99b1ce4a231e80d38d6ca3407ecfe5de4af93868d",
           "size": 9195032,
-          "version": "0.5.1"
+          "version": "0.5.1",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5782,7 +5797,8 @@
           "releaseChannel": "release",
           "sha256": "dafad9225273b0f113925cbc37f89c830940bf7a51835fbe6a3a9d325ee540af",
           "size": 9157428,
-          "version": "0.5.0"
+          "version": "0.5.0",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5792,7 +5808,8 @@
           "releaseChannel": "release",
           "sha256": "0eb943ca4d7a0ed9b5efcc17943117c525d678490de7235d52db1c7ec2e357ed",
           "size": 8148986,
-          "version": "0.4.0"
+          "version": "0.4.0",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5802,7 +5819,8 @@
           "releaseChannel": "release",
           "sha256": "2a0ad699261d063e659b2017e0bf014a555694d66452125011a25c9bb31d8a91",
           "size": 7739780,
-          "version": "0.3.1"
+          "version": "0.3.1",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
           "buildVersion": "1",
@@ -5812,18 +5830,20 @@
           "releaseChannel": "release",
           "sha256": "012d5524cc00400ff0cc7207778decc27358a48fbe4546a14dd5206d9b6411cc",
           "size": 6870704,
-          "version": "auto-update-test"
+          "version": "auto-update-test",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         },
         {
-          "buildVersion": "0700",
+          "version": "nightly",
           "date": "2023-01-04T14:07:28Z",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "releaseChannel": "nightly",
-          "sha256": "b6855f5a055e3068e136f2bafb97d6da1cbea188a7d1778dd26d3d8d8a4caad2",
-          "size": 31137643,
-          "sourceAssetName": "SideStore.ipa",
+          "size": 30681634,
+          "sha256": "3423b6296158713d9497cd6c0816c3214e2369abf40d772e1249d7c2096316fc",
           "upstreamAssetURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "version": "nightly"
+          "sourceAssetName": "SideStore.ipa",
+          "ipaBundleIdentifier": "com.SideStore.SideStore",
+          "releaseChannel": "nightly",
+          "buildVersion": "0700"
         },
         {
           "buildVersion": "1",
@@ -5833,8 +5853,12 @@
           "releaseChannel": "prerelease",
           "sha256": "93590918600a9dda5e31faf20ef9f299105db410d8020f6e95ed77b253920970",
           "size": 5667678,
-          "version": "0.1.1"
+          "version": "0.1.1",
+          "ipaBundleIdentifier": "com.SideStore.SideStore"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.SideStore.SideStore"
       ]
     },
     {
