@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "P4G-iOS",
+      "catalogID": "project-c73203d762aece296d92b42fa84683c7",
+      "bundleIdentifier": "com.devz.persona4golden",
+      "developerName": "DevZer0D4Y",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-10-26T13:07:39Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
+          "size": 17063142,
+          "buildVersion": "6",
+          "releaseChannel": "release",
+          "sha256": "0338465e81791756d9c21e5362291eec145825ad208447f1b786398388459711",
+          "sourceAppName": "Persona 4 Golden",
+          "sourceAssetName": "Persona4Golden-iOS-0.1.0.ipa",
+          "ipaBundleIdentifier": "com.devz.persona4golden",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.devz.persona4golden-0338465e8179.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
+        "checkedAt": "2026-10-27T06:07:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
+        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS"
+      },
+      "githubURL": "https://github.com/DevZer0D4Y/P4G-iOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c73203d762aece296d92b42fa84683c7",
+        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS",
+        "workflowPath": ".github/workflows/update-app-project-c73203d762aece296d92b42fa84683c7.yml"
+      }
+    },
+    {
       "name": "ico-pc",
       "catalogID": "project-2b683ab30368a9600fd53fe715fbcda5",
       "bundleIdentifier": "com.defnf.icopc",
