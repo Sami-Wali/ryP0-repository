@@ -216,6 +216,19 @@
           "ipaBundleIdentifier": "com.defnf.icopc",
           "releaseChannel": "release",
           "buildVersion": "0.7.5"
+        },
+        {
+          "version": "v0.7.4",
+          "date": "2026-10-14T01:46:43Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.7.4/ico-pc-v0.7.4-ios-unsigned.ipa",
+          "size": 5203786,
+          "sha256": "c9e542ecdd28be27ae3523a6c9fc31ed3a07bc0e06012e926f000f10733cc565",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.7.4/ico-pc-v0.7.4-ios-unsigned.ipa",
+          "sourceAssetName": "ico-pc-v0.7.4-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "release",
+          "buildVersion": "0.7.4"
         }
       ],
       "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
@@ -225,7 +238,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
-        "checkedAt": "2026-10-27T04:05:13Z",
+        "checkedAt": "2026-10-27T04:05:16Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -240,7 +253,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.7.5",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.7.4",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "bundleIdentifiers": [
