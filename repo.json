@@ -10,6 +10,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "build2",
+          "date": "2026-10-27T17:00:53Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
+          "size": 17253509,
+          "sha256": "033b83d4e23bf6c43efc50685c7502719123a2a757e06cae4873ec150b3555b3",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
+          "sourceAssetName": "Persona4Golden-iOS-0.1.1.ipa",
+          "sourceAppName": "Persona 4 Golden",
+          "ipaBundleIdentifier": "com.devz.persona4golden",
+          "releaseChannel": "release",
+          "buildVersion": "8"
+        },
+        {
           "version": "0.1.0",
           "date": "2026-10-26T13:07:39Z",
           "downloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
-        "checkedAt": "2026-10-27T12:33:47Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
+        "checkedAt": "2026-10-27T17:09:16Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c73203d762aece296d92b42fa84683c7",
-        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS",
+        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/tag/build2",
         "workflowPath": ".github/workflows/update-app-project-c73203d762aece296d92b42fa84683c7.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.devz.persona4golden"
+      ]
     },
     {
       "name": "ico-pc",
