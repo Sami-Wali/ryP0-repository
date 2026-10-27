@@ -12428,6 +12428,17 @@
           "sha256": "992dfdd9dff093c30c1a084ebeb93241a024dacf18e4d8f8a1267d4be24be01d",
           "size": 1936006,
           "version": "1.2"
+        },
+        {
+          "version": "1.1",
+          "date": "2026-02-27T02:18:24Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.1-92eb3c58407f.ipa",
+          "size": 1132982,
+          "sha256": "92eb3c58407f299c5d0069d76c7e6fca2dfa4e920825e1a6597235062178e541",
+          "ipaBundleIdentifier": "com.jbdotparty.PancakeStoreLung",
+          "releaseChannel": "release",
+          "localizedDescription": ">[!WARNING] >Use this tool at your own risk! You may lose app data, and other damage could occur. [Support Server](https://jailbreak.party/discord) • [Website](https://jailbreak.party) • [Original Project (by mineek)](https://github.com/mineek/MuffinStoreJailed-Public) ## Backend Changes - PancakeStore is now FIXED! Thanks to @skadz108 for all of his backend contributions to make the app actually work again properly. ## UI Updates - Added a proper UI for iPads. - Cleaned up multiple components, updated PartyUI. - Added a settings page. - Code reorganization. ## QoL Improvements - When the app finishes downgrading, there's now an \"Open App\" button. This button will probably not work on first appearance because the app still has to install. - Added more information about the app while it's downgrading.",
+          "buildVersion": "1"
         }
       ]
     },
