@@ -11382,9 +11382,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/3.0",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/3.1",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -11400,13 +11400,25 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
-        "checkedAt": "2026-10-27T18:11:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
+        "checkedAt": "2026-10-27T21:42:52Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.1",
+          "date": "2026-10-27T21:36:06Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
+          "size": 140540013,
+          "sha256": "650c062c774ee87debee2c96bb9c921125ff642a814a85a6718dc5e7db2e45cc",
+          "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
+          "sourceAssetName": "Husk.ipa",
+          "ipaBundleIdentifier": "com.husk.app",
+          "releaseChannel": "release",
+          "buildVersion": "130"
+        },
         {
           "buildVersion": "129",
           "date": "2026-10-17T21:34:58Z",
@@ -11417,7 +11429,8 @@
           "size": 140126095,
           "sourceAssetName": "Husk.ipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
-          "version": "3.0"
+          "version": "3.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "109",
@@ -11427,7 +11440,8 @@
           "releaseChannel": "release",
           "sha256": "55ca8a6a8a9194759be578ef340553372a4427257093c659d5dc3b2971d722e7",
           "size": 110921859,
-          "version": "2.0"
+          "version": "2.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "61",
@@ -11437,7 +11451,8 @@
           "releaseChannel": "release",
           "sha256": "f2044fea5b5f8287deffa0466f5f71bfd915fc4ee0d1cb852b10b0242c6ca949",
           "size": 54385494,
-          "version": "1.1.0"
+          "version": "1.1.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "51",
@@ -11447,7 +11462,8 @@
           "releaseChannel": "release",
           "sha256": "f84f58c72ba1a9affccb3ceb5d1736094a31d0d4f6a86411ae6c289531a91b86",
           "size": 55925239,
-          "version": "1.0.1"
+          "version": "1.0.1",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "51",
@@ -11457,7 +11473,8 @@
           "releaseChannel": "release",
           "sha256": "7daa45807f5821362b301e568a5888d961f24810020c53a3126b38035141bc80",
           "size": 47559993,
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "38",
@@ -11467,7 +11484,8 @@
           "releaseChannel": "release",
           "sha256": "9482b76aad39898683e1f2edbb74c631c998aed6ac9968dba6f43f5811ea73f5",
           "size": 46958334,
-          "version": "0.9.0"
+          "version": "0.9.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "31",
@@ -11477,7 +11495,8 @@
           "releaseChannel": "release",
           "sha256": "162f322d2b8955cb022de0f504dd558fca2fdf1792b046160a16d6002ee4efc5",
           "size": 46728037,
-          "version": "0.8.1"
+          "version": "0.8.1",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "27",
@@ -11487,7 +11506,8 @@
           "releaseChannel": "release",
           "sha256": "2d194c18d176fa140191e4dff9a3bf8def54b86abe057f8c6088360bee3c9e55",
           "size": 46478895,
-          "version": "0.8.0"
+          "version": "0.8.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "17",
@@ -11497,7 +11517,8 @@
           "releaseChannel": "release",
           "sha256": "2409304d725964e15099bfd974a5c149c6bba49353e86b450458327ba770adbc",
           "size": 44993209,
-          "version": "0.7.0"
+          "version": "0.7.0",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "9",
@@ -11507,7 +11528,8 @@
           "releaseChannel": "release",
           "sha256": "9ffa67b07e3d7a3f7faa261b5ec44bb6279180478cc5fc43daa6824e0d633509",
           "size": 40885768,
-          "version": "0.6.1"
+          "version": "0.6.1",
+          "ipaBundleIdentifier": "com.husk.app"
         },
         {
           "buildVersion": "3",
@@ -11517,18 +11539,12 @@
           "releaseChannel": "release",
           "sha256": "16237bf6e85a53ce0a5c03c54d48fb6b04a190799b2f052e21c1dd96d30f4ebd",
           "size": 40778819,
-          "version": "0.6.0"
-        },
-        {
-          "buildVersion": "2",
-          "date": "2026-10-04T02:00:07Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.5.1/Husk.ipa",
-          "localizedDescription": "## What's new? - Fixed iOS26 JIT crashes - Fixed a fatal pipe2 crash, (added fallback) ## Credits @Yaryk007 - made the HuskPatch repo where I got the iOS26 JIT fixes :) **Full Changelog**: https://github.com/Leviidev/Husk/compare/0.5.0...0.5.1",
-          "releaseChannel": "release",
-          "sha256": "ddf055e4fc1a5dafec5c569464578fb1c40af2b733e400262c71a987d07a1835",
-          "size": 40386325,
-          "version": "0.5.1"
+          "version": "0.6.0",
+          "ipaBundleIdentifier": "com.husk.app"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.husk.app"
       ]
     },
     {
