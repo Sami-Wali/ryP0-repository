@@ -21,6 +21,19 @@
           "sourceAssetName": "77U_0.1.0_Beta_2.ipa",
           "ipaBundleIdentifier": "77emul.beta2",
           "upstreamAssetURL": "https://github.com/77emul/77U-BETA/releases/download/77U_v0.2.0-beta/77U_0.1.0_Beta_2.ipa"
+        },
+        {
+          "version": "77U_0.1.0.ipa",
+          "date": "2026-10-18T20:00:01Z",
+          "downloadURL": "https://github.com/77emul/77U-BETA/releases/download/77U_0.1.0.ipa/77U_0.1.0.ipa",
+          "size": 62817796,
+          "sha256": "ddd9fe23f62256faf3aa8f2246151e93298e7aa12f72a2ebf303bea81e476a2c",
+          "upstreamAssetURL": "https://github.com/77emul/77U-BETA/releases/download/77U_0.1.0.ipa/77U_0.1.0.ipa",
+          "sourceAssetName": "77U_0.1.0.ipa",
+          "sourceAppName": "77U",
+          "ipaBundleIdentifier": "com.77emul.app",
+          "releaseChannel": "beta",
+          "buildVersion": "1002"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/77emul.beta2-1b835b338152.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/77emul/77U-BETA/releases/download/77U_v0.2.0-beta/77U_0.1.0_Beta_2.ipa",
-        "checkedAt": "2026-10-27T04:03:45Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-27T04:03:57Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-81c58f3fc13cfa78e87236712261c8e5",
-        "sourceURL": "https://github.com/77emul/77U-BETA",
+        "sourceURL": "https://github.com/77emul/77U-BETA/releases/tag/77U_0.1.0.ipa",
         "workflowPath": ".github/workflows/update-app-project-81c58f3fc13cfa78e87236712261c8e5.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "77emul.beta2",
+        "com.77emul.app"
+      ]
     },
     {
       "appType": "Daily Update",
