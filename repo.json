@@ -10,17 +10,17 @@
       "category": "Ports",
       "versions": [
         {
-          "version": "v0.9.3",
+          "version": "0.9.3",
           "date": "2026-10-27T04:31:26Z",
           "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.3/ico-pc-v0.9.3-ios-unsigned.ipa",
           "size": 7418933,
-          "sha256": "1c45aef8a7b1358a5f065b5d1b0616705db54fa1232471cdd9abb3116874ecb3",
-          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.3/ico-pc-v0.9.3-ios-unsigned.ipa",
-          "sourceAssetName": "ico-pc-v0.9.3-ios-unsigned.ipa",
-          "sourceAppName": "ICO",
-          "ipaBundleIdentifier": "com.defnf.icopc",
+          "buildVersion": "0.9.3",
           "releaseChannel": "release",
-          "buildVersion": "0.9.3"
+          "sha256": "1c45aef8a7b1358a5f065b5d1b0616705db54fa1232471cdd9abb3116874ecb3",
+          "sourceAppName": "ICO",
+          "sourceAssetName": "ico-pc-v0.9.3-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.3/ico-pc-v0.9.3-ios-unsigned.ipa"
         },
         {
           "version": "0.9.2",
@@ -296,29 +296,29 @@
           "buildVersion": "0.7.0"
         }
       ],
-      "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "iconURL": "https://opengraph.githubassets.com/85db6969946f78e5827da054018e33ba25d2d48bfb54d0c22159632590f30a41/nathanialf/ico-pc",
       "updatePolicy": "daily",
       "githubProjectCard": true,
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.3/ico-pc-v0.9.3-ios-unsigned.ipa",
-        "checkedAt": "2026-10-27T04:32:57Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-10-27T04:40:32Z",
+        "message": "Imported from verified upstream source"
       },
       "importSource": {
         "method": "github",
         "historyLimit": 0,
         "deliveryMode": "direct-source",
-        "originURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
+        "originURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.3/ico-pc-v0.9.3-ios-unsigned.ipa",
         "sourceURL": "https://github.com/nathanialf/ico-pc"
       },
       "githubURL": "https://github.com/nathanialf/ico-pc",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.3",
+        "sourceURL": "https://github.com/nathanialf/ico-pc",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "bundleIdentifiers": [
