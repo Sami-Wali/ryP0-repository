@@ -5193,21 +5193,34 @@
       "name": "Swiftgram (TGExtra)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
+        "checkedAt": "2026-10-27T09:14:15Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "13.1.1",
+          "date": "2026-10-26T00:00:00Z",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
+          "size": 77903278,
+          "sha256": "1a9440d0a0cecb1d488e59166c7fd541cd6f3b060b9f730245eee8c6e8c2738a",
+          "ipaBundleIdentifier": "app.swiftgram.ios",
+          "buildVersion": "344"
+        },
         {
           "buildVersion": "319",
           "date": "2026-10-13T00:00:00Z",
           "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.0-TGExtra.ipa",
           "sha256": "d28d2519bb4effee66fab26fecf7911253d752b732834081124abae36839396f",
           "size": 88702790,
-          "version": "13.0"
+          "version": "13.0",
+          "ipaBundleIdentifier": "app.swiftgram.ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "app.swiftgram.ios"
       ]
     },
     {
@@ -5288,21 +5301,31 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://files.catbox.moe/5gv4ku.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Private updater: The upstream IPA download returned HTTP 504."
+        "state": "healthy",
+        "checkedDownloadURL": "https://litter.catbox.moe/exizay34ea1j6zon.ipa",
+        "checkedAt": "2026-10-27T09:14:02Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-24T11:38:00Z",
+          "downloadURL": "https://litter.catbox.moe/exizay34ea1j6zon.ipa",
+          "size": 137913652,
+          "sha256": "c0c34309fe559bdc786bdf56825423c5bc6bf27c5b0adc0e236f5ce6dd82d67a",
+          "ipaBundleIdentifier": "com.spotify.client",
+          "buildVersion": "919002269"
+        },
         {
           "buildVersion": "919002269",
           "date": "2026-10-24T08:51:00Z",
           "downloadURL": "https://files.catbox.moe/5gv4ku.ipa",
           "sha256": "ca4f5dfce32b3435710dc1669ec6a40de033b2b504dbd384ef3a25fa6487a441",
           "size": 137802884,
-          "version": "9.1.90"
+          "version": "9.1.90",
+          "ipaBundleIdentifier": "com.spotify.client"
         },
         {
           "buildVersion": "919002269",
@@ -5310,16 +5333,12 @@
           "downloadURL": "https://files.catbox.moe/gi8wku.ipa",
           "sha256": "81346641653fbd559b8fb30d725dab47ae13b4f73d935108accb4885382fb627",
           "size": 137673025,
-          "version": "9.1.90"
-        },
-        {
-          "buildVersion": "919002269",
-          "date": "2026-10-08T22:17:09Z",
-          "downloadURL": "https://files.catbox.moe/4mlz6g.ipa",
-          "sha256": "3327b9e7b773136ebeae4b3010d2ab738d5f3df13a32a3f6430af26879f54636",
-          "size": 131027351,
-          "version": "9.1.90"
+          "version": "9.1.90",
+          "ipaBundleIdentifier": "com.spotify.client"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.spotify.client"
       ]
     },
     {
@@ -5710,8 +5729,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-27T09:13:31Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -8240,9 +8259,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-spotify-client-7f294ec0",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://t.me/spyg_vault/137",
+        "configId": "com-spotify-client-7f294ec0",
+        "sourceURL": "https://t.me/spyg_vault",
         "workflowPath": ".github/workflows/update-app-com-spotify-client-7f294ec0.yml"
       },
       "bundleIdentifier": "com.spotify.client",
@@ -8257,22 +8276,27 @@
       "localizedDescription": "Spotify cracked releases",
       "name": "Spy G",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
+        "checkedAt": "2026-10-27T09:14:26Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Spotify cracked releases",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "919002269",
-          "date": "2026-10-12T00:35:11Z",
-          "downloadURL": "https://pub-81c90c3c0b074181af4429cfa53519f0.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-          "sha256": "7105be94d89564d16f1fdce51ac3a4281e44769d799af49f42fff9fdae78f455",
-          "size": 129363025,
-          "version": "9.1.90"
+          "version": "452.0.1",
+          "date": "2026-10-27T09:14:16Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
+          "size": 341261605,
+          "sha256": "0dc44435e745a81f267e4b0c507b4830390017914721bd967721bf30898fe1a6",
+          "ipaBundleIdentifier": "com.burbn.instagram",
+          "buildVersion": "1093431980"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.burbn.instagram",
+        "com.spotify.client"
       ]
     },
     {
@@ -8508,8 +8532,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
+        "checkedAt": "2026-10-27T09:09:28Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -8546,8 +8569,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
+        "checkedAt": "2026-10-27T09:09:25Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -11460,8 +11482,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-27T09:03:53Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -11470,7 +11492,8 @@
           "date": "2026-09-08T16:21:35Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
           "size": 17963367,
-          "version": "5.0.0b6"
+          "version": "5.0.0b6",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "26",
@@ -11481,7 +11504,8 @@
           "size": 17963367,
           "sourceAssetName": "Non-Jailbroken.ipa",
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
-          "version": "5.0.0b6"
+          "version": "5.0.0b6",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "25",
@@ -11491,7 +11515,8 @@
           "releaseChannel": "prerelease",
           "sha256": "9e03f90da7fc988d52e76f8aeed934f97657dec39bce0cff9b902e815ab9c3bf",
           "size": 17963147,
-          "version": "5.0.0b5"
+          "version": "5.0.0b5",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "24",
@@ -11501,7 +11526,8 @@
           "releaseChannel": "prerelease",
           "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
           "size": 17963622,
-          "version": "5.0.0b4"
+          "version": "5.0.0b4",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "23",
@@ -11511,7 +11537,8 @@
           "releaseChannel": "prerelease",
           "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
           "size": 17963458,
-          "version": "5.0.0b3"
+          "version": "5.0.0b3",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "22",
@@ -11521,7 +11548,8 @@
           "releaseChannel": "prerelease",
           "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
           "size": 17958160,
-          "version": "5.0.0b2"
+          "version": "5.0.0b2",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "21",
@@ -11531,7 +11559,8 @@
           "releaseChannel": "prerelease",
           "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
           "size": 17958943,
-          "version": "5.0.0b1"
+          "version": "5.0.0b1",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "20",
@@ -11541,7 +11570,8 @@
           "releaseChannel": "prerelease",
           "sha256": "99b72c4f6419605a7c4464d99fb4756f5f7a7f2b9e8784602bc38857199420b3",
           "size": 16149753,
-          "version": "4.0.0b9"
+          "version": "4.0.0b9",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "19",
@@ -11551,7 +11581,8 @@
           "releaseChannel": "prerelease",
           "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
           "size": 15830129,
-          "version": "4.0.0b8"
+          "version": "4.0.0b8",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "15",
@@ -11561,7 +11592,8 @@
           "releaseChannel": "prerelease",
           "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
           "size": 13775833,
-          "version": "4.0.0b7"
+          "version": "4.0.0b7",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "13",
@@ -11571,7 +11603,8 @@
           "releaseChannel": "prerelease",
           "sha256": "c40e383b03f56728db7bf6c422b54011f73fe03043227e37a8cf757090973765",
           "size": 13773902,
-          "version": "4.0.0b6"
+          "version": "4.0.0b6",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         },
         {
           "buildVersion": "12",
@@ -11581,8 +11614,12 @@
           "releaseChannel": "prerelease",
           "sha256": "68dfd5a85848a536be64484976e4f4c31b94f0fd11535b4a215e6e67cf77c635",
           "size": 13415869,
-          "version": "4.0.0b5"
+          "version": "4.0.0b5",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
         }
+      ],
+      "bundleIdentifiers": [
+        "me.oatmealdome.DolphiniOS-njb-patreon-beta"
       ]
     },
     {
@@ -11607,8 +11644,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-27T09:04:47Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -11617,7 +11654,8 @@
           "date": "2026-09-08T16:33:48Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
           "size": 31124277,
-          "version": "1.20.4"
+          "version": "1.20.4",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.20.4",
@@ -11628,7 +11666,8 @@
           "size": 31124277,
           "sourceAssetName": "PPSSPP-iOS-v1.20.4.ipa",
           "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
-          "version": "1.20.4"
+          "version": "1.20.4",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.20.3",
@@ -11638,7 +11677,8 @@
           "releaseChannel": "release",
           "sha256": "463b9e004ab939f5a70b565344553aeb0beff665c48e85603083ec247c972d70",
           "size": 30981742,
-          "version": "1.20.3"
+          "version": "1.20.3",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.20.2",
@@ -11648,7 +11688,8 @@
           "releaseChannel": "release",
           "sha256": "b350842b49e8ed094f9da66bf12422e93521434488151308ffcc659473af62f5",
           "size": 30962097,
-          "version": "1.20.2"
+          "version": "1.20.2",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.20.1",
@@ -11658,7 +11699,8 @@
           "releaseChannel": "release",
           "sha256": "69d63c7063f44ee7f33e17825b50cca7294945ac32a1ee1fee2b92f6fd5f788d",
           "size": 30928281,
-          "version": "1.20.1"
+          "version": "1.20.1",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.20",
@@ -11668,7 +11710,8 @@
           "releaseChannel": "release",
           "sha256": "f70980c08b0f0ea31861870f9d5634cf29be63ffedf0745cf4e04d5356e72aab",
           "size": 30929357,
-          "version": "1.20"
+          "version": "1.20",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         },
         {
           "buildVersion": "1.19.3",
@@ -11678,8 +11721,12 @@
           "releaseChannel": "release",
           "sha256": "e604412d637a9e3d52b0cbde4e39213f7d85a609256b400d77491b10566a18bc",
           "size": 29930616,
-          "version": "1.19.3"
+          "version": "1.19.3",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp"
         }
+      ],
+      "bundleIdentifiers": [
+        "org.ppsspp.ppsspp"
       ]
     },
     {
@@ -11736,8 +11783,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-27T09:05:00Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -11746,7 +11793,8 @@
           "date": "2026-09-08T16:35:50Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
           "size": 46253576,
-          "version": "release-v2.0.1-build-9730"
+          "version": "release-v2.0.1-build-9730",
+          "ipaBundleIdentifier": "com.xenios.jp"
         },
         {
           "buildVersion": "9730",
@@ -11757,7 +11805,8 @@
           "size": 46253576,
           "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
-          "version": "release-v2.0.1-build-9730"
+          "version": "release-v2.0.1-build-9730",
+          "ipaBundleIdentifier": "com.xenios.jp"
         },
         {
           "buildVersion": "9729",
@@ -11767,7 +11816,8 @@
           "releaseChannel": "release",
           "sha256": "2100237f60a82e51ec5203b404a12d6ff18cb75498592b3b08accadb51ab09ce",
           "size": 46246197,
-          "version": "release-v2.0.1-build-9729"
+          "version": "release-v2.0.1-build-9729",
+          "ipaBundleIdentifier": "com.xenios.jp"
         },
         {
           "buildVersion": "9712",
@@ -11777,8 +11827,12 @@
           "releaseChannel": "release",
           "sha256": "27e4b711c26b1ca08a72d2a51433c10c186ba72211a7f1db22a3da9a6bf202a7",
           "size": 41493705,
-          "version": "release-v2.0-build-9712"
+          "version": "release-v2.0-build-9712",
+          "ipaBundleIdentifier": "com.xenios.jp"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.xenios.jp"
       ]
     },
     {
@@ -11916,10 +11970,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "state": "broken",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-27T05:23:19Z",
-        "message": "Download returned HTTP 404"
+        "checkedAt": "2026-10-27T09:04:10Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
@@ -11929,7 +11983,8 @@
           "downloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
           "localizedDescription": "Fix login use server\nhttps://mac-ani.jkcoxson.com/",
           "size": 0,
-          "version": "nighlty"
+          "version": "nighlty",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam"
         },
         {
           "buildVersion": "1",
@@ -11940,21 +11995,27 @@
           "size": 2305445,
           "sourceAssetName": "GetMoreRam.ipa",
           "upstreamAssetURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-          "version": "nightly"
+          "version": "nightly",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam"
         },
         {
           "buildVersion": "1",
           "date": "2026-09-12T03:26:21Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
           "size": 633815,
-          "version": "nightly"
+          "version": "nightly",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam"
         },
         {
           "date": "2026-09-08T16:23:35Z",
           "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
           "size": 634370,
-          "version": "nightly"
+          "version": "nightly",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.aigch.getMoreRam"
       ]
     },
     {
