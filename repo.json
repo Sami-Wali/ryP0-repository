@@ -7068,9 +7068,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-8db2c3605eae44bc87ee9ea3d15d9c43",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/RyanYuuki/AnymeX/releases/tag/v3.1.9",
+        "configId": "app-8db2c3605eae44bc87ee9ea3d15d9c43",
+        "sourceURL": "https://github.com/RyanYuuki/AnymeX/releases/tag/v3.2.0",
         "workflowPath": ".github/workflows/update-app-app-8db2c3605eae44bc87ee9ea3d15d9c43.yml"
       },
       "bundleIdentifier": "com.ryan.anymex",
@@ -7090,13 +7090,25 @@
       "name": "AnymeX",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.9/AnymeX-iOS-v3.1.9.ipa",
-        "checkedAt": "2026-10-27T18:11:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
+        "checkedAt": "2026-10-27T18:53:49Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: RyanYuuki/AnymeX.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v3.2.0",
+          "date": "2026-10-27T18:49:08Z",
+          "downloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
+          "size": 80589367,
+          "sha256": "f39b172a0739f87ff9fc94a964015b17318a516f8afb39c9dcfc79002675a3b9",
+          "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
+          "sourceAssetName": "AnymeX-iOS-v3.2.0.ipa",
+          "ipaBundleIdentifier": "com.ryan.anymex",
+          "releaseChannel": "release",
+          "buildVersion": "42"
+        },
         {
           "buildVersion": "41",
           "date": "2026-10-25T19:43:42Z",
@@ -7107,7 +7119,8 @@
           "size": 81113053,
           "sourceAssetName": "AnymeX-iOS-v3.1.9.ipa",
           "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.9/AnymeX-iOS-v3.1.9.ipa",
-          "version": "v3.1.9"
+          "version": "v3.1.9",
+          "ipaBundleIdentifier": "com.ryan.anymex"
         },
         {
           "buildVersion": "40",
@@ -7117,18 +7130,12 @@
           "releaseChannel": "release",
           "sha256": "b844eba2cde7ea276aeb79fc5ae5ee47c257eba7d9f3b49eae0af96ab13389b2",
           "size": 39830598,
-          "version": "3.1.8"
-        },
-        {
-          "buildVersion": "39",
-          "date": "2026-08-30T18:46:47Z",
-          "downloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.7/AnymeX-iOS-v3.1.7.ipa",
-          "localizedDescription": "### 🆕 Changelog ### 🌟 Features - [֍](https://github.com/RyanYuuki/AnymeX/commit/36754206) enhanced new episode released cards, fixed bugs when deleting history items and more by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/0837dcf8) server remember for episodes and some ui changes by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/e3ec2a4e) new episode released on home page for any anime you watch from app by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/91224c3f) enhanced the tab system and ui of headers on pages by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/7af109c1) nav bar layout switcher, improved ui of media type selector and organized ui settings page by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/4380f646) added extensive data of user's usage by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/97d7d054) user xp system by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/2eac3561) add AniList profile compatibility checker (#547) by @Shebyyy - [֍](https://github.com/RyanYuuki/AnymeX/commit/f8226772) stats record implementation on anime and manga by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/3427750b) user app statistics by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/1774abfb) history tab implemented by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/465d66cc) new tabs system (home, discover, library, history, stats) by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/1582c7eb) sync subtitle sentence progress controller by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/20df44bf) local subtitle import by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/64740546) bottom nav bar margin adjustment setting by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/c0389949) more fields like country, popularity, source for media details and fixed issues like sequel repeating, and recommendation opening wrong pages by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/a585abee) font family change option by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/fc7649b9) improved user experience on player by consolidating audio, subs, servers by @RyanYuuki ### 🔧 Bug Fixes & Improvements - [֍](https://github.com/RyanYuuki/AnymeX/commit/5acd1120) inconsistency bug on header and major refactor of header by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/0cadc7f3) fixed a issue where offline database was not saving title of ep/chps by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/c47225a5) fixed bad redirect on manga pages when clicking on genre/tags by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/98914683) fixed manga chapter selector and chapter navigation logic by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/261af6e0) fixed join dialog behaviour by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/480eb738) hero tag duplicate fix (probably) by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/7b36bf18) fixed some stats not tracking properly by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/834a5522) fixed scanlator not being respected issue by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/0e6495fe) fixed minor desync issues between user rec section by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/ee2c22dd) fixed updater not showing proper toast and proper beta updates by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/afb580ce) fixed ui not reflecting on pallete change on theme page by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/1970de1e) fixed profile page activity opening anime page on manga entries by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/a21009b1) fixed mapper mappng to wrong medias by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/1dff1f52) fixed rpc for deskt",
-          "releaseChannel": "release",
-          "sha256": "72d546ba01fb33c82c80fa02332bd9aecc80fd16157d39ac4af901e28f554ece",
-          "size": 39662751,
-          "version": "v3.1.7"
+          "version": "3.1.8",
+          "ipaBundleIdentifier": "com.ryan.anymex"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.ryan.anymex"
       ]
     },
     {
