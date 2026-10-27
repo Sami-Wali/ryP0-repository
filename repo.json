@@ -12742,6 +12742,23 @@
       "versions" : [
 
       ]
+    },
+    {
+      "appType" : "Static",
+      "bundleIdentifier" : "source-port-f8390b2defdc59978bd3d6cb088667fd",
+      "catalogID" : "source-port-f8390b2defdc59978bd3d6cb088667fd",
+      "category" : "Ports",
+      "developerName" : "ThatGuyMcd",
+      "githubProjectCard" : false,
+      "githubURL" : "https:\/\/github.com\/ThatGuyMcd\/DKR-R",
+      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/246780704?v=4",
+      "localizedDescription" : "Diddy Kong Racing - Recompiled (By ThatGuyMcd)",
+      "name" : "DKR-R",
+      "portDistribution" : "source-code",
+      "updatePolicy" : "static",
+      "versions" : [
+
+      ]
     }
   ],
   "categories" : [
