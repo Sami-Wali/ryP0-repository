@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ipa-wo-hynis-jutsu",
+      "catalogID": "project-3c42063e133e94a6a6927dd2f640d8cb",
+      "bundleIdentifier": "com.mojang.minecraftpe.hynis",
+      "developerName": "mcpebd",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.26.52",
+          "date": "2026-10-05T13:25:53Z",
+          "downloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa",
+          "size": 359467051,
+          "buildVersion": "1.26.52.03",
+          "releaseChannel": "release",
+          "sha256": "14bfbd92d7ee28bd93472b8a3c9c76477f0e5882e4c96c19f121cfbe5b98da98",
+          "sourceAppName": "Minecraft Hynis",
+          "sourceAssetName": "Minecraft-Hynis+HyniSwizzleFPS-26.52.ipa",
+          "ipaBundleIdentifier": "com.mojang.minecraftpe.hynis",
+          "upstreamAssetURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mojang.minecraftpe.hynis-14bfbd92d7ee.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa",
+        "checkedAt": "2026-10-27T21:08:52Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa",
+        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu"
+      },
+      "githubURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
+        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu",
+        "workflowPath": ".github/workflows/update-app-project-3c42063e133e94a6a6927dd2f640d8cb.yml"
+      }
+    },
+    {
       "name": "P4G-iOS",
       "catalogID": "project-c73203d762aece296d92b42fa84683c7",
       "bundleIdentifier": "com.devz.persona4golden",
