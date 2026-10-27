@@ -21,6 +21,19 @@
           "sourceAssetName": "Minecraft-Hynis+HyniSwizzleFPS-26.52.ipa",
           "ipaBundleIdentifier": "com.mojang.minecraftpe.hynis",
           "upstreamAssetURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa"
+        },
+        {
+          "version": "v26.51",
+          "date": "2026-09-19T16:09:17Z",
+          "downloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.51/Minecraft-Hynis%2BHyniSwizzleFPS-26.51.ipa",
+          "size": 361904937,
+          "sha256": "1e40cc0d0219869e50974a08b1a9295900118694780e845e3a93e42d88ffd602",
+          "upstreamAssetURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.51/Minecraft-Hynis%2BHyniSwizzleFPS-26.51.ipa",
+          "sourceAssetName": "Minecraft-Hynis+HyniSwizzleFPS-26.51.ipa",
+          "sourceAppName": "Minecraft Hynis",
+          "ipaBundleIdentifier": "com.mojang.minecraftpe.hynis",
+          "releaseChannel": "release",
+          "buildVersion": "26.51"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mojang.minecraftpe.hynis-14bfbd92d7ee.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa",
-        "checkedAt": "2026-10-27T21:08:52Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-27T21:09:07Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
-        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu",
+        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/tag/v26.51",
         "workflowPath": ".github/workflows/update-app-project-3c42063e133e94a6a6927dd2f640d8cb.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.mojang.minecraftpe.hynis"
+      ]
     },
     {
       "name": "P4G-iOS",
