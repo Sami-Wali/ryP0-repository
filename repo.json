@@ -21,6 +21,19 @@
           "sourceAssetName": "ico-pc-v0.9.2-ios-unsigned.ipa",
           "ipaBundleIdentifier": "com.defnf.icopc",
           "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa"
+        },
+        {
+          "version": "v0.9.1",
+          "date": "2026-10-26T12:10:55Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.1/ico-pc-v0.9.1-ios-unsigned.ipa",
+          "size": 7409851,
+          "sha256": "8011c037f46f91a543f53976fc159dd723322724ae0c0df3d30ecbe5b02bf978",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.1/ico-pc-v0.9.1-ios-unsigned.ipa",
+          "sourceAssetName": "ico-pc-v0.9.1-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "release",
+          "buildVersion": "0.9.1"
         }
       ],
       "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
-        "checkedAt": "2026-10-27T04:04:17Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-27T04:04:24Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "sourceURL": "https://github.com/nathanialf/ico-pc",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.1",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.defnf.icopc"
+      ]
     },
     {
       "name": "77U-BETA",
