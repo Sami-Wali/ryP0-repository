@@ -7447,9 +7447,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "org-zhaohe-miniwatts-c828cf18",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.5.1",
+        "configId": "org-zhaohe-miniwatts-c828cf18",
+        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.6.0",
         "workflowPath": ".github/workflows/update-app-org-zhaohe-miniwatts-c828cf18.yml"
       },
       "bundleIdentifier": "org.zhaohe.MiniWatts",
@@ -7466,13 +7466,25 @@
       "name": "MiniWatts",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.5.1/MiniWatts-unsigned.ipa",
-        "checkedAt": "2026-10-26T22:49:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
+        "checkedAt": "2026-10-27T03:13:29Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: ResistanceTo/MiniWatts.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.6.0",
+          "date": "2026-10-27T03:11:13Z",
+          "downloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
+          "size": 3332420,
+          "sha256": "093f5af9b4294b985fb11ba0b45793853333a5f06792e3cbe2c2823d60c94506",
+          "upstreamAssetURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
+          "sourceAssetName": "MiniWatts-unsigned.ipa",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts",
+          "releaseChannel": "release",
+          "buildVersion": "21"
+        },
         {
           "buildVersion": "20",
           "date": "2026-10-13T02:45:39Z",
@@ -7481,7 +7493,8 @@
           "releaseChannel": "release",
           "sha256": "3325a991710d3b9cb9bbd8e2bd37c2a5e8ab48edc3cbb8abdb23aae06a7853e0",
           "size": 3305290,
-          "version": "v1.5.1"
+          "version": "v1.5.1",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts"
         },
         {
           "buildVersion": "19",
@@ -7491,18 +7504,12 @@
           "releaseChannel": "release",
           "sha256": "bc13785763ec9ac224710dcf831c8030a318560f409bbcb8d54d23c6379a83e4",
           "size": 3284306,
-          "version": "1.5.0"
-        },
-        {
-          "buildVersion": "18",
-          "date": "2026-09-25T12:31:59Z",
-          "downloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.4.1/MiniWatts-unsigned.ipa",
-          "localizedDescription": "Unsigned build — sign it with your own Apple ID before installing. https://github.com/ResistanceTo/MiniWatts#install ## 修复 - **滑动时每秒卡一下**：在 iPhone 15 Pro 等机型上，任何页面匀速滑动时大约每秒会顿一下，插不插充电器都会出现，现已修复。原因有几处叠加： - 表盘中间的数字滚动效果和弧线动画会被放到 CPU 上绘制，页面滚动时每一帧都要重画一次，占用了大量主线程时间。 - 悬浮读数（画中画）即使没有打开，也每秒在后台画一帧画面。 - 打开过的每个标签页即使不在前台，也会每秒跟着刷新；当前页面的导航栏和工具栏也每秒重建一次。 - 读取传感器改到后台线程进行，不再占用界面线程。 ## 变化 - 表盘上的功率数字不再有滚动动画，弧线也不再有过渡动画，都和其他读数一样直接更新。 - 切换到别的标签页再切回来时，页面会回到顶部。 感谢反馈这个问题的用户。 --- ## Fixes - **Scrolling hitched about once a second** on every screen, charging or not (reported on an iPhone 15 Pro). Several causes added up: - The dial's rolling number and arc animations were drawn on the CPU and redrawn on every scroll frame. - The floating meter (Picture in Picture) rendered a frame every second even when it was not open. - Every tab you had visited kept refreshing in the background once a second, and the visible page rebuilt its navigation bar and toolbar on every refresh. - Sensor reads now run off the main thread. ## Changes - The power reading on the dial no longer rolls and its arcs no longer animate; they update in place like every other reading. - A tab returns to the top when you switch back to it. Thanks to the user who reported it. **Full Changelog**: https://github.com/ResistanceTo/MiniWatts/compare/v1.4.0...v1.4.1",
-          "releaseChannel": "release",
-          "sha256": "576eb9b6762ac1d3b8d3f8fdb9499efa43f78c0df71e4faa3ab1e99bc082659b",
-          "size": 3270441,
-          "version": "v1.4.1"
+          "version": "1.5.0",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts"
         }
+      ],
+      "bundleIdentifiers": [
+        "org.zhaohe.MiniWatts"
       ]
     },
     {
