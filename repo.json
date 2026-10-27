@@ -5307,9 +5307,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/bep1s69/nfsmw-ios",
+        "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.0",
         "workflowPath": ".github/workflows/update-app-app-f8914557173c4e2593cd39a01e9dafc9.yml"
       },
       "bundleIdentifier": "com.bep1s.nfsmwios",
@@ -5329,13 +5329,25 @@
       "name": "Need for Speed Most Wanted (2005)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
-        "checkedAt": "2026-10-27T18:11:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.0/NFSMW.ipa",
+        "checkedAt": "2026-10-27T19:04:36Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.0",
+          "date": "2026-10-27T19:01:59Z",
+          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.0/NFSMW.ipa",
+          "size": 30093267,
+          "sha256": "685328f8ceb4c96fc2a2e9cace64ceacc1c0cd59926752071903f12efbee54ca",
+          "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.0/NFSMW.ipa",
+          "sourceAssetName": "NFSMW.ipa",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios",
+          "releaseChannel": "release",
+          "buildVersion": "4"
+        },
         {
           "buildVersion": "3",
           "date": "2026-10-14T16:35:17Z",
@@ -5344,7 +5356,8 @@
           "releaseChannel": "release",
           "sha256": "5823fd26d7b9a1bac32e66265a6d879c1b9d21f02462e25b3ba66ad02ffae1ac",
           "size": 29891937,
-          "version": "0.3.0"
+          "version": "0.3.0",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios"
         },
         {
           "buildVersion": "2",
@@ -5354,8 +5367,12 @@
           "releaseChannel": "release",
           "sha256": "64943d7c8d002910f759c38eb100c3c523cb4fa04db5de95d0791bd15f1e5e8e",
           "size": 29409516,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.bep1s.nfsmwios"
       ]
     },
     {
