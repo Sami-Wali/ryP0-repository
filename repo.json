@@ -5400,7 +5400,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
-        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.0",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.1",
         "workflowPath": ".github/workflows/update-app-app-f8914557173c4e2593cd39a01e9dafc9.yml"
       },
       "bundleIdentifier": "com.bep1s.nfsmwios",
@@ -5420,13 +5420,25 @@
       "name": "Need for Speed Most Wanted (2005)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.0/NFSMW.ipa",
-        "checkedAt": "2026-10-27T19:04:36Z",
+        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.1/NFSMW.ipa",
+        "checkedAt": "2026-10-27T22:13:25Z",
         "message": "Updated by private automation"
       },
       "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.1",
+          "date": "2026-10-27T22:07:31Z",
+          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.1/NFSMW.ipa",
+          "size": 30101026,
+          "sha256": "f07918eda76d983728fd6c9954ea9fb6126cdd82bcd817cfde6633c83d905526",
+          "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.1/NFSMW.ipa",
+          "sourceAssetName": "NFSMW.ipa",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios",
+          "releaseChannel": "release",
+          "buildVersion": "5"
+        },
         {
           "version": "v0.4.0",
           "date": "2026-10-27T19:01:59Z",
@@ -5449,17 +5461,6 @@
           "sha256": "5823fd26d7b9a1bac32e66265a6d879c1b9d21f02462e25b3ba66ad02ffae1ac",
           "size": 29891937,
           "version": "0.3.0",
-          "ipaBundleIdentifier": "com.bep1s.nfsmwios"
-        },
-        {
-          "buildVersion": "2",
-          "date": "2026-10-13T12:50:04Z",
-          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.2.0/NFSMW.ipa",
-          "localizedDescription": "- **Native Metal renderer, on by default.** The game is drawn by its own shaders translated to Metal instead of an emulated Xbox 360 GPU: much faster, with a render resolution setting (1x to 2x, or the screen's own). - **No Vulkan when the native renderer is on.** MoltenVK is not started at all: about 700 MB less memory in a race, faster start. The movies are drawn natively too. - Older GPUs: runs on A16 iPhones (iPhone 14 Pro / Pro Max) and M1 iPads, which have no DXT texture support in Metal (expanded on the GPU) and showed a black 3D scene before. - Audio: clean menu sounds, low latency, and no more cut-outs in police chases. - Keyboard controls (Magic Keyboard or any hardware keyboard), customizable. - Customizable touch controls: move and resize every control, overall size and opacity, for both the Pad and the Drive layouts. - New launcher with tabs (Game, Graphics, Controls, Audio, Advanced); settings only the emulated renderer uses are greyed out while the native one draws; the version and build are shown at the bottom. - Graphics fixes: tuning shop car reflections, mirror, shadows, reflections, movies kept at 16:9 on wide screens; anisotropic filtering, MSAA and a shadow quality setting. - Extra Options: Skip movies. - Display Zoom (iPad \"More Space\") no longer flickers.",
-          "releaseChannel": "release",
-          "sha256": "64943d7c8d002910f759c38eb100c3c523cb4fa04db5de95d0791bd15f1e5e8e",
-          "size": 29409516,
-          "version": "v0.2.0",
           "ipaBundleIdentifier": "com.bep1s.nfsmwios"
         }
       ],
