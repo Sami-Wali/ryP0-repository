@@ -55,7 +55,7 @@
       },
       "githubURL": "https://github.com/77emul/77U-BETA",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-81c58f3fc13cfa78e87236712261c8e5",
         "sourceURL": "https://github.com/77emul/77U-BETA/releases/tag/77U_0.1.0.ipa",
