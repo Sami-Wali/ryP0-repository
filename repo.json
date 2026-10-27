@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ico-pc",
+      "catalogID": "project-2b683ab30368a9600fd53fe715fbcda5",
+      "bundleIdentifier": "com.defnf.icopc",
+      "developerName": "nathanialf",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.9.2",
+          "date": "2026-10-26T22:52:49Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
+          "size": 7418483,
+          "buildVersion": "0.9.2",
+          "releaseChannel": "release",
+          "sha256": "2e9b6ab69f28ec500049f999172a5e7aa585a6e67920724ab51920e0e7f18278",
+          "sourceAppName": "ICO",
+          "sourceAssetName": "ico-pc-v0.9.2-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
+        "checkedAt": "2026-10-27T04:04:17Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.2/ico-pc-v0.9.2-ios-unsigned.ipa",
+        "sourceURL": "https://github.com/nathanialf/ico-pc"
+      },
+      "githubURL": "https://github.com/nathanialf/ico-pc",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
+        "sourceURL": "https://github.com/nathanialf/ico-pc",
+        "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
+      }
+    },
+    {
       "name": "77U-BETA",
       "catalogID": "project-81c58f3fc13cfa78e87236712261c8e5",
       "bundleIdentifier": "77emul.beta2",
