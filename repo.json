@@ -2112,10 +2112,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.3",
+        "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
+        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.8",
         "workflowPath": ".github/workflows/update-app-project-944612c4ab3539bf98ff7dfdda6ac9dc.yml"
       },
       "bundleIdentifier": "com.mikevillarroel.tendiemaker",
@@ -2136,13 +2136,26 @@
       "name": "tendiemaker",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.7/TendieMaker-1.0.7.ipa",
-        "checkedAt": "2026-10-28T13:21:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+        "checkedAt": "2026-10-28T13:33:39Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.8",
+          "date": "2026-10-28T13:28:34Z",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+          "size": 3721599,
+          "sha256": "e877a5f9c9e063883458d1420a80e7b0545481fb45fb7e014a67fc10904bd5a1",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+          "sourceAssetName": "TendieMaker-1.0.8.ipa",
+          "sourceAppName": "TendieMaker",
+          "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-23T02:07:30Z",
@@ -2195,6 +2208,10 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.3/TendieMaker-v1.0.3.ipa",
           "version": "v1.0.3"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mikevillarroel.tendiemaker",
+        "com.tendiemaker.app"
       ]
     },
     {
