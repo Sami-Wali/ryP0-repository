@@ -6209,9 +6209,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-d0638a66808245a897965153726af6a3",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.2.0",
+        "configId": "app-d0638a66808245a897965153726af6a3",
+        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.3.0",
         "workflowPath": ".github/workflows/update-app-app-d0638a66808245a897965153726af6a3.yml"
       },
       "bundleIdentifier": "com.atebits.Tweetie2",
@@ -6230,12 +6230,24 @@
       "name": "NeoFreeBird-sideloaded-X",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.2.0/NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa",
-        "checkedAt": "2026-10-28T13:21:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+        "checkedAt": "2026-10-28T18:19:56Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v7.3.0",
+          "date": "2026-10-28T18:16:07Z",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+          "size": 273143491,
+          "sha256": "dad0bddd9a49e3aeeead6e3d0dee73bd47f46b83b0d2e9822dee9417eae1dc99",
+          "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+          "sourceAssetName": "NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
         {
           "buildVersion": "31",
           "date": "2026-10-16T19:10:31Z",
@@ -6246,7 +6258,8 @@
           "size": 262415275,
           "sourceAssetName": "NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa",
           "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.2.0/NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa",
-          "version": "v7.2.0"
+          "version": "v7.2.0",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         },
         {
           "buildVersion": "1",
@@ -6256,7 +6269,8 @@
           "releaseChannel": "release",
           "sha256": "37f8561448d69d799ac03eb3b4ee012f4147dae6a2f3974d6535bb4a160f5dcf",
           "size": 260421912,
-          "version": "12.31.1"
+          "version": "12.31.1",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         },
         {
           "buildVersion": "1",
@@ -6266,8 +6280,12 @@
           "releaseChannel": "release",
           "sha256": "5066239a79dc13556121948729a0fee5597350b2452baf3a870de4e8b4c8448c",
           "size": 260418226,
-          "version": "v6.8.1"
+          "version": "v6.8.1",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.atebits.Tweetie2"
       ]
     },
     {
