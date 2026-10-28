@@ -5934,8 +5934,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-28T09:54:30Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -8811,8 +8811,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
+        "checkedAt": "2026-10-28T09:50:09Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -8849,8 +8848,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
+        "checkedAt": "2026-10-28T09:50:05Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -11890,8 +11888,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-28T09:43:59Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -12052,8 +12050,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-28T09:44:45Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -12191,8 +12189,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-28T09:45:02Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -12284,7 +12282,8 @@
         }
       ],
       "bundleIdentifiers": [
-        "com.xenios.jp"
+        "com.xenios.jp",
+        "jp.xenios.xenios.ios"
       ]
     },
     {
@@ -12422,10 +12421,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "state": "broken",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download returned HTTP 404"
+        "checkedAt": "2026-10-28T09:44:13Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
@@ -12485,20 +12484,24 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/minecraft/current.ipa",
-        "checkedAt": "2026-10-28T06:02:15Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-28T09:55:14Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#4B8B3B",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.26.52.03",
-          "date": "2026-10-23T10:39:01Z",
+          "version": "1.26.60",
+          "date": "2026-10-28T09:54:53Z",
           "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/minecraft/current.ipa",
-          "sha256": "daab2df0137fc2d475ffe8f0b00f5caeff4f4a7385ab847937c715f7219b0d43",
-          "size": 693798752,
-          "version": "1.26.52"
+          "size": 701527656,
+          "sha256": "13fffd9d30e774528bf6bc5711bc5cebc69a24a5a64557ebf184ec657f147070",
+          "ipaBundleIdentifier": "com.mojang.minecraftpe",
+          "buildVersion": "1.26.60.04"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mojang.minecraftpe"
       ]
     },
     {
