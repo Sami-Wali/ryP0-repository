@@ -939,7 +939,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/28",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
