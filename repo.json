@@ -6273,9 +6273,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-e1919ebbcd4d441eb58192c4acb5e435",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.2.0",
+        "configId": "app-e1919ebbcd4d441eb58192c4acb5e435",
+        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.3.0",
         "workflowPath": ".github/workflows/update-app-app-e1919ebbcd4d441eb58192c4acb5e435.yml"
       },
       "bundleIdentifier": "com.atebits.Tweetie2",
@@ -6294,12 +6294,24 @@
       "name": "NeoFreeBird-sideloaded-Twitter",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.2.0/NeoFreeBird-sideloaded-Twitter_7.2.0_12.33.ipa",
-        "checkedAt": "2026-10-28T13:21:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+        "checkedAt": "2026-10-28T18:19:13Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v7.3.0",
+          "date": "2026-10-28T18:16:07Z",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+          "size": 269779010,
+          "sha256": "f28e51776b953988afcd33ef123b63524ac6905946941897b0ddfd1914ca5f05",
+          "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+          "sourceAssetName": "NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
         {
           "buildVersion": "31",
           "date": "2026-10-16T19:10:31Z",
@@ -6310,7 +6322,8 @@
           "size": 259047406,
           "sourceAssetName": "NeoFreeBird-sideloaded-Twitter_7.2.0_12.33.ipa",
           "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.2.0/NeoFreeBird-sideloaded-Twitter_7.2.0_12.33.ipa",
-          "version": "v7.2.0"
+          "version": "v7.2.0",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         },
         {
           "buildVersion": "1",
@@ -6320,7 +6333,8 @@
           "releaseChannel": "release",
           "sha256": "81b9234163e17372e2f32f63867a0c53fe4860aa62441fb7effc5bc54fe0baa6",
           "size": 257046586,
-          "version": "12.31.1"
+          "version": "12.31.1",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         },
         {
           "buildVersion": "1",
@@ -6330,8 +6344,12 @@
           "releaseChannel": "release",
           "sha256": "4847fda1497a197c31aec3d5b9f936de1fcebbca1904bd01378276299adb20fe",
           "size": 257042900,
-          "version": "v6.8.1"
+          "version": "v6.8.1",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.atebits.Tweetie2"
       ]
     },
     {
