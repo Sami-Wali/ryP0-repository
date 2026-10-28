@@ -1622,7 +1622,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-4585a0a43e66bef44edd8300c82c7692",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/Sami-Wali/ryP0/releases/tag/2.0",
         "workflowPath": ".github/workflows/update-app-project-4585a0a43e66bef44edd8300c82c7692.yml"
