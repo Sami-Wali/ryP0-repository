@@ -5443,7 +5443,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
-        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.1",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.2",
         "workflowPath": ".github/workflows/update-app-app-f8914557173c4e2593cd39a01e9dafc9.yml"
       },
       "bundleIdentifier": "com.bep1s.nfsmwios",
@@ -5463,13 +5463,25 @@
       "name": "Need for Speed Most Wanted (2005)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.1/NFSMW.ipa",
-        "checkedAt": "2026-10-28T22:45:17Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.2/NFSMW.ipa",
+        "checkedAt": "2026-10-28T23:03:07Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.2",
+          "date": "2026-10-28T23:01:31Z",
+          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.2/NFSMW.ipa",
+          "size": 30121770,
+          "sha256": "f872797da3eadcf028aa5fa2b7dfb9cf383d9ffe84437f92b15f93dc60411ed7",
+          "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.2/NFSMW.ipa",
+          "sourceAssetName": "NFSMW.ipa",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios",
+          "releaseChannel": "release",
+          "buildVersion": "6"
+        },
         {
           "version": "v0.4.1",
           "date": "2026-10-27T22:07:31Z",
@@ -5495,17 +5507,6 @@
           "releaseChannel": "release",
           "buildVersion": "4",
           "localizedDescription": "- **Import PC saves.** The save manager's Import also takes a save from the PC game (v1.3, the file inside the profile's folder, or a .zip of it): it is converted to the Xbox 360 layout. Needs one career of this game on the device already (its options are reused). - **Motion blur switch.** Motion blur can be turned off in the launcher and in the in-game options; off, the picture stays sharp when driving fast. - **Save sync between devices fixed.** Part of a Black Edition career was kept in a separate file the save manager ignored, so a newer save (for example one more challenge event) did not show as newer on the other device, and could arrive incomplete. That file now travels with the save everywhere, and saves are copied to your iCloud Drive folder shortly after the game saves, not only when the launcher opens. - **Delete saves from iCloud.** A save that is only in iCloud can now be deleted from the save manager (tap it), instead of only downloaded. - **Simpler save manager.** One list of careers. Each shows its cash, bounty and when and on which device it was last saved, including careers only in iCloud. When another device has a newer save, the career says so and tapping it offers \"Use the save from iPad\" first. Sync now is the button at the top right. - **Import saves from the internet.** The save manager's Import button takes an Xbox 360 save file, a Xenia save folder or .zip, a .zip exported from the app, or the bare save file. - **Achievements follow you between devices.** With an iCloud Drive folder chosen, an achievement unlocked on one device now shows as unlocked on the others too. - **Black Edition content now actually turns on.** The switch set the wrong byte of the game's memory, so the content stayed hidden. Now the 70th Challenge Series event (the Camaro) and the Black Edition cars in Quick Race appear, and starting a career works. It is always on now: the launcher no longer has a switch for it. - **Smoother frame pacing with the FPS counter on.** Each counter update delayed a frame, a small stutter up to twice a second; the counter is now drawn into the game's picture (a square dark box). At the 60 fps cap frames are also made in step with the screen's refresh, as at 30 and 40. - **120 Hz simulation switch.** The game can move its world 120 times a second instead of 60 (Advanced tab, off by default; always on with the 120 fps cap). - **Options while playing.** In a menu or the pause screen, tap the gear at the top right (or press L3+R3 on a controller) to change the render resolution, MetalFX, the 30/60 fps cap, anti-aliasing and the battery settings without restarting. Settings that need a restart (40/120 fps, MSAA) are marked \"next launch\". - **HUD size and position.** New HUD settings (launcher Graphics tab and the options while playing): the race HUD's size and safe zone (how close to the screen's edges it sits), and the minimap, the speedometer and the race info (standings, laps, times) moved left, right, up or down on their own. - **Post-processing switch fixed.** Turning it off now really removes the colour filter, bloom and vignette; it can also be changed while playing. - **Battery mode now caps the game at 30 fps**, along with its other savings. - **New setting: reflection and mirror resolution.** The reflections on the cars and the rear-view mirror are drawn at the Xbox 360's size (the default, lighter) or follow the render resolution (a sharper mirror). - **About a quarter less battery drain while playing**, with the same picture, resolution and frame rate: the game's threads ask iOS for a lower priority, so the CPU runs at cheaper speeds (measured on an iPad Pro M4 at 1.5x / 60 fps). On by default on devices with at least 6 efficiency cores (M-series iPads); off on iPhones, where it made the game stutter. Override with `--ios_utility_qos=true|false --ios_utility_qos_guest=true|false`. - **Smoother police pursuits on iPhones.** Pursuits dropped to about 22 fps because some game threads stayed on t"
-        },
-        {
-          "buildVersion": "3",
-          "date": "2026-10-14T16:35:17Z",
-          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
-          "localizedDescription": "## 0.3.0 - **Fixes for freezes.** The freeze after leaving the safehouse (and in some tollbooth races): the picture stopped while music and controls went on. And a rare black-screen hang at boot. - **iOS 26 works with the native renderer.** It froze on the last movie frame or showed a black screen with only sound and controls: the game's shaders were built for iOS 27 only. - **Invisible cars in career with Black Edition on.** Black Edition needs more car records than the game's table holds, and the extra ones were not saved with the career. They are now kept beside the save (from this version on: careers already affected keep their invisible cars). - **HDMI and AirPlay.** An external display shows the game by itself, full size, while the phone keeps the touch controls. - **MetalFX** (native renderer): temporal upscaling with the game's motion, to the screen, lighter, or anti-aliasing only. FXAA, MSAA where the game draws without it, and the game's own mip levels. - **Battery and heat.** Battery mode (lower resolution, half-size shadows, car reflections updated less often), 30 fps in menus and pause, 30 fps when warm or on Low Power, 0.75x when hot, each also on its own. Less CPU spent waiting, no idle 120 Hz screen refresh, steadier frame pacing. - **Touch controls switch by themselves** between the Pad layout in menus and the Drive layout while driving (with a small D-pad for free roam). - **11\" iPads**: 4:3 fills the screen. \"Stretch to full screen\" is gone. - Extra Options: Quick Race laps, opponents, traffic and weather. - Save manager: saves, backups, export and import, iCloud Drive sync, cash and bounty per save. ### Known issues - Skipping a movie can turn its last frame red for a moment. - Launching the game for the first time may have stutters as it is caching all shaders in the background.",
-          "releaseChannel": "release",
-          "sha256": "5823fd26d7b9a1bac32e66265a6d879c1b9d21f02462e25b3ba66ad02ffae1ac",
-          "size": 29891937,
-          "version": "0.3.0",
-          "ipaBundleIdentifier": "com.bep1s.nfsmwios"
         }
       ],
       "bundleIdentifiers": [
