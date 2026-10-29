@@ -5504,10 +5504,10 @@
       "localizedDescription": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "name": "Swiftgram (TGExtra)",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "update-error",
+        "checkedAt": "2026-10-29T10:12:01Z",
+        "sourceMissingChecks": 1,
+        "message": "App absent from the upstream source; will unlist if the next check confirms it."
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "updatePolicy": "daily",
@@ -5635,10 +5635,9 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
-        "checkedDownloadURL": "https://litter.catbox.moe/exizay34ea1j6zon.ipa",
-        "message": "Download returned HTTP 404",
-        "state": "broken"
+        "state": "update-error",
+        "checkedAt": "2026-10-29T10:11:55Z",
+        "message": "Private updater: The upstream IPA download returned HTTP 404."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
@@ -6061,10 +6060,10 @@
       },
       "name": "SideStore",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-29T10:11:29Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -9018,10 +9017,9 @@
       "localizedDescription": "A rogue-lite slot machine nightmare",
       "name": "CloverPit-1.4.8",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-29T10:08:17Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
       "updatePolicy": "daily",
@@ -9056,10 +9054,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-29T10:08:10Z",
+        "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
@@ -12099,10 +12096,10 @@
       "localizedDescription": "GameCube and Wii emulator for iOS. (Pre-release/Nightly builds)",
       "name": "DolphiniOS (nightly)",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-29T10:02:12Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -12261,10 +12258,10 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-29T10:03:10Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -12401,10 +12398,10 @@
       "localizedDescription": "Xenios XBOX360 emulator port for iOS.",
       "name": "Xenios",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-10-29T10:03:33Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -12634,10 +12631,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "checkedAt": "2026-10-29T06:14:12Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "message": "Download returned HTTP 404",
-        "state": "broken"
+        "checkedAt": "2026-10-29T10:02:27Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
