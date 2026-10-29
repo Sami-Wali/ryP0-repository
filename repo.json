@@ -550,10 +550,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e9243c37fc5b9e67692666a44209ed85",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/kuscholar/iDeck/releases/tag/v0.1.3-alpha.3",
+        "configId": "project-e9243c37fc5b9e67692666a44209ed85",
+        "sourceURL": "https://github.com/kuscholar/iDeck/releases/tag/v0.1.3-alpha.4",
         "workflowPath": ".github/workflows/update-app-project-e9243c37fc5b9e67692666a44209ed85.yml"
       },
       "bundleIdentifier": "com.kuschqin.madeira.steamui",
@@ -576,14 +576,27 @@
       "localizedDescription": "",
       "name": "iDeck",
       "status": {
-        "checkedAt": "2026-10-28T22:45:17Z",
-        "checkedDownloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.3/iDeck-0.1.3-alpha.3-build67.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.4/iDeck-0.1.3-alpha.4-build99.ipa",
+        "checkedAt": "2026-10-29T05:03:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.3-alpha.4",
+          "date": "2026-10-29T04:58:56Z",
+          "downloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.4/iDeck-0.1.3-alpha.4-build99.ipa",
+          "size": 166772750,
+          "sha256": "c09687a26e6695a329348a869a74bacf004217713d4fd7c223b5263f818552a1",
+          "upstreamAssetURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.4/iDeck-0.1.3-alpha.4-build99.ipa",
+          "sourceAssetName": "iDeck-0.1.3-alpha.4-build99.ipa",
+          "sourceAppName": "iDeck",
+          "ipaBundleIdentifier": "com.kuschqin.madeira.steamui",
+          "releaseChannel": "alpha",
+          "buildVersion": "99"
+        },
         {
           "buildVersion": "67",
           "date": "2026-10-27T04:20:57Z",
