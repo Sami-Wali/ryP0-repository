@@ -94,10 +94,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-c73203d762aece296d92b42fa84683c7",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/tag/build2",
+        "configId": "project-c73203d762aece296d92b42fa84683c7",
+        "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/tag/build2_1",
         "workflowPath": ".github/workflows/update-app-project-c73203d762aece296d92b42fa84683c7.yml"
       },
       "bundleIdentifier": "com.devz.persona4golden",
@@ -121,13 +121,26 @@
       "name": "P4G-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2/Persona4Golden-iOS-0.1.1.ipa",
-        "checkedAt": "2026-10-29T06:14:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2_1/Persona4Golden-iOS-0.1.1.ipa",
+        "checkedAt": "2026-10-29T06:18:10Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "build2_1",
+          "date": "2026-10-29T06:14:01Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2_1/Persona4Golden-iOS-0.1.1.ipa",
+          "size": 17250693,
+          "sha256": "482310577e3a80c78222cbab3cf72264531394e01bb82605309daffef77f40e4",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/build2_1/Persona4Golden-iOS-0.1.1.ipa",
+          "sourceAssetName": "Persona4Golden-iOS-0.1.1.ipa",
+          "sourceAppName": "Persona 4 Golden",
+          "ipaBundleIdentifier": "com.devz.persona4golden",
+          "releaseChannel": "release",
+          "buildVersion": "12"
+        },
         {
           "buildVersion": "8",
           "date": "2026-10-27T20:27:08Z",
