@@ -1472,7 +1472,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-2f6459366580662a6ad0edd66b89cd63",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/SonicFreeRiders-iOS",
         "workflowPath": ".github/workflows/update-app-project-2f6459366580662a6ad0edd66b89cd63.yml"
