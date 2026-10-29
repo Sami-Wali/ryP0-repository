@@ -872,10 +872,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-a3509749fdbe8400cd67bd26d7c7b890",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata",
+        "configId": "project-a3509749fdbe8400cd67bd26d7c7b890",
+        "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/tag/v2.0.0",
         "workflowPath": ".github/workflows/update-app-project-a3509749fdbe8400cd67bd26d7c7b890.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -896,13 +896,26 @@
       "name": "Strata",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
-        "checkedAt": "2026-10-29T13:31:22Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v2.0.0/Strata-2.0%2BSideStore.ipa",
+        "checkedAt": "2026-10-29T21:26:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.0.0",
+          "date": "2026-10-29T20:22:25Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v2.0.0/Strata-2.0%2BSideStore.ipa",
+          "size": 61011538,
+          "sha256": "981ab6c5e13a585d7712709340a45cd9254ca0c8230b29bd112628743cff739e",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v2.0.0/Strata-2.0%2BSideStore.ipa",
+          "sourceAssetName": "Strata-2.0+SideStore.ipa",
+          "sourceAppName": "Strata",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "releaseChannel": "release",
+          "buildVersion": "3.8.11"
+        },
         {
           "buildVersion": "3.8.11",
           "date": "2026-10-22T21:58:31Z",
@@ -916,6 +929,9 @@
           "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
           "version": "3.8.11"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.kdt.livecontainer"
       ]
     },
     {
