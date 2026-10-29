@@ -173,7 +173,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/nathanialf/ico-pc",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
