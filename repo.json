@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "LemoNX",
+      "catalogID": "app-a8ad2e974fd443059d1c3b5625af66b1",
+      "bundleIdentifier": "com.ltchipotle.LemoNX",
+      "developerName": "ltchipotle",
+      "localizedDescription": "Nintendo Switch emulation for iPhone and iPad. Requires JIT and your own game dumps, keys, and firmware.",
+      "subtitle": "Nintendo Switch emulation for iPhone and iPad. Requires JIT and your own game dumps, keys, and firmware.",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-10-23T21:44:56.758873+00:00",
+          "downloadURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-test139/MeloNX-20261023-1412-lemonx-offline139-texel-views.ipa",
+          "size": 77210653,
+          "buildVersion": "20261023-1412 lemonx-offline139-texel-views (d393a55f9+)",
+          "localizedDescription": "# LemoNX 2.6 (139) Test release. Known issues remain; see below. ## Improvements - Added cloud save history, including the save date, device name, and archive size. - Added rollback to an earlier cloud save. Your current save is backed up and verified before restoring. Cloud sync stays paused until you resume it. ## Fixes - Fixed Metal buffer-texture alignment handling that could leave textures unavailable. - Fixed two ordering issues in deferred buffer transfers. ## Known issues - Pokémon Scarlet can still show intermittent model spikes and stretched geometry. - Minecraft Dungeons gameplay still needs a phone retest. Buffer handling passed GPU regression tests and Metal API validation. Game-specific fixes are still being tested.",
+          "sha256": "f33f33ebdfb3b4001a7c5903b89ae326d25e6ee9cde7eeb613e4c5ebb1295f1c",
+          "ipaBundleIdentifier": "com.ltchipotle.LemoNX"
+        }
+      ],
+      "iconURL": "https://ltchipotle.codeberg.page/LemoNX.Binaries/assets/icon.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-test139/MeloNX-20261023-1412-lemonx-offline139-texel-views.ipa",
+        "checkedAt": "2026-10-29T08:29:54Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-test139/MeloNX-20261023-1412-lemonx-offline139-texel-views.ipa",
+        "selector": "entry-a161e954e06c172f629b101099c4f1a55ef9f5e20e256625b08d2bc9bc812bac",
+        "sourceURL": "https://ltchipotle.codeberg.page/LemoNX.Binaries/source.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-a8ad2e974fd443059d1c3b5625af66b1",
+        "sourceURL": "https://ltchipotle.codeberg.page/LemoNX.Binaries/source.json",
+        "workflowPath": ".github/workflows/update-app-app-a8ad2e974fd443059d1c3b5625af66b1.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
