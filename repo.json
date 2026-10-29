@@ -2194,7 +2194,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.8",
         "workflowPath": ".github/workflows/update-app-project-944612c4ab3539bf98ff7dfdda6ac9dc.yml"
