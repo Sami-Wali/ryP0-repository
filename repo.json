@@ -2077,7 +2077,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-07b0bf20965bbefea7e7883d126e128c",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/mikevillarroel/layers/releases/tag/v1.0.5",
         "workflowPath": ".github/workflows/update-app-project-07b0bf20965bbefea7e7883d126e128c.yml"
