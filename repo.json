@@ -2720,7 +2720,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-658e8475459bf1e77779945f7f854235",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/huzaifahshahid71-ops/hollow-games-ios-builder/releases/tag/phone-v0.1.0-beta.1",
         "workflowPath": ".github/workflows/update-app-project-658e8475459bf1e77779945f7f854235.yml"
