@@ -7590,10 +7590,9 @@
       "localizedDescription": "Vita emulator with jit",
       "name": "Tsubomi",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:43:30Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "Vita emulator with jit",
       "updatePolicy": "daily",
