@@ -578,7 +578,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-81c58f3fc13cfa78e87236712261c8e5",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/77emul/77U-BETA/releases/tag/77U_0.1.0.ipa",
         "workflowPath": ".github/workflows/update-app-project-81c58f3fc13cfa78e87236712261c8e5.yml"
