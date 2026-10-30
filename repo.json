@@ -784,7 +784,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-89132ca96fefd86ded3d81da828fffa6",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
         "workflowPath": ".github/workflows/update-app-project-89132ca96fefd86ded3d81da828fffa6.yml"
