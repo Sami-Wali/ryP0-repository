@@ -6103,9 +6103,8 @@
       "name": "Amethyst",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Private updater: The downloaded IPA bundle identifier does not match the configured app."
+        "checkedAt": "2026-10-30T20:47:19Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401."
       },
       "subtitle": "",
       "updatePolicy": "daily",
