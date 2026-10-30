@@ -8859,6 +8859,7 @@
       },
       "bundleIdentifier": "com.spotify.client",
       "bundleIdentifiers": [
+        "net.whatsapp.WhatsApp",
         "com.burbn.instagram",
         "com.spotify.client"
       ],
@@ -8875,20 +8876,20 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T20:36:56Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Spotify cracked releases",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1093431980",
-          "date": "2026-10-27T09:14:16Z",
+          "version": "26.41.75",
+          "date": "2026-10-30T20:21:16Z",
           "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-          "ipaBundleIdentifier": "com.burbn.instagram",
-          "sha256": "0dc44435e745a81f267e4b0c507b4830390017914721bd967721bf30898fe1a6",
-          "size": 341261605,
-          "version": "452.0.1"
+          "size": 185542602,
+          "sha256": "1a2c62149278fbd3709d1212e4fb0932b3f483eccad460045964bc1657daee70",
+          "ipaBundleIdentifier": "net.whatsapp.WhatsApp",
+          "buildVersion": "1097159405"
         }
       ]
     },
