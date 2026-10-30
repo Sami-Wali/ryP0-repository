@@ -897,7 +897,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a3509749fdbe8400cd67bd26d7c7b890",
         "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/tag/v2.0.0",
