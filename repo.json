@@ -8274,10 +8274,9 @@
       "localizedDescription": "",
       "name": "EspressU",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.3/EspressU-v1.3.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:39:44Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "",
       "updatePolicy": "daily",
