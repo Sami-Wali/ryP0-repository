@@ -8829,10 +8829,9 @@
       "localizedDescription": "GitHub project request: shplash/IPAID.",
       "name": "IPAID",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:37:17Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: shplash/IPAID.",
       "updatePolicy": "daily",
