@@ -7996,10 +7996,9 @@
       "localizedDescription": "",
       "name": "UMK3-unsigned",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:40:51Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "",
       "updatePolicy": "daily",
