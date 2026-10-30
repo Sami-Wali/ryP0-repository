@@ -2263,10 +2263,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.8",
+        "configId": "project-944612c4ab3539bf98ff7dfdda6ac9dc",
+        "sourceURL": "https://github.com/mikevillarroel/tendiemaker/releases/tag/v1.0.9",
         "workflowPath": ".github/workflows/update-app-project-944612c4ab3539bf98ff7dfdda6ac9dc.yml"
       },
       "bundleIdentifier": "com.mikevillarroel.tendiemaker",
@@ -2291,13 +2291,26 @@
       "name": "tendiemaker",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
-        "checkedAt": "2026-10-30T13:20:36Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
+        "checkedAt": "2026-10-30T13:57:55Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.9",
+          "date": "2026-10-30T13:52:24Z",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
+          "size": 3697748,
+          "sha256": "41ad5467138ac79cfe05400396f8258743f9434813e1409d3ea41361ab43ab8b",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
+          "sourceAssetName": "TendieMaker-1.0.9.ipa",
+          "sourceAppName": "TendieMaker",
+          "ipaBundleIdentifier": "com.mikevillarroel.tendiemaker",
+          "releaseChannel": "release",
+          "buildVersion": "3"
+        },
         {
           "buildVersion": "2",
           "date": "2026-10-28T13:28:34Z",
