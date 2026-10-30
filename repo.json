@@ -7634,10 +7634,9 @@
       "localizedDescription": "GitHub project request: wsvn53/scrcpy-mobile.",
       "name": "Scrcpy-Mobile",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:43:08Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: wsvn53/scrcpy-mobile.",
       "updatePolicy": "daily",
