@@ -59,10 +59,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/tag/26.40",
+        "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
+        "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/tag/v26.60",
         "workflowPath": ".github/workflows/update-app-project-3c42063e133e94a6a6927dd2f640d8cb.yml"
       },
       "bundleIdentifier": "com.mojang.minecraftpe.hynis",
@@ -85,12 +85,25 @@
       "name": "ipa-wo-hynis-jutsu",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.52/Minecraft-Hynis%2BHyniSwizzleFPS-26.52.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.60/Minecraft-Hynis%2BHyniSwizzleFPS-26.60.ipa",
+        "checkedAt": "2026-10-30T16:32:04Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v26.60",
+          "date": "2026-10-30T15:16:52Z",
+          "downloadURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.60/Minecraft-Hynis%2BHyniSwizzleFPS-26.60.ipa",
+          "size": 356165944,
+          "sha256": "de44c356ba5c8a5c917134d49d2f7c150aa9f5c0ee45429a156c3bd1153328bb",
+          "upstreamAssetURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/v26.60/Minecraft-Hynis%2BHyniSwizzleFPS-26.60.ipa",
+          "sourceAssetName": "Minecraft-Hynis+HyniSwizzleFPS-26.60.ipa",
+          "sourceAppName": "Minecraft Hynis",
+          "ipaBundleIdentifier": "com.mojang.minecraftpe.hynis",
+          "releaseChannel": "release",
+          "buildVersion": "1.26.60.04"
+        },
         {
           "buildVersion": "1.26.52.03",
           "date": "2026-10-05T13:25:53Z",
