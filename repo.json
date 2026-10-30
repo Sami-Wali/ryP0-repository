@@ -5116,10 +5116,9 @@
       "localizedDescription": "",
       "name": "ytkace",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.4/YTKACE_1.1.4_YouTube_iOS16_21.33.6.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:50:06Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401."
       },
       "subtitle": "",
       "updatePolicy": "daily",
