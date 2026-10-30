@@ -8567,10 +8567,9 @@
       "localizedDescription": "GitHub project request: ResistanceTo/MiniWatts.",
       "name": "MiniWatts",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:38:17Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: ResistanceTo/MiniWatts.",
       "updatePolicy": "daily",
