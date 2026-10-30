@@ -2049,7 +2049,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-cdec020bc46343cad57e5fa1522c9e67",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS",
         "workflowPath": ".github/workflows/update-app-project-cdec020bc46343cad57e5fa1522c9e67.yml"
