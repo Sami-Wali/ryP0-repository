@@ -8497,10 +8497,9 @@
       "localizedDescription": "GitHub project request: onlyknt/pziOS.",
       "name": "pziOS",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.5-b42.21.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:38:38Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: onlyknt/pziOS.",
       "updatePolicy": "daily",
