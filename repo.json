@@ -1025,7 +1025,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-022a76d64292cbea88b32fd75a7f3451",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/SonicGenerations-iOS",
         "workflowPath": ".github/workflows/update-app-project-022a76d64292cbea88b32fd75a7f3451.yml"
