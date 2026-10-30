@@ -8766,10 +8766,9 @@
       "localizedDescription": "Manga reading app",
       "name": "Aidoku",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:37:37Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
