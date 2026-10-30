@@ -616,10 +616,9 @@
       "localizedDescription": "",
       "name": "77U-BETA",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/77emul/77U-BETA/releases/download/77U_v0.2.0-beta/77U_0.1.0_Beta_2.ipa",
-        "checkedAt": "2026-10-30T20:50:57Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T21:48:52Z",
+        "message": "Private updater: GitHub API returned HTTP 400."
       },
       "subtitle": "",
       "updatePolicy": "daily",
