@@ -7519,10 +7519,9 @@
       "localizedDescription": "GitHub project request: RyanYuuki/AnymeX.",
       "name": "AnymeX",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:43:56Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: RyanYuuki/AnymeX.",
       "updatePolicy": "daily",
