@@ -8633,10 +8633,9 @@
       "localizedDescription": "GitHub project request: Predidit/Kazumi.",
       "name": "Kazumi",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:37:56Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
