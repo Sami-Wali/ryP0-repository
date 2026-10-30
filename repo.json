@@ -5655,10 +5655,9 @@
       "localizedDescription": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
       "name": "Need for Speed Most Wanted (2005)",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.2/NFSMW.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:48:55Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
       "updatePolicy": "daily",
