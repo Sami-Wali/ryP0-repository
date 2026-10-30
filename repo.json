@@ -59,7 +59,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3c42063e133e94a6a6927dd2f640d8cb",
         "sourceURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/tag/v26.60",
