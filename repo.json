@@ -10522,9 +10522,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-meleepad-meleepad-a64c007e",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/meleepad/releases/tag/v0.2.4",
+        "configId": "com-meleepad-meleepad-a64c007e",
+        "sourceURL": "https://github.com/chrissotraidis/meleepad/releases/tag/v0.2.5",
         "workflowPath": ".github/workflows/update-app-com-meleepad-meleepad-a64c007e.yml"
       },
       "bundleIdentifier": "com.meleepad.MeleePad",
@@ -10540,13 +10540,25 @@
       "name": "MeleePad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.4/MeleePad-v0.2.4-ios-unsigned.ipa",
-        "checkedAt": "2026-10-29T22:54:06Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.5/MeleePad-v0.2.5-ios-unsigned.ipa",
+        "checkedAt": "2026-10-30T04:11:11Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.2.5",
+          "date": "2026-10-30T04:07:48Z",
+          "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.5/MeleePad-v0.2.5-ios-unsigned.ipa",
+          "size": 15740594,
+          "sha256": "0957d72d05b4f6593a2f3a65e4e97aaf4eb3a73464765817261019b2045f3f14",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.5/MeleePad-v0.2.5-ios-unsigned.ipa",
+          "sourceAssetName": "MeleePad-v0.2.5-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad",
+          "releaseChannel": "release",
+          "buildVersion": "35"
+        },
         {
           "buildVersion": "34",
           "date": "2026-10-23T14:14:39Z",
@@ -10557,7 +10569,8 @@
           "size": 15741173,
           "sourceAssetName": "MeleePad-v0.2.4-ios-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.4/MeleePad-v0.2.4-ios-unsigned.ipa",
-          "version": "v0.2.4"
+          "version": "v0.2.4",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad"
         },
         {
           "buildVersion": "33",
@@ -10569,7 +10582,8 @@
           "size": 15741116,
           "sourceAssetName": "MeleePad-v0.2.3-ios-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.3/MeleePad-v0.2.3-ios-unsigned.ipa",
-          "version": "v0.2.3"
+          "version": "v0.2.3",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad"
         },
         {
           "buildVersion": "32",
@@ -10579,7 +10593,8 @@
           "releaseChannel": "release",
           "sha256": "6b57244e7e17ca96e9c537bf1bd5f4e6dbbdae5f8e260529dd53d3c2fe1ab324",
           "size": 15741134,
-          "version": "0.2.2"
+          "version": "0.2.2",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad"
         },
         {
           "buildVersion": "31",
@@ -10589,7 +10604,8 @@
           "releaseChannel": "release",
           "sha256": "91201954d5b396246c1d25df750e79fab17647124b0f2fbde99353efb1415a92",
           "size": 15739652,
-          "version": "v0.2.1"
+          "version": "v0.2.1",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad"
         },
         {
           "buildVersion": "30",
@@ -10599,8 +10615,12 @@
           "releaseChannel": "release",
           "sha256": "53a486447725de1c5832a1359f47b5ace354aa1ea65c3c89063f1506c0350f65",
           "size": 15739487,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.meleepad.MeleePad"
       ]
     },
     {
