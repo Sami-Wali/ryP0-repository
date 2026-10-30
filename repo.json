@@ -7317,10 +7317,9 @@
       "localizedDescription": "GitHub project request: suversal/WrapPin.",
       "name": "Wrapin",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Standard-1.0.18-build61-unsigned.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:45:02Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: suversal/WrapPin.",
       "updatePolicy": "daily",
