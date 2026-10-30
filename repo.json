@@ -7930,10 +7930,9 @@
       "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "name": "coolapk-desktop",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:41:12Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "updatePolicy": "daily",
