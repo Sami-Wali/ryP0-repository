@@ -6423,10 +6423,9 @@
       },
       "name": "NeoFreeBird-sideloaded-X",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:46:36Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "updatePolicy": "daily",
       "versions": [
