@@ -12531,8 +12531,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T16:10:09Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
