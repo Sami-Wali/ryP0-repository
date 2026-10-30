@@ -7770,9 +7770,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.15.0",
+        "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
+        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.16.0",
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
@@ -7793,13 +7793,25 @@
       "name": "Cyanide",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.15.0/Cyanide-1.15.0.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
+        "checkedAt": "2026-10-30T18:22:34Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.16.0",
+          "date": "2026-10-30T15:33:07Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
+          "size": 7126727,
+          "sha256": "b7112333052219a9b8152a07d82d154d4c7ae1ac17d79a78766a72cd68815b1f",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
+          "sourceAssetName": "Cyanide-1.16.0.ipa",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1",
+          "releaseChannel": "release",
+          "buildVersion": "1016000"
+        },
         {
           "buildVersion": "1015000",
           "date": "2026-10-25T11:56:37Z",
@@ -7810,7 +7822,8 @@
           "size": 7121769,
           "sourceAssetName": "Cyanide-1.15.0.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.15.0/Cyanide-1.15.0.ipa",
-          "version": "v1.15.0"
+          "version": "v1.15.0",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1"
         },
         {
           "buildVersion": "1014000",
@@ -7822,20 +7835,12 @@
           "size": 7114253,
           "sourceAssetName": "Cyanide-1.14.0.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.14.0/Cyanide-1.14.0.ipa",
-          "version": "v1.14.0"
-        },
-        {
-          "buildVersion": "1013000",
-          "date": "2026-10-23T19:34:53Z",
-          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.13.0/Cyanide-1.13.0.ipa",
-          "localizedDescription": "> **Supported:** iPhone / iPad on iOS/iPadOS `17.0 – 18.7.1` or `26.0 – 26.0.1`. > **Not supported:** iPhone 17 (A19 / A19 Pro) and M5 — Memory Integrity Enforcement. > Any other device on a supported version works. [Details](https://github.com/kolbicz/Cyanide#supported-devices) # Cyanide 1.13.0 A tweak to hide the \"new app\" dots, a clear message on unsupported devices, and another Powercuff fix. ## New - **Hide New App Dots** (Installer → SpringBoard): removes the blue dot next to the names of newly installed and updated apps, and keeps new ones from appearing until the next respring. ## Changes - **Unsupported devices and iOS versions** now get a \"Not Supported\" screen with the reason instead of crashing (e.g. iOS 16 through an installer that skips the version check). Nothing else of Cyanide runs there. ## Fixes - **Powercuff:** Cyanide now gives thermalmonitord time to take the new level before it disconnects, as 1.3.6 did. The log shows whether it worked: the system thermal state should read Critical with Heavy (also visible in apps like CPU X). If it still doesn't throttle for you, please send the log. ## About A18 / M4 On A18 / M4 devices a run has about a 50/50 chance of rebooting the device (a kernel \"panic\") instead of succeeding — a known limit of these chips that can't be fully fixed. It's a coin flip, so if it reboots, just try again; a few attempts usually gets there. Once a run works, it stays working until your next restart. If you keep hitting panics, Settings → Launch Options has four knobs for the A18 chain — exploit path (pe_v3 default, pe_v1 / pe_v2), memory shaping, interleaved search and bounded search. Defaults are unchanged in this release; other combinations may do better on your device. Each applies to the next fresh run.",
-          "releaseChannel": "release",
-          "sha256": "8170d11fa5c0a9fbbf37b412451d902e0b0308a99279f99ce8426bb6e4134bb7",
-          "size": 7093311,
-          "sourceAssetName": "Cyanide-1.13.0.ipa",
-          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.13.0/Cyanide-1.13.0.ipa",
-          "version": "v1.13.0"
+          "version": "v1.14.0",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.zeroxjf.ios-cyanide1"
       ]
     },
     {
