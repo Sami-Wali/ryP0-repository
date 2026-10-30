@@ -2550,7 +2550,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
         "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.623",
