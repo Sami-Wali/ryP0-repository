@@ -25,13 +25,22 @@
       "name": "LemoNX",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-test139/MeloNX-20261023-1412-lemonx-offline139-texel-views.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-jitless/MeloNX-20261029-2253-lemonx-integ2-picker.ipa",
+        "checkedAt": "2026-10-30T10:17:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Nintendo Switch emulation for iPhone and iPad. Requires JIT and your own game dumps, keys, and firmware.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-10-30T05:09:11Z",
+          "downloadURL": "https://codeberg.org/ltchipotle/LemoNX.Binaries/releases/download/2.6-jitless/MeloNX-20261029-2253-lemonx-integ2-picker.ipa",
+          "size": 85223877,
+          "sha256": "e32633a733740bd9b6d5c1ecd87e00c6e502368a4c6ed0247485e9fcbcc75c85",
+          "ipaBundleIdentifier": "com.ltchipotle.LemoNX",
+          "buildVersion": "20261029-2253 lemonx-integ2-picker (530aea62f)"
+        },
         {
           "buildVersion": "20261023-1412 lemonx-offline139-texel-views (d393a55f9+)",
           "date": "2026-10-23T21:44:56.758873+00:00",
@@ -42,6 +51,9 @@
           "size": 77210653,
           "version": "2.6"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.ltchipotle.LemoNX"
       ]
     },
     {
@@ -5563,8 +5575,8 @@
       "name": "Swiftgram (TGExtra)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
+        "checkedAt": "2026-10-30T10:15:26Z",
+        "sourceMissingChecks": 1,
         "message": "App absent from the upstream source; will unlist if the next check confirms it."
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
@@ -5693,10 +5705,9 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://litter.catbox.moe/exizay34ea1j6zon.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download returned HTTP 404"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T10:15:11Z",
+        "message": "Private updater: The upstream IPA download returned HTTP 404."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
@@ -6121,8 +6132,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T10:14:47Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -8658,13 +8669,22 @@
       "name": "Apollo for Reddit",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_4.0.0/Apollo-Reborn-4.0.0.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
+        "checkedAt": "2026-10-30T10:11:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching: • Jump Bar, for super-fast hopping between subreddits • Super-charged Media Viewer for an amazing experience viewing images, GIFs, videos, albums, and more from a variety of sources. • Tabbed interface for easy navigating • Incredibly powerful Markdown composer for writing comments and posts • Full inline Imgur uploading, both images and albums • Large or compact posts depending on your preference • Dark mode (can be automatic) • Fully customizable gestures • Safari View Controller for browsing articles and links • Inline previews of media in comments • 3D Touch support • Beautifully organized Inbox • Filtering and blocking • Face ID / Touch ID / Passcode lock • Moderator features • Tons of settings to tweak • GIF scrubbing to go backward and forward in time • Multiple accounts • Powerful search • Full Markdown rendering • Unobtrusive Volume Indicator As well as much, much more and it's constantly evolving. If you have anything you'd specifically like to see, come to the ApolloApp subreddit and we'd love to hear it! Apollo is an unofficial app, and side effects may include an incredible browsing experience.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "4.0.1",
+          "date": "2026-10-30T01:24:25Z",
+          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
+          "size": 97666145,
+          "sha256": "836cac01f904a5cf9e2ddb246d0a7ad7f2948586e3b9e58d4d2eeb7a96ec51dd",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "buildVersion": "303"
+        },
         {
           "buildVersion": "302",
           "date": "2026-10-25T17:15:04Z",
@@ -8673,7 +8693,8 @@
           "releaseChannel": "release",
           "sha256": "33d40ea86bbf52f8f91c154dd33d2834ab86bc302397fb7e80fdcfb9147a4a45",
           "size": 97618297,
-          "version": "4.0.0"
+          "version": "4.0.0",
+          "ipaBundleIdentifier": "com.christianselig.Apollo"
         },
         {
           "buildVersion": "301",
@@ -8683,18 +8704,12 @@
           "releaseChannel": "release",
           "sha256": "2b74336d4a37c6bdbe965df9a1c48543baf37e53b518f44a302983eaae38e730",
           "size": 97026669,
-          "version": "3.9.0"
-        },
-        {
-          "buildVersion": "300",
-          "date": "2026-09-29T03:57:45Z",
-          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_3.8.5/Apollo-Reborn-3.8.5.ipa",
-          "localizedDescription": "Mirrored from [Apollo-Reborn v1.15.11_3.8.5](https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.8.5). These IPAs are the **official Apollo-Reborn builds**, re-hosted here so this long-standing AltStore source keeps working for existing users. Apollo-Reborn also runs its own website and sources at https://apolloreborn.app --- ### Features - Add **Google Search** to the Search tab: tap the magnifier and pick Google to find Reddit threads through Google, with its snippets, Any Time and Exact Words filters, and results that open natively in Apollo (#1260: @icpryde) - Open the fullscreen image viewer's **Copy / Save / Share** menu where you press and hold, instead of the middle of the screen (#1254: @IllIIllIllIllII) - Add **Toon Bot** and **Happy Toon Bot** to the Concepts icon pack (#1253: @IllIIllIllIllII) ### Performance - Make Apollo lighter on memory and quicker to launch: image caches now have size limits and are freed when iOS runs low on memory, the Deleted Comments and sidebar text hooks stay idle when they aren't needed, editing a comment no longer holds up other loads for up to 20 seconds, and launch does less work (#1169: @paradoxally, @icpryde) - Also stops the comments title flashing on non-Liquid-Glass builds, and makes **Remember Post Sort** open posts from links, the inbox, or Floating Post Tabs in your saved sort straight away instead of reloading them - Stop the **AI comment summary** from re-running over and over while you scroll a thread (#1270: @Thetromboneman1) - Stop filtered posts leaving stacks of gray gaps in feeds, correcting just the affected rows instead of redrawing the whole feed (#1274: @Thetromboneman1) ### Fixes - Fix a feed **crash** when several RedGIFs posts load at once, most often right after launching or switching accounts (#1251: @icpryde) - Fix a crash tapping \"Translated from…\" on a recovered **deleted comment** (#1222: @icpryde) - Fix **RedGIFs** posts showing \"RedGIFs error\" on every post after switching Wi-Fi, cellular, or VPN, and on older RedGIFs videos with no listed length (#1256, #1258: @icpryde) - Fix **API-Key-Free** feeds getting stuck on a spinner: avatar lookups no longer use up Reddit's request limit for your session (#1220: @icpryde) - Keep avatar and subreddit lookups on the active account, so avatars stop staying blank and follow and subscribe states are right when you have several accounts signed in (#1227: @icpryde) - Fix **Add Account** signing in with the active account's saved API key instead of the one set in Settings (#1237: @icpryde) - Explain what went wrong when Reddit rejects your API key during sign-in, instead of leaving a blank \"{}\" page (#1236: @icpryde) - Fix **Invalid Backup** when restoring backups made on 3.7.x and earlier (#1217: @icpryde) - Fix **Unmute Videos** swapping the sound between two playing feed videos on every frame, starting videos with sound from feeds you already left, and playing on with sound under a different fullscreen video (#1247, #1250, #1252: @icpryde) - Fix a post's video going grey, and the video scrubber not working, after opening the OP's profile or swiping forward back into the post (#1269: @icpryde) - Fix **Swipe Past Gallery to Navigate** only acting after you lift your finger, sometimes on the wrong thread: swiping past a feed gallery's first or last image now goes straight to your post swipes (vote, save, back, or forward) (#1271: @Thetromboneman1) - Fix tapping a post sometimes opening a gallery post from further up the feed with **Swipe Through Feed Galleries** on (#1248: @icpryde) - Fix **Gallery View** only playing the first video when swiping on CarPlay (CarBridge/CarCast) (#1257: @icpryde) - Fix **Download Video** sending the first video you shared again over Messages, and clean up the downloaded copies it left behind (#1216, #1219: @icpryde) - Reserve room for **inline comment images** up front, so comments no longer grow when the image finishes loading (#1273: @Thetromboneman1) - Explain why ",
-          "releaseChannel": "release",
-          "sha256": "e90d101cb782c3b18ce28aab6833a51ae1bf1c19d9aabc274f98daed3d2f0783",
-          "size": 96696713,
-          "version": "3.8.5"
+          "version": "3.9.0",
+          "ipaBundleIdentifier": "com.christianselig.Apollo"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.christianselig.Apollo"
       ]
     },
     {
@@ -9077,8 +9092,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
+        "checkedAt": "2026-10-30T10:10:54Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
@@ -9115,8 +9129,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
+        "checkedAt": "2026-10-30T10:10:51Z",
         "message": "Private updater: Upstream API returned HTTP 403."
       },
       "subtitle": "Configure your VESC Ecosystem",
@@ -11978,14 +11991,23 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "name": "StikDebug",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download returned HTTP 404"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa",
+        "checkedAt": "2026-10-30T10:06:41Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-10-30T00:00:00Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa",
+          "size": 16818331,
+          "sha256": "f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced",
+          "ipaBundleIdentifier": "com.stik.stikdebug",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-15T00:00:00Z",
@@ -11994,7 +12016,8 @@
           "releaseChannel": "release",
           "sha256": "060cbf9287be8e5ebacb45f31f7ce5e81ec9538f971c521badd9cefa4a970039",
           "size": 13543234,
-          "version": "3.1.15"
+          "version": "3.1.15",
+          "ipaBundleIdentifier": "com.stik.stikdebug"
         },
         {
           "buildVersion": "1",
@@ -12004,7 +12027,8 @@
           "releaseChannel": "release",
           "sha256": "2a4ec1af798648dddda33d3a7730554529f7a172a9dd090a999eff02552c0a68",
           "size": 13544340,
-          "version": "3.1.14"
+          "version": "3.1.14",
+          "ipaBundleIdentifier": "com.stik.stikdebug"
         },
         {
           "buildVersion": "1",
@@ -12014,7 +12038,8 @@
           "releaseChannel": "release",
           "sha256": "d730fdfde1aeb3d1d3cc0cc71404f85fb9eb295d38876e2bf668a5d630f20e8c",
           "size": 13544310,
-          "version": "3.1.13"
+          "version": "3.1.13",
+          "ipaBundleIdentifier": "com.stik.stikdebug"
         },
         {
           "buildVersion": "1",
@@ -12024,8 +12049,12 @@
           "releaseChannel": "release",
           "sha256": "4366ac05aeae0a4cc11ed60d9ed6fee44ea61e3940cbc73eab5ea5c3692ae54e",
           "size": 13544301,
-          "version": "3.1.12"
+          "version": "3.1.12",
+          "ipaBundleIdentifier": "com.stik.stikdebug"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.stik.stikdebug"
       ]
     },
     {
@@ -12180,8 +12209,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T10:05:37Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -12342,8 +12371,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T10:06:24Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
@@ -12482,8 +12511,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T10:06:43Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -12713,10 +12742,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "state": "broken",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-30T06:13:57Z",
-        "message": "Download returned HTTP 404"
+        "checkedAt": "2026-10-30T10:05:49Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
