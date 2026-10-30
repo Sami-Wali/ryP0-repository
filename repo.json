@@ -6958,9 +6958,8 @@
       "name": "LiveContainer",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-        "checkedAt": "2026-10-30T20:50:57Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-30T22:00:17Z",
+        "message": "Private updater: The read operation timed out"
       },
       "updatePolicy": "daily",
       "versions": [
