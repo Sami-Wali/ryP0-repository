@@ -7678,10 +7678,9 @@
       "localizedDescription": "GitHub project request: EduAlexxis/ByeTunes.",
       "name": "ByeTunes",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v2.6/ByeTunes.v2.6.-.Version.fix.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:42:44Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: EduAlexxis/ByeTunes.",
       "updatePolicy": "daily",
