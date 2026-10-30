@@ -12006,7 +12006,9 @@
           "size": 16818331,
           "sha256": "f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced",
           "ipaBundleIdentifier": "com.stik.stikdebug",
-          "buildVersion": "1"
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "localizedDescription": "## What's Changed * Adds on-device pairing file creation and management for the local device, as well as external devices (Apple TV included) * Error cleanup * Fixes some connection issues * Prevent stale legacy pairing files overriding fresh imports by @mvanhorn in https://github.com/StikDebug/StikDebug/pull/479 * Revert \"Prevent stale legacy pairing files overriding fresh imports\" by @CelloSerenity in https://github.com/StikDebug/StikDebug/pull/486 * fix: release the route when playback finishes so a new spot can be set by @OpenUmar in https://github.com/StikDebug/StikDebug/pull/490 * more prob ## New Contributors * @mvanhorn made their first contribution in https://github.com/StikDebug/StikDebug/pull/479 * @OpenUmar made their first contribution in https://github.com/StikDebug/StikDebug/pull/490 **Full Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.15...3.2.0"
         },
         {
           "buildVersion": "1",
