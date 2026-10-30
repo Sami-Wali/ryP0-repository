@@ -7791,10 +7791,9 @@
       "localizedDescription": "GitHub project request: kolbicz/Cyanide.",
       "name": "Cyanide",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
-        "checkedAt": "2026-10-30T18:22:34Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:41:57Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
