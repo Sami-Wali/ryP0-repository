@@ -12762,10 +12762,10 @@
       "localizedDescription": "A utility app to clear and free up RAM on iOS devices.",
       "name": "GetMoreRam",
       "status": {
-        "state": "broken",
+        "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-30T13:20:36Z",
-        "message": "Download returned HTTP 404"
+        "checkedAt": "2026-10-30T14:18:29Z",
+        "message": "Checked by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
