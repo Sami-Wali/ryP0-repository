@@ -5961,10 +5961,9 @@
       },
       "name": "Amethyst fork",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Taylen-chud/Amethyst-iOS/releases/download/1.2.0/Amethyst-1.2.0.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T20:48:07Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401."
       },
       "updatePolicy": "daily",
       "versions": [
