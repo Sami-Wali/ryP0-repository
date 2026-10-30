@@ -6159,8 +6159,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-30T14:30:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-30T18:50:44Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
