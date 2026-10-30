@@ -162,7 +162,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-c73203d762aece296d92b42fa84683c7",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/tag/build2_1",
         "workflowPath": ".github/workflows/update-app-project-c73203d762aece296d92b42fa84683c7.yml"
