@@ -1627,10 +1627,9 @@
       "localizedDescription": "",
       "name": "RewindBox",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
-        "checkedAt": "2026-10-30T20:50:57Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-30T22:26:11Z",
+        "message": "Private updater: Releases discovery failed: GitHub API could not be reached."
       },
       "subtitle": "",
       "updatePolicy": "daily",
