@@ -15847,9 +15847,9 @@
         ]
       },
       "automation": {
-        "configId": "livecontainer-standalone-stable",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.8.0",
+        "configId": "livecontainer-standalone-stable",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly",
         "workflowPath": ".github/workflows/update-app-livecontainer-standalone-stable.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer.standalone.stable",
@@ -15860,14 +15860,26 @@
       "name": "LiveContainer (Stable)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-9108ae624ea001f7d7696d48407f890b48fa2653-a73c38057cf9.ipa",
+        "checkedAt": "2026-10-31T20:37:21Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "tintColor": "#3986FD",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-10-17T08:31:58Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-9108ae624ea001f7d7696d48407f890b48fa2653-a73c38057cf9.ipa",
+          "size": 4744959,
+          "sha256": "a73c38057cf9b2cd877e34955364492a0c3a5b72821398539e1b41ecfe7d14bf",
+          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+          "sourceAssetName": "LiveContainer.ipa",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "releaseChannel": "nightly",
+          "buildVersion": "3.8.11"
+        },
         {
           "buildVersion": "3.8.0",
           "date": "2026-07-17T07:44:20Z",
@@ -15877,7 +15889,8 @@
           "size": 4707271,
           "sourceAssetName": "LiveContainer.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
-          "version": "3.8.0"
+          "version": "3.8.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "date": "2026-07-17T07:44:20Z",
@@ -15885,7 +15898,8 @@
           "localizedDescription": "# LiveContainer 3.8.0 > [!Warning] > The standalone version requires **SideStore 0.6.2+** or **AltStore 2.2.1+** for installation. > To install LiveContainer with built-in SideStore (`LiveContainer+SideStore.ipa`), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details. # New Features ## Storage Management - Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked) - Added per-app storage details, including app bundle size, container sizes, and last-used date. - Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches. ## Multiple LiveContainers - Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (#1367) ## Share to Apps in LiveContainer Added a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (#1357) ## Multitasking - Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (#1208) - Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (#1228, #1250) - Added more multitask window animations and improved native-window scene handling. - URL schemes and `open-url` payloads can be passed to already-running multitask apps and native windows. ## JIT - Added StosDebug support as a JIT enabler. ## TweakLoader You can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN # Improvements - Added support for manually setting a container's IDFV. (#1194) - IDFV spoofing works even when Tweakloader is not loaded. - Reworked signing logic for tweaks and app installation, with multithreaded signing support. - Download alerts now block tab switching while a download is in progress. - Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions. - Add a \"Clear Notification\" button (#1388) - Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (#1417) # Bug Fixes - Fixed `livecontainer://open-url` dropping the deep link when launching an app from a cold start. (#1339) - Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (#1209) - Fixed a crash when opening Container Preferences if the app did not contain an `en.lproj` path. (#1239) - Fixed apps and AltStore sources not being searchable in some cases. (#1365, #1368) - Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (#1347) - Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (#1386) - Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (#1430) - Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (#1300, #1310, #1329) - Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (#1402, #844, #870) - Added support for iOS 27 developer beta. ",
           "releaseChannel": "release",
           "size": 4707271,
-          "version": "3.8.0"
+          "version": "3.8.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.7.2",
@@ -15895,7 +15909,8 @@
           "releaseChannel": "release",
           "sha256": "7349ccf8aadf61425d20309209a3c7179977cdce3b48cdb8661580086bdadb15",
           "size": 4523860,
-          "version": "3.7.2"
+          "version": "3.7.2",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.7.0",
@@ -15905,7 +15920,8 @@
           "releaseChannel": "release",
           "sha256": "6cc44e52ccc855d6818a758dc6d0e6ca6d40763b33422dd13df9c87f9b4b46b4",
           "size": 4521039,
-          "version": "3.7.0"
+          "version": "3.7.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.6.1",
@@ -15915,7 +15931,8 @@
           "releaseChannel": "release",
           "sha256": "bec87a5d5c4e46f2f0adbf2a2ac5ec8fb9ccea6dd370409091f687815a89c69e",
           "size": 4232092,
-          "version": "3.6.1"
+          "version": "3.6.1",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.6.0",
@@ -15925,7 +15942,8 @@
           "releaseChannel": "release",
           "sha256": "f8c170c0cb541372ed450e1e041e2014c7586e675b90eedccfcf207899ac4eb8",
           "size": 4223004,
-          "version": "3.6.0"
+          "version": "3.6.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.5.1",
@@ -15935,7 +15953,8 @@
           "releaseChannel": "release",
           "sha256": "32f5e1556cb299d3006e77034440182d3bc8a488c829eb740894b8567f14a4d6",
           "size": 2928772,
-          "version": "3.5.1"
+          "version": "3.5.1",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.5.0",
@@ -15945,7 +15964,8 @@
           "releaseChannel": "release",
           "sha256": "3b031e480d47a46c89e8b33fa125f5640ec7406f9f17ce42a259669db3993a21",
           "size": 2928946,
-          "version": "3.5.0"
+          "version": "3.5.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.4.0",
@@ -15955,8 +15975,12 @@
           "releaseChannel": "release",
           "sha256": "62a297c24fa9edfc86447c79fa9911bf7d3e679509e5eba71e4b720579819ff8",
           "size": 2764540,
-          "version": "3.4.0"
+          "version": "3.4.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.kdt.livecontainer"
       ]
     },
     {
