@@ -14667,7 +14667,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-mafty-dukex-a9bdf44b",
-        "sourceURL": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v1.0.2",
+        "sourceURL": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v0.1.5",
         "workflowPath": ".github/workflows/update-app-com-mafty-dukex-a9bdf44b.yml"
       },
       "bundleIdentifier": "com.mafty.dukex",
@@ -14684,7 +14684,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
-        "checkedAt": "2026-10-31T21:58:17Z",
+        "checkedAt": "2026-10-31T21:59:36Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -14736,15 +14736,16 @@
           "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
-          "buildVersion": "15",
-          "date": "2026-05-17T04:53:52Z",
-          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.5/DukeX.Alpha.Build.v0.1.5.ipa",
-          "localizedDescription": "## DukeX Alpha Build v0.1.5 ### Update Notes - Promotes the reorganized DukeX iOS source layout to `master`. - Adds Insignia live indicators to supported games in the Games tab. - Refreshes live status when entering the Games tab. - Captures title IDs during XISO import so game-specific services can use stable metadata. - Keeps the existing iOS 18.x W^X JIT path and iOS 26+ Universal.js flow from v0.1.4. ### Tester Notes - This is an unsigned sideload IPA for alpha testing. - Bundle ID: `com.mafty.dukex`. - iOS 18.x devices need JIT enabled for the DukeX process, but do not use Universal.js. - iOS 26 or later still requires the StikDebug Universal.js workflow. - DukeX does not include Xbox system files, game images, or signing certificates. Testers must provide their own legally obtained files. ### Known Issues - Rendering correctness still varies by title. - Some Halo 2 HUD effects remain incomplete on the current Vulkan/MoltenVK path. - Apple's Metal HUD does not currently appear for the embedded presenter.",
-          "releaseChannel": "alpha",
-          "sha256": "c58ac73b1511af754fbfd0d0fb825ab486934b06cb4630540f9a253490025d0f",
-          "size": 14380846,
           "version": "v0.1.5",
-          "ipaBundleIdentifier": "com.mafty.dukex"
+          "date": "2026-05-17T13:16:02Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.5/DukeX.Alpha.Build.v0.1.5.ipa",
+          "size": 14380846,
+          "sha256": "c58ac73b1511af754fbfd0d0fb825ab486934b06cb4630540f9a253490025d0f",
+          "upstreamAssetURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v0.1.5/DukeX.Alpha.Build.v0.1.5.ipa",
+          "sourceAssetName": "DukeX.Alpha.Build.v0.1.5.ipa",
+          "ipaBundleIdentifier": "com.mafty.dukex",
+          "releaseChannel": "alpha",
+          "buildVersion": "15"
         },
         {
           "buildVersion": "14",
