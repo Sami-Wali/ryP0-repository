@@ -11546,7 +11546,8 @@
           "size": 30521004,
           "sourceAssetName": "Kazumi_ios_2.4.2_no_sign.ipa",
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa",
-          "version": "2.4.2"
+          "version": "2.4.2",
+          "localizedDescription": "- 修复部分地区规则仓库无法访问的问题"
         },
         {
           "buildVersion": "20401",
