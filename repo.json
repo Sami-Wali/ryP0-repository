@@ -7517,9 +7517,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-5e49ea18bc764edc8bc7bf099b414fa0",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/suversal/WrapPin",
+        "configId": "app-5e49ea18bc764edc8bc7bf099b414fa0",
+        "sourceURL": "https://github.com/suversal/WrapPin/releases/tag/v1.0.18",
         "workflowPath": ".github/workflows/update-app-app-5e49ea18bc764edc8bc7bf099b414fa0.yml"
       },
       "bundleIdentifier": "com.suversal.wrappin.selfsigned",
@@ -7538,14 +7538,26 @@
       "localizedDescription": "GitHub project request: suversal/WrapPin.",
       "name": "Wrapin",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:26:00Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: suversal/WrapPin.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.18",
+          "date": "2026-10-14T16:51:39Z",
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+          "size": 4909665,
+          "sha256": "62e66c1036d1046532e30ed1d3e604f06403d8f01afa85988ad40e1d5d037ff2",
+          "upstreamAssetURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.18/WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+          "sourceAssetName": "WrapPin-Tunnel-1.0.18-build61-unsigned.ipa",
+          "ipaBundleIdentifier": "com.suversal.wrappin.selfsigned",
+          "releaseChannel": "release",
+          "buildVersion": "61"
+        },
         {
           "buildVersion": "61",
           "date": "2026-10-14T16:51:39Z",
@@ -7554,8 +7566,12 @@
           "releaseChannel": "release",
           "sha256": "62e66c1036d1046532e30ed1d3e604f06403d8f01afa85988ad40e1d5d037ff2",
           "size": 4909665,
-          "version": "1.0.18"
+          "version": "1.0.18",
+          "ipaBundleIdentifier": "com.suversal.wrappin.selfsigned"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.suversal.wrappin.selfsigned"
       ]
     },
     {
