@@ -13780,21 +13780,25 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ARMSX2-icon.png",
       "name": "ARMSX2 (Stable)",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
-        "message": "Private updater: GitHub API returned HTTP 502.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T07:09:24Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "260",
-          "date": "2026-10-04T11:33:37Z",
+          "version": "iOSv2.6.0",
+          "date": "2026-10-02T16:14:50Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
-          "sha256": "86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0",
           "size": 39142823,
-          "version": "iOSv2.6.0"
+          "sha256": "86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.6.0/ARMSX2-iOS-2.6.0.ipa",
+          "sourceAssetName": "ARMSX2-iOS-2.6.0.ipa",
+          "ipaBundleIdentifier": "com.armsx2.ios",
+          "releaseChannel": "release",
+          "buildVersion": "260"
         },
         {
           "date": "2026-08-06T15:49:46Z",
@@ -13802,7 +13806,8 @@
           "localizedDescription": "**Frame rate cap** @Henyckma added an FPS cap that limits presentation only. The game and the audio keep running at full speed, so it costs nothing in emulation and gives back battery and heat instead. Targets are 15, 23.976, 29.94, 30, 45, 59.97, 60, 90 and 120, set globally or per game. The gain is biggest at 2x and 3x internal resolution, where the passes it skips cover the most pixels. Selecting 30 FPS used to halve emulation and audio speed, which is fixed, and FPS profiles from earlier builds carry over without losing the cadence you picked. **Crashes and freezes** Fixed a crash in games like Namco Museum 50th Anniversary, which turned out to be an out of bounds write in the virtual memory page protection table. Fixed a freeze in readback heavy scenes with Hardware Download Mode set to Unsynchronized. Rogue Galaxy no longer stalls the graphics thread around 7.5 ms every frame on a depth probe readback, about a fifth of the frame on an M2. The last two are bmdhacks. Saving per game settings could also leave the game frozen a second or two later, which is covered below. **Sprite hacks** Align Sprite and Merge Sprite apply when you switch them off. This was the third report of that bug and the fifth attempt at it, and the earlier ones all fixed the global screen while leaving everything around it alone. Per game, those rows greyed out whenever GameDB Graphics Fixes was on, kept showing their old value, and got written back on every save. Align Sprite, Merge Sprite and Wild Arms Offset are one Use Global / Off / On picker each now, and they no longer need manual hacks mode. Setting one claims that fix, so the game database stops overriding it while keeping every other fix for the game. Texture Inside RT, Native Scaling, Bilinear Upscale, Unscaled Palette Draw, Preload Frame Data and Disable Partial Invalidation had the same bug and were fixed with it. None of these do anything at 1x internal resolution, which is by design. **Per-game settings** Turning on Use Per-Game Overrides used to soften text and edges: enabling it copied six graphics keys into the per game file, and one of those forced a blend deinterlace that also suppressed the game's own database fix. Only the settings you change are written now. Saving in that panel could also leave the game frozen a second or two later while the emulator carried on at full speed, because metadata scans share one disc image with the running game and a scan during play left it holding a closed disc. The Renderer picker never saved a change made while a game was running, so it never applied either. It saves now, and it moved from Fixes & Compatibility to the Graphics tab where people kept looking for it. It still applies at the next boot of that game. Saving the panel is quicker too: it used to fire one full settings reload per field written, 71 of them for a single Save. **Settings** Every slider, stepper and typed number is one control now, and each setting is described once instead of once per screen. The FPS target had three different sets of bounds across three screens. Sliders stop on values people actually pick, every stop list holds the default so reset lands on one, and typing still reaches anything in between. Per game numbers can inherit the global value instead of choosing from a short list. The dynamic background sliders stay continuous, since every value there is a legitimate one, but they snap to the precision they print: a row could read 50% while storing 0.4973, which also left the reset arrow comparing against the hidden value. Applying the Default preset asks first and then resets every setting, with the Default row showing as active afterwards, and Reset Graphics and Reset Emulator no longer reach into settings they do not show or drag Frame Pacing to Custom on the way. Buffer Size and Output Latency are sliders on Frame Pacing now, matching the Audio screen, and GS Back Thread says it needs a restart instead of looking broken. The preset fixes are @Henyckma's. **",
           "releaseChannel": "release",
           "size": 26425138,
-          "version": "iOSv2.5.2"
+          "version": "iOSv2.5.2",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "252",
@@ -13810,7 +13815,8 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.5.2-0ee580a18156.ipa",
           "sha256": "0ee580a181560a4e266e19ad0c3eb9cac3ea5da79601f6cf727b1be1c33c63f4",
           "size": 26425138,
-          "version": "iOSv2.5.2"
+          "version": "iOSv2.5.2",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "251",
@@ -13820,7 +13826,8 @@
           "releaseChannel": "release",
           "sha256": "ff42b6aeae0789c68bfed98fc24d91483f9312a136c4d1e5640aa1c138fdb986",
           "size": 26327755,
-          "version": "iOSv2.5.1"
+          "version": "iOSv2.5.1",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "250",
@@ -13830,7 +13837,8 @@
           "releaseChannel": "release",
           "sha256": "d3dcde9c76e0bf8bce1954d16d44015a2072075170e20091680b40afd4650f33",
           "size": 25630097,
-          "version": "iOSv2.5.0"
+          "version": "iOSv2.5.0",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13840,7 +13848,8 @@
           "releaseChannel": "release",
           "sha256": "f79d35b76dec14fd4025a239fe47e276a039b76d6674d52fc90202016b9e3bb0",
           "size": 23018819,
-          "version": "2.6.2"
+          "version": "2.6.2",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13850,7 +13859,8 @@
           "releaseChannel": "release",
           "sha256": "f79d35b76dec14fd4025a239fe47e276a039b76d6674d52fc90202016b9e3bb0",
           "size": 23018819,
-          "version": "iOS-2.4.1"
+          "version": "iOS-2.4.1",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13860,7 +13870,8 @@
           "releaseChannel": "release",
           "sha256": "f6245c3713a7e021545930bc8121e47f35ae29d0f38a40bc32b932546e75ddd5",
           "size": 23003493,
-          "version": "2.6.0.5"
+          "version": "2.6.0.5",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13870,7 +13881,8 @@
           "releaseChannel": "release",
           "sha256": "f6245c3713a7e021545930bc8121e47f35ae29d0f38a40bc32b932546e75ddd5",
           "size": 23003493,
-          "version": "2.6.0.4"
+          "version": "2.6.0.4",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13880,7 +13892,8 @@
           "releaseChannel": "release",
           "sha256": "f6245c3713a7e021545930bc8121e47f35ae29d0f38a40bc32b932546e75ddd5",
           "size": 23003493,
-          "version": "2.6.0.3"
+          "version": "2.6.0.3",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13890,7 +13903,8 @@
           "releaseChannel": "release",
           "sha256": "f6245c3713a7e021545930bc8121e47f35ae29d0f38a40bc32b932546e75ddd5",
           "size": 23003493,
-          "version": "2.6.0.2"
+          "version": "2.6.0.2",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         },
         {
           "buildVersion": "241",
@@ -13900,8 +13914,12 @@
           "releaseChannel": "release",
           "sha256": "f6245c3713a7e021545930bc8121e47f35ae29d0f38a40bc32b932546e75ddd5",
           "size": 23003493,
-          "version": "2.6.0.1"
+          "version": "2.6.0.1",
+          "ipaBundleIdentifier": "com.armsx2.ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.armsx2.ios"
       ]
     },
     {
