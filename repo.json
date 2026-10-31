@@ -416,7 +416,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.5",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
@@ -441,10 +441,10 @@
       "localizedDescription": "",
       "name": "ico-pc",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.5/ico-pc-v0.9.5-ios-unsigned.ipa",
-        "message": "Private updater: Remote end closed connection without response",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:39:15Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
