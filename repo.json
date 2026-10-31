@@ -21,6 +21,19 @@
           "sourceAssetName": "ModShelf-v1.1.ipa",
           "ipaBundleIdentifier": "com.shplash.modshelf",
           "upstreamAssetURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa"
+        },
+        {
+          "version": "v1.0",
+          "date": "2026-10-29T18:41:33Z",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.0/ModShelf-v1.0.ipa",
+          "size": 4929478,
+          "sha256": "308164fe5e3b5ef4f1bcdee4591e75e5eb1fb0022ac328a85bd335e03606a96e",
+          "upstreamAssetURL": "https://github.com/shplash/ModShelf/releases/download/v1.0/ModShelf-v1.0.ipa",
+          "sourceAssetName": "ModShelf-v1.0.ipa",
+          "sourceAppName": "ModShelf",
+          "ipaBundleIdentifier": "com.shplash.modshelf",
+          "releaseChannel": "release",
+          "buildVersion": "249"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.shplash.modshelf-a4163ab69974.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
-        "checkedAt": "2026-10-31T07:22:33Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-31T07:31:02Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
-        "sourceURL": "https://github.com/shplash/ModShelf",
+        "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.0",
         "workflowPath": ".github/workflows/update-app-project-fdc77a241aad3c330e9604a96beb7f03.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.shplash.modshelf"
+      ]
     },
     {
       "name": "Dartotsu-Downloader",
