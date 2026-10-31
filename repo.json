@@ -9279,9 +9279,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-shplash-ipaid-0307e3cd",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/shplash/IPAID",
+        "configId": "com-shplash-ipaid-0307e3cd",
+        "sourceURL": "https://github.com/shplash/IPAID/releases/tag/v1.21",
         "workflowPath": ".github/workflows/update-app-com-shplash-ipaid-0307e3cd.yml"
       },
       "bundleIdentifier": "com.shplash.ipaid",
@@ -9297,14 +9297,26 @@
       "localizedDescription": "GitHub project request: shplash/IPAID.",
       "name": "IPAID",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T07:07:33Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: shplash/IPAID.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.21",
+          "date": "2026-09-15T18:10:50Z",
+          "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+          "size": 1766144,
+          "sha256": "d9d441313ef35dd1ed50014a72e1d121fe6ae56d2ed74e36e06eecab15cd4e0a",
+          "upstreamAssetURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+          "sourceAssetName": "IPAID.ipa",
+          "ipaBundleIdentifier": "com.shplash.ipaid",
+          "releaseChannel": "release",
+          "buildVersion": "112"
+        },
         {
           "buildVersion": "112",
           "date": "2026-09-15T18:10:50Z",
@@ -9313,8 +9325,12 @@
           "releaseChannel": "release",
           "sha256": "d9d441313ef35dd1ed50014a72e1d121fe6ae56d2ed74e36e06eecab15cd4e0a",
           "size": 1766144,
-          "version": "1.21"
+          "version": "1.21",
+          "ipaBundleIdentifier": "com.shplash.ipaid"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.shplash.ipaid"
       ]
     },
     {
