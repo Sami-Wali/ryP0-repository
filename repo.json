@@ -15590,7 +15590,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "ppsspp",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.19.3",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -15605,7 +15605,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-31T20:59:36Z",
+        "checkedAt": "2026-10-31T21:00:54Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
@@ -15679,15 +15679,16 @@
           "buildVersion": "1.20"
         },
         {
-          "buildVersion": "1.19.3",
-          "date": "2025-07-15T10:11:50Z",
+          "version": "1.19.3",
+          "date": "2025-07-15T10:21:14Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.19.3-e604412d637a.ipa",
-          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
-          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
-          "releaseChannel": "release",
-          "sha256": "e604412d637a9e3d52b0cbde4e39213f7d85a609256b400d77491b10566a18bc",
           "size": 29930616,
-          "version": "1.19.3"
+          "sha256": "e604412d637a9e3d52b0cbde4e39213f7d85a609256b400d77491b10566a18bc",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.19.3/PPSSPP-iOS-v1.19.3.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.19.3.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "release",
+          "buildVersion": "1.19.3"
         }
       ]
     },
