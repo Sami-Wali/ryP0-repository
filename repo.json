@@ -10400,7 +10400,8 @@
           "size": 19485724,
           "sourceAssetName": "Tsubomi.ipa",
           "upstreamAssetURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
-          "version": "0.47.0"
+          "version": "0.47.0",
+          "localizedDescription": "Initial release of Tsubomi. PS Vita firmware files are required, but are not provided. You can get them from Sony's official site, or through Vita3k on your computer."
         }
       ]
     },
