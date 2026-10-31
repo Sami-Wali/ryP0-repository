@@ -11911,9 +11911,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-31T12:47:46Z",
-        "message": "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T12:54:59Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
