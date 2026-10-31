@@ -9651,22 +9651,26 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Private updater: Upstream API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T07:10:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "6.06.2",
-          "date": "2026-02-20",
+          "version": "6.06.2",
+          "date": "2026-02-20T00:00:00Z",
           "downloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-          "sha256": "888b2fda381cb40344b0b6ae8f3f5bb8a7ec615fb64176ed6a1e1c0d7dce08db",
           "size": 90446319,
-          "version": "6.06.2"
+          "sha256": "888b2fda381cb40344b0b6ae8f3f5bb8a7ec615fb64176ed6a1e1c0d7dce08db",
+          "ipaBundleIdentifier": "com.vesc-project.vesc-tool",
+          "buildVersion": "6.06.2"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.vesc-project.vesc-tool"
       ]
     },
     {
