@@ -2650,6 +2650,116 @@
           "sha256": "0e00850387e8db4c2cfb2a548dc919bf42333037a6019cd394e2c11940819e0e",
           "size": 27395515,
           "version": "3.1.9"
+        },
+        {
+          "version": "3.1.8",
+          "date": "2026-10-27T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.8-18.ipa",
+          "size": 26541160,
+          "sha256": "cfa9b417f612a428588ab47c455ba8f5cc733d6eba6123e847404d2a46b5dee9",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• News pictures update when a source replaces them",
+          "buildVersion": "18"
+        },
+        {
+          "version": "3.1.7",
+          "date": "2026-10-27T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.7-17.ipa",
+          "size": 26541160,
+          "sha256": "69bd76ff6b641ba4c25b2a2b745255d45ec573a58fb7370a430a787edb9ac714",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• News plays animated pictures, like the Zeus Installer post • Animated WebP banners on app and source pages • Animations hold still with Reduce Motion or Auto-Play Animated Images off",
+          "buildVersion": "17"
+        },
+        {
+          "version": "3.1.6",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.6-16.ipa",
+          "size": 26416872,
+          "sha256": "13a8450057124a451e1b6943379402ff072b666894d80370fa5c3767ac69a317",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Quantum Source is no longer built in, since it's discontinued • Taken out of your Sources if Zeus added it, kept if you added it yourself",
+          "buildVersion": "16"
+        },
+        {
+          "version": "3.1.5",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.5-15.ipa",
+          "size": 26400152,
+          "sha256": "c98950ed54890e9b7cdd624efc7e319508a3809f655bc83170eaf3215ffb3c82",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• New built-in sources: Nuvio Enhanced, iSH, qBitControl, Taurine, osu!, Stremio and Quantum Source • Added to your Sources automatically when you update",
+          "buildVersion": "15"
+        },
+        {
+          "version": "3.1.4",
+          "date": "2026-10-23T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.4-14.ipa",
+          "size": 26400152,
+          "sha256": "b0e8f8f9cd8029401fcee25aaa20e75b777bfd7cabbe9638db08ced8c2531f8b",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Starts apps in zContainer with JIT, no StikDebug needed (zContainer 1.0 (4) or later) • Install to zContainer from an app's options, older versions too • Offers zContainer when you're out of App IDs for the week • zContainer installed with the desktop installer now shows in the Library",
+          "buildVersion": "14"
+        },
+        {
+          "version": "3.1.3",
+          "date": "2026-10-22T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.3-13.ipa",
+          "size": 26279400,
+          "sha256": "85d7e778c80c8b5b6a18b56096c31596c80f336dd3fdfc9d9b2d6374faad34d4",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Fixes a crash on launch on iOS 17 to 26 • Better on iPad, with Home, News, stories and app pages using the bigger screen • Says iPad on iPad, like Pair This iPad • Installed apps show Refresh App, with Open App in the options menu • On-Device Anisette moved to Anisette > Experimental • Discord and Ko-fi at the bottom of Settings • App IDs Remaining is easier to read",
+          "buildVersion": "13"
+        },
+        {
+          "version": "3.1.2",
+          "date": "2026-10-21T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.2-12.ipa",
+          "size": 26124416,
+          "sha256": "976f021df0af3fc125f2b8b0559cbcab663e56ae19873bd83b5b22ebf1760fce",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Sign-in works with Apple's latest changes, Mac anisette servers first • New pink icon, with more icons to choose from in Settings • More reliable sign-in, with Try Again when it fails • Update apps inside zContainer from Library • zContainer gets your certificate on its own • Install Options before you get an app • Install an older version from an app's options menu • App IDs show when the next one frees up • Animated banners • Refresh button in Sources • PokeMMO's source added • Faster signing • Bug fixes, including a crash on some sources",
+          "buildVersion": "12"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2026-10-19T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.1-10.ipa",
+          "size": 22068086,
+          "sha256": "4092b3be5ffab37123853d6578e9781b9254bf9d719b0e8049318199cc668783",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Install Options: custom name, bundle ID, version and icon • Manage your App IDs in Settings • Faster installs, with apps downloading side by side • Refresh All starts right away • Reminders refresh everything in one tap • Sign in or create a certificate right from Install • Smarter anisette server picking • Bug fixes and UI improvements",
+          "buildVersion": "10"
+        },
+        {
+          "version": "3.0.3",
+          "date": "2026-10-18T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.0.3-8.ipa",
+          "size": 20475485,
+          "sha256": "e01b55265a5fc0c890d0bfa010be6537d509da9cc4e167badaa8efee18d43a9f",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• Library tabs with an Updates badge • Inactive apps get a card of their own • Bug fixes",
+          "buildVersion": "8"
+        },
+        {
+          "version": "3.0.2",
+          "date": "2026-10-18T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.0.2-7.ipa",
+          "size": 20447933,
+          "sha256": "4f9a1309fca54a8fa9ba6695115fc26e440d8b3518e4f5be6315aad1425cd131",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• New Settings, with accent colors • Reminders before apps expire • Library tabs • Add to Zeus links",
+          "buildVersion": "7"
+        },
+        {
+          "version": "3.0.1",
+          "date": "2026-10-18T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.0.1-6.ipa",
+          "size": 19252464,
+          "sha256": "626da2ba3b60c37a7e835cc5285b36fa4b6f6384f6f975d7773132757d391db2",
+          "ipaBundleIdentifier": "app.reiko.zeus",
+          "localizedDescription": "• About Zeus page in Settings • Husk in the default sources • Theme switching keeps up however fast you tap • Banners stay dark in the light theme",
+          "buildVersion": "6"
         }
       ]
     },
