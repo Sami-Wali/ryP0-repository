@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1.1",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:29:24Z",
+        "checkedAt": "2026-10-31T20:29:48Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16914,13 +16914,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
-          "date": "2026-09-30T04:55:55Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
-          "sha256": "97ff906c97c3ec23531e744571ba241158b98a89b9cbefc09f20745993f2e29f",
-          "size": 12086786,
           "version": "1.1",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "date": "2026-09-30T04:56:03Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
+          "size": 12086786,
+          "sha256": "97ff906c97c3ec23531e744571ba241158b98a89b9cbefc09f20745993f2e29f",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/1.1/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "date": "2026-03-30T23:25:32Z",
