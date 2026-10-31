@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.0",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:29:48Z",
+        "checkedAt": "2026-10-31T20:30:18Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16943,15 +16943,16 @@
           "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
-          "buildVersion": "1",
+          "version": "1.0",
           "date": "2026-03-12T10:05:11Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0-e8a4ae46e685.ipa",
-          "localizedDescription": "there haven't been many changes since the release candidate, it's only really been a few minor bug fixes. Since this is the 1.0 release, here's the list of most important features in the app: - Ability to run minecraft servers (duh) - Built in JVM downloader, pick between Java 8, 17, and 21 (or download all of them!) - Server memory allocation slider - Easy to use server creator, with support for several server softwares - A file manager that allows you to easily manage several servers - Network tunneling via playit.gg and UPnP support - Integrated mod, modpack, resource pack, and datapack downloading via Modrinth and curseforge - Keep alive, run the server in the background even with the screen off - Server config GUI thank you to all of the beta testers!",
-          "releaseChannel": "release",
-          "sha256": "e8a4ae46e6853615408c405427517e705465b1ec9fdcf2eac7a38c891d25bc02",
           "size": 9263080,
-          "version": "1.0",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "sha256": "e8a4ae46e6853615408c405427517e705465b1ec9fdcf2eac7a38c891d25bc02",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/1.0/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
