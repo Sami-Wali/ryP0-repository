@@ -13648,10 +13648,9 @@
       },
       "name": "SM64CoopDX",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T22:51:21Z",
+        "message": "Private updater: GitHub API returned HTTP 401."
       },
       "updatePolicy": "daily",
       "versions": [
