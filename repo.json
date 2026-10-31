@@ -15878,7 +15878,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "xenios",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.0.1-build-9849",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.0.1-build-9848",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
@@ -15887,6 +15887,7 @@
         "com.xenios.537ee73c0a351cb0",
         "com.xenios.684992932fab9dd5",
         "com.xenios.0745ac3d34efa070",
+        "com.xenios.efda62f4ef7913e3",
         "jp.xenios.xenios.ios"
       ],
       "category": "EMU",
@@ -15897,7 +15898,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-31T23:35:03Z",
+        "checkedAt": "2026-10-31T23:35:49Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
@@ -15945,6 +15946,18 @@
           "ipaBundleIdentifier": "com.xenios.0745ac3d34efa070",
           "releaseChannel": "prerelease",
           "buildVersion": "9849"
+        },
+        {
+          "version": "preview-v2.0.1-build-9848",
+          "date": "2026-06-16T02:31:05Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.0.1-build-9848-39baed25bf15.ipa",
+          "size": 28177473,
+          "sha256": "39baed25bf15325920634459ec17a02c51abe096b7f79c93d695e6449aeca45a",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.0.1-build-9848/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.efda62f4ef7913e3",
+          "releaseChannel": "prerelease",
+          "buildVersion": "9848"
         },
         {
           "buildVersion": "9730",
