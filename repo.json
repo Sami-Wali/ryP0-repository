@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "better-xcloud",
+      "catalogID": "project-456cc1d171877aa5e7676440f0397fa9",
+      "bundleIdentifier": "com.betterxcloud.ios",
+      "developerName": "yashjain8824",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Games",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-28T07:29:17Z",
+          "downloadURL": "https://github.com/yashjain8824/better-xcloud/releases/download/v0.24.2/BetterXCloud_iOS.ipa",
+          "size": 1286097,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "74175db269210374fb759bb231f49577fc73eade65d0c924c9f404601007615c",
+          "sourceAppName": "Better xCloud",
+          "sourceAssetName": "BetterXCloud_iOS.ipa",
+          "ipaBundleIdentifier": "com.betterxcloud.ios",
+          "upstreamAssetURL": "https://github.com/yashjain8824/better-xcloud/releases/download/v0.24.2/BetterXCloud_iOS.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.betterxcloud.ios-74175db26921.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/yashjain8824/better-xcloud/releases/download/v0.24.2/BetterXCloud_iOS.ipa",
+        "checkedAt": "2026-10-31T09:51:04Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/yashjain8824/better-xcloud/releases/download/v0.24.2/BetterXCloud_iOS.ipa",
+        "sourceURL": "https://github.com/yashjain8824/better-xcloud"
+      },
+      "githubURL": "https://github.com/yashjain8824/better-xcloud",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-456cc1d171877aa5e7676440f0397fa9",
+        "sourceURL": "https://github.com/yashjain8824/better-xcloud",
+        "workflowPath": ".github/workflows/update-app-project-456cc1d171877aa5e7676440f0397fa9.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
