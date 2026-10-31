@@ -68,10 +68,9 @@
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.20.2-Gunshot.ipa",
-        "checkedAt": "2026-10-31T12:53:10Z",
-        "message": "Imported from verified upstream source"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T12:56:00Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "importSource": {
         "method": "repository",
