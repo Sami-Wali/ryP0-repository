@@ -266,8 +266,8 @@
       "name": "ico-pc",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-30T21:43:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T00:22:30Z",
+        "message": "Private updater: Remote end closed connection without response"
       },
       "subtitle": "",
       "updatePolicy": "daily",
