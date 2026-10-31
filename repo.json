@@ -55,7 +55,7 @@
       },
       "githubURL": "https://github.com/shplash/ModShelf",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
         "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.0",
