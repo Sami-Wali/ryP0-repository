@@ -16280,9 +16280,9 @@
     },
     {
       "automation": {
-        "configId": "3105",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v2.0",
+        "configId": "3105",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.1.0",
         "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "bundleIdentifier": "com.yangjiiii.3105",
@@ -16293,7 +16293,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
-        "checkedAt": "2026-10-31T19:37:44Z",
+        "checkedAt": "2026-10-31T19:38:05Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -16329,15 +16329,16 @@
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest"
         },
         {
-          "buildVersion": "6",
+          "version": "v1.1.0",
           "date": "2026-08-19T16:23:34Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.0-80d77f655fd4.ipa",
-          "localizedDescription": "# 3105 1.1.0 Bản cập nhật tập trung vào mở rộng hỗ trợ iOS, onboarding khi cài đè và thông báo mật khẩu patch. ## Tính năng mới - Mở rộng iOS được xác minh: **iOS 17.0–17.7.x** và **iOS 18.0–18.7.1** (kexploit kernel), cùng với **iOS 26.0–26.6.1** và **iOS 27.0 Developer Beta 1–4 / Public Beta 1–2**. - Khi nhập patch `.3105` mà nhập sai mật khẩu sẽ hiển thị **\"Sai mật khẩu\"** rõ ràng thay vì lỗi chung. - **Onboarding hiển thị lại khi cài đè** — cài đè app cùng phiên bản (ví dụ cài lại 1.1.0 đè lên 1.1.0) sẽ hiện lại màn hình hướng dẫn, đảm bảo người dùng mới và người cập nhật đều thấy đầy đủ các bước. - Biểu tượng ứng dụng được làm mới. ## Cài đặt - Asset đính kèm là IPA **unsigned**, dành để ký lại bằng ESign với chứng chỉ doanh nghiệp. - Bundle đích: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer. - Chỉ dùng trên thiết bị và dữ liệu thuộc sở hữu của bạn; hãy sao lưu trước khi thay đổi app data. Cảm ơn [`0xjohnny`](https://x.com/0xjohnny) cho nghiên cứu FilzaSlop. --- ## English summary 3105 1.1.0 broadens verified support to **iOS 17.0–17.7.x** and **18.0–18.7.1** (kexploit kernel path) alongside 26.0–26.6.1 and 27.0 Developer Beta 1–4 / Public Beta 1–2. Importing a `.3105` patch with the wrong password now shows an explicit \"Incorrect password\" message. Overwriting the app with the same version (reinstalling 1.1.0 over 1.1.0) re-shows onboarding. App icon refreshed. The attached IPA is unsigned for enterprise-certificate/ESign signing. Bundle `com.apple.mobile.MobileHouseArrest`.",
-          "releaseChannel": "release",
-          "sha256": "80d77f655fd4da9655fbc71e28aa0a7abf6dac7bfddfe8b0b5464d2603df8719",
           "size": 3271690,
-          "version": "v1.1.0",
-          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest"
+          "sha256": "80d77f655fd4da9655fbc71e28aa0a7abf6dac7bfddfe8b0b5464d2603df8719",
+          "upstreamAssetURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.0/3105-unsigned.ipa",
+          "sourceAssetName": "3105-unsigned.ipa",
+          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+          "releaseChannel": "release",
+          "buildVersion": "6"
         },
         {
           "buildVersion": "5",
