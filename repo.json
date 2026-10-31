@@ -13313,7 +13313,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-nakas-skate3-cbc799a2",
-        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/tag/v2.7.1",
+        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/tag/v2.6.0",
         "workflowPath": ".github/workflows/update-app-com-nakas-skate3-cbc799a2.yml"
       },
       "bundleIdentifier": "com.nakas.skate3",
@@ -13330,7 +13330,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.7.1/skate3.ipa",
-        "checkedAt": "2026-10-31T23:08:57Z",
+        "checkedAt": "2026-10-31T23:09:53Z",
         "message": "Updated by private automation"
       },
       "subtitle": "A static recompilation of Skate 3 for iOS, rendering through Vulkan on MoltenVK. Runs at a locked 60fps on an iPhone 13 mini (A15): median frame 16.7ms, 95th percentile 16.8-17.8ms. YOU MUST SUPPLY THE GAME. This app contains no game content and will not start without it. AFTER INSTALLING: 1. Connect your iPhone to a computer and open Finder > your iPhone > Files > Skate 3 (on Windows, iTunes > File Sharing). 2. Drop in a 'game' folder containing your own disc files. That is about 6GB, so allow a few minutes. 3. Add Title Update 3, the free update EA published on Xbox Live - it is not on the disc and the game will not run without it. The app can download it for you: choose \"Install the title update\" and then Download. If you would rather supply it yourself, copy the package into the same Skate 3 folder and it is found automatically. The setup screens walk you through steps 2 and 3. On-screen touch controls appear when no controller is attached; MFi and Bluetooth controllers are picked up automatically. Press Start + Select together for a performance menu that shows your frame rate and what is limiting it. Requires iOS 16.0 or later.",
@@ -13371,15 +13371,16 @@
           "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
-          "buildVersion": "2.6.0",
-          "date": "2026-09-03T21:55:12Z",
-          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.6.0/skate3.ipa",
-          "localizedDescription": "> **Superseded by [v2.6.3](https://github.com/andrewnakas/skate3-ios-setup/releases/latest).** This build cannot install Title Update 3 on a TrollStore or jailbreak install: its download button was never shown on iOS, and the file picker it falls back to does not work there. v2.6.3 fixes both. ### Original v2.6.0 notes Skate 3 on iOS, v2.6.0. **You must supply the game.** This app contains no game content. See the [setup instructions](https://github.com/andrewnakas/skate3-ios-setup#readme). ## The completion-screen slowdown Mission completion and replay screens crawled, and a long session decayed toward single digits and then died with no crash report. Finished graphics work is destroyed a little at a time so no single frame stalls. Past a threshold that limit is supposed to come off entirely and let the backlog clear. The clock came off; a cap of 256 objects per frame did not. Once a screen produced them faster than that, the backlog could only grow, every frame paid to work against a longer one, and the heap grew until iOS killed the app. Measured on an iPhone 13 mini: a backlog of 18,000 falling by exactly 255 a frame for seventy frames at 5-36ms each, and one of those cleanups finishing its 255 objects in **508 microseconds** before stopping anyway. It is now one limit instead of two - a 50ms ceiling with no object cap - so the backlog actually clears. ## Quitting to the home screen after switching away Switching to another app and back could end the game with \"Graphics device lost\". iOS refuses GPU work to an app in the background, and those refusals keep arriving for a few milliseconds after it returns. They were charged to a budget meant to absorb one occasional error every few seconds: eight arrived inside 20 milliseconds, and the ninth was treated as a real hardware failure. Failures caused by backgrounding are now recognised as such, within a bounded window so a genuinely lost device is still reported rather than hidden behind a frozen screen. ## Installing the game without the file picker Under TrollStore or on a jailbreak, the system file picker cannot hand the app a file, and the picker was the only way to select a disc image. LiveContainer worked only because it ships its own replacement. Drop your disc image into the **Skate 3 folder in Files** and it is found automatically, with no picker involved. Every candidate is verified as a real Xbox 360 disc before it is used. The picker remains available for iCloud Drive and USB storage. An extracted disc copied across as a folder is also accepted now. Previously `default.xex` one level down read as \"game files not found\". ## Also - Texture and mesh budgets are back to the values 2.5.0 shipped. - The frame-time log names what the cleanup freed and which limit stopped it. - Android build support is in the tree; this release is iOS only. Requires iOS 16 and a 6-core device. Every iPhone that runs iOS 16 qualifies; older iPads (A9/A9X/A10/A10X) do not.",
-          "releaseChannel": "release",
-          "sha256": "a55a561b6a0e1bdc73aa05a34f5a76641cc14f5d606761210ee611bfc2552b77",
-          "size": 31844228,
           "version": "v2.6.0",
-          "ipaBundleIdentifier": "com.nakas.skate3"
+          "date": "2026-09-03T23:06:04Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.6.0/skate3.ipa",
+          "size": 31844228,
+          "sha256": "a55a561b6a0e1bdc73aa05a34f5a76641cc14f5d606761210ee611bfc2552b77",
+          "upstreamAssetURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.6.0/skate3.ipa",
+          "sourceAssetName": "skate3.ipa",
+          "ipaBundleIdentifier": "com.nakas.skate3",
+          "releaseChannel": "release",
+          "buildVersion": "2.6.0"
         },
         {
           "buildVersion": "2.5.0",
