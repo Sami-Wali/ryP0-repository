@@ -8173,25 +8173,25 @@
       "localizedDescription": "",
       "name": "SlamJam96-unsigned",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SlamJam96-0.4.2-unsigned.ipa",
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T05:59:32Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "42",
+          "version": "v0.4.6",
           "date": "2026-10-19T18:51:27Z",
           "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SlamJam96-0.4.2-unsigned.ipa",
-          "localizedDescription": "NBA Showtime now uses the arcade/MAME edition on iOS and Windows, replacing the previous PlayStation edition. Import your own nbashowt.zip and matching nbashowt.chd; game data is not included. Showtime iPhone changes: - Move emulation off the UI thread and pace it using a monotonic deadline. - Batch two signature-checked MIPS polling/copy loops while preserving guest cycles, RAM semantics and interrupt boundaries. - Bound queued audio latency; fade starvation/recovery and transition across dropped audio to reduce crackles. - Reduce CRT drawable workload under thermal pressure. CRT remains on by default and can be toggled. Includes all pending source changes for the other four ports, including their rendering, camera, CRT and version-resource updates. Downloads: - SSF2T 0.4.2, UMK3 0.4.2, Slam n Jam 96 0.4.2, THPS2 0.4.3, NBA Showtime 0.4.6 unsigned iOS IPAs. - NativePorts-Windows-x64.zip contains all five Windows builds and required DLLs. - SHA256SUMS.txt provides download checksums. IPAs require signing before installation. Validation: iOS and Windows builds passed; 15,000 randomized MIPS-loop comparisons passed with sanitizers; audio, worker-thread, game import, rendering and camera regression tests passed. The latest separate Showtime iPhone test build was reported to run well by the device owner. Sustained coverage of every scene and physical four-player testing remain pending. Showtime arcade widescreen projection is not implemented; native arcade proportions are retained.",
-          "releaseChannel": "release",
-          "sha256": "8e3e27e9152d5eee381db7fe5dffcf9f69dfadbfd583c467d7545a053b35ac3b",
           "size": 3077706,
-          "sourceAssetName": "SlamJam96-0.4.2-unsigned.ipa",
+          "sha256": "8e3e27e9152d5eee381db7fe5dffcf9f69dfadbfd583c467d7545a053b35ac3b",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SlamJam96-0.4.2-unsigned.ipa",
-          "version": "v0.4.6"
+          "sourceAssetName": "SlamJam96-0.4.2-unsigned.ipa",
+          "ipaBundleIdentifier": "com.devz.slamjam96",
+          "releaseChannel": "release",
+          "buildVersion": "42"
         },
         {
           "buildVersion": "5",
@@ -8203,7 +8203,8 @@
           "size": 3077197,
           "sourceAssetName": "SlamJam96-0.3.0-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.3.0/SlamJam96-0.3.0-unsigned.ipa",
-          "version": "v0.3.0"
+          "version": "v0.3.0",
+          "ipaBundleIdentifier": "com.devz.slamjam96"
         },
         {
           "buildVersion": "5",
@@ -8213,7 +8214,8 @@
           "releaseChannel": "release",
           "sha256": "d519e135d810a6cac971d2c21b6be5b5b6980ad2a7322bf9d2c5a6094f8d32cf",
           "size": 3076669,
-          "version": "0.2.2"
+          "version": "0.2.2",
+          "ipaBundleIdentifier": "com.devz.slamjam96"
         },
         {
           "buildVersion": "4",
@@ -8223,7 +8225,8 @@
           "releaseChannel": "release",
           "sha256": "019584615dfea4c28f453deb8188298fa637814ea6ddd71b5e2d7d9617a02415",
           "size": 3076204,
-          "version": "v0.2.1"
+          "version": "v0.2.1",
+          "ipaBundleIdentifier": "com.devz.slamjam96"
         },
         {
           "buildVersion": "3",
@@ -8233,7 +8236,8 @@
           "releaseChannel": "release",
           "sha256": "80e2f9e811a60c7408e6961ed7418d7fcc5c2f85fe9d5ff26892bc53b813b366",
           "size": 3076233,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "com.devz.slamjam96"
         },
         {
           "buildVersion": "2",
@@ -8243,8 +8247,12 @@
           "releaseChannel": "release",
           "sha256": "f900558fcf9140d5315706e909e63f311ad2b6797a62bb7dced29a936dc96143",
           "size": 557591,
-          "version": "v1.0"
+          "version": "v1.0",
+          "ipaBundleIdentifier": "com.devz.slamjam96"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.slamjam96"
       ]
     },
     {
