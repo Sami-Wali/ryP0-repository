@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Dartotsu-Downloader",
+      "catalogID": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
+      "bundleIdentifier": "ani.aayush262.dartotsu",
+      "developerName": "grayankit",
+      "localizedDescription": "GitHub project request: grayankit/Dartotsu-Downloader.",
+      "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-10-30T19:21:23Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
+          "size": 86267536,
+          "buildVersion": "1.1.1",
+          "releaseChannel": "release",
+          "sha256": "61061fb157a4486735804e4f98a7c30ad6ae006cddb9f5cfde0651470290ed39",
+          "sourceAppName": "Dartotsu",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ani.aayush262.dartotsu-61061fb157a4.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
+        "checkedAt": "2026-10-31T07:21:44Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader"
+      },
+      "githubURL": "https://github.com/grayankit/Dartotsu-Downloader",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader",
+        "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
+      }
+    },
+    {
       "name": "unc0ver",
       "catalogID": "app-9ead8fb39fdc4c9786b9d435b49d668f",
       "bundleIdentifier": "science.xnu.undecimus",
