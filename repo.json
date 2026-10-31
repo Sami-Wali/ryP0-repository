@@ -12608,9 +12608,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-linkpass888-airbeep-97a0139d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.5.2",
+        "configId": "com-linkpass888-airbeep-97a0139d",
+        "sourceURL": "https://github.com/LinkPass888/AirBeep/actions/runs/39244347182",
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
@@ -12628,8 +12628,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:41:37Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "https://github.com/LinkPass888/AirBeep/releases",
       "updatePolicy": "daily",
@@ -12644,7 +12644,20 @@
           "size": 5880046,
           "sourceAssetName": "airbeep-v2.5.2-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
-          "version": "v2.5.2"
+          "version": "v2.5.2",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep"
+        },
+        {
+          "version": "0052ecbc961ba1965587839bda388150027a5cc4",
+          "date": "2026-10-19T11:23:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-linkpass888-airbeep-97a0139d-0052ecbc961ba1965587839bda388150027a5cc4-c7eff1f86135.ipa",
+          "size": 5880046,
+          "sha256": "c7eff1f8613535d4ac04caa40241add4c0acd59190a134d024788531ee97afe9",
+          "upstreamAssetURL": "https://api.github.com/repos/LinkPass888/AirBeep/actions/artifacts/12183825598/zip",
+          "sourceAssetName": "airbeep-v2.5.2-unsigned.ipa",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep",
+          "releaseChannel": "actions",
+          "buildVersion": "10"
         },
         {
           "buildVersion": "9",
@@ -12656,7 +12669,8 @@
           "size": 5876450,
           "sourceAssetName": "airbeep-v2.5.1-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.1/airbeep-v2.5.1-unsigned.ipa",
-          "version": "v2.5.1"
+          "version": "v2.5.1",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep"
         },
         {
           "buildVersion": "6",
@@ -12668,8 +12682,12 @@
           "size": 5834482,
           "sourceAssetName": "airbeep-v2.4.1-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.4.1/airbeep-v2.4.1-unsigned.ipa",
-          "version": "v2.4.1"
+          "version": "v2.4.1",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.linkpass888.airbeep"
       ]
     },
     {
