@@ -13904,21 +13904,23 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T22:46:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-10-08T13:31:08Z",
+          "version": "v0.4.0",
+          "date": "2026-10-08T13:34:57Z",
           "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
-          "localizedDescription": "# Playport 0.4.0: GOG, Epic Games and your own games **Playport is no longer only for Steam.** Sign in to **GOG** or **Epic Games** and install your games from there, or bring any DRM-free PC game from Files. Games now sign in to their store as they would on a PC. ## Highlights ### 🛒 GOG and Epic Games In **Settings › Accounts**, next to Steam, you can now sign in to **GOG** and **Epic Games** (the setup checklist's Accounts step offers all three). Your Windows games from each store show up in the Library, with their own filter and the store's artwork. - **Install, Update, Verify and Repair** work just as they do for Steam, through the same Downloads queue. When a store has a newer build, the game's page shows **Update**. - If Epic's sign-in asks you to do something first, such as accept an updated privacy policy, the sign-in sheet tells you what. Do that on Epic's site, then press Try again. - Games that use anti-cheat or another company's launcher are refused before the install, and their page says why. ### 🔑 Games sign in to their store A game now gets what its store's launcher would give it, with nothing to set up: - **Epic:** every Epic game starts signed in to your Epic account, including games that check you own them. Games using Epic Online Services sign in too: Snakebird Complete reaches its menu signed in. - **Steam:** games get the tickets Steam gives them on a PC, so online sign-ins through Steam work. Valheim logs in to its online service this way. - **GOG:** games built with GOG Galaxy sign in to it. Moonscars signs in. - **Sign-in pages in a panel.** When a game opens a web page, such as Epic's \"Allow\" page the first time an online game signs in, it appears in a panel over the game; close it to go back to the game. ### 📁 Add a game from Files Have a DRM-free PC game already? Press **X** in the Library, or choose **Add a game**, and pick its folder or a `.zip` from Files. Playport copies it into its own drive and adds it to your Library under **Local**. Pick the game's `.exe` on its page if Playport doesn't find it. Installers (`setup.exe`) are not run: pick the installed game's folder instead. For GOG games, use the GOG account. It needs no installer. ### 🚪 Death's Door runs on Some Unity games, such as Death's Door, quit after about 14 seconds because Windows ran out of address space for them. Playport now places those allocations where there is room, and Death's Door plays into the game. ## Also new - **iOS 26.0 fix:** 0.3.3 closed at launch on iOS 26.0.x. It starts again. - **Steam demos** show in your Library. - **Report a problem** shares one zip with the game's logs. - **A Memory step** on the first-run checklist shows whether your sideloader kept the increased memory limit. **How to fix** says which sideloaders keep it. The setup also explains why it needs pairing and LocalDevVPN. - **Online games connect more often:** web connections trust the usual certificates, and games see the phone's network instead of thinking it is offline. - **Faster and steadier:** quicker thread synchronisation and code translation, a smoother Vulkan path, and a fix for a rare freeze in Hollow Knight's menus. - **Newer components**: Wine 11.19 with Valve's latest Proton Wine changes, and current FEX, DXMT, DXVK, vkd3d-proton and Mesa. ## New guides The [README](https://github.com/playportdev/playport#install) and [playport.dev](https://playport.dev/#start) now walk you through setup: - **Install, by sideloader.** Which sideloaders keep the increased memory limit (AltStore Classic 2.2 or later, Impactor and Xcode do; SideStore with a free Apple ID does not), and why it matters: without it an 8 GB iPhone gives Playport about 3.3 GB. - **SideStore: when Memory has no tick.** A one-time fix with GetMoreRam that adds the limit to Playport's App ID; SideStore's weekly refresh then keeps it. - **Why pairing, JIT and LocalDevVPN**, and **Do I need a computer?** (once, to install; after that it depends on your sideloader). - **Your firs",
-          "releaseChannel": "release",
-          "sha256": "dbeed0312025637a52c4c9493d6ec5d37008016cc5c9edeba5165ca8883df9c3",
           "size": 672450129,
-          "version": "v0.4.0"
+          "sha256": "dbeed0312025637a52c4c9493d6ec5d37008016cc5c9edeba5165ca8883df9c3",
+          "upstreamAssetURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
+          "sourceAssetName": "Playport-0.4.0.ipa",
+          "ipaBundleIdentifier": "dev.playport.app",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
@@ -13928,7 +13930,8 @@
           "releaseChannel": "release",
           "sha256": "76d1aec2012de448607d464508586060af52b2ce5b50814e4461b00013808cc4",
           "size": 662021812,
-          "version": "v0.3.3"
+          "version": "v0.3.3",
+          "ipaBundleIdentifier": "dev.playport.app"
         },
         {
           "buildVersion": "1",
@@ -13938,7 +13941,8 @@
           "releaseChannel": "release",
           "sha256": "241150cf48bd4363462dcb1f3bb56afa48e3e4672e9785f8919db0b3d70ea90f",
           "size": 661948788,
-          "version": "v0.3.2"
+          "version": "v0.3.2",
+          "ipaBundleIdentifier": "dev.playport.app"
         },
         {
           "buildVersion": "1",
@@ -13948,7 +13952,8 @@
           "releaseChannel": "release",
           "sha256": "4f9f3d5133b99c35d675e41e9c5c51ffbc515df3a5f30a591ad739f3b209c3af",
           "size": 661841725,
-          "version": "v0.3.1"
+          "version": "v0.3.1",
+          "ipaBundleIdentifier": "dev.playport.app"
         },
         {
           "buildVersion": "1",
@@ -13958,7 +13963,8 @@
           "releaseChannel": "release",
           "sha256": "f87e4450a5d9bf1dc50f6056db6c6fae2659c322f39e51d38877f632ad37955d",
           "size": 661785133,
-          "version": "v0.3.0"
+          "version": "v0.3.0",
+          "ipaBundleIdentifier": "dev.playport.app"
         },
         {
           "buildVersion": "1",
@@ -13968,7 +13974,8 @@
           "releaseChannel": "release",
           "sha256": "8fe53761fd5b2c1a0b189f670356fbcf80bdeb0131c7307e6942be5bbfb58acb",
           "size": 455838194,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "dev.playport.app"
         },
         {
           "buildVersion": "1",
@@ -13978,8 +13985,12 @@
           "releaseChannel": "release",
           "sha256": "610e209a3a2a3c496ed35828a677244151cb14c62348f4d4428b0c74c764ed16",
           "size": 455435522,
-          "version": "v0.1.0"
+          "version": "v0.1.0",
+          "ipaBundleIdentifier": "dev.playport.app"
         }
+      ],
+      "bundleIdentifiers": [
+        "dev.playport.app"
       ]
     },
     {
