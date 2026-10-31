@@ -12259,10 +12259,9 @@
       "localizedDescription": "GitHub project request: chrissotraidis/kartpad.",
       "name": "kartpad",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.6/KartPad-v0.8.6-ios-for-padmint.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T23:32:47Z",
+        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
