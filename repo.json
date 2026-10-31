@@ -15849,7 +15849,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "livecontainer-standalone-stable",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/35404675698",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/35354029729",
         "workflowPath": ".github/workflows/update-app-livecontainer-standalone-stable.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer.standalone.stable",
@@ -15861,7 +15861,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-9108ae624ea001f7d7696d48407f890b48fa2653-a73c38057cf9.ipa",
-        "checkedAt": "2026-10-31T20:42:47Z",
+        "checkedAt": "2026-10-31T20:44:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -15947,6 +15947,18 @@
           "size": 4744948,
           "sha256": "a45932c71e1ee491215106608518a7148c2050d9867de5e660c4ceec91870d7f",
           "upstreamAssetURL": "https://api.github.com/repos/LiveContainer/LiveContainer/actions/artifacts/10571667288/zip",
+          "sourceAssetName": "LiveContainer.ipa",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "releaseChannel": "actions",
+          "buildVersion": "3.8.10"
+        },
+        {
+          "version": "db2811c06dcbe5c1ac602423ce47bf78675380de",
+          "date": "2026-09-18T14:04:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-db2811c06dcbe5c1ac602423ce47bf78675380de-a87d3c1885b7.ipa",
+          "size": 4744874,
+          "sha256": "a87d3c1885b7813285f60363316dd3ae78c0a8b4b44530e1cacfebaa441efaaa",
+          "upstreamAssetURL": "https://api.github.com/repos/LiveContainer/LiveContainer/actions/artifacts/10550743089/zip",
           "sourceAssetName": "LiveContainer.ipa",
           "ipaBundleIdentifier": "com.kdt.livecontainer",
           "releaseChannel": "actions",
