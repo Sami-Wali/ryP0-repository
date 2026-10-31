@@ -13311,9 +13311,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nakas-skate3-cbc799a2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup",
+        "configId": "com-nakas-skate3-cbc799a2",
+        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/tag/v2.7.1",
         "workflowPath": ".github/workflows/update-app-com-nakas-skate3-cbc799a2.yml"
       },
       "bundleIdentifier": "com.nakas.skate3",
@@ -13330,8 +13330,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.7.1/skate3.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:08:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "A static recompilation of Skate 3 for iOS, rendering through Vulkan on MoltenVK. Runs at a locked 60fps on an iPhone 13 mini (A15): median frame 16.7ms, 95th percentile 16.8-17.8ms. YOU MUST SUPPLY THE GAME. This app contains no game content and will not start without it. AFTER INSTALLING: 1. Connect your iPhone to a computer and open Finder > your iPhone > Files > Skate 3 (on Windows, iTunes > File Sharing). 2. Drop in a 'game' folder containing your own disc files. That is about 6GB, so allow a few minutes. 3. Add Title Update 3, the free update EA published on Xbox Live - it is not on the disc and the game will not run without it. The app can download it for you: choose \"Install the title update\" and then Download. If you would rather supply it yourself, copy the package into the same Skate 3 folder and it is found automatically. The setup screens walk you through steps 2 and 3. On-screen touch controls appear when no controller is attached; MFi and Bluetooth controllers are picked up automatically. Press Start + Select together for a performance menu that shows your frame rate and what is limiting it. Requires iOS 16.0 or later.",
       "updatePolicy": "daily",
@@ -13344,7 +13344,20 @@
           "releaseChannel": "release",
           "sha256": "109607f9c19e5f98e34e0bda883b07ecfb0a2d81592b332d459c6fdde6f9f7e9",
           "size": 33581505,
-          "version": "2.7.1"
+          "version": "2.7.1",
+          "ipaBundleIdentifier": "com.nakas.skate3"
+        },
+        {
+          "version": "v2.7.1",
+          "date": "2026-09-24T15:20:28Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.7.1/skate3.ipa",
+          "size": 33581505,
+          "sha256": "109607f9c19e5f98e34e0bda883b07ecfb0a2d81592b332d459c6fdde6f9f7e9",
+          "upstreamAssetURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.7.1/skate3.ipa",
+          "sourceAssetName": "skate3.ipa",
+          "ipaBundleIdentifier": "com.nakas.skate3",
+          "releaseChannel": "release",
+          "buildVersion": "2.7.1"
         },
         {
           "buildVersion": "2.6.3",
@@ -13354,7 +13367,8 @@
           "releaseChannel": "release",
           "sha256": "22a0b2bcdae6c5022751be940f2cca874fd8b59e5058834f47c4e7751482d3f9",
           "size": 33525964,
-          "version": "v2.6.3"
+          "version": "v2.6.3",
+          "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
           "buildVersion": "2.6.0",
@@ -13364,7 +13378,8 @@
           "releaseChannel": "release",
           "sha256": "a55a561b6a0e1bdc73aa05a34f5a76641cc14f5d606761210ee611bfc2552b77",
           "size": 31844228,
-          "version": "v2.6.0"
+          "version": "v2.6.0",
+          "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
           "buildVersion": "2.5.0",
@@ -13374,7 +13389,8 @@
           "releaseChannel": "release",
           "sha256": "0564943ca8ad62302c22571241591e4a454b08d8cefeda2c57a7f6bbcd26b66e",
           "size": 31823931,
-          "version": "v2.5.0"
+          "version": "v2.5.0",
+          "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
           "buildVersion": "2.4.0",
@@ -13384,7 +13400,8 @@
           "releaseChannel": "release",
           "sha256": "fcd4e6c811c34bb98f1322e53350acc1baff182ab91a1bddfc8712c2bf437bc9",
           "size": 31797033,
-          "version": "v2.4.0"
+          "version": "v2.4.0",
+          "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
           "buildVersion": "2.3.0",
@@ -13452,6 +13469,10 @@
           "size": 32948538,
           "version": "v2.0.0"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.nakas.skate3",
+        "com.skate3recomp.skate3"
       ]
     },
     {
