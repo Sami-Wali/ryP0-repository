@@ -16600,7 +16600,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "pancakestore",
-        "sourceURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/tag/1.2.1",
+        "sourceURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/tag/1.2",
         "workflowPath": ".github/workflows/update-app-pancakestore.yml"
       },
       "bundleIdentifier": "party.jailbreak.pancakestore",
@@ -16611,7 +16611,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
-        "checkedAt": "2026-10-31T20:51:05Z",
+        "checkedAt": "2026-10-31T20:52:01Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#E2B974",
@@ -16675,15 +16675,16 @@
           "buildVersion": "Release"
         },
         {
-          "buildVersion": "Release",
-          "date": "2026-06-12T05:52:23Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.2-992dfdd9dff0.ipa",
-          "localizedDescription": ">[!NOTE] >**PancakeStore is currently broken due to server changes by Apple.** These issues occur frequently, are relatively unpredictable, and can only be solved by working around the new changes in the code. We do not have the time to fix these always, so if the current build is giving you issues while logging in, unfortunately there is nothing we can do. Please do not ask us for support or alternatives. >[!WARNING] >Use this tool at your own risk! You may lose app data, and other damage could occur. [Discord Server](https://jailbreak.party/discord) • [Website](https://jailbreak.party) • [Original Project (by mineek)](https://github.com/mineek/MuffinStoreJailed-Public) ## Backend Changes - **PancakeStore has been fixed again.** Shoutout to Apple for the random backend changes. Signing in (and therefore downgrading) should work fine now. - **Improved error handling.** The app should no longer abruptly exit when things go wrong. - **Auto-clean.** The app now automatically clears the download and server caches, so PancakeStore shouldn't be taking up tons of extra space now. ## Added Features - **Share Extension.** PancakeStore now has a built-in sharing extension that lets you share apps directly from the App Store to PancakeStore. No more copying links back and forth! - **Export IPA.** You can export the IPA after the app has been downgraded. Probably useful for research or archival. Thank you everybody for your patience and support!",
-          "releaseChannel": "release",
-          "sha256": "992dfdd9dff093c30c1a084ebeb93241a024dacf18e4d8f8a1267d4be24be01d",
-          "size": 1936006,
           "version": "1.2",
-          "ipaBundleIdentifier": "com.jbdotparty.PancakeStore"
+          "date": "2026-06-12T17:49:41Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.2-992dfdd9dff0.ipa",
+          "size": 1936006,
+          "sha256": "992dfdd9dff093c30c1a084ebeb93241a024dacf18e4d8f8a1267d4be24be01d",
+          "upstreamAssetURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.2/PancakeStore_v1.2.ipa",
+          "sourceAssetName": "PancakeStore_v1.2.ipa",
+          "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
+          "releaseChannel": "release",
+          "buildVersion": "Release"
         },
         {
           "buildVersion": "1",
