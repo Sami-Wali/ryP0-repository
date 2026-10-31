@@ -15878,7 +15878,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "xenios",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.0.1-build-9848",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0.1-build-9730",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
@@ -15898,7 +15898,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-31T23:35:49Z",
+        "checkedAt": "2026-10-31T23:36:34Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
@@ -15960,16 +15960,16 @@
           "buildVersion": "9848"
         },
         {
-          "buildVersion": "9730",
-          "date": "2026-06-08T04:29:36Z",
+          "version": "release-v2.0.1-build-9730",
+          "date": "2026-06-08T04:29:40Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
+          "size": 46253576,
+          "sha256": "61de6cfc9cf05389161272ceaa70d46662dab77de40ab11fdda3d4a2221621a7",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.jp",
           "releaseChannel": "release",
-          "sha256": "61de6cfc9cf05389161272ceaa70d46662dab77de40ab11fdda3d4a2221621a7",
-          "size": 46253576,
-          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
-          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
-          "version": "release-v2.0.1-build-9730"
+          "buildVersion": "9730"
         },
         {
           "buildVersion": "9729",
