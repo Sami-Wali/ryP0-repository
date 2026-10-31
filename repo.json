@@ -13026,9 +13026,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-simpsons-249cc906",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS",
+        "configId": "com-devz-simpsons-249cc906",
+        "sourceURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/tag/v0.2.4",
         "workflowPath": ".github/workflows/update-app-com-devz-simpsons-249cc906.yml"
       },
       "bundleIdentifier": "com.devz.simpsons",
@@ -13045,12 +13045,24 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/download/v0.2.4/TheSimpsonsGame-v0.2.4.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:16:01Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.2.4",
+          "date": "2026-10-08T17:06:44Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/download/v0.2.4/TheSimpsonsGame-v0.2.4.ipa",
+          "size": 30273313,
+          "sha256": "343aefc87a3e016f45af5ac0fbe3de1cd28e9786e4b31b45315fd0ef4603d0aa",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/TheSimpsonsGame-iOS/releases/download/v0.2.4/TheSimpsonsGame-v0.2.4.ipa",
+          "sourceAssetName": "TheSimpsonsGame-v0.2.4.ipa",
+          "ipaBundleIdentifier": "com.devz.simpsons",
+          "releaseChannel": "release",
+          "buildVersion": "6"
+        },
         {
           "buildVersion": "6",
           "date": "2026-10-08T17:06:44Z",
@@ -13059,8 +13071,12 @@
           "releaseChannel": "release",
           "sha256": "343aefc87a3e016f45af5ac0fbe3de1cd28e9786e4b31b45315fd0ef4603d0aa",
           "size": 30273313,
-          "version": "0.2.4"
+          "version": "0.2.4",
+          "ipaBundleIdentifier": "com.devz.simpsons"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.simpsons"
       ]
     },
     {
