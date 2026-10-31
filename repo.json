@@ -17189,9 +17189,9 @@
     },
     {
       "automation": {
-        "configId": "mond",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/2.2",
+        "configId": "mond",
+        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/development",
         "workflowPath": ".github/workflows/update-app-mond.yml"
       },
       "bundleIdentifier": "com.rooootdev.mond",
@@ -17201,20 +17201,33 @@
       "name": "mond",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-84109cb5ee11.ipa",
+        "checkedAt": "2026-10-31T20:48:36Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "development",
+          "date": "2026-08-19T15:48:33Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-84109cb5ee11.ipa",
+          "size": 3385571,
+          "sha256": "84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633",
+          "upstreamAssetURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
+          "sourceAssetName": "mond.ipa",
+          "ipaBundleIdentifier": "com.roooot.mond",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-08-17T23:34:48Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.2-afa7fbec46b3.ipa",
           "sha256": "afa7fbec46b3e072813d540ab8380a0532f5a9efab50fe3c9b6bf31fb42ec8f1",
           "size": 3385608,
-          "version": "2.2"
+          "version": "2.2",
+          "ipaBundleIdentifier": "com.roooot.mond"
         },
         {
           "date": "2026-08-17T23:34:48Z",
@@ -17222,7 +17235,8 @@
           "localizedDescription": "added persist after reboot added cacheextra field editor bugfixes",
           "releaseChannel": "release",
           "size": 3385608,
-          "version": "2.2"
+          "version": "2.2",
+          "ipaBundleIdentifier": "com.roooot.mond"
         },
         {
           "buildVersion": "1",
@@ -17232,7 +17246,8 @@
           "releaseChannel": "release",
           "sha256": "05c8bbd87c5e43c6a33e5bad2e8933ab94a0b1775163f45833915cc6e44ec635",
           "size": 3333393,
-          "version": "2.1"
+          "version": "2.1",
+          "ipaBundleIdentifier": "com.roooot.mond"
         },
         {
           "buildVersion": "1",
@@ -17242,8 +17257,12 @@
           "releaseChannel": "release",
           "sha256": "2e15d300985a59d3bf49cd74adbd96d280e3cdf1dbc687e9abf69f4fe5cae8fb",
           "size": 3332224,
-          "version": "2.0"
+          "version": "2.0",
+          "ipaBundleIdentifier": "com.roooot.mond"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.roooot.mond"
       ]
     },
     {
