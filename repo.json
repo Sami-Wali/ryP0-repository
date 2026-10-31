@@ -10718,7 +10718,8 @@
           "size": 9347637,
           "sourceAssetName": "TiebaPure-v1.4.15-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
-          "version": "v1.4.15"
+          "version": "v1.4.15",
+          "localizedDescription": "## What's included - Stabilizes Home tab reselection and refresh behavior after scrolling. - Returning from a thread or search now closes that screen first; the next Home tap refreshes the feed. - A Home tap during an in-flight refresh returns to the top without creating a duplicate request. - Bumps the app and Open In extension to version `1.4.15` (build `59`). ## Download `TiebaPure-v1.4.15-unsigned.ipa` is an intentionally unsigned arm64 IPA for local installation/signing. - Minimum iOS: `16.4` - Commit: `5a87225190d6a79b1e3ad3b7d846edd407d416c7` - SHA-256: `28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123` CI `ci-ok` passed on PR #86, including unit tests, iOS compatibility checks, UI smoke tests, iPad layout tests, and the Release build."
         },
         {
           "buildVersion": "59",
