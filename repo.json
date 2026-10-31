@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Zeus",
+      "catalogID": "app-81207336549b4d02acc44d8b64148966",
+      "bundleIdentifier": "app.reiko.zeus",
+      "developerName": "Zeus Team",
+      "localizedDescription": "Zeus signs apps with your Apple Account and installs them on this iPhone, then keeps them going: a countdown shows when each one runs out, and Refresh All renews every app, and Zeus itself, in one go.",
+      "subtitle": "Zeus signs apps with your Apple Account and installs them on this iPhone, then keeps them going: a countdown shows when each one runs out, and Refresh All renews every app, and Zeus itself, in one go.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "3.1.9",
+          "date": "2026-10-30",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.9-19.ipa",
+          "size": 27395515,
+          "buildVersion": "19",
+          "localizedDescription": "• Sign with your own certificate: add a .p12, its password and a .mobileprovision in Settings > Privacy & Security • Apps signed that way install without pairing • JIT on iOS 17.4 and later • Cercube is a built-in source",
+          "sha256": "0e00850387e8db4c2cfb2a548dc919bf42333037a6019cd394e2c11940819e0e",
+          "ipaBundleIdentifier": "app.reiko.zeus"
+        }
+      ],
+      "iconURL": "https://repo.getzeus.app/assets/apps/zeus/icon.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.9-19.ipa",
+        "checkedAt": "2026-10-31T06:13:44Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.9-19.ipa",
+        "selector": "entry-107752ef3ed0c5f91cd3af4c6f1e523ac7ca192b751c44d554afe65a7b93bc80",
+        "sourceURL": "https://repo.getzeus.app/"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-81207336549b4d02acc44d8b64148966",
+        "sourceURL": "https://repo.getzeus.app/",
+        "workflowPath": ".github/workflows/update-app-app-81207336549b4d02acc44d8b64148966.yml"
+      }
+    },
+    {
       "name": "iPoGo",
       "catalogID": "app-8389198671814987a844a22f4cb16d67",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
