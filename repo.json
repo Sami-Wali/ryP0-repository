@@ -15404,9 +15404,9 @@
         ]
       },
       "automation": {
-        "configId": "dolphinios",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b6",
+        "configId": "dolphinios",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b5",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:19:46Z",
+        "checkedAt": "2026-10-31T20:20:14Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15447,15 +15447,16 @@
           "buildVersion": "26"
         },
         {
-          "buildVersion": "25",
-          "date": "2026-06-16T21:42:57Z",
+          "version": "5.0.0b5",
+          "date": "2026-06-16T21:55:20Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b5-9e03f90da7fc.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "* Fixed TXM check for non-jailbroken devices running iOS 26.6 or newer. (thanks @StephenDev0) * iOS 27 is still broken and requires additional work. The next update will be sometime after the next official Dolphin release. It will include a core update. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b4...v5.0.0b5",
-          "releaseChannel": "prerelease",
-          "sha256": "9e03f90da7fc988d52e76f8aeed934f97657dec39bce0cff9b902e815ab9c3bf",
           "size": 17963147,
-          "version": "5.0.0b5"
+          "sha256": "9e03f90da7fc988d52e76f8aeed934f97657dec39bce0cff9b902e815ab9c3bf",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b5/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "25"
         },
         {
           "buildVersion": "24",
