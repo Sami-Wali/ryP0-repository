@@ -11785,7 +11785,7 @@
       "name": "CloverPit-1.4.8",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-31T15:52:37Z",
+        "checkedAt": "2026-10-31T15:57:38Z",
         "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
