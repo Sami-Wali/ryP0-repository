@@ -7767,25 +7767,25 @@
       "localizedDescription": "The Legend of Zelda: The Wind Waker iOS port",
       "name": "BlueWake",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.9.0/BlueWake-v0.9.0-ios-unsigned.ipa",
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T06:11:24Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "8",
+          "version": "v0.9.0",
           "date": "2026-10-25T01:44:43Z",
           "downloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.9.0/BlueWake-v0.9.0-ios-unsigned.ipa",
-          "localizedDescription": "BlueWake 0.9.0 makes the Mac, iPhone and iPad builds as fast as the PC builds, fixes the camera dipping with the right-stick camera, stops the flicker with Smooth Motion, and brings one settings menu to every computer. Every version needs your own USA (GZLE01) disc image. The ready-made Windows build includes the game code translated from my disc; nothing else from the game is included. ### Install **Windows:** download `BlueWake-v0.9.0-windows-x64.zip`, unpack the whole folder and run `BlueWake.exe`. Your saves and settings in `%APPDATA%\\BlueWake` carry over. You need Windows 10 or 11 and a CPU with AVX2. SHA-256 of the zip: `3c0edc36241fc1783693e1a9fa942995f4f32efec14fb3a9afc889a595da61ce`. BlueWake.exe isn't code-signed, so a new build can be flagged by mistake; check the SHA-256 and see [If Windows says it's a virus](https://github.com/chrissotraidis/bluewake/blob/main/docs/WINDOWS.md#if-windows-says-its-a-virus). **iPhone and iPad:** build your app with [PadMint](https://github.com/chrissotraidis/padmint/releases/latest) on an Apple Silicon Mac. It downloads `BlueWake-v0.9.0-ios-unsigned.ipa` (the app without game code) and adds the game made from your disc, now with the faster preparations below. Install it over your current BlueWake to keep your saves. **Mac:** build it from this release's source: `scripts/builder/build.sh \"/path/to/GZLE01.iso\" --platform macos --out build/macos`. Your saves in `~/Library/Application Support/BlueWake` are kept. **Linux:** build it from this release's source with `python3 scripts/linux/build.py /path/to/GZLE01.iso` (steps in `docs/LINUX.md`). The container build works again at the player's CPU target. Contributors have built the AppImage from this release's commit with their own discs; a ready-made one will be added to this release once it's checked and uploaded. **Android (experimental):** build it yourself from your own disc, as `docs/ANDROID.md` describes; the builder now runs on a Mac as well as Windows. ### What's new **Much faster on Mac, iPhone and iPad** - Builds you make with PadMint or the builder now get the same module preparations and behaviour timing as the Windows and Linux builds. On the benchmark tour that's 75 to 79% more game frames a second on an iPad Pro (M2) and 64 to 77% on an M3 Max, with a smaller game module and a much shorter build. At normal speed the iPad's game thread is about half idle. `--conservative` builds it the old way. **Fixes** - The camera no longer dips for a frame every few seconds with **Direct right-stick camera and aiming** on (thanks to jslay88). - No more flicker with Smooth Motion above 60 FPS in the HD look, the clouds, the wave crests and swimming (thanks to pdale-boop). - Linux builds at the player's CPU target again (thanks to jslay88). **One menu on every computer** (thanks to pdale-boop) - Windows, Mac and Linux draw the same settings menu from one list, with controller navigation, contrast and text size, a Config tab, greyed settings that say why, and pausing under the menu as a setting. **Controls** - A controller can keep playing while another window is in front (Controls, off by default). - Keep the right-stick camera but aim with the left stick: turn off **The right stick aims too (first person, items)**. - On iPhone and iPad, the menu's switches keep the menu open, so you can change several settings in one visit. **HD textures from a real Wind Waker HD disc image** (thanks to jkoehler11) - The importer reads the content a real WUD/WUX stores, takes a key file, a pasted key or an emulator `keys.txt` as it is, keeps the form after a mistake, and says what it imported and skipped. **Also new** - Sun shadows from a shadow map in the HD look, so what's off screen still casts a shadow (thanks to pdale-boop). Off by default, under Mods › Experimental. - A sea compass switch: the red end points the way you're sailing (thanks to jslay88). Off by default, with Better Wind Waker's settings. - On iPhone, iPad and Android, **Share Session Lo",
-          "releaseChannel": "release",
-          "sha256": "675afb8162684d73e1daa81d079d90d4316f3f53d66f436fe488fffdb68b0375",
           "size": 6005171,
-          "sourceAssetName": "BlueWake-v0.9.0-ios-unsigned.ipa",
+          "sha256": "675afb8162684d73e1daa81d079d90d4316f3f53d66f436fe488fffdb68b0375",
           "upstreamAssetURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.9.0/BlueWake-v0.9.0-ios-unsigned.ipa",
-          "version": "v0.9.0"
+          "sourceAssetName": "BlueWake-v0.9.0-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.bluewake.BlueWake",
+          "releaseChannel": "release",
+          "buildVersion": "8"
         },
         {
           "buildVersion": "7",
@@ -7797,7 +7797,8 @@
           "size": 5974087,
           "sourceAssetName": "BlueWake-v0.8.0-ios-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.8.0/BlueWake-v0.8.0-ios-unsigned.ipa",
-          "version": "v0.8.0"
+          "version": "v0.8.0",
+          "ipaBundleIdentifier": "dev.bluewake.BlueWake"
         },
         {
           "buildVersion": "6",
@@ -7807,8 +7808,12 @@
           "releaseChannel": "release",
           "sha256": "8395fa00d75de9a13298d41374faeeef10766b58d434581234bbd62430561bf4",
           "size": 5692050,
-          "version": "0.7.0"
+          "version": "0.7.0",
+          "ipaBundleIdentifier": "dev.bluewake.BlueWake"
         }
+      ],
+      "bundleIdentifiers": [
+        "dev.bluewake.BlueWake"
       ]
     },
     {
