@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Discord (RainTweak)",
+      "catalogID": "app-00c0a53fda814cb687d99143bbe7788f",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Ra1ncord & IPA Vault",
+      "localizedDescription": "Discord 344.1 with RainTweak 0.10.0",
+      "subtitle": "Discord 344.1 with RainTweak 0.10.0",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "344.1",
+          "date": "2026-10-26",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-344.1-RainTweak.ipa",
+          "size": 109874872,
+          "buildVersion": "110861",
+          "localizedDescription": "IPA Vault build for Discord (RainTweak), version 344.1",
+          "sha256": "f3ef288af1982c5f31acfd58164f26f5e6510456a13da6a20ce71ec69cea534d",
+          "ipaBundleIdentifier": "com.hammerandchisel.discord"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.hammerandchisel.discord-f3ef288af198.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-344.1-RainTweak.ipa",
+        "checkedAt": "2026-10-31T12:50:13Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-344.1-RainTweak.ipa",
+        "selector": "entry-7ce4b8ffd0f2710de99fdb00060742251e6e182bc8c17a569489a7142d8d74fa",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-00c0a53fda814cb687d99143bbe7788f",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+        "workflowPath": ".github/workflows/update-app-app-00c0a53fda814cb687d99143bbe7788f.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-456cc1d171877aa5e7676440f0397fa9",
