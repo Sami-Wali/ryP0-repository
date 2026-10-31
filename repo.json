@@ -12450,9 +12450,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-c4rlox-simpsons-ios-6899cb6a",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/tag/v0.2",
+        "configId": "com-c4rlox-simpsons-ios-6899cb6a",
+        "sourceURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/tag/v0.1",
         "workflowPath": ".github/workflows/update-app-com-c4rlox-simpsons-ios-6899cb6a.yml"
       },
       "bundleIdentifier": "com.c4rlox.simpsons.ios",
@@ -12470,8 +12470,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.2/Simpsons-Hit-and-Run-iOS-0.2.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:47:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -12484,7 +12484,20 @@
           "releaseChannel": "release",
           "sha256": "62acaebf1dd613bc1a25c3c9c7a1a2905821c20aab1506633a4c782dc8f2c96a",
           "size": 12454045,
-          "version": "v0.2"
+          "version": "v0.2",
+          "ipaBundleIdentifier": "com.c4rlox.simpsons.ios"
+        },
+        {
+          "version": "v0.1",
+          "date": "2026-10-10T23:25:54Z",
+          "downloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
+          "size": 9468311,
+          "sha256": "1eb241943de3be8705526de17c643b06a4589b8803ef2f898434a127e8438eda",
+          "upstreamAssetURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.1/Simpsons-Hit-and-Run-iOS-0.1.ipa",
+          "sourceAssetName": "Simpsons-Hit-and-Run-iOS-0.1.ipa",
+          "ipaBundleIdentifier": "com.c4rlox.simpsons.ios",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
@@ -12494,8 +12507,12 @@
           "releaseChannel": "release",
           "sha256": "1eb241943de3be8705526de17c643b06a4589b8803ef2f898434a127e8438eda",
           "size": 9468311,
-          "version": "0.1"
+          "version": "0.1",
+          "ipaBundleIdentifier": "com.c4rlox.simpsons.ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.c4rlox.simpsons.ios"
       ]
     },
     {
