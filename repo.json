@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/b5",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/super-beta",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:31:08Z",
+        "checkedAt": "2026-10-31T20:31:43Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16974,6 +16974,18 @@
           "sha256": "d59e4e8552222a5f23c4fe8f8efc4f2335fff5b7e536a5be399bba6c96596b5f",
           "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/b5/JESSI.ipa",
           "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "beta",
+          "buildVersion": "1"
+        },
+        {
+          "version": "super-beta",
+          "date": "2026-02-23T20:08:22Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-super-beta-f063982580c8.ipa",
+          "size": 7931849,
+          "sha256": "f063982580c86bf5895024edbc2b625777023639ccb4b572916f46f1b67dedce",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/super-beta/JESSI-1.ipa",
+          "sourceAssetName": "JESSI-1.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "buildVersion": "1"
