@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/super-beta",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/b4",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:31:43Z",
+        "checkedAt": "2026-10-31T20:32:05Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16991,15 +16991,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
+          "version": "b4",
           "date": "2026-02-10T06:21:33Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b4-fd0b4199bda9.ipa",
-          "localizedDescription": "Changelog: - Integrated mod installation via Modrinth (thank you roooot) - Playit.gg support (thank you again roooot) - UPnP support (untested, likely broken) - File manager/text editor UI overhaul - Server creation menu UI overhaul - PaperMC support (if you have issues with it, please do not contact the PaperMC devs, contact me instead) - Various UI improvements throughout the app - Removed Herobrine",
-          "releaseChannel": "beta",
-          "sha256": "fd0b4199bda9348280c322e2b5d138f37542109a9d53cd12f47475a78577d315",
           "size": 7823073,
-          "version": "b4",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "sha256": "fd0b4199bda9348280c322e2b5d138f37542109a9d53cd12f47475a78577d315",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/b4/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "beta",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
