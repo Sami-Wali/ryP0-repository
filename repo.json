@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ModShelf",
+      "catalogID": "project-fdc77a241aad3c330e9604a96beb7f03",
+      "bundleIdentifier": "com.shplash.modshelf",
+      "developerName": "shplash",
+      "localizedDescription": "GitHub project request: shplash/ModShelf.",
+      "subtitle": "GitHub project request: shplash/ModShelf.",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-10-31T00:23:05Z",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
+          "size": 4967926,
+          "buildVersion": "267",
+          "releaseChannel": "release",
+          "sha256": "a4163ab699748af7236d2b131d0315d9429988b902e4651166e6160c2f579790",
+          "sourceAppName": "ModShelf",
+          "sourceAssetName": "ModShelf-v1.1.ipa",
+          "ipaBundleIdentifier": "com.shplash.modshelf",
+          "upstreamAssetURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.shplash.modshelf-a4163ab69974.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
+        "checkedAt": "2026-10-31T07:22:33Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
+        "sourceURL": "https://github.com/shplash/ModShelf"
+      },
+      "githubURL": "https://github.com/shplash/ModShelf",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
+        "sourceURL": "https://github.com/shplash/ModShelf",
+        "workflowPath": ".github/workflows/update-app-project-fdc77a241aad3c330e9604a96beb7f03.yml"
+      }
+    },
+    {
       "name": "Dartotsu-Downloader",
       "catalogID": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
       "bundleIdentifier": "ani.aayush262.dartotsu",
