@@ -12391,7 +12391,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-g8row-photosbackup-9ef1394b",
-        "sourceURL": "https://github.com/g8row/PhotosBackup/releases/tag/0.3.4",
+        "sourceURL": "https://github.com/g8row/PhotosBackup/releases/tag/0.3.3",
         "workflowPath": ".github/workflows/update-app-com-g8row-photosbackup-9ef1394b.yml"
       },
       "bundleIdentifier": "com.g8row.photosbackup",
@@ -12409,7 +12409,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.3.7/PhotosBackup.ipa",
-        "checkedAt": "2026-10-31T23:48:52Z",
+        "checkedAt": "2026-10-31T23:49:11Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Backs up photos to Google Photos without counting against your Google storage using the Google pixel 1 unlimited storage api",
@@ -12460,6 +12460,18 @@
           "ipaBundleIdentifier": "com.g8row.photosbackup",
           "releaseChannel": "release",
           "buildVersion": "12"
+        },
+        {
+          "version": "0.3.3",
+          "date": "2026-09-08T19:03:01Z",
+          "downloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.3.3/PhotosBackup.ipa",
+          "size": 2416286,
+          "sha256": "9121571e68f0f82671abc01b8ab868c0158978ee6e0c4b587c8a171886a07522",
+          "upstreamAssetURL": "https://github.com/g8row/PhotosBackup/releases/download/0.3.3/PhotosBackup.ipa",
+          "sourceAssetName": "PhotosBackup.ipa",
+          "ipaBundleIdentifier": "com.g8row.photosbackup",
+          "releaseChannel": "release",
+          "buildVersion": "11"
         }
       ],
       "bundleIdentifiers": [
