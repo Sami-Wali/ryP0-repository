@@ -14665,9 +14665,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-mafty-dukex-a9bdf44b",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MaftyManicEMU/DukeX",
+        "configId": "com-mafty-dukex-a9bdf44b",
+        "sourceURL": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v1.0.2",
         "workflowPath": ".github/workflows/update-app-com-mafty-dukex-a9bdf44b.yml"
       },
       "bundleIdentifier": "com.mafty.dukex",
@@ -14684,8 +14684,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T21:58:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -14698,7 +14698,20 @@
           "releaseChannel": "release",
           "sha256": "06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b",
           "size": 20345841,
-          "version": "1.0.2"
+          "version": "1.0.2",
+          "ipaBundleIdentifier": "com.mafty.dukex"
+        },
+        {
+          "version": "v1.0.2",
+          "date": "2026-06-30T12:54:48Z",
+          "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
+          "size": 20345841,
+          "sha256": "06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b",
+          "upstreamAssetURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
+          "sourceAssetName": "DukeX.v1.0.2.ipa",
+          "ipaBundleIdentifier": "com.mafty.dukex",
+          "releaseChannel": "release",
+          "buildVersion": "102"
         },
         {
           "buildVersion": "101",
@@ -14708,7 +14721,8 @@
           "releaseChannel": "release",
           "sha256": "071caf4b30289f9b67b0758ebc645e61e8304162b852a2270a9c495e6fb10354",
           "size": 31683375,
-          "version": "v1.0.1"
+          "version": "v1.0.1",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
           "buildVersion": "100",
@@ -14718,7 +14732,8 @@
           "releaseChannel": "release",
           "sha256": "aa561df3a8607dfebce04d23cabdab25abad6eac198e045def3d8a643874fdff",
           "size": 14406551,
-          "version": "v1.0.0"
+          "version": "v1.0.0",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
           "buildVersion": "15",
@@ -14728,7 +14743,8 @@
           "releaseChannel": "alpha",
           "sha256": "c58ac73b1511af754fbfd0d0fb825ab486934b06cb4630540f9a253490025d0f",
           "size": 14380846,
-          "version": "v0.1.5"
+          "version": "v0.1.5",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
           "buildVersion": "14",
@@ -14738,7 +14754,8 @@
           "releaseChannel": "alpha",
           "sha256": "969999e6c371da539fb072ce81835393cbdfdfb6914bf9d962c23a9d1af45892",
           "size": 12926956,
-          "version": "v0.1.4"
+          "version": "v0.1.4",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
           "buildVersion": "13",
@@ -14748,7 +14765,8 @@
           "releaseChannel": "alpha",
           "sha256": "ebf97aeddbf5b4cf2af06d20a786e9771e05fc5cfb9d3a49be57bf359db6c14b",
           "size": 12926996,
-          "version": "v0.1.3"
+          "version": "v0.1.3",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         },
         {
           "buildVersion": "12",
@@ -14758,8 +14776,12 @@
           "releaseChannel": "alpha",
           "sha256": "b7f3f1e7f3a0a50f78f46c666f5326c7a2b60212c84503076735f255ed255f16",
           "size": 12921574,
-          "version": "v0.1.2"
+          "version": "v0.1.2",
+          "ipaBundleIdentifier": "com.mafty.dukex"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mafty.dukex"
       ]
     },
     {
