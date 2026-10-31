@@ -17094,7 +17094,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "lara",
-        "sourceURL": "https://github.com/rooootdev/lara/actions/runs/36191035585",
+        "sourceURL": "https://github.com/rooootdev/lara/releases/tag/0.1",
         "workflowPath": ".github/workflows/update-app-lara.yml"
       },
       "bundleIdentifier": "com.rooootdev.lara",
@@ -17105,7 +17105,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-nightly-449173643ae6.ipa",
-        "checkedAt": "2026-10-31T20:34:44Z",
+        "checkedAt": "2026-10-31T20:35:05Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF6600",
@@ -17157,15 +17157,16 @@
           "ipaBundleIdentifier": "com.roooot.lara"
         },
         {
-          "buildVersion": "Release",
+          "version": "0.1",
           "date": "2026-05-01T18:30:04Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-0.1-04e8617357d6.ipa",
-          "localizedDescription": "this is the first proper release of lara. lara will be undergoing some major frontend and backend changes in the coming days and weeks, so expect things to move around, change, and function better. this build has a lot of issues currently, such as remotecall being super broken. if you are experiencing issues, it's recommended to wait rather than to open an issue or ask for support. if you are a contributor, it is highly recommended to not contribute anything until the rewrite is complete.",
-          "releaseChannel": "release",
-          "sha256": "04e8617357d6cefae25e91e10341fa496b4178ec074e1ceb66fa4d4a8ab62ff9",
           "size": 5972209,
-          "version": "0.1",
-          "ipaBundleIdentifier": "com.roooot.lara"
+          "sha256": "04e8617357d6cefae25e91e10341fa496b4178ec074e1ceb66fa4d4a8ab62ff9",
+          "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/0.1/lara_v0.1.ipa",
+          "sourceAssetName": "lara_v0.1.ipa",
+          "ipaBundleIdentifier": "com.roooot.lara",
+          "releaseChannel": "release",
+          "buildVersion": "Release"
         }
       ],
       "bundleIdentifiers": [
