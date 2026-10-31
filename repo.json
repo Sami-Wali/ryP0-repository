@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/40605987720",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/40605935960",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "bundleIdentifier": "dev.horizon.game",
@@ -31,7 +31,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/dev.horizon.game-caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b.ipa",
-        "checkedAt": "2026-10-31T16:32:53Z",
+        "checkedAt": "2026-10-31T16:33:31Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -197,6 +197,20 @@
           "size": 19501847,
           "sha256": "bc8178ecf16ea6c9f8ee5335736b8d38a62e2e935b2d415aaa59b1e4a4038f08",
           "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/12781940225/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6dac4a8a21b241b24d6c6931fd72dbf5b962a704",
+          "date": "2026-10-28T00:00:32Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-6dac4a8a21b241b24d6c6931fd72dbf5b962a704-128187af0bff.ipa",
+          "size": 19501847,
+          "sha256": "128187af0bff3e3d19c0b0e97030fa5f0f9767cbaba5233782872391fe567fed",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/12781715255/zip",
           "sourceAssetName": "Horizon-game-unsigned.ipa",
           "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
           "sourceAppName": "Horizon",
