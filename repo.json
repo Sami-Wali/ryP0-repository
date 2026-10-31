@@ -156,10 +156,9 @@
       "localizedDescription": "Discord 344.1 with RainTweak 0.10.0",
       "name": "Discord (RainTweak)",
       "status": {
-        "checkedAt": "2026-10-31T12:50:13Z",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-344.1-RainTweak.ipa",
-        "message": "Imported from verified upstream source",
-        "state": "healthy"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T12:55:17Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Discord 344.1 with RainTweak 0.10.0",
       "updatePolicy": "daily",
