@@ -14415,9 +14415,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-sonicunleashed-aa78ecec",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/tag/v1.1.0",
+        "configId": "com-devz-sonicunleashed-aa78ecec",
+        "sourceURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-com-devz-sonicunleashed-aa78ecec.yml"
       },
       "bundleIdentifier": "com.devz.sonicunleashed",
@@ -14433,8 +14433,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/v1.1.0/SonicUnleashed_iOS_v1.1.0.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T22:06:58Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -14446,7 +14446,8 @@
           "releaseChannel": "release",
           "sha256": "01922af57e83993baf45253ea4e7815b095ebee89b8e345aa1eb5a245a232c81",
           "size": 55943360,
-          "version": "v1.1.0"
+          "version": "v1.1.0",
+          "ipaBundleIdentifier": "com.devz.sonicunleashed"
         },
         {
           "buildVersion": "v1.0.3",
@@ -14456,8 +14457,24 @@
           "releaseChannel": "release",
           "sha256": "158b0145cde25b3f8d415db528bc9ea377e24d17681e6f36d9d2f3c3834c1184",
           "size": 61370785,
-          "version": "v1.0.3"
+          "version": "v1.0.3",
+          "ipaBundleIdentifier": "com.devz.sonicunleashed"
+        },
+        {
+          "version": "R1",
+          "date": "2026-09-27T17:19:04Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/R1/SonicUnleashed_Release.ipa",
+          "size": 61370785,
+          "sha256": "158b0145cde25b3f8d415db528bc9ea377e24d17681e6f36d9d2f3c3834c1184",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/R1/SonicUnleashed_Release.ipa",
+          "sourceAssetName": "SonicUnleashed_Release.ipa",
+          "ipaBundleIdentifier": "com.devz.sonicunleashed",
+          "releaseChannel": "release",
+          "buildVersion": "v1.0.3"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.sonicunleashed"
       ]
     },
     {
