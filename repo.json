@@ -120,7 +120,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/a60f2b2",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/27be2a0",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
@@ -145,7 +145,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-10-31T10:00:14Z",
+        "checkedAt": "2026-10-31T10:00:40Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
@@ -1705,6 +1705,19 @@
           "size": 45497958,
           "sha256": "f458ff832d29e64de73d989895af82cf3c5eb056998683b6ec49098f4a7437c7",
           "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/a60f2b2/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "27be2a0",
+          "date": "2025-08-09T18:25:24Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/27be2a0/Dartotsu-iOS-main.ipa",
+          "size": 45476918,
+          "sha256": "d3dbfebb0acea0f5309bf74a97f2fde2cbdbd22cb4a33395080fcd1c1f80da91",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/27be2a0/Dartotsu-iOS-main.ipa",
           "sourceAssetName": "Dartotsu-iOS-main.ipa",
           "sourceAppName": "Dartotsu",
           "ipaBundleIdentifier": "ani.aayush262.dartotsu",
