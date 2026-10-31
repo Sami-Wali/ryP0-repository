@@ -182,10 +182,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/223a5f9",
+        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/4f9da0f",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
@@ -208,14 +208,27 @@
       "localizedDescription": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "name": "Dartotsu-Downloader",
       "status": {
-        "checkedAt": "2026-10-31T11:43:56Z",
-        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/223a5f9/Dartotsu-iOS-main.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/4f9da0f/Dartotsu-iOS-main.ipa",
+        "checkedAt": "2026-10-31T15:20:42Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "4f9da0f",
+          "date": "2026-10-31T15:17:21Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/4f9da0f/Dartotsu-iOS-main.ipa",
+          "size": 86424734,
+          "sha256": "7d9972b10cbe0eba1b52460b9ba1c6ad4bdcecb7149c655bba413ef33998a5fd",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/4f9da0f/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1.1.1"
+        },
         {
           "buildVersion": "1.1.1",
           "date": "2026-10-31T11:08:35Z",
