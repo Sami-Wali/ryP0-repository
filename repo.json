@@ -379,10 +379,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.0",
+        "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
+        "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.1.1",
         "workflowPath": ".github/workflows/update-app-project-fdc77a241aad3c330e9604a96beb7f03.yml"
       },
       "bundleIdentifier": "com.shplash.modshelf",
@@ -406,13 +406,26 @@
       "name": "ModShelf",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+        "checkedAt": "2026-10-31T19:21:51Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: shplash/ModShelf.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.1",
+          "date": "2026-10-31T19:20:40Z",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+          "size": 4979570,
+          "sha256": "ae9bd983d640bc63742ac94e3a570bec676fe8d9b45c0bea23576c4f2f044e1d",
+          "upstreamAssetURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+          "sourceAssetName": "ModShelf-v1.1.1.ipa",
+          "sourceAppName": "ModShelf",
+          "ipaBundleIdentifier": "com.shplash.modshelf",
+          "releaseChannel": "release",
+          "buildVersion": "275"
+        },
         {
           "buildVersion": "267",
           "date": "2026-10-31T00:23:05Z",
