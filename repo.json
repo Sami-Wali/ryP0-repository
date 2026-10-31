@@ -3,50 +3,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-748ebf1b25204ba2959d5c8bbe3569ac",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-748ebf1b25204ba2959d5c8bbe3569ac.yml"
-      },
-      "bundleIdentifier" : "com.husk.app",
-      "catalogID" : "app-748ebf1b25204ba2959d5c8bbe3569ac",
-      "category" : "Social",
-      "developerName" : "Leviidev & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.husk.app-650c062c774e.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Husk-3.1.ipa",
-        "selector" : "entry-084027f47f07825b0be42e006c4bbba85e0de23754bf82a9492110a87369c740",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Husk 3.1",
-      "name" : "Husk",
-      "status" : {
-        "checkedAt" : "2026-10-31T12:59:53Z",
-        "checkedDownloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Husk-3.1.ipa",
-        "message" : "Imported from verified upstream source",
-        "state" : "healthy"
-      },
-      "subtitle" : "Husk 3.1",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "130",
-          "date" : "2026-10-27",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Husk-3.1.ipa",
-          "ipaBundleIdentifier" : "com.husk.app",
-          "localizedDescription" : "IPA Vault build for Husk, version 3.1",
-          "sha256" : "650c062c774ee87debee2c96bb9c921125ff642a814a85a6718dc5e7db2e45cc",
-          "size" : 140540013,
-          "version" : "3.1.0"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "app-29d46eb3cf594b0cad06720764369c92",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
