@@ -13212,7 +13212,8 @@
           "size": 2961693,
           "sourceAssetName": "FactorioPad-template.ipa",
           "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-          "version": "v2.2.4"
+          "version": "v2.2.4",
+          "localizedDescription": "Fix Factorio 2.1.24 startup"
         },
         {
           "buildVersion": "13",
