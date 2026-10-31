@@ -11927,7 +11927,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-aidoku-aidoku-c3112316",
-        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/38975659985",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/38867702232",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "bundleIdentifier": "app.aidoku.Aidoku",
@@ -11948,7 +11948,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-41ae2a604213d4eeb5bf19287eec675ea90e15aa-7e28b6c6ece6.ipa",
-        "checkedAt": "2026-10-31T23:59:00Z",
+        "checkedAt": "2026-10-31T23:59:36Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
@@ -12026,6 +12026,18 @@
           "upstreamAssetURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
           "version": "v0.9-4",
           "localizedDescription": "A small build update for 0.9 with a number of bug fixes. - Fixed some pages not loading in webtoon reader - Improved webtoon reader memory usage (hopefully fixes crash after reading multiple chapters) - Fixed crash when searching anywhere in the macOS app - Various other bug fixes"
+        },
+        {
+          "version": "b67cd485154760bdf3e96e83e9791f3889ddb395",
+          "date": "2026-10-16T07:30:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-b67cd485154760bdf3e96e83e9791f3889ddb395-7ba96d0c26a6.ipa",
+          "size": 14543609,
+          "sha256": "7ba96d0c26a69211e463d9f7e036e8438aa2be23fa425eb23aca936f5acb46e4",
+          "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/12032083112/zip",
+          "sourceAssetName": "Aidoku-iOS_nightly-b67cd48.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "actions",
+          "buildVersion": "3"
         },
         {
           "buildVersion": "3",
