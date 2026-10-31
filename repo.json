@@ -6333,10 +6333,10 @@
       },
       "name": "SideStore",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:37:39Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
