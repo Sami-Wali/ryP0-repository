@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b5",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b4",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:20:14Z",
+        "checkedAt": "2026-10-31T20:20:46Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15459,15 +15459,16 @@
           "buildVersion": "25"
         },
         {
-          "buildVersion": "24",
-          "date": "2025-10-23T02:48:05Z",
+          "version": "5.0.0b4",
+          "date": "2025-10-23T02:55:30Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b4-3654f513e019.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Fixed a crash when using JIT on devices running iOS 26 with an A12, A13, A14, or M1 chip. * Added additional JIT information to the Debug menu to assist in debugging problems. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b3...v5.0.0b4",
-          "releaseChannel": "prerelease",
-          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
           "size": 17963622,
-          "version": "5.0.0b4"
+          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "24"
         },
         {
           "buildVersion": "23",
