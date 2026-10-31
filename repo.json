@@ -2562,6 +2562,116 @@
           "sha256": "c7c68d0b74de3b91633f63f39f140f41bb1c5f28bef475d6066ee5af380ea649",
           "size": 54475719,
           "version": "8.1.0"
+        },
+        {
+          "version": "8.0.2",
+          "date": "2021-12-29T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+          "size": 54489484,
+          "sha256": "d385c2be158c3106266b0b7795647fe2f873905bca94874b57ef35cce6cf50f6",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8 • Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
+          "buildVersion": "1"
+        },
+        {
+          "version": "8.0.1",
+          "date": "2021-12-29T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.1/076aeba87b437a6e3e13aaf62d256888929eb70c/unc0ver_Release_8.0.1.ipa",
+          "size": 54306446,
+          "sha256": "e569d755b330d2fb2b9de466006b2fd9cee723f369633d3313979a125a17d01f",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Fix the \"Unsupported\" error on A12 iPhones running iOS 14.6",
+          "buildVersion": "1"
+        },
+        {
+          "version": "8.0.0",
+          "date": "2021-12-29T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.0/83c16266696b792b0988e0e2d8908ab99b426fe6/unc0ver_Release_8.0.0.ipa",
+          "size": 54306997,
+          "sha256": "7bdcc27b00f19404ba4996c55918680e80bfdcd6068d477e70efd4f61ed68260",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Add iOS 14.6-14.8 support for A12-A13 iPhones (iPads not supported) • Add Fugu14 support for A12-A14 devices running iOS 14.3",
+          "buildVersion": "1"
+        },
+        {
+          "version": "7.0.2",
+          "date": "2021-10-30T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/7.0.2/11c3f7b0eea806ba3cac975f74dcc2cc4e916bac/unc0ver_Release_7.0.2.ipa",
+          "size": 53887460,
+          "sha256": "f24aa73fdac4215269f9e04e487883826a2a9c4ea5cdadb9571f8450155c5a24",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Bug fixes for iOS 14 (Fixes the iMessage issue on iOS 14.5-14.5.1)",
+          "buildVersion": "1"
+        },
+        {
+          "version": "7.0.1",
+          "date": "2021-10-28T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/7.0.1/4f30bccf1fe1d24f2764f0e78dc12c67bbd002d6/unc0ver_Release_7.0.1.ipa",
+          "size": 53794537,
+          "sha256": "4780db3586305eeffb6368f48be979948db05435f58f40b3c8637a475cbb1bdd",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Major stability and reliability improvements for all versions including Fugu14 devices (Must be installed with the latest version of AltStore (1.4.8))",
+          "buildVersion": "1"
+        },
+        {
+          "version": "7.0.0",
+          "date": "2021-10-21T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/7.0.0/48073ecf35dcf43d0607ec779079e8a4d69e90c2/unc0ver_Release_7.0.0.ipa",
+          "size": 53775198,
+          "sha256": "7f6846b3eabe29e1e67abf7f3835f24e43aaed7309ae6ce803094bff1ec9d530",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Add iOS 14.4-14.5.1 support for A12-A14 devices with Fugu14 • Add iOS 12.5.5 support",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6.2.0",
+          "date": "2021-07-17T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa",
+          "size": 53758718,
+          "sha256": "26befa74281addef75e38107ebc14aebd4e4d6302cda85674555c2dba21ee1ec",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Major stability and reliability improvements to iOS 14 support",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6.1.2",
+          "date": "2021-04-07T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
+          "size": 59172983,
+          "sha256": "f5b1a16f1bb05f47c2098a3a252e9c1fa4ba123d46b7d3f15836937a35f83558",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Fix a cause of random reboots on iOS14 • Fix a cause of jetsam events on iOS14 • Fix a cause of processes being killed(9) on iOS14, particularly dpkg postinst etc • Increase compatibility with signing services • Introduce a new safety feature to preserve stock files from modification by packages",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6.1.1",
+          "date": "2021-03-06T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
+          "size": 58649301,
+          "sha256": "b06c01817967da743dab054838e901496b0b1896251795529065cd17bf0e013c",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6.1.0",
+          "date": "2021-03-04T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/6.1.0/c6de3a4c9486f74c49dbfe01507f3cf27e4e1219/unc0ver_Release_6.1.0.ipa",
+          "size": 58546121,
+          "sha256": "d055797e8b50069d6f7e1d4c246d9e3fb7af7914bbdc0dd1cf8f79c75bd637b7",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Fix all known stability and reliability problems on iOS 14 • Fix a bug that caused the unc0ver app to show different jailbreak settings when opened in the jailbroken state on iOS 14 • Add custom libkrw plugin to enable kernel read-write support on iOS 14 for security researchers and developers",
+          "buildVersion": "1"
+        },
+        {
+          "version": "6.0.2",
+          "date": "2021-03-03T00:00:00Z",
+          "downloadURL": "https://unc0ver.dev/downloads/6.0.2/295da57f139b0b2e4151458ffc966477872d36dc/unc0ver_Release_6.0.2.ipa",
+          "size": 58524331,
+          "sha256": "139c9f0a47b67f1c840f013e524b8fb2d54d10209cd7f19795a891430cef2fb9",
+          "ipaBundleIdentifier": "science.xnu.undecimus",
+          "localizedDescription": "• Additional fixes for stability and reliability problems on iOS 14",
+          "buildVersion": "1"
         }
       ]
     },
