@@ -13313,7 +13313,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-nakas-skate3-cbc799a2",
-        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/tag/v2.6.0",
+        "sourceURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/tag/v2.4.0",
         "workflowPath": ".github/workflows/update-app-com-nakas-skate3-cbc799a2.yml"
       },
       "bundleIdentifier": "com.nakas.skate3",
@@ -13330,7 +13330,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.7.1/skate3.ipa",
-        "checkedAt": "2026-10-31T23:09:53Z",
+        "checkedAt": "2026-10-31T23:11:18Z",
         "message": "Updated by private automation"
       },
       "subtitle": "A static recompilation of Skate 3 for iOS, rendering through Vulkan on MoltenVK. Runs at a locked 60fps on an iPhone 13 mini (A15): median frame 16.7ms, 95th percentile 16.8-17.8ms. YOU MUST SUPPLY THE GAME. This app contains no game content and will not start without it. AFTER INSTALLING: 1. Connect your iPhone to a computer and open Finder > your iPhone > Files > Skate 3 (on Windows, iTunes > File Sharing). 2. Drop in a 'game' folder containing your own disc files. That is about 6GB, so allow a few minutes. 3. Add Title Update 3, the free update EA published on Xbox Live - it is not on the disc and the game will not run without it. The app can download it for you: choose \"Install the title update\" and then Download. If you would rather supply it yourself, copy the package into the same Skate 3 folder and it is found automatically. The setup screens walk you through steps 2 and 3. On-screen touch controls appear when no controller is attached; MFi and Bluetooth controllers are picked up automatically. Press Start + Select together for a performance menu that shows your frame rate and what is limiting it. Requires iOS 16.0 or later.",
@@ -13394,15 +13394,16 @@
           "ipaBundleIdentifier": "com.nakas.skate3"
         },
         {
-          "buildVersion": "2.4.0",
-          "date": "2026-08-28T04:23:01Z",
-          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.4.0/skate3.ipa",
-          "localizedDescription": "**config menu, more control options, and setup that explains itself.** Runs at a **locked 60fps on an iPhone 13 mini** (A15). Median frame 16.7ms against a 16.67ms budget, 95th percentile 16.8–17.8ms. so it is a real 60, not an average with dips hiding inside it. Anything newer than an A15 has more headroom than that. 70 fps uncapped in career mode and 90 fps in custom maps. Press start and select together to get into config menu --- ## Installing **1. Install the app.** Download `skate3.ipa` below and sideload it with [Live Container] [AltStore](https://altstore.io), [SideStore](https://sidestore.io) or [Sideloadly](https://sideloadly.io). Each re-signs it with your own Apple ID as it installs — the file here is deliberately unsigned. On a free Apple ID the app stops opening after 7 days and needs refreshing; a paid developer account lasts a year. **2. Add your own copy of the game.** The app ships with no game content and will not start without it. Connect your iPhone to a computer, open **Finder → your iPhone → Files → Skate 3** (on Windows, iTunes → File Sharing), and drop in a `game` folder containing your disc files. A full disc image is around 6 GB, so give it a few minutes. **3. Add Title Update 3.** The game needs the free update EA published on Xbox Live; it is not on the disc, and the game will not run without it. iOS apps can't download it themselves, so fetch it on a computer: > **[Download Title Update 3](https://xboxunity.net/Resources/Lib/TitleUpdate.php?tuid=21774)** — about 1.7 MB, from the Xbox Unity archive. The file is named `TU_12K2276_000000C000000.00000000000O3`. Copy it into **Files → On My iPhone → Skate 3**, the same way you staged the disc, then point the installer at it. It is checked against a known SHA-256 before use, so a truncated download is caught immediately rather than crashing later. Setup now walks you through steps 2 and 3 on-screen, and no longer offers a Download button on iOS that could never have worked. That was the part nobody could get past: a 6 GB disc image cannot be picked out of the Files app if it was never copied to the phone in the first place, and the old screen just said \"Select ISO\" without saying how. Requires iOS 16.0 or later. Controllers pair automatically; touch controls appear when none is attached. --- ## New in this release **Press Start + Select together to open the performance menu.** It shows what the game is actually doing — frame rate, frame time, how long each frame spends waiting on the GPU — and then says in one line what is holding it back: the frame cap, the graphics card, or the emulation itself. That last line is the useful one. Turning quality settings down only buys you frames while it says the graphics card; if it says emulation, you are switching things off for nothing. Every quality setting worth changing sits on the same page under the readout, so you can change one and watch the number move. **More control options.** Vibration strength, so you can soften the constant road buzz without losing the bails. Stick and trigger deadzones, for a worn controller that drifts on its own. Invert camera Y, and swap sticks. Each of the three shortcuts — settings, performance, level picker — can be rebound. Everything defaults to exactly what the console did, so if you change nothing, nothing changes. --- This contains no game content, and never downloads any. You supply your own copy.",
-          "releaseChannel": "release",
-          "sha256": "fcd4e6c811c34bb98f1322e53350acc1baff182ab91a1bddfc8712c2bf437bc9",
-          "size": 31797033,
           "version": "v2.4.0",
-          "ipaBundleIdentifier": "com.nakas.skate3"
+          "date": "2026-08-28T04:31:51Z",
+          "downloadURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.4.0/skate3.ipa",
+          "size": 31797033,
+          "sha256": "fcd4e6c811c34bb98f1322e53350acc1baff182ab91a1bddfc8712c2bf437bc9",
+          "upstreamAssetURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.4.0/skate3.ipa",
+          "sourceAssetName": "skate3.ipa",
+          "ipaBundleIdentifier": "com.nakas.skate3",
+          "releaseChannel": "release",
+          "buildVersion": "2.4.0"
         },
         {
           "buildVersion": "2.3.0",
