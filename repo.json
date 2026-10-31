@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b7",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b6",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:24:00Z",
+        "checkedAt": "2026-10-31T20:24:25Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15543,15 +15543,16 @@
           "buildVersion": "15"
         },
         {
-          "buildVersion": "13",
-          "date": "2024-01-16T22:23:36Z",
+          "version": "4.0.0b6",
+          "date": "2024-01-16T22:30:15Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b6-c40e383b03f5.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "# DO NOT USE THIS VERSION! USE [4.0.0b7](https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b7) INSTEAD! --- The full changelog can be found at https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b5...v4.0.0b6. Enabling JIT is still required on non-jailbroken devices. However, Apple made changes in iOS 17 which broke all JIT enablers. Please be aware that, as of the time of writing, **all JIT enablers that support iOS 17 require a Mac**. We are currently monitoring the situation with sideloading in Europe. We will have more to share once Apple and/or the European Commission releases information about how it will be implemented. # User-Facing Changes * Updated the Dolphin core to 5.0-19708. * Added the Software Properties menu (tap and hold on a game in the game list). * Added the Gecko and Action Replay cheats menus in Software Properties. * Improved the updater to not prompt for an update if the currently running version is newer than the one reported by the server. # Developer-Facing Changes * Fixed an issue where using shared zstd would cause a build error on recent Xcode versions. (potentially issue #109) * Made the host thread be dynamically set to whatever thread is currently executing for a special dispatch queue. * Disabled the JitCache fast block map optimization to prevent fastmem issues.",
-          "releaseChannel": "prerelease",
-          "sha256": "c40e383b03f56728db7bf6c422b54011f73fe03043227e37a8cf757090973765",
           "size": 13773902,
-          "version": "4.0.0b6"
+          "sha256": "c40e383b03f56728db7bf6c422b54011f73fe03043227e37a8cf757090973765",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b6/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "13"
         },
         {
           "buildVersion": "12",
