@@ -6258,9 +6258,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-dcc432dd8abc44e0ac2fb0ba88e45410",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/AngelAuraMC/Amethyst-iOS/actions/runs/31392204231",
+        "configId": "app-dcc432dd8abc44e0ac2fb0ba88e45410",
+        "sourceURL": "https://github.com/AngelAuraMC/Amethyst-iOS/actions/runs/37242039920",
         "workflowPath": ".github/workflows/update-app-app-dcc432dd8abc44e0ac2fb0ba88e45410.yml"
       },
       "bundleIdentifier": "org.angelauramc.amethyst",
@@ -6279,10 +6279,10 @@
       "localizedDescription": "",
       "name": "Amethyst",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:44:05Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -6294,7 +6294,18 @@
           "releaseChannel": "actions",
           "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
           "size": 191972732,
-          "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc"
+          "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst"
+        },
+        {
+          "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc",
+          "date": "2026-10-04T22:58:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-dcc432dd8abc44e0ac2fb0ba88e45410-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+          "size": 191972732,
+          "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst",
+          "releaseChannel": "actions",
+          "buildVersion": "1.0"
         },
         {
           "buildVersion": "1.0",
@@ -6303,8 +6314,12 @@
           "releaseChannel": "actions",
           "sha256": "c11f94ad51bc97abf85466e18a8a78fbd06437f39cba0c271eac3d10461f6438",
           "size": 191971554,
-          "version": "9212a1894865e7ac0466029e25ddb0d895544c76"
+          "version": "9212a1894865e7ac0466029e25ddb0d895544c76",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst"
         }
+      ],
+      "bundleIdentifiers": [
+        "org.angelauramc.amethyst"
       ]
     },
     {
