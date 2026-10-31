@@ -13479,24 +13479,23 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T22:54:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "14",
-          "date": "2026-10-31T13:49:07Z",
+          "version": "v2.2.4",
+          "date": "2026-10-31T13:50:26Z",
           "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
+          "size": 2961693,
+          "sha256": "446a4701b31e67ecfd3d25c0eee821e9aedf13067cbe1072d7861d012402d157",
+          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
+          "sourceAssetName": "FactorioPad-template.ipa",
           "ipaBundleIdentifier": "pl.adrian.FactorioPad",
           "releaseChannel": "prerelease",
-          "sha256": "446a4701b31e67ecfd3d25c0eee821e9aedf13067cbe1072d7861d012402d157",
-          "size": 2961693,
-          "sourceAssetName": "FactorioPad-template.ipa",
-          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-          "version": "v2.2.4",
-          "localizedDescription": "Fix Factorio 2.1.24 startup"
+          "buildVersion": "14"
         },
         {
           "buildVersion": "13",
