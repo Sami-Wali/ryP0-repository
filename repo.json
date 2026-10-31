@@ -6842,9 +6842,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/39017541871",
+        "configId": "app-f2abe97caae34e08b24fc5f72e7db77f",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly",
         "workflowPath": ".github/workflows/update-app-app-f2abe97caae34e08b24fc5f72e7db77f.yml"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -6862,10 +6862,10 @@
       },
       "name": "LiveContainer+SideStore",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T07:05:42Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -6878,7 +6878,8 @@
           "size": 24155286,
           "sourceAssetName": "LiveContainer+SideStore.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "version": "nightly"
+          "version": "nightly",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.11",
@@ -6887,7 +6888,8 @@
           "releaseChannel": "actions",
           "sha256": "33831bb279d74f2da1be08eb3cc6d3646992a6120da32ffb763269696052b868",
           "size": 24155286,
-          "version": "9108ae624ea001f7d7696d48407f890b48fa2653"
+          "version": "9108ae624ea001f7d7696d48407f890b48fa2653",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6896,7 +6898,8 @@
           "releaseChannel": "actions",
           "sha256": "367642d147d533010d4e6627e8df3b42ab3b4c293f125a09031f9dc9adf69895",
           "size": 37664000,
-          "version": "999f44fb126a281e14a69f4df89848949cd9a8de"
+          "version": "999f44fb126a281e14a69f4df89848949cd9a8de",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6905,7 +6908,8 @@
           "releaseChannel": "actions",
           "sha256": "089a2fab5e5bb4a205a8e1259a609d7e529d9510b2a43433be4c5cbbd4de08c9",
           "size": 35935120,
-          "version": "d12531199c8b4d3d64bec3dfe77acb11e4fba940"
+          "version": "d12531199c8b4d3d64bec3dfe77acb11e4fba940",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6914,7 +6918,8 @@
           "releaseChannel": "actions",
           "sha256": "2c206f4ebb94b3ba04dc77524ccd8f329f23697f7aa57db1e37011cd50c48ab8",
           "size": 37663800,
-          "version": "adbe0a768e8161e2027c14630e0655153c6a6a9a"
+          "version": "adbe0a768e8161e2027c14630e0655153c6a6a9a",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6923,7 +6928,8 @@
           "releaseChannel": "actions",
           "sha256": "a8c79c65d2c93f79bcde6d02512875bb39c25a4db23b902371f72119739bb8e0",
           "size": 42828044,
-          "version": "6635cb2589a4fe9a1d94dcc96a04cddfc05fcec3"
+          "version": "6635cb2589a4fe9a1d94dcc96a04cddfc05fcec3",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6933,7 +6939,8 @@
           "releaseChannel": "nightly",
           "sha256": "bec41bc21d75a0f2e85a0aa589ce5772e24e410deb017486758a3bc0503c8de7",
           "size": 35926202,
-          "version": "3.8.10"
+          "version": "3.8.10",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6942,7 +6949,8 @@
           "releaseChannel": "actions",
           "sha256": "bec41bc21d75a0f2e85a0aa589ce5772e24e410deb017486758a3bc0503c8de7",
           "size": 35926202,
-          "version": "4dbe0f9a626de801184a42c0be8d2cb105058e3d"
+          "version": "4dbe0f9a626de801184a42c0be8d2cb105058e3d",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6951,7 +6959,8 @@
           "releaseChannel": "actions",
           "sha256": "c43b36cb15f43eb7666cf1609059c994850c2e476dde8a640165a4b0825d2f61",
           "size": 35926129,
-          "version": "db2811c06dcbe5c1ac602423ce47bf78675380de"
+          "version": "db2811c06dcbe5c1ac602423ce47bf78675380de",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6960,7 +6969,8 @@
           "releaseChannel": "actions",
           "sha256": "47c762fb282c97ca79558ca281a75be880493a74dacff7856da823fe195370bd",
           "size": 39473858,
-          "version": "4d5216db323fb71b223c781e819a43b365cfc565"
+          "version": "4d5216db323fb71b223c781e819a43b365cfc565",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6969,7 +6979,8 @@
           "releaseChannel": "actions",
           "sha256": "2c31c4dd0569f3814a749db80f3429ff9068918730fc77557f9a96c6791bc32b",
           "size": 39473985,
-          "version": "993c8be8f471f299f8d63f715deddd1c5ba79bb9"
+          "version": "993c8be8f471f299f8d63f715deddd1c5ba79bb9",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6978,7 +6989,8 @@
           "releaseChannel": "actions",
           "sha256": "f7ac15dcb44d2815dfd1f9fb2f48033b128c07a15a8181be09e6429f8d19b1b7",
           "size": 32573145,
-          "version": "e55609bab48a2b0551ddb5c0574497826e39680f"
+          "version": "e55609bab48a2b0551ddb5c0574497826e39680f",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6987,7 +6999,8 @@
           "releaseChannel": "actions",
           "sha256": "ba46ff39105855d75dcf37dea87a8c1fee67d5c672da1798ca59b47c2f2389fe",
           "size": 32573213,
-          "version": "3a63581d1f64c5b566cd95148a98f8c0d917459c"
+          "version": "3a63581d1f64c5b566cd95148a98f8c0d917459c",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -6996,7 +7009,8 @@
           "releaseChannel": "actions",
           "sha256": "45ff29ea25a4b68f01799013d4f01696b816c02f768f8ea3fae1f3aba4c8e9f7",
           "size": 32594575,
-          "version": "760e1af8016f1874e2cc4649271e27b9a455bd60"
+          "version": "760e1af8016f1874e2cc4649271e27b9a455bd60",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -7005,7 +7019,8 @@
           "releaseChannel": "actions",
           "sha256": "d97db14fec3869d6513e033caa34b7c4d9188cec88cb3405fd7bb6f4f9234c12",
           "size": 32594416,
-          "version": "7a274d5ab200071286803779a9f1c8a818f156f3"
+          "version": "7a274d5ab200071286803779a9f1c8a818f156f3",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -7014,7 +7029,8 @@
           "releaseChannel": "actions",
           "sha256": "3a03fe9c26b0269ee6e55cde28fbb10ee1b1971e0f2afa1420cf5d0b939693ed",
           "size": 32573196,
-          "version": "d2a329de6eed6f20c261cab85dab641eac7c1c56"
+          "version": "d2a329de6eed6f20c261cab85dab641eac7c1c56",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.10",
@@ -7023,7 +7039,8 @@
           "releaseChannel": "actions",
           "sha256": "eb4e87259ebd96350a207763f1dc280d8fce42526e897bdb383c85421b683cc3",
           "size": 32571985,
-          "version": "6aa140d9024e44022aa4aa538c675641dd282b87"
+          "version": "6aa140d9024e44022aa4aa538c675641dd282b87",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.9",
@@ -7032,7 +7049,8 @@
           "releaseChannel": "actions",
           "sha256": "093f90f4826bfd7c3df2ecdd51d70c051af5e98fe623bae879eb0c035ea47459",
           "size": 32443561,
-          "version": "adf1f297dcfdb81580a2c4aed3c7d8338f124b0e"
+          "version": "adf1f297dcfdb81580a2c4aed3c7d8338f124b0e",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.9",
@@ -7041,7 +7059,8 @@
           "releaseChannel": "actions",
           "sha256": "da49c6427d49b3a7fe3cee6a30b1d4d6c32e57101bba45ac3051c43efc4ca208",
           "size": 32455535,
-          "version": "7a27e224b1801909d3c85d0878f7ad5270034ebc"
+          "version": "7a27e224b1801909d3c85d0878f7ad5270034ebc",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.9",
@@ -7050,7 +7069,8 @@
           "releaseChannel": "actions",
           "sha256": "2b8435ee095f52ba3999b4f5f62120dde552d5889b7c45c1f82b417116f41d88",
           "size": 32347071,
-          "version": "12377cf3b91d51739a33f14a302e5f522b238593"
+          "version": "12377cf3b91d51739a33f14a302e5f522b238593",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.9",
@@ -7059,7 +7079,8 @@
           "releaseChannel": "actions",
           "sha256": "81258b9d4c9898909937c4e72a1e09811356fdf0ab8995dac23f33292bfc3417",
           "size": 32324004,
-          "version": "8ca6ea52485ed33e795e70ce6d3cf42872771f0e"
+          "version": "8ca6ea52485ed33e795e70ce6d3cf42872771f0e",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7068,7 +7089,8 @@
           "releaseChannel": "actions",
           "sha256": "880ea51facfefa3bd0d8d1228a0b6f0ff876b045cd500f9408d56fa71f3d7ac3",
           "size": 34301146,
-          "version": "12b1f782d760a43f47c9f7f77f1c270f7d888aac"
+          "version": "12b1f782d760a43f47c9f7f77f1c270f7d888aac",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7077,7 +7099,8 @@
           "releaseChannel": "actions",
           "sha256": "afa8aa4ffaf8a8efde6b0525c59884b486d799a5f0e27f1884c940a3470e748e",
           "size": 45044027,
-          "version": "75479b90c0ae803f3c39b93eaa386baa3b037e76"
+          "version": "75479b90c0ae803f3c39b93eaa386baa3b037e76",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7086,7 +7109,8 @@
           "releaseChannel": "actions",
           "sha256": "e31e2fe6033a6e88b65487fb3a8fd3af15c02167321d9170d8594fcdd71975b3",
           "size": 38144557,
-          "version": "48b69a1cca4f23a14c1f54f32578e614003cb940"
+          "version": "48b69a1cca4f23a14c1f54f32578e614003cb940",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7095,7 +7119,8 @@
           "releaseChannel": "actions",
           "sha256": "1687b7875b2ed9408c3a6094d7844f640ed3e348d4e43d61cab7fc2139b93fe7",
           "size": 37050961,
-          "version": "8f107e815f9590b55d39d1ad59175a465a3c89a7"
+          "version": "8f107e815f9590b55d39d1ad59175a465a3c89a7",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7104,7 +7129,8 @@
           "releaseChannel": "actions",
           "sha256": "f8e604c2fd1f9d6623b59b49018441c0eb10ef9ae648d5ef9bea27247895965e",
           "size": 37050906,
-          "version": "ed228166368b9084d014025dd91f697698a89a24"
+          "version": "ed228166368b9084d014025dd91f697698a89a24",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.8",
@@ -7113,7 +7139,8 @@
           "releaseChannel": "actions",
           "sha256": "c5a9e8ff5688c56b3ba4087ee3f468cca64795149de56374a8b89c16e698c5e0",
           "size": 36675792,
-          "version": "2d092098cae6ef6d98eefe3943927f81d925e527"
+          "version": "2d092098cae6ef6d98eefe3943927f81d925e527",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.0",
@@ -7123,7 +7150,8 @@
           "releaseChannel": "release",
           "sha256": "97dc0fd2202fd4460efcab389943b8d5fdbb4988efff76b116b92b84a4662425",
           "size": 35403538,
-          "version": "3.8.0"
+          "version": "3.8.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.7.2",
@@ -7133,7 +7161,8 @@
           "releaseChannel": "release",
           "sha256": "794ec785c30a2f3a02f3757e5cd5978c9871bc0539e332deeb66f15f4aaf4de9",
           "size": 34811049,
-          "version": "3.7.2"
+          "version": "3.7.2",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.7.0",
@@ -7143,7 +7172,8 @@
           "releaseChannel": "release",
           "sha256": "196bc5b7236ada5bbde75ce599491e4f43d9c96ea9c686c6d2bb16d7548544d8",
           "size": 36613311,
-          "version": "3.7.0"
+          "version": "3.7.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.6.1",
@@ -7153,7 +7183,8 @@
           "releaseChannel": "release",
           "sha256": "39b4a4dc05aa8f0628972c239738e90d38edbdfcadf6019cfb8265228162a577",
           "size": 36223272,
-          "version": "3.6.1"
+          "version": "3.6.1",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.6.0",
@@ -7163,8 +7194,12 @@
           "releaseChannel": "release",
           "sha256": "2fd71f0e2479951be4a52cbe56555def2f029d84a2553c883c21c2261e64b32c",
           "size": 36213652,
-          "version": "3.6.0"
+          "version": "3.6.0",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.kdt.livecontainer"
       ]
     },
     {
