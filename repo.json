@@ -7997,25 +7997,25 @@
       "localizedDescription": "",
       "name": "UMK3-unsigned",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T06:04:22Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "42",
+          "version": "v0.4.6",
           "date": "2026-10-19T18:51:27Z",
           "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
-          "localizedDescription": "NBA Showtime now uses the arcade/MAME edition on iOS and Windows, replacing the previous PlayStation edition. Import your own nbashowt.zip and matching nbashowt.chd; game data is not included. Showtime iPhone changes: - Move emulation off the UI thread and pace it using a monotonic deadline. - Batch two signature-checked MIPS polling/copy loops while preserving guest cycles, RAM semantics and interrupt boundaries. - Bound queued audio latency; fade starvation/recovery and transition across dropped audio to reduce crackles. - Reduce CRT drawable workload under thermal pressure. CRT remains on by default and can be toggled. Includes all pending source changes for the other four ports, including their rendering, camera, CRT and version-resource updates. Downloads: - SSF2T 0.4.2, UMK3 0.4.2, Slam n Jam 96 0.4.2, THPS2 0.4.3, NBA Showtime 0.4.6 unsigned iOS IPAs. - NativePorts-Windows-x64.zip contains all five Windows builds and required DLLs. - SHA256SUMS.txt provides download checksums. IPAs require signing before installation. Validation: iOS and Windows builds passed; 15,000 randomized MIPS-loop comparisons passed with sanitizers; audio, worker-thread, game import, rendering and camera regression tests passed. The latest separate Showtime iPhone test build was reported to run well by the device owner. Sustained coverage of every scene and physical four-player testing remain pending. Showtime arcade widescreen projection is not implemented; native arcade proportions are retained.",
-          "releaseChannel": "release",
-          "sha256": "a61990f324590ea83cd5ce08310cab663744c5cd8bd755edf0512722ffc91762",
           "size": 3937224,
-          "sourceAssetName": "UMK3-0.4.2-unsigned.ipa",
+          "sha256": "a61990f324590ea83cd5ce08310cab663744c5cd8bd755edf0512722ffc91762",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
-          "version": "v0.4.6"
+          "sourceAssetName": "UMK3-0.4.2-unsigned.ipa",
+          "ipaBundleIdentifier": "com.devz.umk3",
+          "releaseChannel": "release",
+          "buildVersion": "42"
         },
         {
           "buildVersion": "4",
@@ -8027,7 +8027,8 @@
           "size": 3935691,
           "sourceAssetName": "UMK3-0.3.0-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.3.0/UMK3-0.3.0-unsigned.ipa",
-          "version": "v0.3.0"
+          "version": "v0.3.0",
+          "ipaBundleIdentifier": "com.devz.umk3"
         },
         {
           "buildVersion": "4",
@@ -8037,7 +8038,8 @@
           "releaseChannel": "release",
           "sha256": "8fbede0caaab1950bea942a6144d21eeb32023ee6dfe5b609eba91caf7d12136",
           "size": 3935408,
-          "version": "0.2.1"
+          "version": "0.2.1",
+          "ipaBundleIdentifier": "com.devz.umk3"
         },
         {
           "buildVersion": "3",
@@ -8047,7 +8049,8 @@
           "releaseChannel": "release",
           "sha256": "5d747520f1692a4c5a1be57de1161f1e37f10964015c5c3bbb629ee78f810f72",
           "size": 3935444,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "com.devz.umk3"
         },
         {
           "buildVersion": "2",
@@ -8057,8 +8060,12 @@
           "releaseChannel": "release",
           "sha256": "59dc086c8f222b56123059efd01323fd3edee047ea095530462b335931ed5ccd",
           "size": 870528,
-          "version": "v1.0"
+          "version": "v1.0",
+          "ipaBundleIdentifier": "com.devz.umk3"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.umk3"
       ]
     },
     {
