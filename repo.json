@@ -10810,10 +10810,9 @@
       "localizedDescription": "Configure your VESC Ecosystem",
       "name": "Vesc_Tool_6.06.2",
       "status": {
-        "checkedAt": "2026-10-31T07:10:17Z",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
-        "message": "Updated by private automation",
-        "state": "healthy"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T09:25:33Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Configure your VESC Ecosystem",
       "updatePolicy": "daily",
