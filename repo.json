@@ -13477,10 +13477,9 @@
       "localizedDescription": "",
       "name": "Factorio",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "checkedAt": "2026-10-31T22:59:40Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T23:07:47Z",
+        "message": "Private updater: The read operation timed out"
       },
       "subtitle": "",
       "updatePolicy": "daily",
