@@ -11552,9 +11552,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.5-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.6-beta",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -11573,13 +11573,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
-        "checkedAt": "2026-10-30T20:50:57Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.6-beta/nuvio-0.6.6-full-release.ipa",
+        "checkedAt": "2026-10-31T05:36:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.6-beta",
+          "date": "2026-10-31T02:59:46Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.6-beta/nuvio-0.6.6-full-release.ipa",
+          "size": 68521101,
+          "sha256": "6250d33e6231608a409b5173f2e92496aec5198919967ca60c9af3f488b24453",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.6-beta/nuvio-0.6.6-full-release.ipa",
+          "sourceAssetName": "nuvio-0.6.6-full-release.ipa",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "releaseChannel": "beta",
+          "buildVersion": "149"
+        },
         {
           "buildVersion": "148",
           "date": "2026-10-27T02:04:03Z",
@@ -11712,17 +11724,6 @@
           "sha256": "ae4da6ce2738ea36e700b3774e0137dae5b0885d7d88ac46c6720b3be3c82433",
           "size": 66647562,
           "version": "0.5.5-beta"
-        },
-        {
-          "buildVersion": "136",
-          "date": "2026-09-28T09:23:38Z",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.4-beta/nuvio-0.5.4-full-release.ipa",
-          "ipaBundleIdentifier": "com.nuvio.media",
-          "localizedDescription": "- 80860602 fix(player): ignore short clips for tracking @tapframe - cd4572e2 fix(ios): update quickjs to 1.0.15 @tapframe - 9980d643 fix(player): reduce buffer durations @tapframe - 75296263 fix(details): keep custom posters when returning to a title @tapframe - 4bdcfa3a fix(settings): use shared chip on detail page @tapframe - 2b8be69c fix(details): replay watched series from first episode @tapframe - c69b643a fix(player): resume restored player from current position @tapframe - c3920d40 fix(i18n): align episode labels and metadata with tv @tapframe - 24c7c89c fix(streams): prevent rotation during binge group lookup @tapframe - a1a43416 fix(profiles): center pin dialog content @tapframe - [Plugin timeout (#2091)](https://github.com/NuvioMedia/NuvioMobile/pull/2091) @paregi12",
-          "releaseChannel": "beta",
-          "sha256": "f605463d51f304564833e82a2fc1478a326c2bea7fa15519d99e854eebb50b94",
-          "size": 66389579,
-          "version": "0.5.4-beta"
         }
       ]
     },
