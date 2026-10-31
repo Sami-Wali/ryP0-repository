@@ -11946,10 +11946,9 @@
       "localizedDescription": "Manga reading app",
       "name": "Aidoku",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T23:32:54Z",
+        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
