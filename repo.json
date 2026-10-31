@@ -12610,7 +12610,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-linkpass888-airbeep-97a0139d",
-        "sourceURL": "https://github.com/LinkPass888/AirBeep/releases/tag/v2.4.1",
+        "sourceURL": "https://github.com/LinkPass888/AirBeep/actions/runs/38934431219",
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
@@ -12628,7 +12628,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
-        "checkedAt": "2026-10-31T23:43:36Z",
+        "checkedAt": "2026-10-31T23:44:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "https://github.com/LinkPass888/AirBeep/releases",
@@ -12718,6 +12718,18 @@
           "sourceAssetName": "airbeep-v2.4.1-unsigned.ipa",
           "ipaBundleIdentifier": "com.linkpass888.airbeep",
           "releaseChannel": "release",
+          "buildVersion": "6"
+        },
+        {
+          "version": "08217274a2d2f0f1db9246b9b8c4b89760d15439",
+          "date": "2026-10-16T16:45:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-linkpass888-airbeep-97a0139d-08217274a2d2f0f1db9246b9b8c4b89760d15439-8f5b872b1b56.ipa",
+          "size": 5834482,
+          "sha256": "8f5b872b1b5665af6c9fd944f74f79c0a46e092e01fb2e3a96edf09bcc87e60f",
+          "upstreamAssetURL": "https://api.github.com/repos/LinkPass888/AirBeep/actions/artifacts/12060019968/zip",
+          "sourceAssetName": "airbeep-v2.4.1-unsigned.ipa",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep",
+          "releaseChannel": "actions",
           "buildVersion": "6"
         }
       ],
