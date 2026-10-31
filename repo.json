@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b8",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b7",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:23:29Z",
+        "checkedAt": "2026-10-31T20:24:00Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15531,15 +15531,16 @@
           "buildVersion": "19"
         },
         {
-          "buildVersion": "15",
-          "date": "2024-01-19T20:55:14Z",
+          "version": "4.0.0b7",
+          "date": "2024-01-19T21:02:02Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b7-31934065e81f.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "The full changelog can be found here: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b6...v4.0.0b7. This version fixes several critical bugs found in 4.0.0b6. Enabling JIT is still required on non-jailbroken devices. However, Apple made changes in iOS 17 which broke all JIT enablers. Please be aware that, as of the time of writing, **all JIT enablers that support iOS 17 require a Mac**. We are currently monitoring the situation with sideloading in Europe. We will have more to share once Apple and/or the European Commission releases information about how it will be implemented. # User-Facing Changes * Worked around an issue which causes fastmem initialization to fail (#115). * Fixed an issue which causes the app to freeze and/or crash when changing graphics settings. # Developer-Facing Changes * The UI thread is now the host thread while emulation is not running. When emulation is running, the host thread is whatever thread is executing for the host queue. * Calling `DOLHostQueueRunSync` on the host thread is now possible. * Calling `DOLHostQueueRunAsync` while on the host thread is now an illegal operation.",
-          "releaseChannel": "prerelease",
-          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
           "size": 13775833,
-          "version": "4.0.0b7"
+          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "15"
         },
         {
           "buildVersion": "13",
