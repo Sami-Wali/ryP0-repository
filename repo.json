@@ -6392,7 +6392,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
-        "checkedAt": "2026-10-31T06:37:39Z",
+        "checkedAt": "2026-10-31T07:04:05Z",
         "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
