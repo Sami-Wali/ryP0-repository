@@ -8359,25 +8359,25 @@
       "localizedDescription": "",
       "name": "SSF2T-unsigned",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SSF2T-0.4.2-unsigned.ipa",
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T05:55:15Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "42",
+          "version": "v0.4.6",
           "date": "2026-10-19T18:51:27Z",
           "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SSF2T-0.4.2-unsigned.ipa",
-          "localizedDescription": "NBA Showtime now uses the arcade/MAME edition on iOS and Windows, replacing the previous PlayStation edition. Import your own nbashowt.zip and matching nbashowt.chd; game data is not included. Showtime iPhone changes: - Move emulation off the UI thread and pace it using a monotonic deadline. - Batch two signature-checked MIPS polling/copy loops while preserving guest cycles, RAM semantics and interrupt boundaries. - Bound queued audio latency; fade starvation/recovery and transition across dropped audio to reduce crackles. - Reduce CRT drawable workload under thermal pressure. CRT remains on by default and can be toggled. Includes all pending source changes for the other four ports, including their rendering, camera, CRT and version-resource updates. Downloads: - SSF2T 0.4.2, UMK3 0.4.2, Slam n Jam 96 0.4.2, THPS2 0.4.3, NBA Showtime 0.4.6 unsigned iOS IPAs. - NativePorts-Windows-x64.zip contains all five Windows builds and required DLLs. - SHA256SUMS.txt provides download checksums. IPAs require signing before installation. Validation: iOS and Windows builds passed; 15,000 randomized MIPS-loop comparisons passed with sanitizers; audio, worker-thread, game import, rendering and camera regression tests passed. The latest separate Showtime iPhone test build was reported to run well by the device owner. Sustained coverage of every scene and physical four-player testing remain pending. Showtime arcade widescreen projection is not implemented; native arcade proportions are retained.",
-          "releaseChannel": "release",
-          "sha256": "e8db00036930d08fbc09643ac9683258f6faa4aca41a96c58536d7cb82b09341",
           "size": 5183412,
-          "sourceAssetName": "SSF2T-0.4.2-unsigned.ipa",
+          "sha256": "e8db00036930d08fbc09643ac9683258f6faa4aca41a96c58536d7cb82b09341",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/SSF2T-0.4.2-unsigned.ipa",
-          "version": "v0.4.6"
+          "sourceAssetName": "SSF2T-0.4.2-unsigned.ipa",
+          "ipaBundleIdentifier": "com.devz.ssf2t",
+          "releaseChannel": "release",
+          "buildVersion": "42"
         },
         {
           "buildVersion": "2",
@@ -8389,7 +8389,8 @@
           "size": 5183208,
           "sourceAssetName": "SSF2T-0.3.0-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.3.0/SSF2T-0.3.0-unsigned.ipa",
-          "version": "v0.3.0"
+          "version": "v0.3.0",
+          "ipaBundleIdentifier": "com.devz.ssf2t"
         },
         {
           "buildVersion": "2",
@@ -8399,7 +8400,8 @@
           "releaseChannel": "release",
           "sha256": "93faa49e763ddb39d4cf140a8cb048720bf41bc5b8b411665bc4a10d04c2c0ba",
           "size": 5183087,
-          "version": "0.2.2"
+          "version": "0.2.2",
+          "ipaBundleIdentifier": "com.devz.ssf2t"
         },
         {
           "buildVersion": "3",
@@ -8409,7 +8411,8 @@
           "releaseChannel": "release",
           "sha256": "cdb2e0d3831eeeee8d91434e2d5ceef16382df479fb87985b010f1394f73294a",
           "size": 5183220,
-          "version": "v0.2.1"
+          "version": "v0.2.1",
+          "ipaBundleIdentifier": "com.devz.ssf2t"
         },
         {
           "buildVersion": "2",
@@ -8419,7 +8422,8 @@
           "releaseChannel": "release",
           "sha256": "b01130e8fa180fd163d31b5abdd91a003573325ff94bf6b48f4060f28bfbd2fa",
           "size": 5182733,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "com.devz.ssf2t"
         },
         {
           "buildVersion": "1",
@@ -8429,8 +8433,12 @@
           "releaseChannel": "release",
           "sha256": "87db6c67f39ef57bf407383123f813bc9013de13098a0cad35a866e794fa3609",
           "size": 762641,
-          "version": "v1.0"
+          "version": "v1.0",
+          "ipaBundleIdentifier": "com.devz.ssf2t"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.ssf2t"
       ]
     },
     {
