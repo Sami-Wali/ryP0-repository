@@ -5958,9 +5958,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-615d86a9e61e488c9803deb087829c90",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37278471130",
+        "configId": "app-615d86a9e61e488c9803deb087829c90",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37577290452",
         "workflowPath": ".github/workflows/update-app-app-615d86a9e61e488c9803deb087829c90.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -5979,10 +5979,10 @@
       "localizedDescription": "",
       "name": "Air",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T07:02:15Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -5994,7 +5994,8 @@
           "releaseChannel": "actions",
           "sha256": "c4e03c185919a06cc416cf570a3f56082665412eedd024df18c0189305800007",
           "size": 252649503,
-          "version": "c4797387ca9a81f31fdcdd2723ec1050ca35fdb3"
+          "version": "c4797387ca9a81f31fdcdd2723ec1050ca35fdb3",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "6.0.0",
@@ -6003,7 +6004,8 @@
           "releaseChannel": "actions",
           "sha256": "0645d9c79019189773e6fdc6b638bbd24e4556603d6b1fae190e820665350ada",
           "size": 252633926,
-          "version": "37a952a4d6a3aa79b760ab84a750438037b3db0e"
+          "version": "37a952a4d6a3aa79b760ab84a750438037b3db0e",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "6.0.0",
@@ -6012,7 +6014,8 @@
           "releaseChannel": "actions",
           "sha256": "de2cab30d45e666a364c7c1f5007907fb39eaf7fafe84bf1418fb2fb20e7c446",
           "size": 252631945,
-          "version": "e2e0517d684021b91bc71a7cc6c31fba2c4587d7"
+          "version": "e2e0517d684021b91bc71a7cc6c31fba2c4587d7",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "6.0.0",
@@ -6021,7 +6024,8 @@
           "releaseChannel": "actions",
           "sha256": "e04a1682f0e84029f099e7eed67c25a7914ca6cb5a9f33938d0ea5203f5ee68c",
           "size": 252632509,
-          "version": "87bb2c86c3607932c583b308f136f39a053c70b6"
+          "version": "87bb2c86c3607932c583b308f136f39a053c70b6",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "6.0.0",
@@ -6030,7 +6034,8 @@
           "releaseChannel": "actions",
           "sha256": "6ef14181f68cf80d56c871c5c564b48a145c21a26a2eadf525ea79cb7d7650ec",
           "size": 252632830,
-          "version": "8bc784897fe573ca1d76df7971c0b8eb63e4c1b3"
+          "version": "8bc784897fe573ca1d76df7971c0b8eb63e4c1b3",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6039,7 +6044,8 @@
           "releaseChannel": "actions",
           "sha256": "2bba5839498641861ba2434f133eb6f2b08cf6964d3cce88146a82b448fcefd3",
           "size": 252631708,
-          "version": "80afca7fe68fc5541b6025e5877da482f726e091"
+          "version": "80afca7fe68fc5541b6025e5877da482f726e091",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6048,7 +6054,8 @@
           "releaseChannel": "actions",
           "sha256": "266b232723a9d855439057326a26b12a8ecb805b0d55788fdf029dd4c532879e",
           "size": 252631659,
-          "version": "4d0476dde9a96517f3db56eb5056685c87c6a2c1"
+          "version": "4d0476dde9a96517f3db56eb5056685c87c6a2c1",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6057,7 +6064,8 @@
           "releaseChannel": "actions",
           "sha256": "f530cac3d9d4d47317b0f44f22b2b05c1a99026bd0ef7f7289035cd144b1f4fe",
           "size": 252631450,
-          "version": "9266298692065baf0c094ed132952f291674e276"
+          "version": "9266298692065baf0c094ed132952f291674e276",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6066,7 +6074,8 @@
           "releaseChannel": "actions",
           "sha256": "f28dac7fca47c16364583b15b19e726b1c154e4d147ea51fb4bc0ba1eaae5099",
           "size": 251302093,
-          "version": "e1d19ee97a9c6e7dc781b06eb6f88c41c6a65d5f"
+          "version": "e1d19ee97a9c6e7dc781b06eb6f88c41c6a65d5f",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6075,7 +6084,8 @@
           "releaseChannel": "actions",
           "sha256": "b13fc6b5ebf245e9813f46145c7612d8b8cd9945347d6fbbe322863faab263e9",
           "size": 251139570,
-          "version": "ef19f27a8c0fd8342faf2e7d27e07acef21615e2"
+          "version": "ef19f27a8c0fd8342faf2e7d27e07acef21615e2",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6084,7 +6094,8 @@
           "releaseChannel": "actions",
           "sha256": "0b299a1f8de4d848cd614ae85983cec9be295b70bd930fe7d29f219eb91b61f4",
           "size": 251133021,
-          "version": "40d196230b73118994c000c240844c683ba4f45c"
+          "version": "40d196230b73118994c000c240844c683ba4f45c",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6093,7 +6104,8 @@
           "releaseChannel": "actions",
           "sha256": "7ed1e1df9ae51a5d5f91bc3b9cc50a6e2b1fe43a587bf54eb28281dbed8ff913",
           "size": 251134801,
-          "version": "a6daac59b4de66c01d972ea4ccc55f0a3d670a0d"
+          "version": "a6daac59b4de66c01d972ea4ccc55f0a3d670a0d",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6102,7 +6114,8 @@
           "releaseChannel": "actions",
           "sha256": "447a487f3abdebcbf24b6fc1c6bd78b774609d832aef94b56075b40d55bf00a8",
           "size": 251127532,
-          "version": "bdf4c2034ae16736a460b0670bf6589e294cfbf2"
+          "version": "bdf4c2034ae16736a460b0670bf6589e294cfbf2",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.1.0",
@@ -6112,7 +6125,8 @@
           "releaseChannel": "release",
           "sha256": "4b7ef4e2f05069702157e4eb71a73bff24a2c2593c146c279513a33e691d4bae",
           "size": 244024897,
-          "version": "5.1.0"
+          "version": "5.1.0",
+          "ipaBundleIdentifier": "com.air-devs.air"
         },
         {
           "buildVersion": "5.0.0",
@@ -6122,8 +6136,12 @@
           "releaseChannel": "release",
           "sha256": "f77edaa3d9dbb9c09ce98b0a06b381ff76548487b66bc05727469fe1e60518e3",
           "size": 193369366,
-          "version": "5.0.0"
+          "version": "5.0.0",
+          "ipaBundleIdentifier": "com.air-devs.air"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.air-devs.air"
       ]
     },
     {
