@@ -134,49 +134,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-00c0a53fda814cb687d99143bbe7788f",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-00c0a53fda814cb687d99143bbe7788f.yml"
-      },
-      "bundleIdentifier" : "com.hammerandchisel.discord",
-      "catalogID" : "app-00c0a53fda814cb687d99143bbe7788f",
-      "category" : "Social",
-      "developerName" : "Ra1ncord & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.hammerandchisel.discord-f3ef288af198.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Discord-344.1-RainTweak.ipa",
-        "selector" : "entry-7ce4b8ffd0f2710de99fdb00060742251e6e182bc8c17a569489a7142d8d74fa",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Discord 344.1 with RainTweak 0.10.0",
-      "name" : "Discord (RainTweak)",
-      "status" : {
-        "checkedAt" : "2026-10-31T13:00:35Z",
-        "message" : "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state" : "update-error"
-      },
-      "subtitle" : "Discord 344.1 with RainTweak 0.10.0",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "110861",
-          "date" : "2026-10-26",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Discord-344.1-RainTweak.ipa",
-          "ipaBundleIdentifier" : "com.hammerandchisel.discord",
-          "localizedDescription" : "IPA Vault build for Discord (RainTweak), version 344.1",
-          "sha256" : "f3ef288af1982c5f31acfd58164f26f5e6510456a13da6a20ce71ec69cea534d",
-          "size" : 109874872,
-          "version" : "344.1"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "project-456cc1d171877aa5e7676440f0397fa9",
         "historySyncPending" : false,
         "repository" : "Sami-Wali\/ryP0-automation",
