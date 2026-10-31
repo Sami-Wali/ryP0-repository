@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b6",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b5",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:24:25Z",
+        "checkedAt": "2026-10-31T20:24:57Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15555,15 +15555,16 @@
           "buildVersion": "13"
         },
         {
-          "buildVersion": "12",
-          "date": "2023-02-18T08:33:19Z",
+          "version": "4.0.0b5",
+          "date": "2023-02-18T08:39:25Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b5-68dfd5a85848.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "The full changelog can be found at https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b4...v4.0.0b5. NOTE: If you are upgrading from the TrollStore build of 4.0.0b2, your save files, settings, and imported games will appear to have been deleted. Due to a bug, DolphiniOS was putting the data in the wrong folder. If you want to recover your data, move the contents of the folder `/private/var/mobile/Documents/DolphiniOS` to the folder listed in Settings -> Debug -> Environment -> User Folder. ## User-Facing Changes * The status bar is now hidden during emulation. (issue #54, PR #58 by @icelaglace) * Removed the Software Renderer from the list of available graphics backends. * This backend never worked in the first place because OpenGL is not supported. * Fixed a bug which could cause the app to crash when attempting to clear the screen while stopping emulation. (issue #56) * Fixed a bug which caused the graphics backend menu to not set the correct backend. (issue #57)",
-          "releaseChannel": "prerelease",
-          "sha256": "68dfd5a85848a536be64484976e4f4c31b94f0fd11535b4a215e6e67cf77c635",
           "size": 13415869,
-          "version": "4.0.0b5"
+          "sha256": "68dfd5a85848a536be64484976e4f4c31b94f0fd11535b4a215e6e67cf77c635",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b5/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "12"
         }
       ]
     },
