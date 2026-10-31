@@ -117,7 +117,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
         "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/223a5f9",
