@@ -3,7 +3,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
         "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/40599236651",
