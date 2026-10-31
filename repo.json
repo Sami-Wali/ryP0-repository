@@ -15590,7 +15590,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "ppsspp",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.3",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.2",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -15605,7 +15605,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-31T20:55:40Z",
+        "checkedAt": "2026-10-31T20:56:48Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
@@ -15643,15 +15643,16 @@
           "buildVersion": "1.20.3"
         },
         {
-          "buildVersion": "1.20.2",
-          "date": "2026-03-10T13:35:52Z",
+          "version": "1.20.2",
+          "date": "2026-03-10T13:50:36Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.2-b350842b49e8.ipa",
-          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
-          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
-          "releaseChannel": "release",
-          "sha256": "b350842b49e8ed094f9da66bf12422e93521434488151308ffcc659473af62f5",
           "size": 30962097,
-          "version": "1.20.2"
+          "sha256": "b350842b49e8ed094f9da66bf12422e93521434488151308ffcc659473af62f5",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.2/PPSSPP-iOS-v1.20.2.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.2.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "release",
+          "buildVersion": "1.20.2"
         },
         {
           "buildVersion": "1.20.1",
