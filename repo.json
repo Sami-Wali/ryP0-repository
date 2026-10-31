@@ -117,10 +117,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/95e8419",
+        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/00000",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
@@ -143,10 +143,10 @@
       "localizedDescription": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "name": "Dartotsu-Downloader",
       "status": {
-        "checkedAt": "2026-10-31T10:25:17Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
-        "message": "Updated by private automation",
-        "state": "healthy"
+        "checkedAt": "2026-10-31T10:45:08Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "updatePolicy": "daily",
@@ -2061,6 +2061,19 @@
           "sourceAssetName": "Dartotsu-iOS-main.ipa",
           "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/5ceaeec/Dartotsu-iOS-main.ipa",
           "version": "5ceaeec"
+        },
+        {
+          "version": "00000",
+          "date": "2025-07-18T04:15:29Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/00000/Dartotsu-iOS-main.ipa",
+          "size": 45404606,
+          "sha256": "614e5a5c82d31cab18e5c1575f58d15bd13e108b74dda0db5b83ee67be71d30d",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/00000/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
