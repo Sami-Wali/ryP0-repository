@@ -221,49 +221,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-4e7917c62687449e94bea13fc49dee18",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-4e7917c62687449e94bea13fc49dee18.yml"
-      },
-      "bundleIdentifier" : "com.facebook.Facebook",
-      "catalogID" : "app-4e7917c62687449e94bea13fc49dee18",
-      "category" : "Social",
-      "developerName" : "shajon404 & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.facebook.Facebook-1d087678d872.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Facebook-585.0.0-Facebook-Plus.ipa",
-        "selector" : "entry-c8948a6c27903d7b06e22356dddbc705f27ec92d989c585834514bd32b743430",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Facebook 584.1.0 with Facebook Plus 1.0.2",
-      "name" : "Facebook (Facebook Plus)",
-      "status" : {
-        "checkedAt" : "2026-10-31T13:00:53Z",
-        "message" : "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state" : "update-error"
-      },
-      "subtitle" : "Facebook 584.1.0 with Facebook Plus 1.0.2",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "1101557913",
-          "date" : "2026-10-29",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Facebook-585.0.0-Facebook-Plus.ipa",
-          "ipaBundleIdentifier" : "com.facebook.Facebook",
-          "localizedDescription" : "IPA Vault build for Facebook (Facebook Plus), version 584.1.0",
-          "sha256" : "1d087678d872395c40222e7544d0a8920e5e0c55fd1fb239994c2fef46bc6f50",
-          "size" : 237801950,
-          "version" : "585.0.0"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "app-00c0a53fda814cb687d99143bbe7788f",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
