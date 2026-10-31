@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b2",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b1",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:21:51Z",
+        "checkedAt": "2026-10-31T20:22:19Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15495,15 +15495,16 @@
           "buildVersion": "22"
         },
         {
-          "buildVersion": "21",
-          "date": "2025-10-11T17:27:37Z",
+          "version": "5.0.0b1",
+          "date": "2025-10-11T17:35:11Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b1-ea27bd1a7b8f.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "* Added support for JIT on iOS 26. * **[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** Using other JIT enablers may cause DolphiniOS to crash. * Enabled Liquid Glass on iOS 26. * Added new Liquid Glass app icons by Kongolabongo. * The Dolphin core was updated to 2509. * Save states made in previous versions of DolphiniOS are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Sped up Cached Interpreter by approximately 10%, courtesy of TellowKrinkle. * The version number has been increased to 5.0.0 to prevent confusion with DolphiniOS forks. ## For Developers * Due to changes made by Apple in iOS 26, Xcode is no longer a supported JIT enabler on devices utilizing TXM (A15+ or M2+) running iOS 26 or newer. * If you are running DolphiniOS within Xcode, you will need to use Cached Interpreter or switch to an older device to use JIT. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b9...v5.0.0b1",
-          "releaseChannel": "prerelease",
-          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
           "size": 17958943,
-          "version": "5.0.0b1"
+          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "21"
         },
         {
           "buildVersion": "20",
