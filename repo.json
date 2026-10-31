@@ -16883,19 +16883,23 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T20:28:56Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1",
+          "version": "1.1.2",
           "date": "2026-10-06T07:25:26Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-          "sha256": "0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6",
           "size": 12168815,
-          "version": "1.1.2"
+          "sha256": "0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
@@ -16905,7 +16909,8 @@
           "releaseChannel": "release",
           "sha256": "2192f5ed265b4216a4287abc90c2ba7450a4a7a06ebd3e2bf82eda36fde60c53",
           "size": 12095211,
-          "version": "1.1.1"
+          "version": "1.1.1",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16913,7 +16918,8 @@
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
           "sha256": "97ff906c97c3ec23531e744571ba241158b98a89b9cbefc09f20745993f2e29f",
           "size": 12086786,
-          "version": "1.1"
+          "version": "1.1",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "date": "2026-03-30T23:25:32Z",
@@ -16921,14 +16927,16 @@
           "localizedDescription": "Changelog: Java 25 support (required for minecraft 26.1+)",
           "releaseChannel": "release",
           "size": 9284359,
-          "version": "1.0.1"
+          "version": "1.0.1",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
           "date": "2026-03-30T23:24:18Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0.1-001fdadc71b7.ipa",
           "size": 9284359,
-          "version": "1.0.1"
+          "version": "1.0.1",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16938,7 +16946,8 @@
           "releaseChannel": "release",
           "sha256": "e8a4ae46e6853615408c405427517e705465b1ec9fdcf2eac7a38c891d25bc02",
           "size": 9263080,
-          "version": "1.0"
+          "version": "1.0",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16948,7 +16957,8 @@
           "releaseChannel": "release",
           "sha256": "f54894d4f3c85b0be5417a5c20fea486f8f17e036ba5e288d6d8d7cf5152ea6f",
           "size": 9255289,
-          "version": "rc"
+          "version": "rc",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16958,7 +16968,8 @@
           "releaseChannel": "beta",
           "sha256": "d59e4e8552222a5f23c4fe8f8efc4f2335fff5b7e536a5be399bba6c96596b5f",
           "size": 7976762,
-          "version": "b5"
+          "version": "b5",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16968,7 +16979,8 @@
           "releaseChannel": "beta",
           "sha256": "fd0b4199bda9348280c322e2b5d138f37542109a9d53cd12f47475a78577d315",
           "size": 7823073,
-          "version": "b4"
+          "version": "b4",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "1",
@@ -16978,7 +16990,8 @@
           "releaseChannel": "beta",
           "sha256": "703c1016ebca1d579604310b2786fdd476abc2159a7489d40aa878ce37d00456",
           "size": 4227137,
-          "version": "b3"
+          "version": "b3",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         },
         {
           "buildVersion": "0.1",
@@ -16988,8 +17001,12 @@
           "releaseChannel": "beta",
           "sha256": "425cb5ff761e41f93ea1d57a4ed959786b3bd2a9014b9933c8fecf7890a081e4",
           "size": 89686932,
-          "version": "b2"
+          "version": "b2",
+          "ipaBundleIdentifier": "com.baconmania.jessi"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.baconmania.jessi"
       ]
     },
     {
