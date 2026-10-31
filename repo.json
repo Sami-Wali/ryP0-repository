@@ -10201,7 +10201,8 @@
           "size": 85139997,
           "sourceAssetName": "OldOS.ipa",
           "upstreamAssetURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
-          "version": "2.0_8"
+          "version": "2.0_8",
+          "localizedDescription": "2.0 (8): - iOS 4 Keyboard - Autocorrect - Predictive Touch - Text Suggestions - Magnifiers - Text Selection - Cut, Copy & Paste - Keyboard Variants"
         },
         {
           "buildVersion": "15",
