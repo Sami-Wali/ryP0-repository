@@ -5788,10 +5788,10 @@
       "localizedDescription": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "name": "Swiftgram (TGExtra)",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
-        "message": "App absent from the upstream source; will unlist if the next check confirms it.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:58:35Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
       "updatePolicy": "daily",
