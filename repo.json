@@ -12910,9 +12910,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-lukebrosious-theft4-0b652716",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/KoreanSeats1/Theft4/releases/tag/v0.3.2",
+        "configId": "com-lukebrosious-theft4-0b652716",
+        "sourceURL": "https://github.com/KoreanSeats1/Theft4/releases/tag/v0.3.1",
         "workflowPath": ".github/workflows/update-app-com-lukebrosious-theft4-0b652716.yml"
       },
       "bundleIdentifier": "com.lukebrosious.theft4",
@@ -12928,8 +12928,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:38:28Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -12943,7 +12943,20 @@
           "size": 51642084,
           "sourceAssetName": "Theft4-0.3.2-144-ios-arm64.ipa",
           "upstreamAssetURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
-          "version": "v0.3.2"
+          "version": "v0.3.2",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4"
+        },
+        {
+          "version": "v0.3.1",
+          "date": "2026-10-09T12:36:35Z",
+          "downloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.1/Theft4-0.3.1-142-ios-arm64.ipa",
+          "size": 51636222,
+          "sha256": "2b80527f38a05ccf74a0a6c98e57cd5ac8d39f25b773c5499936ac63017b802b",
+          "upstreamAssetURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.1/Theft4-0.3.1-142-ios-arm64.ipa",
+          "sourceAssetName": "Theft4-0.3.1-142-ios-arm64.ipa",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4",
+          "releaseChannel": "release",
+          "buildVersion": "142"
         },
         {
           "buildVersion": "142",
@@ -12953,7 +12966,8 @@
           "releaseChannel": "release",
           "sha256": "2b80527f38a05ccf74a0a6c98e57cd5ac8d39f25b773c5499936ac63017b802b",
           "size": 51636222,
-          "version": "0.3.1"
+          "version": "0.3.1",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4"
         },
         {
           "buildVersion": "123",
@@ -12963,7 +12977,8 @@
           "releaseChannel": "release",
           "sha256": "851d06004a2d52ae0d9f7b7fe88f5ea77ae3e075d0f20e42ca4d2efc0cb0c40b",
           "size": 51333959,
-          "version": "v0.3"
+          "version": "v0.3",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4"
         },
         {
           "buildVersion": "53",
@@ -12973,7 +12988,8 @@
           "releaseChannel": "prerelease",
           "sha256": "3f278f0d3b07cfdda0e40a3672594d17bcd0499c01484d86b0a1845b7f571f9a",
           "size": 26085268,
-          "version": "v0.2.1"
+          "version": "v0.2.1",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4"
         },
         {
           "buildVersion": "44",
@@ -12983,7 +12999,8 @@
           "releaseChannel": "release",
           "sha256": "9a80b818ead779e88258315d69e58380592c366f9a39d6175a779a4dbafbee70",
           "size": 27552252,
-          "version": "v0.2.0b"
+          "version": "v0.2.0b",
+          "ipaBundleIdentifier": "com.lukebrosious.theft4"
         },
         {
           "buildVersion": "42",
@@ -13018,6 +13035,10 @@
           "size": 27471046,
           "version": "v0.1.3"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.lukebrosious.theft4",
+        "com.theft4.bringup"
       ]
     },
     {
