@@ -47,49 +47,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-38be38fb41d04dbd8c792443d4aa159b",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-38be38fb41d04dbd8c792443d4aa159b.yml"
-      },
-      "bundleIdentifier" : "com.firecore.infuse",
-      "catalogID" : "app-38be38fb41d04dbd8c792443d4aa159b",
-      "category" : "Social",
-      "developerName" : "dvntms & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.firecore.infuse-f9918797d529.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Infuse-7.8.4-Infuse-Plus.ipa",
-        "selector" : "entry-f432ae01a17e662053bdd9b5982c447b0f7e8568ca0048550ed0b1a27e41ae35",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Infuse 7.8.4 with Infuse Plus 2.6",
-      "name" : "Infuse Plus (7.8.4)",
-      "status" : {
-        "checkedAt" : "2026-10-31T13:02:48Z",
-        "message" : "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state" : "update-error"
-      },
-      "subtitle" : "Infuse 7.8.4 with Infuse Plus 2.6",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "7.8.4974",
-          "date" : "2026-09-01",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Infuse-7.8.4-Infuse-Plus.ipa",
-          "ipaBundleIdentifier" : "com.firecore.infuse",
-          "localizedDescription" : "IPA Vault build for Infuse Plus (7.8.4), version 7.8.4",
-          "sha256" : "f9918797d529fab02df2c0ade6f45f2dc3e4f1a9231d3fe0366908036852d320",
-          "size" : 69195129,
-          "version" : "7.8.4"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "project-456cc1d171877aa5e7676440f0397fa9",
         "historySyncPending" : false,
         "repository" : "Sami-Wali\/ryP0-automation",
