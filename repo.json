@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Husk",
+      "catalogID": "app-748ebf1b25204ba2959d5c8bbe3569ac",
+      "bundleIdentifier": "com.husk.app",
+      "developerName": "Leviidev & IPA Vault",
+      "localizedDescription": "Husk 3.1",
+      "subtitle": "Husk 3.1",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "3.1.0",
+          "date": "2026-10-27",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Husk-3.1.ipa",
+          "size": 140540013,
+          "buildVersion": "130",
+          "localizedDescription": "IPA Vault build for Husk, version 3.1",
+          "sha256": "650c062c774ee87debee2c96bb9c921125ff642a814a85a6718dc5e7db2e45cc",
+          "ipaBundleIdentifier": "com.husk.app"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.husk.app-650c062c774e.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Husk-3.1.ipa",
+        "checkedAt": "2026-10-31T12:59:53Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Husk-3.1.ipa",
+        "selector": "entry-084027f47f07825b0be42e006c4bbba85e0de23754bf82a9492110a87369c740",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-748ebf1b25204ba2959d5c8bbe3569ac",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+        "workflowPath": ".github/workflows/update-app-app-748ebf1b25204ba2959d5c8bbe3569ac.yml"
+      }
+    },
+    {
       "name": "Infuse Plus (8.5.9)",
       "catalogID": "app-29d46eb3cf594b0cad06720764369c92",
       "bundleIdentifier": "com.firecore.infuse",
