@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.0",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/rc",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:30:18Z",
+        "checkedAt": "2026-10-31T20:30:44Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16955,15 +16955,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
+          "version": "rc",
           "date": "2026-03-04T21:55:48Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-rc-f54894d4f3c8.ipa",
-          "localizedDescription": "Changelog: - Proper TrollStore support, TrollStore devices will now spawn the JVM in a seperate process, meaning you can freely stop/start the server without the app closing - Keep Alive, JESSI can now run in the background, even in LiveContainer or if the screen is off! - UI improvements and bugfixes - There is now a built in tutorial in the app! On first app launch, you will be given a welcome message and be prompted to take a tour around the app - JVM's will automatically download via backup mirrors if necessary - Installation guides have been added to the github page under the wiki (the guide for ios 16.7/17.0.1-17.3.1 has not been written yet as I'm working on a separate app for JIT enabling on those versions, and that app has not been finished yet) - Some easter eggs have been added :eyes: - Removed Herobrine",
-          "releaseChannel": "release",
-          "sha256": "f54894d4f3c85b0be5417a5c20fea486f8f17e036ba5e288d6d8d7cf5152ea6f",
           "size": 9255289,
-          "version": "rc",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "sha256": "f54894d4f3c85b0be5417a5c20fea486f8f17e036ba5e288d6d8d7cf5152ea6f",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/rc/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
