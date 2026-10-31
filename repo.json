@@ -15878,13 +15878,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "xenios",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.1-build-9857",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.1-build-9852",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
       "bundleIdentifiers": [
         "com.xenios.jp",
         "com.xenios.537ee73c0a351cb0",
+        "com.xenios.684992932fab9dd5",
         "jp.xenios.xenios.ios"
       ],
       "category": "EMU",
@@ -15893,9 +15894,10 @@
       "localizedDescription": "Xenios XBOX360 emulator port for iOS.",
       "name": "Xenios",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-31T21:24:00Z",
-        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
+        "checkedAt": "2026-10-31T23:34:10Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -15918,6 +15920,18 @@
           "ipaBundleIdentifier": "com.xenios.537ee73c0a351cb0",
           "releaseChannel": "prerelease",
           "buildVersion": "9857"
+        },
+        {
+          "version": "preview-v2.1-build-9852",
+          "date": "2026-06-16T12:40:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.1-build-9852-53115a3be8a9.ipa",
+          "size": 42005809,
+          "sha256": "53115a3be8a96c61cc18292c96fc619ea7fd55e301dc133a4b99052f567263ba",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.1-build-9852/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.684992932fab9dd5",
+          "releaseChannel": "prerelease",
+          "buildVersion": "9852"
         },
         {
           "buildVersion": "9730",
