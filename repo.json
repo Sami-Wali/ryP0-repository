@@ -7702,9 +7702,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-40b6981de737404ebd000201c46ce755",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/wsvn53/scrcpy-mobile",
+        "configId": "app-40b6981de737404ebd000201c46ce755",
+        "sourceURL": "https://github.com/wsvn53/scrcpy-mobile/releases/tag/v4.6.0",
         "workflowPath": ".github/workflows/update-app-app-40b6981de737404ebd000201c46ce755.yml"
       },
       "bundleIdentifier": "com.mobile.scrcpy-ios",
@@ -7723,14 +7723,26 @@
       "localizedDescription": "GitHub project request: wsvn53/scrcpy-mobile.",
       "name": "Scrcpy-Mobile",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:15:30Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: wsvn53/scrcpy-mobile.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v4.6.0",
+          "date": "2026-09-08T17:26:25Z",
+          "downloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+          "size": 30037601,
+          "sha256": "aadfbedcc4f6dcd779a41223f420a5bd772a3250da34bb27bb06af459ad5428b",
+          "upstreamAssetURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+          "sourceAssetName": "Scrcpy-Remote-v4.6.0.ipa",
+          "ipaBundleIdentifier": "com.mobile.scrcpy-ios",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-09-08T17:26:25Z",
@@ -7739,8 +7751,12 @@
           "releaseChannel": "release",
           "sha256": "aadfbedcc4f6dcd779a41223f420a5bd772a3250da34bb27bb06af459ad5428b",
           "size": 30037601,
-          "version": "4.6.0"
+          "version": "4.6.0",
+          "ipaBundleIdentifier": "com.mobile.scrcpy-ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mobile.scrcpy-ios"
       ]
     },
     {
