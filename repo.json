@@ -6118,9 +6118,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-f7a4121a094f4d6f87540e952a26ac12",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Taylen-chud/Amethyst-iOS",
+        "configId": "app-f7a4121a094f4d6f87540e952a26ac12",
+        "sourceURL": "https://github.com/Taylen-chud/Amethyst-iOS/releases/tag/1.2.0",
         "workflowPath": ".github/workflows/update-app-app-f7a4121a094f4d6f87540e952a26ac12.yml"
       },
       "bundleIdentifier": "org.angelauramc.amethyst",
@@ -6138,22 +6138,24 @@
       },
       "name": "Amethyst fork",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Taylen-chud/Amethyst-iOS/releases/download/1.2.0/Amethyst-1.2.0.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.; Actions discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:46:35Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "1.2.0",
+          "version": "1.2.0",
           "date": "2026-10-08T04:29:14Z",
           "downloadURL": "https://github.com/Taylen-chud/Amethyst-iOS/releases/download/1.2.0/Amethyst-1.2.0.ipa",
-          "localizedDescription": "# What's New > [!NOTE] > **Minecraft 26.3 is now supported.** > > This release adds **SDL3 support**, allowing Minecraft 26.3 and newer to run. ## New Features - Added **SDL3**, allowing Minecraft 26.3 and newer to run. - Added a **\"Verbose graphics logging\"** option under UI Debugging settings. - Only enable this if you are having graphics-related issues. - Enabled **ThinLTO** for MobileGL. - New **Control Scheme** by @rkxspace ## Changes - Updated several graphics and audio dependencies. - Updated the OpenGL context to **4.6**. - Updated MobileGlues to **2.0.1-dev 1**. - A lot of changes to how LWJGL and its native libraries are loaded. - Pause GPU work while the app is in the background to prevent device loss. - Allow simultaneous gesture recognition. - MoltenVK performance improvements. - Zink improvements. <details> <summary><strong>Dependency Updates</strong></summary> <br> | Component | Version | |---|---| | Vulkan-Headers | 1.4.357 | | MoltenVK-Headers | 1.4.3 | | MobileGL | 26.09 | | SPIRV-Cross | Latest | | OpenAL | Latest | | OpenGL Context | 4.6 | | MobileGlues | 2.0.1 | </details> --- ## Bug Fixes - Fixed weird resolution scaling in MobileGL. - Fixed Shaderc crashing on the first run. - Fixed MobileGL not working on iOS 18 and below. - Fixed Metallium mod crash. - Fixed Controlify. - Currently only on 26.3 and onwards. - Fixed LWJGL native version mismatches. - Fixed MobileGlues crashing on 26.x --- ## Removed - Removed the **SVC button**. - It should now work without the toggle. - Removed **MobileGL (Espryt)**. - It was too buggy and didn’t offer great performance compared to Magma. This may come back in a future release. - Removed **Sodium Compatibility button** - Works without it now! Though this may not be the case for newer versions. ## Known Issues - Game window being displayed incorrectly with MobileGlues. - just rotate the screen vertically and back horizontally. Or you can just use MobileGL > [!TIP] > It’s recommended to delete your current version of Amethyst and reinstall it. Otherwise the new control scheme may not work! **Full Changelog**: https://github.com/Taylen-chud/Amethyst-iOS/compare/1.1.1...1.2.0",
-          "releaseChannel": "release",
-          "sha256": "c9f413f24266d010a81c3a51df44464944aeba4268581ee40592c920371e9d33",
           "size": 215286120,
-          "version": "1.2.0"
+          "sha256": "c9f413f24266d010a81c3a51df44464944aeba4268581ee40592c920371e9d33",
+          "upstreamAssetURL": "https://github.com/Taylen-chud/Amethyst-iOS/releases/download/1.2.0/Amethyst-1.2.0.ipa",
+          "sourceAssetName": "Amethyst-1.2.0.ipa",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst",
+          "releaseChannel": "release",
+          "buildVersion": "1.2.0"
         },
         {
           "buildVersion": "1.1.1",
@@ -6163,7 +6165,8 @@
           "releaseChannel": "release",
           "sha256": "c43bf8ece6317aa981afa1add439446021aec38c9deedac8417a3243a3416b0d",
           "size": 225707411,
-          "version": "1.1.1"
+          "version": "1.1.1",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst"
         },
         {
           "buildVersion": "1.1.0",
@@ -6173,7 +6176,8 @@
           "releaseChannel": "release",
           "sha256": "83bf1a8a0e255a2afc381499d360a02847ab70ae02f9fcc455b4fa86ab971736",
           "size": 224344821,
-          "version": "1.1.0"
+          "version": "1.1.0",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst"
         },
         {
           "buildVersion": "1.0.0",
@@ -6183,8 +6187,12 @@
           "releaseChannel": "release",
           "sha256": "6307f5b585535f079d13833ec00e408736b02179672a536803d15de15097bfa7",
           "size": 215320178,
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "ipaBundleIdentifier": "org.angelauramc.amethyst"
         }
+      ],
+      "bundleIdentifiers": [
+        "org.angelauramc.amethyst"
       ]
     },
     {
