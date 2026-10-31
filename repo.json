@@ -11755,9 +11755,9 @@
       "localizedDescription": "A rogue-lite slot machine nightmare",
       "name": "CloverPit-1.4.8",
       "status": {
-        "checkedAt": "2026-10-31T15:12:34Z",
-        "message": "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T15:18:36Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
       "updatePolicy": "daily",
