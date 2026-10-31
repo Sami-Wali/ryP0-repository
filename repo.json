@@ -15748,10 +15748,9 @@
       "localizedDescription": "Xenios XBOX360 emulator port for iOS.",
       "name": "Xenios",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-31T21:19:47Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T21:24:00Z",
+        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
