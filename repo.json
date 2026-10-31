@@ -8085,9 +8085,10 @@
       "localizedDescription": "",
       "name": "Air",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-31T10:26:52Z",
-        "message": "Private updater: Actions discovery failed: GitHub Actions artifact sources require UPSTREAM_GITHUB_TOKEN with Actions read access."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
+        "checkedAt": "2026-10-31T10:31:05Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
