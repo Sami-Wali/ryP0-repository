@@ -16244,7 +16244,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/actions/runs/41193600201",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/actions/runs/39764849944",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -16258,7 +16258,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
-        "checkedAt": "2026-10-31T21:04:14Z",
+        "checkedAt": "2026-10-31T21:07:30Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
@@ -16347,6 +16347,18 @@
           "sourceAssetName": "SideInstaller.ipa",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.0/SideInstaller.ipa",
           "version": "v1.6.0"
+        },
+        {
+          "version": "ab98d3e2f7d75cd18e7342be3101c0fecd42e02c",
+          "date": "2026-10-22T10:40:23Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-ab98d3e2f7d75cd18e7342be3101c0fecd42e02c-ba3762eab4e2.ipa",
+          "size": 10135725,
+          "sha256": "ba3762eab4e21bfed096032fb89ac4261326f1ced92d1d92805197ce41fca1f5",
+          "upstreamAssetURL": "https://api.github.com/repos/FrizzleM/SideInstaller/actions/artifacts/12419798094/zip",
+          "sourceAssetName": "SideInstaller.ipa",
+          "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
