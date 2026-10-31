@@ -16282,7 +16282,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "3105",
-        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.0.1",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.0.0",
         "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "bundleIdentifier": "com.yangjiiii.3105",
@@ -16293,7 +16293,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
-        "checkedAt": "2026-10-31T19:38:24Z",
+        "checkedAt": "2026-10-31T19:38:43Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -16353,15 +16353,16 @@
           "buildVersion": "5"
         },
         {
-          "buildVersion": "4",
+          "version": "v1.0.0",
           "date": "2026-08-14T16:56:21Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.0-5778e000299f.ipa",
-          "localizedDescription": "## 3105 1.0 — Bản phát hành chính thức Đây là bản stable đầu tiên của 3105, nâng cấp trực tiếp từ `1.0 beta 3`. ### Có gì mới - **Trình quản lý tệp đầy đủ hơn:** chọn nhiều mục, sao chép, di chuyển, dán, đổi tên, xóa, tạo tệp/thư mục, xem trước, chia sẻ và nén nhiều tệp/thư mục thành ZIP. - **Nhập tệp linh hoạt:** nhập nhiều tệp cùng lúc; khi trùng tên có thể thay thế, giữ cả hai, thay thế tất cả hoặc giữ cả hai cho toàn bộ phiên nhập. - **Patch `.3105`:** bỏ giới hạn nhân tạo về số quy tắc và dung lượng gói/thay thế; đường dẫn vẫn được lưu theo **bundle identifier**, không lưu UUID container của từng máy. - **Mở patch trực tiếp:** hỗ trợ mở tệp `.3105` từ Files và nhập từ website qua liên kết HTTPS `threeoneosfive://import?url=...`. - **Cleaner:** sắp xếp dung lượng từ cao xuống thấp hoặc thấp lên cao; chọn/bỏ chọn tất cả và chọn toàn bộ kết quả đang tìm kiếm. - **Wallpaper Lab:** căn giữa lại nút Áp dụng và giữ giao diện gọn hơn. - **Ngôn ngữ:** các nội dung mới đã được bổ sung cho English, Tiếng Việt và 简体中文. ### Cài đặt - File đính kèm là **IPA chưa ký**, dành cho người dùng tự ký bằng chứng chỉ doanh nghiệp/ESign. - Bundle identifier phải giữ nguyên: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ cài qua SideStore, AltStore, 3uTools hoặc LiveContainer. ### An toàn dữ liệu - Hãy sao lưu trước khi sửa dữ liệu ứng dụng. - Cleaner chỉ xóa nội dung trong `Library/Caches` và `tmp` của ứng dụng đã chọn, sau khi người dùng xác nhận. - Patch nhập từ website được tải qua HTTPS, kiểm tra định dạng trước khi lưu và không tự động áp dụng. --- ## English summary 3105 1.0 adds multi-select file operations, preview/share and ZIP creation, conflict-aware multi-file import, uncapped `.3105` patch projects, direct Files/HTTPS website imports, Cleaner size sorting and bulk selection, and updated English/Vietnamese/Simplified Chinese localization. The attached IPA is unsigned and intended for enterprise-certificate/ESign signing. Keep the bundle identifier as `com.apple.mobile.MobileHouseArrest`.",
-          "releaseChannel": "release",
-          "sha256": "5778e000299f2a62cc31a38b25f5140f77ce6ee459dcbd3bb13afce784cc9964",
           "size": 2601562,
-          "version": "v1.0.0",
-          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest"
+          "sha256": "5778e000299f2a62cc31a38b25f5140f77ce6ee459dcbd3bb13afce784cc9964",
+          "upstreamAssetURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.0/3105-1.0-unsigned.ipa",
+          "sourceAssetName": "3105-1.0-unsigned.ipa",
+          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         }
       ],
       "bundleIdentifiers": [
