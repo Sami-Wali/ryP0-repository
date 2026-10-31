@@ -15449,9 +15449,9 @@
     },
     {
       "automation": {
-        "configId": "sideinstaller",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.6.3",
+        "configId": "sideinstaller",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.6.4",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -15463,14 +15463,26 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Sideinstaller-icon.png",
       "name": "SideInstaller",
       "status": {
-        "checkedAt": "2026-10-31T11:43:56Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.3-65fc42836c31.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
+        "checkedAt": "2026-10-31T15:03:58Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.6.4",
+          "date": "2026-10-31T14:30:24Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
+          "size": 10345806,
+          "sha256": "f65332d61306c545e323bfac2d1836a87cc1affe2b3b9dfa4d8086af601b3387",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.4/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-31T10:40:37Z",
@@ -15594,17 +15606,6 @@
           "sha256": "fa10e9c3c280651e8af3bd3e842ed89573a218ea29488d6a9b3be2f16c931773",
           "size": 8883213,
           "version": "v1.3.0"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-10-04T08:49:05Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.2-345cc88e2370.ipa",
-          "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
-          "localizedDescription": "- Fixed a bug in the installation of the latest nightly of SidesStore - The app would put the pairing file in the wrong path as it has been changed with an update. Issue has been fixed. - Improved visibility of popups",
-          "releaseChannel": "release",
-          "sha256": "345cc88e2370cf98072cd23f124bad03354317f3c598891f34cae490c81885ed",
-          "size": 9379704,
-          "version": "v1.2.2"
         }
       ]
     },
