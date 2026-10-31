@@ -13254,9 +13254,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "uk-nouvborne-ketamine-d6fe07c8",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Nouvborne/Ketamine",
+        "configId": "uk-nouvborne-ketamine-d6fe07c8",
+        "sourceURL": "https://github.com/Nouvborne/Ketamine/releases/tag/1.2.1",
         "workflowPath": ".github/workflows/update-app-uk-nouvborne-ketamine-d6fe07c8.yml"
       },
       "bundleIdentifier": "uk.nouvborne.ketamine",
@@ -13272,20 +13272,22 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:14:21Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "4",
-          "date": "2026-10-06T19:43:31Z",
+          "version": "1.2.1",
+          "date": "2026-08-27T22:30:59Z",
           "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
-          "localizedDescription": "**Full Changelog**: https://github.com/Nouvborne/Ketamine/compare/1.2...1.2.1 TelephonyUI-10-cute-cat.zip is a dialer theme.",
-          "releaseChannel": "release",
-          "sha256": "fe3c21ebaaebb8190e56b30e82ddfe0c9c3a66a5346a1d90a070bbc5e8005e98",
           "size": 21102348,
-          "version": "1.2.1"
+          "sha256": "fe3c21ebaaebb8190e56b30e82ddfe0c9c3a66a5346a1d90a070bbc5e8005e98",
+          "upstreamAssetURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+          "sourceAssetName": "Ketamine-1.2.1.ipa",
+          "ipaBundleIdentifier": "uk.nouvborne.ketamine",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         },
         {
           "buildVersion": "4",
@@ -13295,7 +13297,8 @@
           "releaseChannel": "release",
           "sha256": "2cd4f1f7d97050ad453ff41e7b49c1a3470d12b2821efed6dda64ab06e4ffa84",
           "size": 21061151,
-          "version": "1.2"
+          "version": "1.2",
+          "ipaBundleIdentifier": "uk.nouvborne.ketamine"
         },
         {
           "buildVersion": "1",
@@ -13304,8 +13307,12 @@
           "releaseChannel": "release",
           "sha256": "20741675d4754cc86d749508aab7a3f67133df5eeca94a464ec18a83a70716b5",
           "size": 4014319,
-          "version": "1.0"
+          "version": "1.0",
+          "ipaBundleIdentifier": "uk.nouvborne.ketamine"
         }
+      ],
+      "bundleIdentifiers": [
+        "uk.nouvborne.ketamine"
       ]
     },
     {
