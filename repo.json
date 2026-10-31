@@ -8767,25 +8767,25 @@
       "localizedDescription": "Manga reading app",
       "name": "Aidoku",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "checkedAt": "2026-10-31T05:49:55Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "4",
+          "version": "v0.9-4",
           "date": "2026-10-16T22:25:27Z",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-          "localizedDescription": "A small build update for 0.9 with a number of bug fixes. - Fixed some pages not loading in webtoon reader - Improved webtoon reader memory usage (hopefully fixes crash after reading multiple chapters) - Fixed crash when searching anywhere in the macOS app - Various other bug fixes",
-          "releaseChannel": "release",
-          "sha256": "473e28cda194e57434f2a9e3ad26abbc8f9c18784047eb0e931a51b47df8970c",
           "size": 14753154,
-          "sourceAssetName": "Aidoku.ipa",
+          "sha256": "473e28cda194e57434f2a9e3ad26abbc8f9c18784047eb0e931a51b47df8970c",
           "upstreamAssetURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-          "version": "v0.9-4"
+          "sourceAssetName": "Aidoku.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         },
         {
           "buildVersion": "3",
@@ -8795,7 +8795,8 @@
           "releaseChannel": "release",
           "sha256": "86405861d3a0c90876a90aa1ca668bee54f4555a56249fede4444be5382833e8",
           "size": 14731108,
-          "version": "0.9"
+          "version": "0.9",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku"
         },
         {
           "buildVersion": "1",
@@ -8805,8 +8806,12 @@
           "releaseChannel": "release",
           "sha256": "4629068fac5fe7155e8d0d6eb4dcb594a63eb5485ec754b4d7ebb11371c54947",
           "size": 10136987,
-          "version": "v0.8.4"
+          "version": "v0.8.4",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku"
         }
+      ],
+      "bundleIdentifiers": [
+        "app.aidoku.Aidoku"
       ]
     },
     {
