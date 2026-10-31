@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Google Photos (Gunshot) (iOS 17+)",
+      "catalogID": "app-f778790442db4eb7bbcd12926411dfb4",
+      "bundleIdentifier": "com.google.photos",
+      "developerName": "tqmane & IPA Vault",
+      "localizedDescription": "Google Photos 7.44.0 with Gunshot 0.3.0 (iOS 17+)",
+      "subtitle": "Google Photos 7.44.0 with Gunshot 0.3.0 (iOS 17+)",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "7.44.0",
+          "date": "2026-10-09",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.44.0-Gunshot.ipa",
+          "size": 144535046,
+          "buildVersion": "7.44.802875092",
+          "localizedDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.44.0",
+          "sha256": "2cb7ba43a7be7307ad187423e5b0bf138b134d2d1ebd284deab88182569187ec",
+          "ipaBundleIdentifier": "com.google.photos"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.google.photos-2cb7ba43a7be.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.44.0-Gunshot.ipa",
+        "checkedAt": "2026-10-31T12:53:55Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.44.0-Gunshot.ipa",
+        "selector": "entry-4dc167b2e5d4bd4163234b825781c2a3998e27458c4db1b2127b5c752cc86089",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-f778790442db4eb7bbcd12926411dfb4",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+        "workflowPath": ".github/workflows/update-app-app-f778790442db4eb7bbcd12926411dfb4.yml"
+      }
+    },
+    {
       "name": "Google Photos (Gunshot) (iOS 16.1+)",
       "catalogID": "app-3baba5f96e77470d91874adcff5e2eda",
       "bundleIdentifier": "com.google.photos",
