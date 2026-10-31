@@ -6191,10 +6191,9 @@
       "localizedDescription": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "name": "taurus",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
-        "checkedDownloadURL": "https://litter.catbox.moe/exizay34ea1j6zon.ipa",
-        "message": "Download returned HTTP 404",
-        "state": "broken"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T07:39:28Z",
+        "message": "Private updater: The upstream IPA download returned HTTP 404."
       },
       "subtitle": "Open-Sourced fork of chroma.pw with built-in Spotify Premium. The Redesigned UI requires iOS 26; the legacy UI supports iOS 16.1 and later.",
       "updatePolicy": "daily",
