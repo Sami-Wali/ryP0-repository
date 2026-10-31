@@ -16282,7 +16282,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "3105",
-        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.0.0",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.0.0-beta.3",
         "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "bundleIdentifier": "com.yangjiiii.3105",
@@ -16293,7 +16293,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
-        "checkedAt": "2026-10-31T19:38:43Z",
+        "checkedAt": "2026-10-31T19:39:02Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -16363,6 +16363,18 @@
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "release",
           "buildVersion": "4"
+        },
+        {
+          "version": "v1.0.0-beta.3",
+          "date": "2026-08-14T03:25:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.0-beta.3-01c98077aae4.ipa",
+          "size": 2459427,
+          "sha256": "01c98077aae477f349d4a18a63037fb8d2658443930c0ba2c8cddbad5d8fb8c1",
+          "upstreamAssetURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.0-beta.3/3105-v1.0-beta3-unsigned.ipa",
+          "sourceAssetName": "3105-v1.0-beta3-unsigned.ipa",
+          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+          "releaseChannel": "beta",
+          "buildVersion": "3"
         }
       ],
       "bundleIdentifiers": [
