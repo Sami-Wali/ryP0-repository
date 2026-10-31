@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b4",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b3",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:20:46Z",
+        "checkedAt": "2026-10-31T20:21:10Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15471,15 +15471,16 @@
           "buildVersion": "24"
         },
         {
-          "buildVersion": "23",
-          "date": "2025-10-18T17:01:54Z",
+          "version": "5.0.0b3",
+          "date": "2025-10-18T17:09:05Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b3-9016d50856ca.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Added support for the Skylanders Portal of Power in Skylanders games for the Wii, courtesy of @deReeperJosh. * Enable \"Emulate Skylander Portal\" in Settings -> Config -> Wii and select \"Skylanders Portal\" in the in-game menu to load a figure. * Fixed an issue where devices with an A15+ or M2+ chip running iOS 17 or 18 would crash when starting a game in JIT mode. * Fixed an issue where \"vm_map\" errors would randomly occur. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b2...v5.0.0b3",
-          "releaseChannel": "prerelease",
-          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
           "size": 17963458,
-          "version": "5.0.0b3"
+          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "23"
         },
         {
           "buildVersion": "22",
