@@ -16870,9 +16870,9 @@
     },
     {
       "automation": {
-        "configId": "jessi",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1.2",
+        "configId": "jessi",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1.1",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:28:56Z",
+        "checkedAt": "2026-10-31T20:29:24Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -16902,15 +16902,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
-          "date": "2026-10-02T03:30:11Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.1-2192f5ed265b.ipa",
-          "localizedDescription": "this is just a hotfix to fix a couple of issues. changelog: - fixed playit codesigning issues (again) - paper servers now download plugins from the mod manager rather than fabric mods",
-          "releaseChannel": "release",
-          "sha256": "2192f5ed265b4216a4287abc90c2ba7450a4a7a06ebd3e2bf82eda36fde60c53",
-          "size": 12095211,
           "version": "1.1.1",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "date": "2026-10-04T08:04:41Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.1-2192f5ed265b.ipa",
+          "size": 12095211,
+          "sha256": "2192f5ed265b4216a4287abc90c2ba7450a4a7a06ebd3e2bf82eda36fde60c53",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/1.1.1/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
