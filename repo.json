@@ -15421,8 +15421,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T20:19:46Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -15435,16 +15435,16 @@
           "version": "5.0.0b6"
         },
         {
-          "buildVersion": "26",
-          "date": "2026-06-20T07:01:54Z",
+          "version": "5.0.0b6",
+          "date": "2026-06-20T07:09:18Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
+          "size": 17963367,
+          "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
-          "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
-          "size": 17963367,
-          "sourceAssetName": "Non-Jailbroken.ipa",
-          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
-          "version": "5.0.0b6"
+          "buildVersion": "26"
         },
         {
           "buildVersion": "25",
