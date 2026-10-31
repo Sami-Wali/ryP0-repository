@@ -14697,7 +14697,8 @@
           "size": 140697147,
           "sourceAssetName": "Husk.ipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
-          "version": "3.2.1"
+          "version": "3.2.1",
+          "localizedDescription": "Fixed certificate importing bug for 3.2 JIT-less"
         },
         {
           "buildVersion": "130",
