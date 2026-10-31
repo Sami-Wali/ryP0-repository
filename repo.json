@@ -1,6 +1,56 @@
 {
   "apps": [
     {
+      "name": "horizon-ios",
+      "catalogID": "project-e033407c47c8b0e28c042be5a0e0e06c",
+      "bundleIdentifier": "dev.horizon.game",
+      "developerName": "heyskylo",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "310870675ca35d72975831d234883c19f2371b52",
+          "date": "2026-10-31T07:54:12Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/dev.horizon.game-caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b.ipa",
+          "size": 23365867,
+          "buildVersion": "1",
+          "releaseChannel": "actions",
+          "sha256": "caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b",
+          "sourceAppName": "Horizon",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13035568617/zip",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.horizon.game-caaa0f8e72dd.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/dev.horizon.game-caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b.ipa",
+        "checkedAt": "2026-10-31T16:14:58Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "mirror-release",
+        "originURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13035568617/zip",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios"
+      },
+      "githubURL": "https://github.com/heyskylo/horizon-ios",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios",
+        "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
+      }
+    },
+    {
       "name": "MeloCafe",
       "catalogID": "project-d2dff9789ad212c53a39e57f69ebab7a",
       "bundleIdentifier": "com.stossy11.MeloCafe",
