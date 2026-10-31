@@ -16282,7 +16282,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "3105",
-        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.1.0",
+        "sourceURL": "https://github.com/YangJiiii/3105/releases/tag/v1.0.1",
         "workflowPath": ".github/workflows/update-app-3105.yml"
       },
       "bundleIdentifier": "com.yangjiiii.3105",
@@ -16293,7 +16293,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
-        "checkedAt": "2026-10-31T19:38:05Z",
+        "checkedAt": "2026-10-31T19:38:24Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -16341,15 +16341,16 @@
           "buildVersion": "6"
         },
         {
-          "buildVersion": "5",
+          "version": "v1.0.1",
           "date": "2026-08-15T08:37:54Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.1-cce50b1c6868.ipa",
-          "localizedDescription": "# 3105 1.0.1 Bản cập nhật chính thức tập trung vào Patch workspace v2, trình quản lý Tệp và độ hoàn thiện UI/UX. ## Tính năng mới - Tạo patch bằng cây thư mục theo bundle trong `Trên iPhone của tôi/3105/Patches`; không lưu UUID container. - Tự đồng bộ workspace khi Áp dụng hoặc Xuất, đồng thời tiếp tục hỗ trợ patch v1. - Tự sao lưu file gốc; Khôi phục trả lại file cũ, xóa file patch đã thêm và dọn folder mới sau khi rỗng. - Nhiều tab Tệp độc lập, giữ nguyên vị trí từng tab, chọn nhiều mục, nén ZIP và giải nén ZIP an toàn. - Giao diện iPad split view/landscape, tùy chọn ẩn Dọn dẹp/Hình nền và giao diện nhóm cân đối hơn. - Sửa ô tìm kiếm bị nhấp nháy, tỷ lệ icon/hàng file, CTA trống của Patch và hướng dẫn PosterBoard trên iOS 27. - Bỏ giới hạn cố định cũ về tổng dung lượng payload và số file patch; giới hạn thực tế của thiết bị vẫn áp dụng. ## Hướng dẫn Patch nhanh 1. Vào **Patch → + → Tạo patch**, nhập tên và bundle ID. 2. Mở **Tệp → Workspace 3105 → Patches → tên patch → bundle ID**. 3. Tạo cây đường dẫn giống vị trí trong app data và đặt file thay thế vào đó. 4. Quay lại dự án rồi bấm **Áp dụng**; bấm **Khôi phục file gốc** khi muốn hoàn tác. Bạn cũng có thể giữ vào file/folder trong data container và chọn **Tạo patch** để app tự lấy bundle cùng đường dẫn. Xem [hướng dẫn Patch đầy đủ bằng tiếng Việt](https://github.com/YangJiiii/3105/blob/v1.0.1/docs/PATCH_GUIDE.vi.md) hoặc [English guide](https://github.com/YangJiiii/3105/blob/v1.0.1/docs/PATCH_GUIDE.md). ## Cài đặt - Asset đính kèm là IPA **unsigned**, dành để ký lại bằng ESign với chứng chỉ doanh nghiệp. - Bundle đích: `com.apple.mobile.MobileHouseArrest`. - Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer. - Chỉ dùng trên thiết bị và dữ liệu thuộc sở hữu của bạn; hãy sao lưu trước khi thay đổi app data.",
-          "releaseChannel": "release",
-          "sha256": "cce50b1c686847c8c9090322ce5ba4fcaf619d0d73eb503565d9c4352c59dcb0",
           "size": 4228516,
-          "version": "v1.0.1",
-          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest"
+          "sha256": "cce50b1c686847c8c9090322ce5ba4fcaf619d0d73eb503565d9c4352c59dcb0",
+          "upstreamAssetURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.1/3105-v1.0.1-build5-MobileHouseArrest-unsigned.ipa",
+          "sourceAssetName": "3105-v1.0.1-build5-MobileHouseArrest-unsigned.ipa",
+          "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+          "releaseChannel": "release",
+          "buildVersion": "5"
         },
         {
           "buildVersion": "4",
