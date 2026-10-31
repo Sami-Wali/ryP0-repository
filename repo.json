@@ -17191,7 +17191,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "mond",
-        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/development",
+        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/2.1",
         "workflowPath": ".github/workflows/update-app-mond.yml"
       },
       "bundleIdentifier": "com.rooootdev.mond",
@@ -17202,7 +17202,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-84109cb5ee11.ipa",
-        "checkedAt": "2026-10-31T20:48:36Z",
+        "checkedAt": "2026-10-31T20:49:01Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#000000",
@@ -17239,15 +17239,16 @@
           "ipaBundleIdentifier": "com.roooot.mond"
         },
         {
-          "buildVersion": "1",
+          "version": "2.1",
           "date": "2026-08-16T12:00:45Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.1-05c8bbd87c5e.ipa",
-          "localizedDescription": "# mond 2.1 fixed a critical bug where tweaks wouldn't apply. (#105)",
-          "releaseChannel": "release",
-          "sha256": "05c8bbd87c5e43c6a33e5bad2e8933ab94a0b1775163f45833915cc6e44ec635",
           "size": 3333393,
-          "version": "2.1",
-          "ipaBundleIdentifier": "com.roooot.mond"
+          "sha256": "05c8bbd87c5e43c6a33e5bad2e8933ab94a0b1775163f45833915cc6e44ec635",
+          "upstreamAssetURL": "https://github.com/rooootdev/mond/releases/download/2.1/mond.ipa",
+          "sourceAssetName": "mond.ipa",
+          "ipaBundleIdentifier": "com.roooot.mond",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
