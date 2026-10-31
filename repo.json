@@ -11684,7 +11684,8 @@
           "size": 14753154,
           "sourceAssetName": "Aidoku.ipa",
           "upstreamAssetURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
-          "version": "v0.9-4"
+          "version": "v0.9-4",
+          "localizedDescription": "A small build update for 0.9 with a number of bug fixes. - Fixed some pages not loading in webtoon reader - Improved webtoon reader memory usage (hopefully fixes crash after reading multiple chapters) - Fixed crash when searching anywhere in the macOS app - Various other bug fixes"
         },
         {
           "buildVersion": "3",
