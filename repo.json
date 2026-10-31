@@ -11729,9 +11729,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-husk-app-9d1f0d0c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/3.1",
+        "configId": "com-husk-app-9d1f0d0c",
+        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/3.2.1",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -11750,13 +11750,25 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
-        "checkedAt": "2026-10-30T20:50:57Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
+        "checkedAt": "2026-10-31T05:36:06Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2026-10-31T02:58:46Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
+          "size": 140697147,
+          "sha256": "5c39d7dc2d90d75c2df03900cda7f240271a90b7d89fff504df7fa4da49e9d3f",
+          "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
+          "sourceAssetName": "Husk.ipa",
+          "ipaBundleIdentifier": "com.husk.app",
+          "releaseChannel": "release",
+          "buildVersion": "147"
+        },
         {
           "buildVersion": "130",
           "date": "2026-10-27T21:36:06Z",
@@ -11881,17 +11893,6 @@
           "sha256": "9ffa67b07e3d7a3f7faa261b5ec44bb6279180478cc5fc43daa6824e0d633509",
           "size": 40885768,
           "version": "0.6.1"
-        },
-        {
-          "buildVersion": "3",
-          "date": "2026-10-04T23:36:46Z",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/0.6.0/Husk.ipa",
-          "ipaBundleIdentifier": "com.husk.app",
-          "localizedDescription": "## What's new? - Implementation for the experimental Android Translation Layer - You can test it by going to: Settings -> Android Translation Layer -> Add APK -> Chosen APK -> Run Translation Layer Attempt - It currently can 100% emulate Flappy Bird and Subway 60 FPS ## Credits Original Android Translation Layer: https://gitlab.com/android_translation_layer/android_translation_layer",
-          "releaseChannel": "release",
-          "sha256": "16237bf6e85a53ce0a5c03c54d48fb6b04a190799b2f052e21c1dd96d30f4ebd",
-          "size": 40778819,
-          "version": "0.6.0"
         }
       ]
     },
