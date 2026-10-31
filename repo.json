@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "unc0ver",
+      "catalogID": "app-9ead8fb39fdc4c9786b9d435b49d668f",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "localizedDescription": "unc0ver is a jailbreak tool by Pwn20wnd for iOS 11.0 to 14.8. It installs Cydia so you can add tweaks, and its RootFS Restore turns your device back to stock. It works on iOS 11.0 to 14.8 only, and each version supports the iOS versions of its time, so newer isn't always what a device needs: every version here lists what it added. All of them are here, back to v2.0.0, downloaded straight from unc0ver.dev and unc0ver's GitHub releases.",
+      "subtitle": "unc0ver is a jailbreak tool by Pwn20wnd for iOS 11.0 to 14.8. It installs Cydia so you can add tweaks, and its RootFS Restore turns your device back to stock. It works on iOS 11.0 to 14.8 only, and each version supports the iOS versions of its time, so newer isn't always what a device needs: every version here lists what it added. All of them are here, back to v2.0.0, downloaded straight from unc0ver.dev and unc0ver's GitHub releases.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "8.1.0",
+          "date": "2026-10-01",
+          "downloadURL": "https://unc0ver.dev/downloads/8.1.0/fc07a4f8b3417ef92ebe10440c2fa5a645d0453f/unc0ver_Release_8.1.0.ipa",
+          "size": 54475719,
+          "buildVersion": "1",
+          "localizedDescription": "• Add support for iOS 12.5.6-12.5.8",
+          "sha256": "c7c68d0b74de3b91633f63f39f140f41bb1c5f28bef475d6066ee5af380ea649",
+          "ipaBundleIdentifier": "science.xnu.undecimus"
+        }
+      ],
+      "iconURL": "https://repo.getzeus.app/assets/apps/unc0ver/icon.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://unc0ver.dev/downloads/8.1.0/fc07a4f8b3417ef92ebe10440c2fa5a645d0453f/unc0ver_Release_8.1.0.ipa",
+        "checkedAt": "2026-10-31T06:23:48Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://unc0ver.dev/downloads/8.1.0/fc07a4f8b3417ef92ebe10440c2fa5a645d0453f/unc0ver_Release_8.1.0.ipa",
+        "selector": "entry-c7a9b539c8c7d7150f39226770cca07939967421a204c7098164da4fba10d95b",
+        "sourceURL": "https://repo.getzeus.app/"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-9ead8fb39fdc4c9786b9d435b49d668f",
+        "sourceURL": "https://repo.getzeus.app/",
+        "workflowPath": ".github/workflows/update-app-app-9ead8fb39fdc4c9786b9d435b49d668f.yml"
+      }
+    },
+    {
       "name": "zContainer",
       "catalogID": "app-6b439c47dccf4e119eb3830467128a8e",
       "bundleIdentifier": "app.reiko.zcontainer",
