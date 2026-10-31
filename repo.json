@@ -36,6 +36,20 @@
           "ipaBundleIdentifier": "dev.horizon.game",
           "releaseChannel": "actions",
           "buildVersion": "1"
+        },
+        {
+          "version": "c3d47ee473ac833103f9fd7298f9fca3323957c3",
+          "date": "2026-10-31T06:51:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-c3d47ee473ac833103f9fd7298f9fca3323957c3-be23120eafc6.ipa",
+          "size": 23361001,
+          "sha256": "be23120eafc6a1cf75aaf864f4ebc2d066b998f244ae42811f2da713d29b8cc7",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13033663927/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.horizon.game-caaa0f8e72dd.png",
@@ -45,7 +59,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/dev.horizon.game-caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b.ipa",
-        "checkedAt": "2026-10-31T16:18:46Z",
+        "checkedAt": "2026-10-31T16:19:59Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -60,7 +74,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41182344175",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41178291882",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "bundleIdentifiers": [
