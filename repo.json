@@ -3,50 +3,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-834e7347a89440ed853ef8ee396bac36",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-834e7347a89440ed853ef8ee396bac36.yml"
-      },
-      "bundleIdentifier" : "com.firecore.infuse",
-      "catalogID" : "app-834e7347a89440ed853ef8ee396bac36",
-      "category" : "Social",
-      "developerName" : "dvntms & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.firecore.infuse-f7cc1689349e.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Infuse-8.2.4-Infuse-Plus.ipa",
-        "selector" : "entry-f75db8bccd874148f91bb3e1ca135bc3d3d3f506fdf8b7f3d0529d67c37410a5",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Infuse 8.2.4 with Infuse Plus 2.6",
-      "name" : "Infuse Plus (8.2.4)",
-      "status" : {
-        "checkedAt" : "2026-10-31T12:58:34Z",
-        "checkedDownloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Infuse-8.2.4-Infuse-Plus.ipa",
-        "message" : "Imported from verified upstream source",
-        "state" : "healthy"
-      },
-      "subtitle" : "Infuse 8.2.4 with Infuse Plus 2.6",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "8.2.5321",
-          "date" : "2026-09-01",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/Infuse-8.2.4-Infuse-Plus.ipa",
-          "ipaBundleIdentifier" : "com.firecore.infuse",
-          "localizedDescription" : "IPA Vault build for Infuse Plus (8.2.4), version 8.2.4",
-          "sha256" : "f7cc1689349e20164add68a2d69e811ed6f56247fd965e6fc6b00a10711f6c79",
-          "size" : 70005530,
-          "version" : "8.2.4"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "project-456cc1d171877aa5e7676440f0397fa9",
         "historySyncPending" : false,
         "repository" : "Sami-Wali\/ryP0-automation",
