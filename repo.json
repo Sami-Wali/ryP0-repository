@@ -7957,7 +7957,7 @@
       "name": "Swiftgram (TGExtra)",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-31T10:27:12Z",
+        "checkedAt": "2026-10-31T10:28:55Z",
         "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
