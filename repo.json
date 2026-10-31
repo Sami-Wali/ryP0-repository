@@ -221,49 +221,6 @@
     {
       "appType" : "Daily Update",
       "automation" : {
-        "configId" : "app-3baba5f96e77470d91874adcff5e2eda",
-        "repository" : "Sami-Wali\/ryP0-automation",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
-        "workflowPath" : ".github\/workflows\/update-app-app-3baba5f96e77470d91874adcff5e2eda.yml"
-      },
-      "bundleIdentifier" : "com.google.photos",
-      "catalogID" : "app-3baba5f96e77470d91874adcff5e2eda",
-      "category" : "Social",
-      "developerName" : "tqmane & IPA Vault",
-      "iconURL" : "https:\/\/raw.githubusercontent.com\/Sami-Wali\/ryP0-repository\/main\/icons\/com.google.photos-093242ba4854.png",
-      "importSource" : {
-        "deliveryMode" : "direct-source",
-        "historyLimit" : 12,
-        "method" : "repository",
-        "originURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/GooglePhotos-7.20.2-Gunshot.ipa",
-        "selector" : "entry-795c5c40266dcd35f8b3054ded89c3f7ba908ed56dc62784e41299aa2dce1a38",
-        "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json"
-      },
-      "localizedDescription" : "Google Photos 7.20.2 with Gunshot 0.3.0 (iOS 16.1+)",
-      "name" : "Google Photos (Gunshot) (iOS 16.1+)",
-      "status" : {
-        "checkedAt" : "2026-10-31T13:01:15Z",
-        "message" : "Private updater: No repository app matched the configured selector with a usable IPA version.",
-        "state" : "update-error"
-      },
-      "subtitle" : "Google Photos 7.20.2 with Gunshot 0.3.0 (iOS 16.1+)",
-      "updatePolicy" : "daily",
-      "versions" : [
-        {
-          "buildVersion" : "7.20.738660793",
-          "date" : "2026-10-09",
-          "downloadURL" : "https:\/\/pub-dd800571175348b6a2745b3396360028.r2.dev\/GooglePhotos-7.20.2-Gunshot.ipa",
-          "ipaBundleIdentifier" : "com.google.photos",
-          "localizedDescription" : "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.20.2",
-          "sha256" : "093242ba4854a03579a5d24ffe53840d17553484277c08cbce636fc47d74d323",
-          "size" : 127620974,
-          "version" : "7.20.2"
-        }
-      ]
-    },
-    {
-      "appType" : "Daily Update",
-      "automation" : {
         "configId" : "app-4e7917c62687449e94bea13fc49dee18",
         "repository" : "Sami-Wali\/ryP0-automation",
         "sourceURL" : "https:\/\/raw.githubusercontent.com\/927tx\/IPA-Vault\/refs\/heads\/main\/ipavaultsource.json",
