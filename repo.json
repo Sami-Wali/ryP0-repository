@@ -11722,10 +11722,9 @@
       "localizedDescription": "A rogue-lite slot machine nightmare",
       "name": "CloverPit-1.4.8",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-        "checkedAt": "2026-10-31T10:46:49Z",
-        "message": "Checked by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T10:47:39Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "A rogue-lite slot machine nightmare",
       "updatePolicy": "daily",
