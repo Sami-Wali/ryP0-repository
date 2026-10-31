@@ -5270,7 +5270,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v1.1.4",
         "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
@@ -5292,10 +5292,10 @@
       "localizedDescription": "",
       "name": "ytkace",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.4/YTKACE_1.1.4_YouTube_iOS16_21.33.6.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:56:26Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
