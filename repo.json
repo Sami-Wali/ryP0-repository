@@ -16222,7 +16222,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "enswilde",
-        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.1.1",
+        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.1",
         "workflowPath": ".github/workflows/update-app-enswilde.yml"
       },
       "bundleIdentifier": "com.yangjiiii.enswilde",
@@ -16233,7 +16233,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "checkedAt": "2026-10-31T20:26:26Z",
+        "checkedAt": "2026-10-31T20:26:52Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF9900",
@@ -16285,15 +16285,16 @@
           "buildVersion": "3"
         },
         {
-          "buildVersion": "3",
+          "version": "EnsWilde3.1",
           "date": "2026-01-19T15:53:10Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1-06ec468721a6.ipa",
-          "localizedDescription": "## ✅ Update Notes ### Fixed - DDI issue has been resolved ### Improvements - Added multi-language support ### New Features - UI Theme option added - Allows disabling the Liquid Glass effect for a cleaner and smoother interface",
-          "releaseChannel": "release",
-          "sha256": "06ec468721a64a6267dbb334cac11ed88065602dd779fca08941a550652e14f8",
           "size": 13311776,
-          "version": "EnsWilde3.1",
-          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
+          "sha256": "06ec468721a64a6267dbb334cac11ed88065602dd779fca08941a550652e14f8",
+          "upstreamAssetURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1/EnsWilde.ipa",
+          "sourceAssetName": "EnsWilde.ipa",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         },
         {
           "buildVersion": "3",
