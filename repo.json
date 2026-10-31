@@ -7990,8 +7990,7 @@
       "name": "Swiftgram (TGExtra)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-13.1.1-TF-TGExtra.ipa",
-        "checkedAt": "2026-10-31T11:43:56Z",
+        "checkedAt": "2026-10-31T11:45:47Z",
         "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Swiftgram 12.9.4 with TGExtra 1.7.7",
