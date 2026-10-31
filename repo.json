@@ -21,6 +21,19 @@
           "sourceAssetName": "MeloCafe.ipa",
           "ipaBundleIdentifier": "com.stossy11.MeloCafe",
           "upstreamAssetURL": "https://github.com/stossy11/MeloCafe/releases/download/1.1/MeloCafe.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2026-09-14T13:45:57Z",
+          "downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
+          "size": 23433272,
+          "sha256": "e87c6faa44746fab019deba31a1d58757c449b7ddbd5bd0673e20a9f09be89e3",
+          "upstreamAssetURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
+          "sourceAssetName": "MeloCafe.ipa",
+          "sourceAppName": "MeloCafé",
+          "ipaBundleIdentifier": "com.stossy11.MeloCafe",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.stossy11.MeloCafe-595c8c307206.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.1/MeloCafe.ipa",
-        "checkedAt": "2026-10-31T15:17:46Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-31T15:19:20Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d2dff9789ad212c53a39e57f69ebab7a",
-        "sourceURL": "https://github.com/stossy11/MeloCafe",
+        "sourceURL": "https://github.com/stossy11/MeloCafe/releases/tag/1.0",
         "workflowPath": ".github/workflows/update-app-project-d2dff9789ad212c53a39e57f69ebab7a.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.stossy11.MeloCafe"
+      ]
     },
     {
       "appType": "Daily Update",
