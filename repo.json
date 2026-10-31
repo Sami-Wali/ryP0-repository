@@ -13214,9 +13214,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-rileytestut-altstore-1f602bad",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/altstoreio/Altstore",
+        "configId": "com-rileytestut-altstore-1f602bad",
+        "sourceURL": "https://github.com/altstoreio/AltStore/releases/tag/v2.3",
         "workflowPath": ".github/workflows/update-app-com-rileytestut-altstore-1f602bad.yml"
       },
       "bundleIdentifier": "com.rileytestut.AltStore",
@@ -13233,12 +13233,24 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:15:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.3",
+          "date": "2026-09-30T22:08:53Z",
+          "downloadURL": "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa",
+          "size": 40616419,
+          "sha256": "3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34",
+          "upstreamAssetURL": "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa",
+          "sourceAssetName": "AltStore_Classic_Notarized_2_3.ipa",
+          "ipaBundleIdentifier": "com.rileytestut.AltStore",
+          "releaseChannel": "release",
+          "buildVersion": "63"
+        },
         {
           "buildVersion": "63",
           "date": "2026-09-30T20:16:23Z",
@@ -13247,8 +13259,12 @@
           "releaseChannel": "release",
           "sha256": "3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34",
           "size": 40616419,
-          "version": "2.3.1"
+          "version": "2.3.1",
+          "ipaBundleIdentifier": "com.rileytestut.AltStore"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.rileytestut.AltStore"
       ]
     },
     {
