@@ -156,10 +156,9 @@
       "updatePolicy": "daily",
       "appType": "Daily Update",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-7.8.4-Infuse-Plus.ipa",
-        "checkedAt": "2026-10-31T12:57:59Z",
-        "message": "Imported from verified upstream source"
+        "state": "update-error",
+        "checkedAt": "2026-10-31T13:02:48Z",
+        "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "importSource": {
         "method": "repository",
