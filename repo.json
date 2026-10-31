@@ -13457,9 +13457,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "pl-adrian-factoriopad-d630d10c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.2.4",
+        "configId": "pl-adrian-factoriopad-d630d10c",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.2.1",
         "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
       },
       "bundleIdentifier": "pl.adrian.FactorioPad",
@@ -13479,7 +13479,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "checkedAt": "2026-10-31T22:54:17Z",
+        "checkedAt": "2026-10-31T22:59:40Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -13524,17 +13524,16 @@
           "version": "v2.2.2"
         },
         {
-          "buildVersion": "11",
-          "date": "2026-10-21T19:43:25Z",
+          "version": "v2.2.1",
+          "date": "2026-10-21T19:44:37Z",
           "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.1/FactorioPad-template.ipa",
-          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
-          "localizedDescription": "Fixed touch keyboard key binding. Fixed issue where the keyboard button would not move to the bottom-right corner.",
-          "releaseChannel": "prerelease",
-          "sha256": "27e810df636962796e997a249e66f3f068f4ae2e32a3bf25674a6c2cfe4e0272",
           "size": 2958824,
-          "sourceAssetName": "FactorioPad-template.ipa",
+          "sha256": "27e810df636962796e997a249e66f3f068f4ae2e32a3bf25674a6c2cfe4e0272",
           "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.1/FactorioPad-template.ipa",
-          "version": "v2.2.1"
+          "sourceAssetName": "FactorioPad-template.ipa",
+          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
+          "releaseChannel": "release",
+          "buildVersion": "11"
         },
         {
           "buildVersion": "11",
