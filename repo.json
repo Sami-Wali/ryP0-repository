@@ -16872,7 +16872,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "jessi",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/b4",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/b3",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -16883,7 +16883,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "checkedAt": "2026-10-31T20:32:05Z",
+        "checkedAt": "2026-10-31T20:32:32Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
@@ -17003,15 +17003,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
-          "date": "2026-02-02T10:34:59Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b3-703c1016ebca.ipa",
-          "localizedDescription": "Changelog: - iOS 14, 15, and 26 are now supported! iOS 26 support on A15/M2 or newer is untested, and is unlikely to work. if it doesn't work, try enabling/disabling TXM support in settings - JVM's are no longer shipped in the ipa, cutting down the filesize by 96%! you can choose exactly which java versions you want to download directly in the app now - Improved memory slider and memory estimation - Additional useful info in settings - Fixed the UI on iPadOS - Removed Herobrine if you haven't already, join the discord for devlogs, announcements, and to report bugs! discord.gg/aZ9HbYXKur",
-          "releaseChannel": "beta",
-          "sha256": "703c1016ebca1d579604310b2786fdd476abc2159a7489d40aa878ce37d00456",
-          "size": 4227137,
           "version": "b3",
-          "ipaBundleIdentifier": "com.baconmania.jessi"
+          "date": "2026-02-02T10:50:36Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b3-703c1016ebca.ipa",
+          "size": 4227137,
+          "sha256": "703c1016ebca1d579604310b2786fdd476abc2159a7489d40aa878ce37d00456",
+          "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/b3/JESSI.ipa",
+          "sourceAssetName": "JESSI.ipa",
+          "ipaBundleIdentifier": "com.baconmania.jessi",
+          "releaseChannel": "beta",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "0.1",
