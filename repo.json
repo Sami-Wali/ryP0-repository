@@ -1780,7 +1780,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-627f0920df1c66e518f4a2180c5e46a9",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.10",
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
@@ -1805,10 +1805,10 @@
       "localizedDescription": "",
       "name": "RewindBox",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API could not be reached.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:40:16Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
