@@ -2337,14 +2337,23 @@
       "localizedDescription": "iPoGo is Pokémon GO with a full set of extra tools built in. Teleport anywhere in the world, walk routes on their own or with an on-screen joystick, browse nearby and global lists of Pokémon, raids, and quests, preview IVs right on the encounter screen, and land excellent curveballs every time. VIP adds Auto Catch and Spin, Release on Catch, a one-tap bag cleaner, and blocking every Pokémon that isn't shiny. This is iPoGo 4.4.2, built on Pokémon GO 0.433.0.",
       "name": "iPoGo",
       "status": {
-        "checkedAt": "2026-10-31T11:43:56Z",
-        "checkedDownloadURL": "https://ipogo.app/download/ipogo-4.5.3.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://ipogo.app/download/ipogo-4.5.6.ipa",
+        "checkedAt": "2026-10-31T15:03:34Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "iPoGo is Pokémon GO with a full set of extra tools built in. Teleport anywhere in the world, walk routes on their own or with an on-screen joystick, browse nearby and global lists of Pokémon, raids, and quests, preview IVs right on the encounter screen, and land excellent curveballs every time. VIP adds Auto Catch and Spin, Release on Catch, a one-tap bag cleaner, and blocking every Pokémon that isn't shiny. This is iPoGo 4.4.2, built on Pokémon GO 0.433.0.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.435.1",
+          "date": "2026-10-31T00:00:00Z",
+          "downloadURL": "https://ipogo.app/download/ipogo-4.5.6.ipa",
+          "size": 147197800,
+          "sha256": "59a22e5e6b22ee34cb28e45fea19105b3b4d6765386cc00e7ceebba27b318b7c",
+          "ipaBundleIdentifier": "com.nianticlabs.pokemongo",
+          "buildVersion": "0"
+        },
         {
           "buildVersion": "0",
           "date": "2026-10-30",
@@ -2355,6 +2364,9 @@
           "size": 147197800,
           "version": "0.435.1"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.nianticlabs.pokemongo"
       ]
     },
     {
