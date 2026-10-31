@@ -5117,7 +5117,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-d37fa54a16fcff88adb8d85be873840f",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/tag/R1",
         "workflowPath": ".github/workflows/update-app-project-d37fa54a16fcff88adb8d85be873840f.yml"
@@ -5139,10 +5139,10 @@
       "localizedDescription": "",
       "name": "COD4iOS-COD4NS",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R6-beta.1/COD4iOS-1.0.4-build14-clean-unsigned.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:40:45Z",
+        "message": "Checked by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
