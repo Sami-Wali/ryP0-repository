@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b3",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b2",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:21:10Z",
+        "checkedAt": "2026-10-31T20:21:51Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15483,15 +15483,16 @@
           "buildVersion": "23"
         },
         {
-          "buildVersion": "22",
-          "date": "2025-10-13T02:16:56Z",
+          "version": "5.0.0b2",
+          "date": "2025-10-13T02:24:57Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b2-9f7e91e76d7a.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "**[StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) version 2.3.0 or newer is required on iOS 26 devices.** LiveContainer will also require some additional setup. * Fixed an issue where some controller options would be incorrectly disabled. * Fixed an issue where there was a typo in text pertaining to \"memory size\" overrides. * Added additional alerts to help debug a crash on some devices running iOS 18 and older. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v5.0.0b1...v5.0.0b2",
-          "releaseChannel": "prerelease",
-          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
           "size": 17958160,
-          "version": "5.0.0b2"
+          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "22"
         },
         {
           "buildVersion": "21",
