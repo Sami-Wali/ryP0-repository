@@ -15963,7 +15963,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "getmoreram",
-        "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34699589978",
+        "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34670257545",
         "workflowPath": ".github/workflows/update-app-getmoreram.yml"
       },
       "bundleIdentifier": "com.hugeblack.getmoreram",
@@ -15978,7 +15978,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://cdn.discordapp.com/attachments/1562607439667265651/1562607439939903559/GetMoreRam20fixed20by20dryfd.ipa?ex=6adde6d5&is=6adc9555&hm=c6b6c273d0e004fd8cc064e9788b544da9e2caf0e95e32af73f5753632056a08&",
-        "checkedAt": "2026-10-31T20:27:56Z",
+        "checkedAt": "2026-10-31T20:28:19Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#000000",
@@ -16023,6 +16023,18 @@
           "ipaBundleIdentifier": "com.aigch.getMoreRam",
           "size": 633815,
           "version": "nightly"
+        },
+        {
+          "version": "bc51655c777e5d075d5c0e7e25230cc9966a7d8e",
+          "date": "2026-09-12T03:24:01Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
+          "size": 633815,
+          "sha256": "46202d18a639f5f67e93c1e873d0b4113495e1406dfa6751e5d4c96f66b82835",
+          "upstreamAssetURL": "https://api.github.com/repos/hugeBlack/GetMoreRam/actions/artifacts/10290342142/zip",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         },
         {
           "date": "2026-09-08T16:23:35Z",
