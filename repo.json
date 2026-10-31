@@ -14367,9 +14367,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-devz-mc360-567bc532",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/DevZer0D4Y/MCX360-EDITION",
+        "configId": "com-devz-mc360-567bc532",
+        "sourceURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/tag/R2",
         "workflowPath": ".github/workflows/update-app-com-devz-mc360-567bc532.yml"
       },
       "bundleIdentifier": "com.devz.mc360",
@@ -14385,8 +14385,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T22:08:38Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -14398,7 +14398,20 @@
           "releaseChannel": "release",
           "sha256": "7b78268a0fbd13f4e245159b3c8fd745092a6a2528fec850b5e1bf4975342240",
           "size": 27602175,
-          "version": "1.1"
+          "version": "1.1",
+          "ipaBundleIdentifier": "com.devz.mc360"
+        },
+        {
+          "version": "R2",
+          "date": "2026-09-26T07:36:36Z",
+          "downloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
+          "size": 27602175,
+          "sha256": "7b78268a0fbd13f4e245159b3c8fd745092a6a2528fec850b5e1bf4975342240",
+          "upstreamAssetURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
+          "sourceAssetName": "MCX360Edition.ipa",
+          "ipaBundleIdentifier": "com.devz.mc360",
+          "releaseChannel": "release",
+          "buildVersion": "2"
         },
         {
           "buildVersion": "1",
@@ -14408,8 +14421,12 @@
           "releaseChannel": "release",
           "sha256": "9d17eedf77bb200b97ca2dc3931c9096eb5063f14ce2d3935bb59fa5e4150596",
           "size": 28067835,
-          "version": "R1"
+          "version": "R1",
+          "ipaBundleIdentifier": "com.devz.mc360"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.devz.mc360"
       ]
     },
     {
