@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b9",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b8",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:23:03Z",
+        "checkedAt": "2026-10-31T20:23:29Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15519,15 +15519,16 @@
           "buildVersion": "20"
         },
         {
-          "buildVersion": "19",
-          "date": "2025-01-17T21:00:27Z",
+          "version": "4.0.0b8",
+          "date": "2025-01-17T21:06:59Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b8-9e058c0c1e2c.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "This is the fourth revision of beta 8. ### Changes * The Dolphin core has been updated to 2412. * Save states made in previous beta versions are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Added new app icons based off the macOS icon introduced in Dolphin 2407. (thanks Kongolabongo and @brand175 for the new iOS icons, and thanks MayImilae for the original macOS icon) * No JIT mode (**very slow**) has been added. (thanks @brand175) * When launching a game without JIT enabled, you can now choose to start it in No JIT mode. * The \"waiting for JIT\" screen can be bypassed entirely by manually changing the CPU Emulation Engine in Settings -> Config -> Advanced to Cached Interpreter. * No JIT mode is **very slow**. You will need a high-end device (like a recent iPhone or iPad Pro) and to enable speed hacks (VBI Skip, CPU underclock, etc) to achieve playable speeds. * Added a button to import BootMii NAND backups in the software list. * This is useful for those who want to play Wiimmfi online. * No JIT users beware: Wiimmfi will ban devices that run below 100% emulation speed in Mario Kart Wii. We recommend that Wiimmfi should only be used in JIT mode. * Added experimental support for rootless jailbreaks. * Added a menu to check which buttons are being pressed on physical controllers when mapping buttons. * Ported \"Respect Silent Mode\" toggle from Delta. * This setting controls whether DolphiniOS obeys the Ring/Silent switch on your device. If disabled, then audio will play even if silent mode is enabled. * Find it in Settings -> Config -> Audio. * Added Game Mode for devices running iOS 18. * Re-implemented the touch screen Wii pointer. * A new default mode has been added: \"drag\". This mode allows you to use your touch screen like a laptop trackpad when moving the Wii pointer. * The mode used in 3.2.1 and earlier is still available as \"follow\" mode. * Choose the mode you want as default in the top bar menu during emulation or in Settings -> Controllers -> Touchscreen. * Re-implemented automatic disc changing. * When a game asks for a different disc, DolphiniOS will automatically insert the correct disc into the emulated disc drive. * Both disc files must be imported (i.e. in the Software folder and visible in the software list) for this feature to work properly. * If it still does not work, ensure that \"Change Disc Automatically\" is enabled in Settings -> Config -> General. * Re-implemented the touch screen transparency level slider. * Re-implemented support for multiple save state slots. * Re-implemented the Open button in the software list. * Re-implemented the Delete button in the software list. * Re-implemented the Launch GameCube Main Menu button in the software list. * Matched the refresh rate of the `MTKView` to the display's refresh rate. * GameCube and Wii games do not run above 30/60Hz. * This is only for testing purposes. * Fixed many crashes, freezes, physics bugs, etc when using Cached Interpreter. * The fix for this bug (disabling \"fast math\" mode in Xcode) will likely result in a slight performance decrease. * While fast math does make math calculations run faster, it also causes [some calculations to return incorrect answers](https://simonbyrne.github.io/notes/fastmath/). * Accuracy is vital when emulating software. When fast math returns a wrong answer for a calculation, it can cause crashing and other bugs in the emulated software, as they always expect to receive correct answers. * For example, the Wii's System Menu immediately crashes when using Cached Interpreter in previous 4.0.0 beta builds, as the math used to calculate whether the pointer is hovering over a channel or not returns incorrect results. Disabling fast math fixes this issue. * Fixed an issue where the bottom of the \"waiting for JIT\" screen was cut off on some devices. (thanks @brand175) * Fixed an issue where booting Wii software during the first launch of the app could cause DolphiniOS to crash. * Fixed an ",
-          "releaseChannel": "prerelease",
-          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
           "size": 15830129,
-          "version": "4.0.0b8"
+          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "19"
         },
         {
           "buildVersion": "15",
