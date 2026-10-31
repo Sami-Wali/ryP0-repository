@@ -3633,7 +3633,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-a3509749fdbe8400cd67bd26d7c7b890",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/tag/v2.0.0",
         "workflowPath": ".github/workflows/update-app-project-a3509749fdbe8400cd67bd26d7c7b890.yml"
