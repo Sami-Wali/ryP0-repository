@@ -4745,7 +4745,7 @@
         "com.mikevillarroel.buildbox"
       ],
       "catalogID" : "project-dc2b41ad5c44522672a8382c60a8732a",
-      "category" : "Tools",
+      "category" : "Sideloading",
       "developerName" : "mikevillarroel",
       "githubProjectCard" : true,
       "githubURL" : "https:\/\/github.com\/mikevillarroel\/buildbox-ios",
@@ -4757,7 +4757,6 @@
         "originURL" : "https:\/\/github.com\/mikevillarroel\/buildbox-ios\/releases\/download\/v2.0.3\/BuildBox-2.0.3.ipa",
         "sourceURL" : "https:\/\/github.com\/mikevillarroel\/buildbox-ios"
       },
-      "localizedDescription" : "",
       "name" : "buildbox-ios",
       "status" : {
         "checkedAt" : "2026-10-31T05:39:21Z",
@@ -4765,7 +4764,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
