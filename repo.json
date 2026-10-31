@@ -70,6 +70,19 @@
           "sourceAssetName": "Dartotsu-iOS-main.ipa",
           "ipaBundleIdentifier": "ani.aayush262.dartotsu",
           "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa"
+        },
+        {
+          "version": "b94d4f6",
+          "date": "2026-10-29T16:47:04Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/b94d4f6/Dartotsu-iOS-main.ipa",
+          "size": 82925681,
+          "sha256": "460f217bf834c8d1f1d3a01f167f95acd116edd0c88c992abaad23b9c8d85f44",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/b94d4f6/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1.1.1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ani.aayush262.dartotsu-61061fb157a4.png",
@@ -79,8 +92,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-10-31T07:21:44Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-10-31T07:23:57Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -94,9 +107,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/b94d4f6",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "ani.aayush262.dartotsu"
+      ]
     },
     {
       "name": "unc0ver",
