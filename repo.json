@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "iPoGo",
+      "catalogID": "app-8389198671814987a844a22f4cb16d67",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "iPoGo",
+      "localizedDescription": "iPoGo is Pokémon GO with a full set of extra tools built in. Teleport anywhere in the world, walk routes on their own or with an on-screen joystick, browse nearby and global lists of Pokémon, raids, and quests, preview IVs right on the encounter screen, and land excellent curveballs every time. VIP adds Auto Catch and Spin, Release on Catch, a one-tap bag cleaner, and blocking every Pokémon that isn't shiny. This is iPoGo 4.4.2, built on Pokémon GO 0.433.0.",
+      "subtitle": "iPoGo is Pokémon GO with a full set of extra tools built in. Teleport anywhere in the world, walk routes on their own or with an on-screen joystick, browse nearby and global lists of Pokémon, raids, and quests, preview IVs right on the encounter screen, and land excellent curveballs every time. VIP adds Auto Catch and Spin, Release on Catch, a one-tap bag cleaner, and blocking every Pokémon that isn't shiny. This is iPoGo 4.4.2, built on Pokémon GO 0.433.0.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "0.435.1",
+          "date": "2026-10-30",
+          "downloadURL": "https://ipogo.app/download/ipogo-4.5.3.ipa",
+          "size": 147197800,
+          "buildVersion": "0",
+          "localizedDescription": "• iPoGo 4.5.3 built into Pokémon GO 0.435.0",
+          "sha256": "59a22e5e6b22ee34cb28e45fea19105b3b4d6765386cc00e7ceebba27b318b7c",
+          "ipaBundleIdentifier": "com.nianticlabs.pokemongo"
+        }
+      ],
+      "iconURL": "https://repo.getzeus.app/assets/apps/ipogo/icon.jpg",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://ipogo.app/download/ipogo-4.5.3.ipa",
+        "checkedAt": "2026-10-31T06:09:04Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://ipogo.app/download/ipogo-4.5.3.ipa",
+        "selector": "entry-78e021e2a79a40129b8eb5b6ba8ca8346462830b397ccef6d22d81c02ca2f8db",
+        "sourceURL": "https://repo.getzeus.app/"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-8389198671814987a844a22f4cb16d67",
+        "sourceURL": "https://repo.getzeus.app/",
+        "workflowPath": ".github/workflows/update-app-app-8389198671814987a844a22f4cb16d67.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "app-a8ad2e974fd443059d1c3b5625af66b1",
