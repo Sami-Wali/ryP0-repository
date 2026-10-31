@@ -16220,9 +16220,9 @@
     },
     {
       "automation": {
-        "configId": "enswilde",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.1.3",
+        "configId": "enswilde",
+        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.1.2",
         "workflowPath": ".github/workflows/update-app-enswilde.yml"
       },
       "bundleIdentifier": "com.yangjiiii.enswilde",
@@ -16233,8 +16233,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T20:26:00Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF9900",
       "updatePolicy": "daily",
@@ -16248,7 +16248,8 @@
           "size": 13591314,
           "sourceAssetName": "EnsWilde.ipa",
           "upstreamAssetURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
-          "version": "EnsWilde3.1.3"
+          "version": "EnsWilde3.1.3",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
         },
         {
           "date": "2026-02-25T15:28:02Z",
@@ -16256,17 +16257,20 @@
           "localizedDescription": "# EnsWilde v3.1.3 ## Updates - You can now download DDI, fully resolving all DDI-related issues (updated via Settings) ## Features - Added an option to hide the Dynamic Island in Theme UI *(A device restart is required for this feature to take effect)* - Added Feature Flags for in-app functionalities *(A device restart is required for this feature to take effect)* - zpatch Custom no longer requires a password ## Guides - Updated the guide for obtaining default passcode files and Apple Wallet files *(You will need a Mac or a device that can receive AirDrop)* *(The guide is available in Settings)*",
           "releaseChannel": "release",
           "size": 13591314,
-          "version": "EnsWilde3.1.3"
+          "version": "EnsWilde3.1.3",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
         },
         {
-          "buildVersion": "3",
+          "version": "EnsWilde3.1.2",
           "date": "2026-02-01T14:58:19Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.2-88b502eb30d9.ipa",
-          "localizedDescription": "# Fixes & Improvements ## Bug Fixes - Fixed **StkJIT Code = -1** and **StkJIT Code = -60** - Fixed application **crash caused by outdated or invalid pairing files** - A warning message is now shown instead of crashing when an old pairing file is detected ## Testing & Verification - Tested and confirmed working on **LiveContainer** - Signed using a **personal certificate** --- Thank you for using and supporting the project.",
-          "releaseChannel": "release",
-          "sha256": "88b502eb30d95d466ebf2d205dafdb955fbb234cf3601292c972bd72c4d147ca",
           "size": 13615407,
-          "version": "EnsWilde3.1.2"
+          "sha256": "88b502eb30d95d466ebf2d205dafdb955fbb234cf3601292c972bd72c4d147ca",
+          "upstreamAssetURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.2/EnsWilde.ipa",
+          "sourceAssetName": "EnsWilde.ipa",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         },
         {
           "buildVersion": "3",
@@ -16276,7 +16280,8 @@
           "releaseChannel": "release",
           "sha256": "822fdc9b3059dbc9743ec8d5564733422c22ca2f6b84ed9953216685e2fc69eb",
           "size": 13564791,
-          "version": "EnsWilde3.1.1"
+          "version": "EnsWilde3.1.1",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
         },
         {
           "buildVersion": "3",
@@ -16286,7 +16291,8 @@
           "releaseChannel": "release",
           "sha256": "06ec468721a64a6267dbb334cac11ed88065602dd779fca08941a550652e14f8",
           "size": 13311776,
-          "version": "EnsWilde3.1"
+          "version": "EnsWilde3.1",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
         },
         {
           "buildVersion": "3",
@@ -16296,8 +16302,12 @@
           "releaseChannel": "release",
           "sha256": "a4c3b2cf670da9b7a242389733c653acfa03456834f647233262a4af86e75486",
           "size": 12773718,
-          "version": "EnsWilde3.0"
+          "version": "EnsWilde3.0",
+          "ipaBundleIdentifier": "com.yangjiii.EnsWilde"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.yangjiii.EnsWilde"
       ]
     },
     {
