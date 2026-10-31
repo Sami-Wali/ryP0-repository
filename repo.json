@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Infuse Plus (8.5.9)",
+      "catalogID": "app-29d46eb3cf594b0cad06720764369c92",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "dvntms & IPA Vault",
+      "localizedDescription": "Infuse 8.5.9 with Infuse Plus 2.6",
+      "subtitle": "Infuse 8.5.9 with Infuse Plus 2.6",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "8.5.9",
+          "date": "2026-10-26",
+          "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-8.5.9-Infuse-Plus.ipa",
+          "size": 99818620,
+          "buildVersion": "8.5.5799",
+          "localizedDescription": "IPA Vault build for Infuse Plus (8.5.9), version 8.5.9",
+          "sha256": "77975cfdb47c11e271f6e5a49647b2b0a75584e451fd5f20c6700b8fdcec77c6",
+          "ipaBundleIdentifier": "com.firecore.infuse"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.firecore.infuse-77975cfdb47c.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-8.5.9-Infuse-Plus.ipa",
+        "checkedAt": "2026-10-31T12:59:12Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-8.5.9-Infuse-Plus.ipa",
+        "selector": "entry-8f4a13270a6442212197cd4e31072ab98475a47290c3fa23186d869ad38b672f",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-29d46eb3cf594b0cad06720764369c92",
+        "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+        "workflowPath": ".github/workflows/update-app-app-29d46eb3cf594b0cad06720764369c92.yml"
+      }
+    },
+    {
       "name": "Infuse Plus (8.2.4)",
       "catalogID": "app-834e7347a89440ed853ef8ee396bac36",
       "bundleIdentifier": "com.firecore.infuse",
