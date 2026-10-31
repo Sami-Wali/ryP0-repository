@@ -15590,7 +15590,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "ppsspp",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.1",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -15605,7 +15605,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-31T20:58:04Z",
+        "checkedAt": "2026-10-31T20:59:36Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
@@ -15667,15 +15667,16 @@
           "buildVersion": "1.20.1"
         },
         {
-          "buildVersion": "1.20",
-          "date": "2026-03-03T14:30:33Z",
+          "version": "1.20",
+          "date": "2026-03-03T14:40:44Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20-f70980c08b0f.ipa",
-          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
-          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
-          "releaseChannel": "release",
-          "sha256": "f70980c08b0f0ea31861870f9d5634cf29be63ffedf0745cf4e04d5356e72aab",
           "size": 30929357,
-          "version": "1.20"
+          "sha256": "f70980c08b0f0ea31861870f9d5634cf29be63ffedf0745cf4e04d5356e72aab",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20/PPSSPP-iOS-v1.20.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "release",
+          "buildVersion": "1.20"
         },
         {
           "buildVersion": "1.19.3",
