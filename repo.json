@@ -71,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/e9168df",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/acc9ab7",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
@@ -96,7 +96,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-10-31T09:33:10Z",
+        "checkedAt": "2026-10-31T09:35:50Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
@@ -1357,6 +1357,19 @@
           "size": 45574989,
           "sha256": "85375448680b492a1ff900de7b9f35a65f4f20548d84952c84805ad0480317a2",
           "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/e9168df/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "acc9ab7",
+          "date": "2025-09-19T11:17:16Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/acc9ab7/Dartotsu-iOS-main.ipa",
+          "size": 45574989,
+          "sha256": "85375448680b492a1ff900de7b9f35a65f4f20548d84952c84805ad0480317a2",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/acc9ab7/Dartotsu-iOS-main.ipa",
           "sourceAssetName": "Dartotsu-iOS-main.ipa",
           "sourceAppName": "Dartotsu",
           "ipaBundleIdentifier": "ani.aayush262.dartotsu",
