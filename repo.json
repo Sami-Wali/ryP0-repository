@@ -11764,7 +11764,7 @@
       "name": "Vesc_Tool_6.06.2",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-31T10:58:42Z",
+        "checkedAt": "2026-10-31T11:03:35Z",
         "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "subtitle": "Configure your VESC Ecosystem",
