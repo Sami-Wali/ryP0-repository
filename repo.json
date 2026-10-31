@@ -15731,14 +15731,15 @@
         ]
       },
       "automation": {
-        "configId": "xenios",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0.1-build-9730",
+        "configId": "xenios",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/preview-v2.1-build-9857",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
       "bundleIdentifiers": [
         "com.xenios.jp",
+        "com.xenios.537ee73c0a351cb0",
         "jp.xenios.xenios.ios"
       ],
       "category": "EMU",
@@ -15749,8 +15750,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T21:19:47Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -15761,6 +15762,18 @@
           "ipaBundleIdentifier": "com.xenios.jp",
           "size": 46253576,
           "version": "release-v2.0.1-build-9730"
+        },
+        {
+          "version": "preview-v2.1-build-9857",
+          "date": "2026-06-19T01:56:09Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.1-build-9857-080af9f0ab6a.ipa",
+          "size": 42000934,
+          "sha256": "080af9f0ab6a624b70014918b575320f154b14c77f068ba2c0a0eeafcf528f4c",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.1-build-9857/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.537ee73c0a351cb0",
+          "releaseChannel": "prerelease",
+          "buildVersion": "9857"
         },
         {
           "buildVersion": "9730",
