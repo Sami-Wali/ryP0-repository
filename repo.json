@@ -5599,25 +5599,25 @@
       "localizedDescription": "GitHub project request: coflyn/Mori.",
       "name": "Mori",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:57:07Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "22",
+          "version": "v4.5.1",
           "date": "2026-10-18T23:48:43Z",
           "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
-          "localizedDescription": "What's New in v4.5.1 - Automatic System Language Detection: Automatically detects device and browser language on first launch via navigator.languages / navigator.language and maps to 9 supported locales (Simplified Chinese, Indonesian, Japanese, Korean, Arabic, Russian, Tagalog, Hindi, and English fallback) (#17) - Android Share Sheet Locale Fallback: Added native Locale.getDefault() language detection in ShareActivity.java so shared links match device language even before app initialization - Gallery Tab Visibility Toggle: Added toggle to show or hide the Gallery tab under Settings -> Appearance (mori_show_gallery), completely bypassing background disk scans to save RAM and battery on lower-end devices - TikTok tt.site Shortlink Recognition: Added automatic recognition and URL cleaning for TikTok tt.site shortlink domains across single downloads, batch downloads, and share activities - Multilingual Gallery Localization: Fully localized gallery filter chips, sort options, and action toasts across all 9 supported languages - Progressive Gallery Rendering: Implemented incremental batch rendering (24 items per batch) with IntersectionObserver sentinel for smooth, lag-free scrolling across large media collections - O(1) History Map Indexing: Replaced linear history scans with constant-time Map indexing, prioritizing cached history thumbnails before requesting native video frame decodes - CSS content-visibility Optimization: Applied content-visibility: auto to gallery cards to skip layout and painting of offscreen elements, significantly reducing GPU and memory overhead - On-Demand PDF Library Loading: Converted pdf-lib and pdf.js to lazy-load on demand, eliminating heavy synchronous script tags from index.html for faster app cold start - Android R8 & Resource Shrinking: Enabled full R8 code minification and resource shrinking in Android build.gradle with refined ProGuard rules for a leaner, smaller APK footprint - Desktop Tauri Release Profile: Configured compiler release profile in Cargo.toml (opt-level = \"z\", LTO, symbol stripping, codegen-units = 1) to reduce desktop binary size and optimize runtime execution - High-Resolution Documentation Assets: Converted all preview screenshots to crisp WebP format and added Mori CLI terminal mockups to project documentation",
-          "releaseChannel": "release",
-          "sha256": "8ca33f3c06a29cc8c7886768e38b28138209438558a017c1c1655cbcc28be07c",
           "size": 2099521,
-          "sourceAssetName": "Mori-v4.5.1-iOS-Unsigned.ipa",
+          "sha256": "8ca33f3c06a29cc8c7886768e38b28138209438558a017c1c1655cbcc28be07c",
           "upstreamAssetURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
-          "version": "v4.5.1"
+          "sourceAssetName": "Mori-v4.5.1-iOS-Unsigned.ipa",
+          "ipaBundleIdentifier": "com.mori.downloader",
+          "releaseChannel": "release",
+          "buildVersion": "22"
         },
         {
           "buildVersion": "21",
@@ -5627,7 +5627,8 @@
           "releaseChannel": "release",
           "sha256": "3a24eb95ad6c3e9c59c018da485b5f3c177764cf83424cf29a4e377ecf4a5ebe",
           "size": 2096767,
-          "version": "4.5.0"
+          "version": "4.5.0",
+          "ipaBundleIdentifier": "com.mori.downloader"
         },
         {
           "buildVersion": "20",
@@ -5637,8 +5638,12 @@
           "releaseChannel": "release",
           "sha256": "bdd98a17fc151d97d02c9d9d4d30511672319f9b760badafe82a80dcdcc548e1",
           "size": 1662745,
-          "version": "v4.4.0"
+          "version": "v4.4.0",
+          "ipaBundleIdentifier": "com.mori.downloader"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.mori.downloader"
       ]
     },
     {
