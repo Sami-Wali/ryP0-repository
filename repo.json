@@ -15406,7 +15406,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b1",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b9",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -15421,7 +15421,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:22:19Z",
+        "checkedAt": "2026-10-31T20:23:03Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -15507,15 +15507,16 @@
           "buildVersion": "21"
         },
         {
-          "buildVersion": "20",
-          "date": "2025-05-06T17:25:12Z",
+          "version": "4.0.0b9",
+          "date": "2025-05-06T17:32:22Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b9-99b72c4f6419.ipa",
-          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-          "localizedDescription": "* The Dolphin core has been updated to 2503a. * Save states made in previous beta versions are not compatible. GameCube memory cards and Wii in-game save files are not affected. * Fixed keyboards not showing up in the devices list in controller settings. (#201 by @SamoZ256) * Added a temporary fix for CMake 4.0+ compatibility. **Full Changelog**: https://github.com/OatmealDome/dolphin-ios/compare/v4.0.0b8...v4.0.0b9",
-          "releaseChannel": "prerelease",
-          "sha256": "99b72c4f6419605a7c4464d99fb4756f5f7a7f2b9e8784602bc38857199420b3",
           "size": 16149753,
-          "version": "4.0.0b9"
+          "sha256": "99b72c4f6419605a7c4464d99fb4756f5f7a7f2b9e8784602bc38857199420b3",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b9/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "20"
         },
         {
           "buildVersion": "19",
