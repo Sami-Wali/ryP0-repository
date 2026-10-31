@@ -96,6 +96,19 @@
           "ipaBundleIdentifier": "ani.aayush262.dartotsu",
           "releaseChannel": "release",
           "buildVersion": "1.1.1"
+        },
+        {
+          "version": "cb382b4",
+          "date": "2026-10-26T21:39:49Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/cb382b4/Dartotsu-iOS-main.ipa",
+          "size": 82627473,
+          "sha256": "a7d4d253dbe76548b488ff8d7908b0d63cc627cdad4b3bf0ab74fe9f8ef810b7",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/cb382b4/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1.1.1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/ani.aayush262.dartotsu-61061fb157a4.png",
@@ -105,7 +118,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/f090481/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-10-31T07:24:34Z",
+        "checkedAt": "2026-10-31T07:25:08Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -120,7 +133,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/42d52cb",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/cb382b4",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifiers": [
