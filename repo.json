@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "zContainer",
+      "catalogID": "app-6b439c47dccf4e119eb3830467128a8e",
+      "bundleIdentifier": "app.reiko.zcontainer",
+      "developerName": "Zeus Team",
+      "localizedDescription": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
+      "subtitle": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-10-28",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
+          "size": 7603927,
+          "buildVersion": "8",
+          "localizedDescription": "• Snap windows into the corners on iPad, four at once • Window buttons work on iPad • Holding or dragging a window no longer starts editing the Home Screen • Resize windows from their sides and bottom • Apps open in windows like on a Mac, with a bouncing dock icon • The multitask dock tucks away when idle and comes back when an app opens • Bug fixes",
+          "sha256": "2ebcae86cb2be39d3c44b86dbaba1d42ade79f10aca8f20f8fb86b44ef5dcab6",
+          "ipaBundleIdentifier": "app.reiko.zcontainer"
+        }
+      ],
+      "iconURL": "https://repo.getzeus.app/assets/apps/zcontainer/AppIcon.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
+        "checkedAt": "2026-10-31T06:18:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 12,
+        "deliveryMode": "direct-source",
+        "originURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
+        "selector": "entry-cb573e02f8671fb83dd79c5fd6b697ac5c14c8448f3fcd4769bdb37d3fe9ae00",
+        "sourceURL": "https://repo.getzeus.app/"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-6b439c47dccf4e119eb3830467128a8e",
+        "sourceURL": "https://repo.getzeus.app/",
+        "workflowPath": ".github/workflows/update-app-app-6b439c47dccf4e119eb3830467128a8e.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "app-81207336549b4d02acc44d8b64148966",
