@@ -15588,9 +15588,9 @@
         ]
       },
       "automation": {
-        "configId": "ppsspp",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.4",
+        "configId": "ppsspp",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.3",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -15605,7 +15605,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-10-31T20:54:16Z",
+        "checkedAt": "2026-10-31T20:55:40Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
@@ -15631,15 +15631,16 @@
           "buildVersion": "1.20.4"
         },
         {
-          "buildVersion": "1.20.3",
-          "date": "2026-03-15T17:52:47Z",
+          "version": "1.20.3",
+          "date": "2026-03-15T18:02:06Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.3-463b9e004ab9.ipa",
-          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
-          "localizedDescription": "PPSSPP is a cross-platform PSP emulator. Visit PPSSPP [official website](https://ppsspp.org) for a [full changelog](https://ppsspp.org/index.html#news) as well as the [downloads section](https://ppsspp.org/downloads.html) for other platforms.",
-          "releaseChannel": "release",
-          "sha256": "463b9e004ab939f5a70b565344553aeb0beff665c48e85603083ec247c972d70",
           "size": 30981742,
-          "version": "1.20.3"
+          "sha256": "463b9e004ab939f5a70b565344553aeb0beff665c48e85603083ec247c972d70",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-iOS-v1.20.3.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.3.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "release",
+          "buildVersion": "1.20.3"
         },
         {
           "buildVersion": "1.20.2",
