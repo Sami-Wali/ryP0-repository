@@ -7702,9 +7702,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-f391a03e45604e2e9ace242db56e0af1",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/125hz/Tsubomi",
+        "configId": "app-f391a03e45604e2e9ace242db56e0af1",
+        "sourceURL": "https://github.com/125hz/Tsubomi/releases/tag/0.47.0",
         "workflowPath": ".github/workflows/update-app-app-f391a03e45604e2e9ace242db56e0af1.yml"
       },
       "bundleIdentifier": "org.vita3k.experimental.ios",
@@ -7723,24 +7723,29 @@
       "localizedDescription": "Vita emulator with jit",
       "name": "Tsubomi",
       "status": {
-        "checkedAt": "2026-10-31T05:39:21Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
-        "message": "Private updater: GitHub API returned HTTP 401.",
-        "state": "update-error"
+        "checkedAt": "2026-10-31T06:19:55Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Vita emulator with jit",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "470",
+          "version": "0.47.0",
           "date": "2026-10-03T21:18:29Z",
           "downloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
-          "localizedDescription": "Initial release of Tsubomi. PS Vita firmware files are required, but are not provided. You can get them from Sony's official site, or through Vita3k on your computer.",
-          "releaseChannel": "release",
-          "sha256": "2dd708ac9c0220ca00dcc5cfa1bae54c059d201c5699324fb4d15407c833c2c6",
           "size": 19485724,
-          "version": "0.47.0"
+          "sha256": "2dd708ac9c0220ca00dcc5cfa1bae54c059d201c5699324fb4d15407c833c2c6",
+          "upstreamAssetURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
+          "sourceAssetName": "Tsubomi.ipa",
+          "ipaBundleIdentifier": "org.vita3k.experimental.ios",
+          "releaseChannel": "release",
+          "buildVersion": "470"
         }
+      ],
+      "bundleIdentifiers": [
+        "org.vita3k.experimental.ios"
       ]
     },
     {
