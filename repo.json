@@ -12095,9 +12095,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-roamcontrol-00bbe3fc",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.7",
+        "configId": "com-roamcontrol-00bbe3fc",
+        "sourceURL": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9",
         "workflowPath": ".github/workflows/update-app-com-roamcontrol-00bbe3fc.yml"
       },
       "bundleIdentifier": "com.roamcontrol",
@@ -12115,23 +12115,23 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-10-31T23:52:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: seanhowarthdev/Roam-Control.",
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "105",
-          "date": "2026-10-20T18:33:03Z",
+          "version": "v0.9.9",
+          "date": "2026-10-20T19:33:03Z",
           "downloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
-          "localizedDescription": "Eight-language localisation, improved mapping, automatic connection recovery, custom movement speeds and UI refinements. LocalDevVPN is still required. Thanks to everyone for testing!",
-          "releaseChannel": "release",
-          "sha256": "211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e",
           "size": 4627321,
-          "sourceAssetName": "RoamControl-0.9.9-Build105.ipa",
+          "sha256": "211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e",
           "upstreamAssetURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
-          "version": "v0.9.9"
+          "sourceAssetName": "RoamControl-0.9.9-Build105.ipa",
+          "ipaBundleIdentifier": "com.roamcontrol",
+          "releaseChannel": "release",
+          "buildVersion": "105"
         },
         {
           "buildVersion": "96",
@@ -12143,7 +12143,8 @@
           "size": 4111825,
           "sourceAssetName": "RoamControl-0.9.7-Build96.ipa",
           "upstreamAssetURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.7/RoamControl-0.9.7-Build96.ipa",
-          "version": "v0.9.7"
+          "version": "v0.9.7",
+          "ipaBundleIdentifier": "com.roamcontrol"
         },
         {
           "buildVersion": "96",
@@ -12153,8 +12154,12 @@
           "releaseChannel": "release",
           "sha256": "8236b2005d96219ba6d00d6a1c9d9af08792ae32f3ea1e997662268df4a908d5",
           "size": 4111825,
-          "version": "0.9.7"
+          "version": "0.9.7",
+          "ipaBundleIdentifier": "com.roamcontrol"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.roamcontrol"
       ]
     },
     {
