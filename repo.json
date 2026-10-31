@@ -22,6 +22,20 @@
           "ipaBundleIdentifier": "dev.horizon.game",
           "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13035568617/zip",
           "sourceArchiveEntry": "Horizon-game-unsigned.ipa"
+        },
+        {
+          "version": "8d5e131d7b072b54ffb1cf7fedd80c4486c7474a",
+          "date": "2026-10-31T07:53:02Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-8d5e131d7b072b54ffb1cf7fedd80c4486c7474a-4dd5ca929cc3.ipa",
+          "size": 23365867,
+          "sha256": "4dd5ca929cc390151d4e27e79fd1b4107762460aaedb4075832a00a97944a90e",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13035438771/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.horizon.game-caaa0f8e72dd.png",
@@ -31,8 +45,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/dev.horizon.game-caaa0f8e72dd465cbebd46a9978bdf6f9c119efbdd8d9c5f6480c78bddae6a4b.ipa",
-        "checkedAt": "2026-10-31T16:14:58Z",
-        "message": "Imported and mirrored after IPA validation"
+        "checkedAt": "2026-10-31T16:18:46Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -46,9 +60,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41182344175",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "dev.horizon.game"
+      ]
     },
     {
       "name": "MeloCafe",
