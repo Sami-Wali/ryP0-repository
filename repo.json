@@ -331,7 +331,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-31T12:55:40Z",
+        "checkedAt": "2026-10-31T13:00:53Z",
         "message": "Private updater: No repository app matched the configured selector with a usable IPA version."
       },
       "importSource": {
