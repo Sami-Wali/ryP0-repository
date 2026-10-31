@@ -2598,6 +2598,16 @@
       "updatePolicy": "daily",
       "versions": [
         {
+          "version": "1.1",
+          "date": "2026-10-28T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1-7.ipa",
+          "size": 7587358,
+          "sha256": "c5820edfff3cc5397875b88616e37f491230c72283773196549ce14fb1c29207",
+          "ipaBundleIdentifier": "app.reiko.zcontainer",
+          "localizedDescription": "• Drag a window to an edge to snap it into half the screen • A divider between two snapped windows resizes them • Push a window off the side to tuck it away • Touching an app brings its window to the front • iPadOS-style windows with full screen • Minimized windows go into their icon in the dock • Easier window resizing • A simpler multitask dock that snaps to corners and sides • Hold an icon in the dock to close apps • Open in Window in an app's menu • A JIT ribbon on apps that always open with JIT • Drag an icon out of its menu to start editing • Home Screen edit buttons like iOS 27 • Smoother pull-down search • Bug fixes",
+          "buildVersion": "7"
+        },
+        {
           "buildVersion": "8",
           "date": "2026-10-28",
           "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
@@ -2606,6 +2616,16 @@
           "sha256": "2ebcae86cb2be39d3c44b86dbaba1d42ade79f10aca8f20f8fb86b44ef5dcab6",
           "size": 7603927,
           "version": "1.1.1"
+        },
+        {
+          "version": "1.0",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.0-6.ipa",
+          "size": 7543196,
+          "sha256": "7be3eea38a19fbbea86d9b20fdfee4bd932a8f450bf2f9056a1f5da57fbae31f",
+          "ipaBundleIdentifier": "app.reiko.zcontainer",
+          "localizedDescription": "• Links bring an app's open window forward, even during an install • Icons draw again after Clear Icon Cache • Removed containers stay removed • An app that can't open in a window shows its error once • A second zContainer keeps its folders • Bug fixes",
+          "buildVersion": "6"
         }
       ]
     },
