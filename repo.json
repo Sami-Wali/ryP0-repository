@@ -14366,9 +14366,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-sm64coopdx-ios-60da0a8d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios",
+        "configId": "com-sm64coopdx-ios-60da0a8d",
+        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/tag/v151.1.0",
         "workflowPath": ".github/workflows/update-app-com-sm64coopdx-ios-60da0a8d.yml"
       },
       "bundleIdentifier": "com.sm64coopdx.ios",
@@ -14382,9 +14382,10 @@
       },
       "name": "SM64CoopDX",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-31T22:51:21Z",
-        "message": "Private updater: GitHub API returned HTTP 401."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+        "checkedAt": "2026-11-01T01:04:12Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -14396,7 +14397,20 @@
           "releaseChannel": "release",
           "sha256": "7ac5ffc5aa96426ec9e5e33ace5e6e0cf3d8c139c9218d2c4c9196b17300e840",
           "size": 9790397,
-          "version": "151.1.0"
+          "version": "151.1.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
+        },
+        {
+          "version": "v151.1.0",
+          "date": "2026-09-19T22:59:03Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+          "size": 9790397,
+          "sha256": "7ac5ffc5aa96426ec9e5e33ace5e6e0cf3d8c139c9218d2c4c9196b17300e840",
+          "upstreamAssetURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+          "sourceAssetName": "sm64coopdx.ipa",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
@@ -14406,7 +14420,8 @@
           "releaseChannel": "release",
           "sha256": "6f1dc010e188f558c4c0135af145085db3fa4ab7e38779dd801b87300e531816",
           "size": 9781023,
-          "version": "v151.0.1"
+          "version": "v151.0.1",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14416,7 +14431,8 @@
           "releaseChannel": "release",
           "sha256": "0ad67f836463c96050e83f4f5c20eb7c6537a424292f915e9f560edb3a00bbe9",
           "size": 9801794,
-          "version": "v151.0.0"
+          "version": "v151.0.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14426,7 +14442,8 @@
           "releaseChannel": "release",
           "sha256": "6d083176aff752381d30045d155aeefaafe0e56638e3f4705da6b4474e16e036",
           "size": 9800641,
-          "version": "v150.0.0"
+          "version": "v150.0.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14436,7 +14453,8 @@
           "releaseChannel": "release",
           "sha256": "e41a6f8ff9d8020d9822a36766cc7f5a1f1b7fd3d5b1474a8f788304e649ce9d",
           "size": 9693701,
-          "version": "v141.1.1"
+          "version": "v141.1.1",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14446,7 +14464,8 @@
           "releaseChannel": "release",
           "sha256": "0cd9eab3eeb651eddba8dfc1017a4c5bf9e60835b1de143f934a98ec45c0745b",
           "size": 9693665,
-          "version": "v141.1.0"
+          "version": "v141.1.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14456,7 +14475,8 @@
           "releaseChannel": "release",
           "sha256": "c3c4f412f068a070e93df5743ab841502197d421bd1baba108f99224dc523518",
           "size": 9695015,
-          "version": "v1.3.1"
+          "version": "v1.3.1",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14466,7 +14486,8 @@
           "releaseChannel": "release",
           "sha256": "76f853ecad22caf2d95281c244c41059baa18528d1f4a9db7d2846234c51a629",
           "size": 9694978,
-          "version": "v1.3.0"
+          "version": "v1.3.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14476,7 +14497,8 @@
           "releaseChannel": "release",
           "sha256": "bd9e6af71061d12d1df96adc558dc79fd3da38cb44509abb6df5fc47eddb81ff",
           "size": 9684133,
-          "version": "1.2.1"
+          "version": "1.2.1",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14486,7 +14508,8 @@
           "releaseChannel": "release",
           "sha256": "5d8478869980d028a12857b0dd13cb7ca21dc54d8fa88ba5c487688111134add",
           "size": 9683528,
-          "version": "1.2.0"
+          "version": "1.2.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14496,7 +14519,8 @@
           "releaseChannel": "release",
           "sha256": "b8fe9c46aa00a7415bea13e21929b28a0eb7ffbe151e08f5b476f8de1a5e6572",
           "size": 9683065,
-          "version": "v1.2.0"
+          "version": "v1.2.0",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
           "buildVersion": "1",
@@ -14506,8 +14530,12 @@
           "releaseChannel": "release",
           "sha256": "1338f4ca23294dfce1db5b34a5d1e0767313ac2910da7369085595ea4c444263",
           "size": 9684664,
-          "version": "v1.1.2"
+          "version": "v1.1.2",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.sm64coopdx.ios"
       ]
     },
     {
