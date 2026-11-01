@@ -16951,8 +16951,8 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-10-31T21:01:53Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
+        "checkedAt": "2026-11-01T03:01:40Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
