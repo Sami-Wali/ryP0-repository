@@ -13014,7 +13014,7 @@
       "name": "kartpad",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T00:43:40Z",
+        "checkedAt": "2026-11-01T03:01:55Z",
         "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
