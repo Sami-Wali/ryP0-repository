@@ -10550,7 +10550,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-8db2c3605eae44bc87ee9ea3d15d9c43",
-        "sourceURL": "https://github.com/RyanYuuki/AnymeX/actions/runs/35525861910",
+        "sourceURL": "https://github.com/RyanYuuki/AnymeX/releases/tag/v3.1.7",
         "workflowPath": ".github/workflows/update-app-app-8db2c3605eae44bc87ee9ea3d15d9c43.yml"
       },
       "bundleIdentifier": "com.ryan.anymex",
@@ -10574,7 +10574,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
-        "checkedAt": "2026-11-01T02:42:51Z",
+        "checkedAt": "2026-11-01T02:43:29Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: RyanYuuki/AnymeX.",
@@ -10662,6 +10662,18 @@
           "ipaBundleIdentifier": "com.ryan.anymex",
           "releaseChannel": "actions",
           "buildVersion": "40"
+        },
+        {
+          "version": "v3.1.7",
+          "date": "2026-08-30T18:47:02Z",
+          "downloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.7/AnymeX-iOS-v3.1.7.ipa",
+          "size": 39662751,
+          "sha256": "72d546ba01fb33c82c80fa02332bd9aecc80fd16157d39ac4af901e28f554ece",
+          "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.7/AnymeX-iOS-v3.1.7.ipa",
+          "sourceAssetName": "AnymeX-iOS-v3.1.7.ipa",
+          "ipaBundleIdentifier": "com.ryan.anymex",
+          "releaseChannel": "release",
+          "buildVersion": "39"
         }
       ]
     },
