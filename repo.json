@@ -35,6 +35,20 @@
           "ipaBundleIdentifier": "com.aigch.getMoreRam",
           "releaseChannel": "actions",
           "buildVersion": "1"
+        },
+        {
+          "version": "bc51655c777e5d075d5c0e7e25230cc9966a7d8e",
+          "date": "2026-09-12T03:24:01Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-46202d18a639.ipa",
+          "size": 633815,
+          "sha256": "46202d18a639f5f67e93c1e873d0b4113495e1406dfa6751e5d4c96f66b82835",
+          "upstreamAssetURL": "https://api.github.com/repos/hugeBlack/GetMoreRam/actions/artifacts/10290342142/zip",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "sourceArchiveEntry": "GetMoreRam.ipa",
+          "sourceAppName": "Get More Ram",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://avatars.githubusercontent.com/u/60165378?v=4",
@@ -44,7 +58,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-        "checkedAt": "2026-11-01T10:14:22Z",
+        "checkedAt": "2026-11-01T10:14:56Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -59,7 +73,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-659ed21b715288931fb5cb23b0d1033c",
-        "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34699589978",
+        "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34670257545",
         "workflowPath": ".github/workflows/update-app-project-659ed21b715288931fb5cb23b0d1033c.yml"
       },
       "bundleIdentifiers": [
