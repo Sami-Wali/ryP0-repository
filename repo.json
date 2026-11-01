@@ -2738,14 +2738,23 @@
       "localizedDescription": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
       "name": "zContainer",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1-7.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
+        "checkedAt": "2026-11-01T09:27:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-10-28T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
+          "size": 7603927,
+          "sha256": "2ebcae86cb2be39d3c44b86dbaba1d42ade79f10aca8f20f8fb86b44ef5dcab6",
+          "ipaBundleIdentifier": "app.reiko.zcontainer",
+          "buildVersion": "8"
+        },
         {
           "buildVersion": "7",
           "date": "2026-10-28T00:00:00Z",
@@ -2757,16 +2766,6 @@
           "version": "1.1"
         },
         {
-          "buildVersion": "8",
-          "date": "2026-10-28",
-          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
-          "ipaBundleIdentifier": "app.reiko.zcontainer",
-          "localizedDescription": "• Snap windows into the corners on iPad, four at once • Window buttons work on iPad • Holding or dragging a window no longer starts editing the Home Screen • Resize windows from their sides and bottom • Apps open in windows like on a Mac, with a bouncing dock icon • The multitask dock tucks away when idle and comes back when an app opens • Bug fixes",
-          "sha256": "2ebcae86cb2be39d3c44b86dbaba1d42ade79f10aca8f20f8fb86b44ef5dcab6",
-          "size": 7603927,
-          "version": "1.1.1"
-        },
-        {
           "buildVersion": "6",
           "date": "2026-10-25T00:00:00Z",
           "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.0-6.ipa",
@@ -2776,6 +2775,9 @@
           "size": 7543196,
           "version": "1.0"
         }
+      ],
+      "bundleIdentifiers": [
+        "app.reiko.zcontainer"
       ]
     },
     {
