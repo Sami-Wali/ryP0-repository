@@ -4047,10 +4047,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/releases/tag/29",
+        "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/37664703365",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       },
       "bundleIdentifier": "com.opa334.Dopamine-roothide",
@@ -4075,8 +4075,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/29/Dopamine.tipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-01T04:13:30Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
       "updatePolicy": "daily",
@@ -4132,6 +4132,20 @@
           "sourceAssetName": "Dopamine-2026-10-25_20-23-30.ipa",
           "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/28/Dopamine-2026-10-25_20-23-30.ipa",
           "version": "28"
+        },
+        {
+          "version": "e8de6e5035fee52ca732536dbb3ca1734889d914",
+          "date": "2026-10-07T18:09:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-e8de6e5035fee52ca732536dbb3ca1734889d914-3912cad867bb.ipa",
+          "size": 54803661,
+          "sha256": "3912cad867bbbc403d462e5dac743fcd4891b03f0cf1dd2e666dfbbace8cfc4c",
+          "upstreamAssetURL": "https://api.github.com/repos/roothide/Dopamine-roothide/actions/artifacts/11502531788/zip",
+          "sourceAssetName": "roothide-Dopamine-2.4.9.27-e8de6e5.tipa",
+          "sourceArchiveEntry": "roothide-Dopamine-2.4.9.27-e8de6e5.tipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
