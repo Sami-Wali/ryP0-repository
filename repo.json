@@ -12553,7 +12553,7 @@
       "name": "Aidoku",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T00:43:47Z",
+        "checkedAt": "2026-11-01T03:02:09Z",
         "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "Manga reading app",
