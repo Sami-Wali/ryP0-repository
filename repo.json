@@ -13106,9 +13106,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-aidoku-aidoku-c3112316",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/37579211702",
+        "configId": "app-aidoku-aidoku-c3112316",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/37577815347",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "bundleIdentifier": "app.aidoku.Aidoku",
@@ -13127,9 +13127,10 @@
       "localizedDescription": "Manga reading app",
       "name": "Aidoku",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-01T08:04:56Z",
-        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-41ae2a604213d4eeb5bf19287eec675ea90e15aa-7e28b6c6ece6.ipa",
+        "checkedAt": "2026-11-01T09:45:38Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
@@ -13290,6 +13291,18 @@
           "sourceAssetName": "Aidoku-iOS_nightly-74bee96.ipa",
           "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/11463664543/zip",
           "version": "74bee96cb8beb5cb41f75533db608e7d7d667c01"
+        },
+        {
+          "version": "edd548e13675ff757a8a54b7b96329c0136862d7",
+          "date": "2026-10-07T05:44:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-edd548e13675ff757a8a54b7b96329c0136862d7-4b81375e24db.ipa",
+          "size": 11698714,
+          "sha256": "4b81375e24db7af10d10261382a92db80409d4132e7974ebf522cd775c515e64",
+          "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/11463059181/zip",
+          "sourceAssetName": "Aidoku-iOS_nightly-edd548e.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "actions",
+          "buildVersion": "3"
         },
         {
           "buildVersion": "3",
