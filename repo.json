@@ -11207,8 +11207,8 @@
       "name": "TiebaPure-iOS",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T02:02:24Z",
-        "message": "Private updater: [Errno 104] Connection reset by peer"
+        "checkedAt": "2026-11-01T03:02:28Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "updatePolicy": "daily",
