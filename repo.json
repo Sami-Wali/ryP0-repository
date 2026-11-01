@@ -11451,9 +11451,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.6.7",
+        "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
+        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.6.6",
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
@@ -11476,10 +11476,10 @@
       "localizedDescription": "GitHub project request: kolbicz/Cyanide.",
       "name": "Cyanide",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T10:07:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
@@ -11666,6 +11666,18 @@
           "sourceAssetName": "Cyanide-1.6.7.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.6.7/Cyanide-1.6.7.ipa",
           "version": "v1.6.7"
+        },
+        {
+          "version": "v1.6.6",
+          "date": "2026-09-24T21:53:43Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.6.6/Cyanide-1.6.6.ipa",
+          "size": 7900741,
+          "sha256": "2776c22b9d1194f2af24a047de65487364332b97e71ad42cb396345203908652",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.6.6/Cyanide-1.6.6.ipa",
+          "sourceAssetName": "Cyanide-1.6.6.ipa",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1",
+          "releaseChannel": "release",
+          "buildVersion": "1006006"
         }
       ]
     },
