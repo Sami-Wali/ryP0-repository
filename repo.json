@@ -17935,9 +17935,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/40827041574",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/40820980850",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "bundleIdentifier": "software.iridium",
@@ -17955,10 +17955,10 @@
       "localizedDescription": "",
       "name": "Iridium",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-cb59d6f3f3895f229af033b81783bde31878f56e-91b341365a41.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T11:57:55Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -17998,6 +17998,18 @@
           "sourceAssetName": "Iridium-unsigned.ipa",
           "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/12880278231/zip",
           "version": "18a8547c6483f2cc31fe16b3f3768e3fd13fe316"
+        },
+        {
+          "version": "674ebac5f82b70c92ea99cb639d63bf8af05910b",
+          "date": "2026-10-29T05:01:25Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-674ebac5f82b70c92ea99cb639d63bf8af05910b-4fbdc3a673fd.ipa",
+          "size": 221742336,
+          "sha256": "4fbdc3a673fdf566e58ef4b6a39dda1b0108a88d21b2ea18545036527259833d",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/12876650861/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "172.1"
         },
         {
           "buildVersion": "115.1",
