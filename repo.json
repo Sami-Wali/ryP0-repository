@@ -15688,10 +15688,9 @@
       },
       "name": "Sonic Unleashed",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/v1.1.0/SonicUnleashed_iOS_v1.1.0.ipa",
-        "checkedAt": "2026-10-31T22:06:58Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:06:30Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "updatePolicy": "daily",
       "versions": [
