@@ -17853,10 +17853,9 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/EnsWilde-icon.png",
       "name": "EnsWilde",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "checkedAt": "2026-10-31T20:27:23Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:03:01Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#FF9900",
       "updatePolicy": "daily",
