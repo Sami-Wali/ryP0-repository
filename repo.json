@@ -9222,9 +9222,10 @@
       "localizedDescription": "",
       "name": "Amethyst",
       "status": {
-        "checkedAt": "2026-11-01T03:10:04Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/imports/org.angelauramc.amethyst-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+        "checkedAt": "2026-11-01T06:32:45Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -9240,14 +9241,16 @@
           "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc"
         },
         {
-          "buildVersion": "1.0",
+          "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc",
           "date": "2026-10-04T22:58:47Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-dcc432dd8abc44e0ac2fb0ba88e45410-f98c4133c72d39e06ceac42b57cc4477c52105fc-9e934826b921.ipa",
+          "size": 191972732,
+          "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
+          "upstreamAssetURL": "https://api.github.com/repos/AngelAuraMC/Amethyst-iOS/actions/artifacts/11379735548/zip",
+          "sourceAssetName": "org.angelauramc.amethyst-1.0-ios.ipa",
           "ipaBundleIdentifier": "org.angelauramc.amethyst",
           "releaseChannel": "actions",
-          "sha256": "9e934826b921f6d0153fbea8cf9442f61ab58720d9725b285a389b044789c556",
-          "size": 191972732,
-          "version": "f98c4133c72d39e06ceac42b57cc4477c52105fc"
+          "buildVersion": "1.0"
         },
         {
           "buildVersion": "1.0",
