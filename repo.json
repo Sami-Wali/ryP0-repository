@@ -35,6 +35,19 @@
           "ipaBundleIdentifier": "com.roooot.lara",
           "releaseChannel": "actions",
           "buildVersion": "Release"
+        },
+        {
+          "version": "0.2",
+          "date": "2026-05-22T19:53:53Z",
+          "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "size": 5474210,
+          "sha256": "c8ba0fec11137d36732108afa8cb3da1947779745bc368ba7e78f1af993298a2",
+          "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "sourceAssetName": "lara_v0.2.ipa",
+          "sourceAppName": "lara",
+          "ipaBundleIdentifier": "com.roooot.lara",
+          "releaseChannel": "release",
+          "buildVersion": "Release"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.roooot.lara-449173643ae6.png",
@@ -44,7 +57,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa",
-        "checkedAt": "2026-11-01T15:27:42Z",
+        "checkedAt": "2026-11-01T15:28:03Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -59,7 +72,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b416d05023df784e700b8ecc6bde8ca7",
-        "sourceURL": "https://github.com/rooootdev/lara/actions/runs/36191035585",
+        "sourceURL": "https://github.com/rooootdev/lara/releases/tag/0.2",
         "workflowPath": ".github/workflows/update-app-project-b416d05023df784e700b8ecc6bde8ca7.yml"
       },
       "bundleIdentifiers": [
