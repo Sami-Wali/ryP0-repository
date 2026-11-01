@@ -11719,7 +11719,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "org-zhaohe-miniwatts-c828cf18",
-        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.4.1",
+        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/actions/runs/36135324631",
         "workflowPath": ".github/workflows/update-app-org-zhaohe-miniwatts-c828cf18.yml"
       },
       "bundleIdentifier": "org.zhaohe.MiniWatts",
@@ -11740,7 +11740,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
-        "checkedAt": "2026-11-01T00:28:01Z",
+        "checkedAt": "2026-11-01T00:28:39Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: ResistanceTo/MiniWatts.",
@@ -11851,6 +11851,18 @@
           "sourceAssetName": "MiniWatts-unsigned.ipa",
           "ipaBundleIdentifier": "org.zhaohe.MiniWatts",
           "releaseChannel": "release",
+          "buildVersion": "18"
+        },
+        {
+          "version": "af92fb371d6bf45bdb5163fe430c7a1952d8436c",
+          "date": "2026-09-25T12:30:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-zhaohe-miniwatts-c828cf18-af92fb371d6bf45bdb5163fe430c7a1952d8436c-576eb9b6762a.ipa",
+          "size": 3270441,
+          "sha256": "576eb9b6762ac1d3b8d3f8fdb9499efa43f78c0df71e4faa3ab1e99bc082659b",
+          "upstreamAssetURL": "https://api.github.com/repos/ResistanceTo/MiniWatts/actions/artifacts/10863516746/zip",
+          "sourceAssetName": "MiniWatts-unsigned.ipa",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts",
+          "releaseChannel": "actions",
           "buildVersion": "18"
         }
       ]
