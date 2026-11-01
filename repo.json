@@ -11019,7 +11019,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
-        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/38678184573",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/38677039697",
         "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
       },
       "bundleIdentifier": "com.coolapk.desktop",
@@ -11043,7 +11043,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
-        "checkedAt": "2026-11-01T01:53:12Z",
+        "checkedAt": "2026-11-01T01:54:40Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
@@ -11072,6 +11072,18 @@
           "ipaBundleIdentifier": "com.coolapk.desktop",
           "releaseChannel": "actions",
           "buildVersion": "135.9.99"
+        },
+        {
+          "version": "fa1ec13fd78de82397fcaacbc358866405e9e129",
+          "date": "2026-10-15T03:35:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-9e5a03c8b94b43bbad52fb5f15cc6a87-fa1ec13fd78de82397fcaacbc358866405e9e129-bcdca4a29f82.ipa",
+          "size": 8065076,
+          "sha256": "bcdca4a29f825a6702b6e3428ad956885fb796eff8527f9988989ceedc190f5e",
+          "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11946149888/zip",
+          "sourceAssetName": "coolapk-main-ios-arm64-unsigned.ipa",
+          "ipaBundleIdentifier": "com.coolapk.desktop",
+          "releaseChannel": "actions",
+          "buildVersion": "134.19.99"
         },
         {
           "buildVersion": "135.0.5",
