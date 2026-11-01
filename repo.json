@@ -15857,9 +15857,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "pl-adrian-factoriopad-d630d10c",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.1.1",
+        "configId": "pl-adrian-factoriopad-d630d10c",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.0.1",
         "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
       },
       "bundleIdentifier": "pl.adrian.FactorioPad",
@@ -15877,10 +15877,10 @@
       "localizedDescription": "",
       "name": "Factorio",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T13:23:35Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -16026,6 +16026,18 @@
           "sha256": "ef638a74b8fe074777e2d0876c2cbf3fb160d9ed2c340cd77ad941b6f3eda875",
           "size": 2873939,
           "version": "v2.0.2"
+        },
+        {
+          "version": "v2.0.1",
+          "date": "2026-10-03T19:27:38Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.1/FactorioPad-template.ipa",
+          "size": 2865743,
+          "sha256": "32fed069e5d33113efe68e3c31bb332b4018a02629108cbeea6b03ba86c91529",
+          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.0.1/FactorioPad-template.ipa",
+          "sourceAssetName": "FactorioPad-template.ipa",
+          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ]
     },
