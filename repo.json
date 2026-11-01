@@ -8926,7 +8926,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/tag/v1.0.1",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/38703170861",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "bundleIdentifier": "com.yihoooong.airliftsilence",
@@ -8950,7 +8950,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
-        "checkedAt": "2026-11-01T10:55:07Z",
+        "checkedAt": "2026-11-01T10:55:30Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
@@ -9049,6 +9049,18 @@
           "sourceAssetName": "AirliftSilence-v1.0.1.ipa",
           "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
           "releaseChannel": "release",
+          "buildVersion": "1.0.0"
+        },
+        {
+          "version": "ad8cfecdba95bf1ce0c283d8dd11d3a335de1977",
+          "date": "2026-10-15T08:05:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-ad8cfecdba95bf1ce0c283d8dd11d3a335de1977-4d3f6a79144b.ipa",
+          "size": 3290069,
+          "sha256": "4d3f6a79144ba9a904f57a0e9efe69c7117f8859d5d9495c9f010400aa91210f",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/11957532507/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
           "buildVersion": "1.0.0"
         }
       ]
