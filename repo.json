@@ -15245,7 +15245,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-linkpass888-airbeep-97a0139d",
-        "sourceURL": "https://github.com/LinkPass888/AirBeep/actions/runs/37573993947",
+        "sourceURL": "https://github.com/LinkPass888/AirBeep/actions/runs/37568916814",
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
@@ -15266,7 +15266,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/AirBeep/releases/download/v2.5.2/airbeep-v2.5.2-unsigned.ipa",
-        "checkedAt": "2026-11-01T09:44:10Z",
+        "checkedAt": "2026-11-01T15:31:07Z",
         "message": "Updated by private automation"
       },
       "subtitle": "https://github.com/LinkPass888/AirBeep/releases",
@@ -15581,6 +15581,18 @@
           "size": 5737589,
           "sha256": "063c775b3f630f32a8e34af545d8d5977c5ea22ae1d4125cc683694b5f4e5f5f",
           "upstreamAssetURL": "https://api.github.com/repos/LinkPass888/AirBeep/actions/artifacts/11461554771/zip",
+          "sourceAssetName": "airbeep-v2.0.0-unsigned.ipa",
+          "ipaBundleIdentifier": "com.linkpass888.airbeep",
+          "releaseChannel": "actions",
+          "buildVersion": "2"
+        },
+        {
+          "version": "1cc1ca0b9c94990ec1abc3108fec4d40f2920624",
+          "date": "2026-10-07T03:54:23Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-linkpass888-airbeep-97a0139d-1cc1ca0b9c94990ec1abc3108fec4d40f2920624-1abdc0f0723e.ipa",
+          "size": 9251468,
+          "sha256": "1abdc0f0723e0d205a6b73960078670d644956a52d890f4ccbc68b429606d1fb",
+          "upstreamAssetURL": "https://api.github.com/repos/LinkPass888/AirBeep/actions/artifacts/11459942249/zip",
           "sourceAssetName": "airbeep-v2.0.0-unsigned.ipa",
           "ipaBundleIdentifier": "com.linkpass888.airbeep",
           "releaseChannel": "actions",
