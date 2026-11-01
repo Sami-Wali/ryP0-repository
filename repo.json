@@ -15242,10 +15242,9 @@
       "localizedDescription": "",
       "name": "Nyxian",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.4/Nyxian.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:07:33Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "updatePolicy": "daily",
