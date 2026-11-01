@@ -9632,9 +9632,9 @@
       },
       "name": "NeoFreeBird-sideloaded-Twitter",
       "status": {
-        "checkedAt": "2026-11-01T03:09:07Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T05:19:53Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "updatePolicy": "daily",
       "versions": [
