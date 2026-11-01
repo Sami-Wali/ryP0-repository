@@ -19770,12 +19770,13 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.6.2",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.6.1",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
       "bundleIdentifiers": [
-        "com.frizzlem.sideinstaller"
+        "com.frizzlem.sideinstaller",
+        "com.frizzle.sideinstaller"
       ],
       "category": "Sideloading",
       "developerName": "FrizzleM",
@@ -19784,7 +19785,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
-        "checkedAt": "2026-11-01T15:37:18Z",
+        "checkedAt": "2026-11-01T15:39:13Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
@@ -20111,6 +20112,18 @@
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.2/SideInstaller.ipa",
           "sourceAssetName": "SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.6.1",
+          "date": "2026-07-09T13:06:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.1-3e0f0cfc0250.ipa",
+          "size": 7546083,
+          "sha256": "3e0f0cfc02509e0d21b459ad061ddbda90a8529c2d929f96faee2da4273db268",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.1/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "ipaBundleIdentifier": "com.frizzle.sideinstaller",
           "releaseChannel": "release",
           "buildVersion": "1"
         }
