@@ -9531,9 +9531,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-d0638a66808245a897965153726af6a3",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.3.0",
+        "configId": "app-d0638a66808245a897965153726af6a3",
+        "sourceURL": "https://github.com/NeoFreeBird/app/releases/tag/v7.1.1",
         "workflowPath": ".github/workflows/update-app-app-d0638a66808245a897965153726af6a3.yml"
       },
       "bundleIdentifier": "com.atebits.Tweetie2",
@@ -9554,9 +9554,10 @@
       },
       "name": "NeoFreeBird-sideloaded-X",
       "status": {
-        "checkedAt": "2026-11-01T03:09:23Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-X_7.3.0_12.38.1.ipa",
+        "checkedAt": "2026-11-01T06:26:47Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
@@ -9607,6 +9608,18 @@
           "sourceAssetName": "NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa",
           "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.2.0/NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa",
           "version": "v7.2.0"
+        },
+        {
+          "version": "v7.1.1",
+          "date": "2026-10-10T23:45:38Z",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.1.1/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+          "size": 260421912,
+          "sha256": "37f8561448d69d799ac03eb3b4ee012f4147dae6a2f3974d6535bb4a160f5dcf",
+          "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.1.1/NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+          "sourceAssetName": "NeoFreeBird-sideloaded-X_7.1.1_12.31.1.ipa",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
