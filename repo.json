@@ -9027,7 +9027,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-615d86a9e61e488c9803deb087829c90",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37278281384",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37278276586",
         "workflowPath": ".github/workflows/update-app-app-615d86a9e61e488c9803deb087829c90.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -9051,7 +9051,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
-        "checkedAt": "2026-11-01T07:00:48Z",
+        "checkedAt": "2026-11-01T07:04:19Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -9218,6 +9218,18 @@
           "size": 251120671,
           "sha256": "a0fe4bd9833eed0a8ed0530bf8e60e0ea258f17e91ce6211027f088364056983",
           "upstreamAssetURL": "https://api.github.com/repos/herbrine8403/Amethyst-iOS-MyRemastered/actions/artifacts/11331767515/zip",
+          "sourceAssetName": "com.air-devs.air-1.0-ios.ipa",
+          "ipaBundleIdentifier": "com.air-devs.air",
+          "releaseChannel": "actions",
+          "buildVersion": "5.1.0"
+        },
+        {
+          "version": "2461b186cd4ab2b51b99c81bcb668b0a9450f2f3",
+          "date": "2026-10-05T07:32:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-2461b186cd4ab2b51b99c81bcb668b0a9450f2f3-277b2b300cd1.ipa",
+          "size": 251120334,
+          "sha256": "277b2b300cd180aa1198cb2e52618977e0dd7f2490c54bd0382dd33ba2b535df",
+          "upstreamAssetURL": "https://api.github.com/repos/herbrine8403/Amethyst-iOS-MyRemastered/actions/artifacts/11331414767/zip",
           "sourceAssetName": "com.air-devs.air-1.0-ios.ipa",
           "ipaBundleIdentifier": "com.air-devs.air",
           "releaseChannel": "actions",
