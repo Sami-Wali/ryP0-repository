@@ -8926,7 +8926,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/37638027386",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/37634117890",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "bundleIdentifier": "com.yihoooong.airliftsilence",
@@ -8950,7 +8950,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
-        "checkedAt": "2026-11-01T10:55:54Z",
+        "checkedAt": "2026-11-01T10:56:20Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
@@ -9070,6 +9070,18 @@
           "size": 3283918,
           "sha256": "699cd223844d3b04f3f1015e29c9b53b76f7c92a3868d6e7aed1f7c053fe78b8",
           "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/11491535615/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "1.0.0"
+        },
+        {
+          "version": "181cc4c0c773325e0052d1c4dd04bd6f201c1d60",
+          "date": "2026-10-07T14:07:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-181cc4c0c773325e0052d1c4dd04bd6f201c1d60-3f60a33a3138.ipa",
+          "size": 3814681,
+          "sha256": "3f60a33a3138a18f6de27d142b623a02474df548fcd42a353ac085eafd7310a1",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/11487619689/zip",
           "sourceAssetName": "AirliftSilence.ipa",
           "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
           "releaseChannel": "actions",
