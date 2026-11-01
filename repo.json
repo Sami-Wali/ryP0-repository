@@ -17315,9 +17315,9 @@
         ]
       },
       "automation": {
-        "configId": "dolphinios",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b4",
+        "configId": "dolphinios",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b3",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -17330,9 +17330,10 @@
       "localizedDescription": "GameCube and Wii emulator for iOS. (Pre-release/Nightly builds)",
       "name": "DolphiniOS (nightly)",
       "status": {
-        "checkedAt": "2026-11-01T03:14:15Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
+        "checkedAt": "2026-11-01T07:14:51Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
@@ -17487,6 +17488,18 @@
           "sourceAssetName": "Non-Jailbroken.ipa",
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b4/Non-Jailbroken.ipa",
           "version": "4.0.0b4"
+        },
+        {
+          "version": "4.0.0b3",
+          "date": "2023-01-23T18:45:42Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b3-1091397a8ca9.ipa",
+          "size": 13414159,
+          "sha256": "1091397a8ca99398b57667fee4f67824d24a3b56fe8ae73d30196f44367dc6be",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b3/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "10"
         }
       ]
     },
