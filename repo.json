@@ -16943,9 +16943,8 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T03:13:54Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
