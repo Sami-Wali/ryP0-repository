@@ -8493,9 +8493,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/coflyn/Mori/releases/tag/v4.5.1",
+        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
+        "sourceURL": "https://github.com/coflyn/Mori/actions/runs/39178057916",
         "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
       },
       "bundleIdentifier": "com.mori.downloader",
@@ -8519,7 +8519,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
-        "checkedAt": "2026-11-01T04:50:42Z",
+        "checkedAt": "2026-11-01T04:52:44Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
@@ -8535,6 +8535,18 @@
           "sourceAssetName": "Mori-v4.5.1-iOS-Unsigned.ipa",
           "ipaBundleIdentifier": "com.mori.downloader",
           "releaseChannel": "release",
+          "buildVersion": "22"
+        },
+        {
+          "version": "764be7645de73b995f7e7d8404205f8d9333bfe3",
+          "date": "2026-10-18T23:48:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-13c4e5b3e7f84bb88355b99695fe1aa2-764be7645de73b995f7e7d8404205f8d9333bfe3-8ca33f3c06a2.ipa",
+          "size": 2099521,
+          "sha256": "8ca33f3c06a29cc8c7886768e38b28138209438558a017c1c1655cbcc28be07c",
+          "upstreamAssetURL": "https://api.github.com/repos/coflyn/Mori/actions/artifacts/12154838870/zip",
+          "sourceAssetName": "Mori-v4.5.1-iOS-Unsigned.ipa",
+          "ipaBundleIdentifier": "com.mori.downloader",
+          "releaseChannel": "actions",
           "buildVersion": "22"
         },
         {
