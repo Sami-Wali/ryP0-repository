@@ -18213,9 +18213,9 @@
     },
     {
       "automation": {
-        "configId": "enswilde",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.0",
+        "configId": "enswilde",
+        "sourceURL": "https://github.com/YangJiiii/EnsWilde/releases/tag/EnsWilde3.1.3",
         "workflowPath": ".github/workflows/update-app-enswilde.yml"
       },
       "bundleIdentifier": "com.yangjiiii.enswilde",
@@ -18227,10 +18227,10 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/EnsWilde-icon.png",
       "name": "EnsWilde",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-11-01T07:16:14Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF9900",
       "updatePolicy": "daily",
