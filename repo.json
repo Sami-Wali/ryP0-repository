@@ -4050,7 +4050,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/34102316440",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/33914561937",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       },
       "bundleIdentifier": "com.opa334.Dopamine-roothide",
@@ -4075,7 +4075,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/29/Dopamine.tipa",
-        "checkedAt": "2026-11-01T04:22:42Z",
+        "checkedAt": "2026-11-01T04:24:11Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
@@ -4282,6 +4282,20 @@
           "sourceAssetName": "Dopamine.ipa",
           "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/26/Dopamine.ipa",
           "version": "26"
+        },
+        {
+          "version": "f72767b369c6440e0683439d78c25255e1d37012",
+          "date": "2026-09-04T20:06:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-f72767b369c6440e0683439d78c25255e1d37012-8e596b215f60.ipa",
+          "size": 54736901,
+          "sha256": "8e596b215f60ad407632a814bef0066bf280a2a96327af0d4cc8d186b77f4b35",
+          "upstreamAssetURL": "https://api.github.com/repos/roothide/Dopamine-roothide/actions/artifacts/9952900092/zip",
+          "sourceAssetName": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
+          "sourceArchiveEntry": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
