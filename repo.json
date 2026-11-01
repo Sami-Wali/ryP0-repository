@@ -379,10 +379,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.1.1",
+        "configId": "project-fdc77a241aad3c330e9604a96beb7f03",
+        "sourceURL": "https://github.com/shplash/ModShelf/releases/tag/v1.1.2",
         "workflowPath": ".github/workflows/update-app-project-fdc77a241aad3c330e9604a96beb7f03.yml"
       },
       "bundleIdentifier": "com.shplash.modshelf",
@@ -405,14 +405,27 @@
       "localizedDescription": "GitHub project request: shplash/ModShelf.",
       "name": "ModShelf",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+        "checkedAt": "2026-11-01T05:42:06Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: shplash/ModShelf.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.2",
+          "date": "2026-11-01T01:46:24Z",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+          "size": 4985499,
+          "sha256": "9340414d5d6d6b97868a559f910cb862edeb97e413aafcb59182223189d5d8c5",
+          "upstreamAssetURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+          "sourceAssetName": "ModShelf-v1.1.2.ipa",
+          "sourceAppName": "ModShelf",
+          "ipaBundleIdentifier": "com.shplash.modshelf",
+          "releaseChannel": "release",
+          "buildVersion": "293"
+        },
         {
           "buildVersion": "275",
           "date": "2026-10-31T19:20:40Z",
