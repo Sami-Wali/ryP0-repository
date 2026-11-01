@@ -13412,8 +13412,8 @@
       "name": "Aidoku",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T09:53:21Z",
-        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
+        "checkedAt": "2026-11-01T10:52:47Z",
+        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
