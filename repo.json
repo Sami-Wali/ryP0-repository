@@ -10969,10 +10969,9 @@
       "localizedDescription": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "name": "TiebaPure-iOS",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
-        "checkedAt": "2026-11-01T02:02:02Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T02:02:24Z",
+        "message": "Private updater: [Errno 104] Connection reset by peer"
       },
       "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "updatePolicy": "daily",
