@@ -11927,7 +11927,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-aidoku-aidoku-c3112316",
-        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/37580320296",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/37579211702",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "bundleIdentifier": "app.aidoku.Aidoku",
@@ -11948,7 +11948,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-41ae2a604213d4eeb5bf19287eec675ea90e15aa-7e28b6c6ece6.ipa",
-        "checkedAt": "2026-11-01T00:03:43Z",
+        "checkedAt": "2026-11-01T00:04:38Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
@@ -12095,6 +12095,18 @@
           "sha256": "450fa1f05e7cc003e363087b535f65f42f1238f274307ebbcffc01b61ef9bb2c",
           "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/11464427613/zip",
           "sourceAssetName": "Aidoku-iOS_nightly-163b23d.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "actions",
+          "buildVersion": "3"
+        },
+        {
+          "version": "74bee96cb8beb5cb41f75533db608e7d7d667c01",
+          "date": "2026-10-07T06:00:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-74bee96cb8beb5cb41f75533db608e7d7d667c01-a490acf50696.ipa",
+          "size": 11690090,
+          "sha256": "a490acf50696440854a38000ccc5c71c5d68510810de6f219b8e02d7b81de32f",
+          "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/11463664543/zip",
+          "sourceAssetName": "Aidoku-iOS_nightly-74bee96.ipa",
           "ipaBundleIdentifier": "app.aidoku.Aidoku",
           "releaseChannel": "actions",
           "buildVersion": "3"
