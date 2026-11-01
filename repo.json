@@ -18631,7 +18631,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "xenios",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0.1-build-9729",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0-build-9712",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
@@ -18651,7 +18651,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-11-01T11:43:29Z",
+        "checkedAt": "2026-11-01T11:44:19Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
@@ -18737,15 +18737,16 @@
           "buildVersion": "9729"
         },
         {
-          "buildVersion": "9712",
-          "date": "2026-06-06T19:00:12Z",
+          "version": "release-v2.0-build-9712",
+          "date": "2026-06-06T20:06:02Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0-build-9712-27e4b711c26b.ipa",
-          "ipaBundleIdentifier": "com.xenios.jp",
-          "localizedDescription": "# 2.0-9712 - Channel: release - Stage: stable - Version: 2.0 - Build number: 9712 - Commit: 358deaee5 - Published at: 2026-06-06T19:11:40Z - Source ref: refs/heads/xenios",
-          "releaseChannel": "release",
-          "sha256": "27e4b711c26b1ca08a72d2a51433c10c186ba72211a7f1db22a3da9a6bf202a7",
           "size": 41493705,
-          "version": "release-v2.0-build-9712"
+          "sha256": "27e4b711c26b1ca08a72d2a51433c10c186ba72211a7f1db22a3da9a6bf202a7",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0-build-9712/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.jp",
+          "releaseChannel": "release",
+          "buildVersion": "9712"
         },
         {
           "buildVersion": "9288",
