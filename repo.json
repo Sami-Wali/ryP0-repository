@@ -7970,7 +7970,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-a8d81320a82b4d0f8c6aa277b7f95e7a",
-        "sourceURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/tag/3.1.0",
+        "sourceURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/tag/2.6.1",
         "workflowPath": ".github/workflows/update-app-app-a8d81320a82b4d0f8c6aa277b7f95e7a.yml"
       },
       "bundleIdentifier": "tv.danmaku.bilianime",
@@ -7991,7 +7991,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.1.0/BiliBiliMApp_8.89.0.v3.1.0.ipa",
-        "checkedAt": "2026-11-01T04:57:52Z",
+        "checkedAt": "2026-11-01T05:00:25Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: TouchFriend/BiliBiliMApp.",
@@ -8041,6 +8041,18 @@
           "size": 267266314,
           "version": "2.7.0",
           "ipaBundleIdentifier": "tv.danmaku.bilianime"
+        },
+        {
+          "version": "2.6.1",
+          "date": "2026-03-08T15:52:31Z",
+          "downloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/2.6.1/BiliBiliMApp_8.76.0.v2.6.1.ipa",
+          "size": 261245615,
+          "sha256": "4ec45d92607ac08eb82ce5a84066096f5bebac7a00fff3342fa385c845242922",
+          "upstreamAssetURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/2.6.1/BiliBiliMApp_8.76.0.v2.6.1.ipa",
+          "sourceAssetName": "BiliBiliMApp_8.76.0.v2.6.1.ipa",
+          "ipaBundleIdentifier": "tv.danmaku.bilianime",
+          "releaseChannel": "release",
+          "buildVersion": "87600100"
         }
       ],
       "bundleIdentifiers": [
