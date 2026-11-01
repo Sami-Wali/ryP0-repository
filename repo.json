@@ -11074,10 +11074,9 @@
       "localizedDescription": "The Legend of Zelda: The Wind Waker iOS port",
       "name": "BlueWake",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
-        "checkedAt": "2026-11-01T05:18:35Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T05:18:48Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
       "updatePolicy": "daily",
