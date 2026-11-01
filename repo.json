@@ -13720,14 +13720,15 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-g8row-photosbackup-9ef1394b",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/g8row/PhotosBackup/releases/tag/0.0.2",
+        "configId": "com-g8row-photosbackup-9ef1394b",
+        "sourceURL": "https://github.com/g8row/PhotosBackup/releases/tag/0.0.1",
         "workflowPath": ".github/workflows/update-app-com-g8row-photosbackup-9ef1394b.yml"
       },
       "bundleIdentifier": "com.g8row.photosbackup",
       "bundleIdentifiers": [
-        "com.g8row.photosbackup"
+        "com.g8row.photosbackup",
+        "dev.gpmc.authprobe"
       ],
       "category": "Tools",
       "developerName": "g8row",
@@ -13741,10 +13742,10 @@
       "localizedDescription": "Backs up photos to Google Photos without counting against your Google storage using the Google pixel 1 unlimited storage api",
       "name": "Photos Backup",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.3.7/PhotosBackup.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T09:44:31Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Backs up photos to Google Photos without counting against your Google storage using the Google pixel 1 unlimited storage api",
       "updatePolicy": "daily",
@@ -13914,6 +13915,18 @@
           "sourceAssetName": "PhotosBackup.ipa",
           "upstreamAssetURL": "https://github.com/g8row/PhotosBackup/releases/download/0.0.2/PhotosBackup.ipa",
           "version": "0.0.2"
+        },
+        {
+          "version": "0.0.1",
+          "date": "2026-09-08T10:26:05Z",
+          "downloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.0.1/PhotosBackup.ipa",
+          "size": 2251986,
+          "sha256": "c6048626287fc1ea43e288c0ea9951ff8ad92487780f2e1dcdacaa0262050ed6",
+          "upstreamAssetURL": "https://github.com/g8row/PhotosBackup/releases/download/0.0.1/PhotosBackup.ipa",
+          "sourceAssetName": "PhotosBackup.ipa",
+          "ipaBundleIdentifier": "dev.gpmc.authprobe",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
