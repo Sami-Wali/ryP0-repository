@@ -8942,10 +8942,9 @@
       "localizedDescription": "",
       "name": "Prisma",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher/releases/download/v6.5.5/com.prisma-devs.prisma-6.5.5-ios.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:10:21Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "updatePolicy": "daily",
