@@ -3227,10 +3227,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.6",
+        "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.7",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "bundleIdentifier": "com.defnf.icopc",
@@ -3253,13 +3253,27 @@
       "localizedDescription": "",
       "name": "ico-pc",
       "status": {
-        "checkedAt": "2026-11-01T03:14:39Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.7/ico-pc-v0.9.7-ios-unsigned.ipa",
+        "checkedAt": "2026-11-01T06:37:13Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.9.7",
+          "date": "2026-11-01T06:14:47Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.7/ico-pc-v0.9.7-ios-unsigned.ipa",
+          "size": 8262455,
+          "sha256": "3ec810f7e749f0937fd91ea6c838e6d985e28cf69d24fcb6895fcc94a0c171fd",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.7/ico-pc-v0.9.7-ios-unsigned.ipa",
+          "sourceAssetName": "ico-pc-v0.9.7-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "release",
+          "buildVersion": "0.9.7"
+        },
         {
           "buildVersion": "0.9.6",
           "date": "2026-10-31T07:43:22Z",
