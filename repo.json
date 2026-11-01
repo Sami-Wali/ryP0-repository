@@ -18629,9 +18629,9 @@
         ]
       },
       "automation": {
-        "configId": "xenios",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0.1-build-9730",
+        "configId": "xenios",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.0.1-build-9729",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
@@ -18649,10 +18649,10 @@
       "localizedDescription": "Xenios XBOX360 emulator port for iOS.",
       "name": "Xenios",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T11:43:29Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
@@ -18725,15 +18725,16 @@
           "version": "release-v2.0.1-build-9730"
         },
         {
-          "buildVersion": "9729",
-          "date": "2026-06-07T19:24:29Z",
+          "version": "release-v2.0.1-build-9729",
+          "date": "2026-06-07T19:24:32Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9729-2100237f60a8.ipa",
-          "ipaBundleIdentifier": "com.xenios.jp",
-          "localizedDescription": "# 2.0.1-9729 - Channel: release - Stage: stable - Version: 2.0.1 - Build number: 9729 - Commit: d1afdc63d - Published at: 2026-06-07T18:27:08Z - Source ref: refs/heads/xenios",
-          "releaseChannel": "release",
-          "sha256": "2100237f60a82e51ec5203b404a12d6ff18cb75498592b3b08accadb51ab09ce",
           "size": 46246197,
-          "version": "release-v2.0.1-build-9729"
+          "sha256": "2100237f60a82e51ec5203b404a12d6ff18cb75498592b3b08accadb51ab09ce",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9729/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.jp",
+          "releaseChannel": "release",
+          "buildVersion": "9729"
         },
         {
           "buildVersion": "9712",
