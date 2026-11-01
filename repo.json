@@ -8924,9 +8924,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-09d8f1ab279d40c38882e11adad1af01",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/tag/v1.1.1",
+        "configId": "app-09d8f1ab279d40c38882e11adad1af01",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/38748018925",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "bundleIdentifier": "com.yihoooong.airliftsilence",
@@ -8948,9 +8948,10 @@
       "localizedDescription": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "name": "AirliftSilence-iOS",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-01T08:46:38Z",
-        "message": "Private updater: The mobile update did not finish; it will be retried."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
+        "checkedAt": "2026-11-01T10:53:24Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
@@ -8977,6 +8978,18 @@
           "sha256": "daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e",
           "size": 3348064,
           "version": "1.1.1"
+        },
+        {
+          "version": "1542a9d1b8baa86b3b5d606a7c0670a7445a18bc",
+          "date": "2026-10-15T14:03:32Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-1542a9d1b8baa86b3b5d606a7c0670a7445a18bc-daa32fe3cbf4.ipa",
+          "size": 3348064,
+          "sha256": "daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/11980770629/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
         },
         {
           "buildVersion": "3",
