@@ -16048,9 +16048,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-miguel-psx3ios-2e76e4b9",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/xmiguel911x/PSX3IOS",
+        "configId": "com-miguel-psx3ios-2e76e4b9",
+        "sourceURL": "https://github.com/xmiguel911x/PSX3IOS/releases/tag/v0.2.7-beta",
         "workflowPath": ".github/workflows/update-app-com-miguel-psx3ios-2e76e4b9.yml"
       },
       "bundleIdentifier": "com.miguel.psx3ios",
@@ -16065,10 +16065,10 @@
       "localizedDescription": "",
       "name": "PSX3IOS",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-11-01T05:37:56Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -16081,7 +16081,20 @@
           "releaseChannel": "beta",
           "sha256": "86401e2332ff0c139e3a07db834b18bdf48225d8df77af88640042211232a14f",
           "size": 67644766,
-          "version": "beta.0.2.7"
+          "version": "beta.0.2.7",
+          "ipaBundleIdentifier": "com.miguel.psx3ios"
+        },
+        {
+          "version": "v0.2.7-beta",
+          "date": "2026-09-01T12:12:58Z",
+          "downloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa",
+          "size": 67644766,
+          "sha256": "86401e2332ff0c139e3a07db834b18bdf48225d8df77af88640042211232a14f",
+          "upstreamAssetURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa",
+          "sourceAssetName": "PSX3IOS-beta.0.2.7-unsigned.ipa",
+          "ipaBundleIdentifier": "com.miguel.psx3ios",
+          "releaseChannel": "beta",
+          "buildVersion": "202609022211"
         },
         {
           "buildVersion": "202608300148",
@@ -16091,7 +16104,8 @@
           "releaseChannel": "beta",
           "sha256": "6c1357d9d85a32a34b856e9a7aa3cf64dabac2cdef3de7fb34cac437bcf3f250",
           "size": 67623829,
-          "version": "v0.2.6-beta"
+          "version": "v0.2.6-beta",
+          "ipaBundleIdentifier": "com.miguel.psx3ios"
         },
         {
           "buildVersion": "202608241456",
@@ -16101,7 +16115,8 @@
           "releaseChannel": "beta",
           "sha256": "0cabe9139284b7c9d7231598a7b4e1ff9e90749d488c393c5e3074a2edb9b45e",
           "size": 67584625,
-          "version": "v0.2.5-beta"
+          "version": "v0.2.5-beta",
+          "ipaBundleIdentifier": "com.miguel.psx3ios"
         },
         {
           "buildVersion": "202608221857",
@@ -16111,7 +16126,8 @@
           "releaseChannel": "beta",
           "sha256": "5f8b9246a5f89be9fd3a999cb7e69ac1ec4ccb30d7f37c732f16121d76ade17c",
           "size": 67578508,
-          "version": "v0.2.3-beta"
+          "version": "v0.2.3-beta",
+          "ipaBundleIdentifier": "com.miguel.psx3ios"
         },
         {
           "buildVersion": "202608221250",
@@ -16121,8 +16137,12 @@
           "releaseChannel": "beta",
           "sha256": "c32eed5bf99b707317054ad56a129cd93f9a6cd678bbd1a177d3839b995b931e",
           "size": 67578507,
-          "version": "v0.2.0-beta"
+          "version": "v0.2.0-beta",
+          "ipaBundleIdentifier": "com.miguel.psx3ios"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.miguel.psx3ios"
       ]
     },
     {
