@@ -18734,10 +18734,9 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Lara-icon.png",
       "name": "lara",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-nightly-449173643ae6.ipa",
-        "checkedAt": "2026-10-31T20:35:05Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:04:06Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#FF6600",
       "updatePolicy": "daily",
