@@ -15936,9 +15936,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium/releases/tag/v0.2.0",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/41011655313",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "bundleIdentifier": "software.iridium",
@@ -15953,13 +15953,26 @@
       "localizedDescription": "",
       "name": "Iridium",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-31T21:35:01Z",
-        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-cb59d6f3f3895f229af033b81783bde31878f56e-91b341365a41.ipa",
+        "checkedAt": "2026-11-01T00:52:04Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "cb59d6f3f3895f229af033b81783bde31878f56e",
+          "date": "2026-10-30T06:01:23Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-cb59d6f3f3895f229af033b81783bde31878f56e-91b341365a41.ipa",
+          "size": 221728704,
+          "sha256": "91b341365a41038cf5994f993eb80011829953c12002ef58ba8bbd30123c7946",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/12960100005/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "176.1"
+        },
         {
           "buildVersion": "115.1",
           "date": "2026-10-04T01:35:19Z",
@@ -15968,7 +15981,8 @@
           "releaseChannel": "release",
           "sha256": "1934922a1fcf1509e305a29d6f0d26579a4318ba95dfcf5b406d5e38f88c9763",
           "size": 399916792,
-          "version": "v0.2.0"
+          "version": "v0.2.0",
+          "ipaBundleIdentifier": "software.iridium"
         },
         {
           "buildVersion": "98.2",
@@ -15978,7 +15992,8 @@
           "releaseChannel": "release",
           "sha256": "5b50713e54b39ff05f0002c986cacf863b03bffad85233a40df28b1a6c65fb98",
           "size": 415260196,
-          "version": "v0.1.1"
+          "version": "v0.1.1",
+          "ipaBundleIdentifier": "software.iridium"
         },
         {
           "buildVersion": "86.1",
@@ -15988,8 +16003,12 @@
           "releaseChannel": "release",
           "sha256": "350caeba886756af1838e59db5a8eb405de92af7c1bd263044462cd8b8c30a44",
           "size": 415218419,
-          "version": "v0.1.0"
+          "version": "v0.1.0",
+          "ipaBundleIdentifier": "software.iridium"
         }
+      ],
+      "bundleIdentifiers": [
+        "software.iridium"
       ]
     },
     {
