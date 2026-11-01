@@ -11075,7 +11075,7 @@
       "name": "BlueWake",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T05:18:48Z",
+        "checkedAt": "2026-11-01T05:18:54Z",
         "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
