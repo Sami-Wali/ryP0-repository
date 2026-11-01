@@ -14196,7 +14196,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "pl-adrian-factoriopad-d630d10c",
-        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.1.2",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.1.1",
         "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
       },
       "bundleIdentifier": "pl.adrian.FactorioPad",
@@ -14216,7 +14216,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "checkedAt": "2026-11-01T01:14:16Z",
+        "checkedAt": "2026-11-01T01:22:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -14309,15 +14309,16 @@
           "buildVersion": "8"
         },
         {
-          "buildVersion": "7",
-          "date": "2026-10-06T16:07:02Z",
+          "version": "v2.1.1",
+          "date": "2026-10-06T16:36:22Z",
           "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
-          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
-          "localizedDescription": "Another fix to make Factorio not use texture compression on unsupported devices Allow other factorio versions",
-          "releaseChannel": "release",
-          "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03",
           "size": 2884063,
-          "version": "v2.1.1"
+          "sha256": "f1da14c96d0e8bf85d8b213da86da1e926ccc0f0279bfe0085d8747239728c03",
+          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.1/FactorioPad-template.ipa",
+          "sourceAssetName": "FactorioPad-template.ipa",
+          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
+          "releaseChannel": "release",
+          "buildVersion": "7"
         },
         {
           "buildVersion": "6",
