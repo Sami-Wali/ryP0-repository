@@ -16766,10 +16766,9 @@
       "localizedDescription": "GameCube and Wii emulator for iOS. (Pre-release/Nightly builds)",
       "name": "DolphiniOS (nightly)",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-10-31T20:25:26Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:02:45Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
