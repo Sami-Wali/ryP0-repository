@@ -14090,9 +14090,9 @@
       "localizedDescription": "",
       "name": "Manic EMU",
       "status": {
-        "checkedAt": "2026-11-01T04:40:57Z",
-        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T06:10:57Z",
+        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "",
       "updatePolicy": "daily",
