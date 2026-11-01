@@ -9025,9 +9025,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-615d86a9e61e488c9803deb087829c90",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37577290452",
+        "configId": "app-615d86a9e61e488c9803deb087829c90",
+        "sourceURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/actions/runs/37278630926",
         "workflowPath": ".github/workflows/update-app-app-615d86a9e61e488c9803deb087829c90.yml"
       },
       "bundleIdentifier": "com.air-devs.air",
@@ -9049,9 +9049,10 @@
       "localizedDescription": "",
       "name": "Air",
       "status": {
-        "checkedAt": "2026-11-01T03:11:01Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-c4797387ca9a81f31fdcdd2723ec1050ca35fdb3-c4e03c185919.ipa",
+        "checkedAt": "2026-11-01T06:55:13Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -9165,6 +9166,18 @@
           "sha256": "0b299a1f8de4d848cd614ae85983cec9be295b70bd930fe7d29f219eb91b61f4",
           "size": 251133021,
           "version": "40d196230b73118994c000c240844c683ba4f45c"
+        },
+        {
+          "version": "30f0c522c6264bd73570d3ecf5b870a5f99d6a87",
+          "date": "2026-10-05T07:35:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-615d86a9e61e488c9803deb087829c90-30f0c522c6264bd73570d3ecf5b870a5f99d6a87-8ff3ebb2d4ed.ipa",
+          "size": 251138605,
+          "sha256": "8ff3ebb2d4ede082d4a48f3e4bd27e803705ae8ebbfb7c75d7f9e64a4cc8a0d7",
+          "upstreamAssetURL": "https://api.github.com/repos/herbrine8403/Amethyst-iOS-MyRemastered/actions/artifacts/11332038726/zip",
+          "sourceAssetName": "com.air-devs.air-1.0-ios.ipa",
+          "ipaBundleIdentifier": "com.air-devs.air",
+          "releaseChannel": "actions",
+          "buildVersion": "5.1.0"
         },
         {
           "buildVersion": "5.1.0",
