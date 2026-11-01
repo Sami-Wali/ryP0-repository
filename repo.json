@@ -21,6 +21,20 @@
           "sourceAssetName": "GetMoreRam.ipa",
           "ipaBundleIdentifier": "com.aigch.getMoreRam",
           "upstreamAssetURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa"
+        },
+        {
+          "version": "52f5e964cf262dd1b8f4a1b93cde22b79a1fdd3f",
+          "date": "2026-09-12T14:32:34Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/getmoreram-nightly-e1650d597586.ipa",
+          "size": 2305445,
+          "sha256": "e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274",
+          "upstreamAssetURL": "https://api.github.com/repos/hugeBlack/GetMoreRam/actions/artifacts/10299408417/zip",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "sourceArchiveEntry": "GetMoreRam.ipa",
+          "sourceAppName": "Get More Ram",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://avatars.githubusercontent.com/u/60165378?v=4",
@@ -30,8 +44,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-        "checkedAt": "2026-11-01T10:13:43Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-01T10:14:22Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +59,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-659ed21b715288931fb5cb23b0d1033c",
-        "sourceURL": "https://github.com/hugeBlack/GetMoreRam",
+        "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34699589978",
         "workflowPath": ".github/workflows/update-app-project-659ed21b715288931fb5cb23b0d1033c.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.aigch.getMoreRam"
+      ]
     },
     {
       "appType": "Daily Update",
