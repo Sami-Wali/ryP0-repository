@@ -4049,7 +4049,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89132ca96fefd86ded3d81da828fffa6",
-        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/actions/runs/40203444075",
+        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/actions/runs/40199434737",
         "workflowPath": ".github/workflows/update-app-project-89132ca96fefd86ded3d81da828fffa6.yml"
       },
       "bundleIdentifier": "com.gow3ios.app",
@@ -4071,7 +4071,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-65c7f75de0638ed3cf6eafccbede356e024644c3-eed51337ae78.ipa",
-        "checkedAt": "2026-11-01T14:57:56Z",
+        "checkedAt": "2026-11-01T14:59:33Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -4140,6 +4140,20 @@
           "size": 111818100,
           "sha256": "fa52ee5d6f53c1906b9e333271d838e2ef24d39ab0ddc20605182c060c6a38db",
           "upstreamAssetURL": "https://api.github.com/repos/MohinShaikh5689/god-of-war-3-ios/actions/artifacts/12602903088/zip",
+          "sourceAssetName": "gow3-ios-Release.ipa",
+          "sourceArchiveEntry": "gow3-ios-Release.ipa",
+          "sourceAppName": "Olympus",
+          "ipaBundleIdentifier": "com.gow3ios.app",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
+        {
+          "version": "87c593e99673e5b42360fcd6debd588d8abdba8e",
+          "date": "2026-10-25T13:50:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-87c593e99673e5b42360fcd6debd588d8abdba8e-2532505aeb3a.ipa",
+          "size": 111809323,
+          "sha256": "2532505aeb3ada7ee5dbe46be1d60081f125061f060e2bf5fce93bdf024f19a6",
+          "upstreamAssetURL": "https://api.github.com/repos/MohinShaikh5689/god-of-war-3-ios/actions/artifacts/12601182815/zip",
           "sourceAssetName": "gow3-ios-Release.ipa",
           "sourceArchiveEntry": "gow3-ios-Release.ipa",
           "sourceAppName": "Olympus",
