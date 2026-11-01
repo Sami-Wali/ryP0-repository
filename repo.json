@@ -12718,9 +12718,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "org-zhaohe-miniwatts-c828cf18",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.2.0",
+        "configId": "org-zhaohe-miniwatts-c828cf18",
+        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/actions/runs/34987121141",
         "workflowPath": ".github/workflows/update-app-org-zhaohe-miniwatts-c828cf18.yml"
       },
       "bundleIdentifier": "org.zhaohe.MiniWatts",
@@ -12739,10 +12739,10 @@
       "localizedDescription": "GitHub project request: ResistanceTo/MiniWatts.",
       "name": "MiniWatts",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T09:55:35Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: ResistanceTo/MiniWatts.",
       "updatePolicy": "daily",
@@ -12925,6 +12925,18 @@
           "sourceAssetName": "MiniWatts-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.2.0/MiniWatts-unsigned.ipa",
           "version": "v1.2.0"
+        },
+        {
+          "version": "0f1c83c12623de6ded6b698d57d506b2a7926c19",
+          "date": "2026-09-15T15:14:42Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-zhaohe-miniwatts-c828cf18-0f1c83c12623de6ded6b698d57d506b2a7926c19-2d4cfef40ceb.ipa",
+          "size": 3168189,
+          "sha256": "2d4cfef40ceb1ddbf40890a949f29472393a8fad9b723c2977d5694371b22bb4",
+          "upstreamAssetURL": "https://api.github.com/repos/ResistanceTo/MiniWatts/actions/artifacts/10404356367/zip",
+          "sourceAssetName": "MiniWatts-unsigned.ipa",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts",
+          "releaseChannel": "actions",
+          "buildVersion": "10"
         }
       ]
     },
