@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "GetMoreRam",
+      "catalogID": "project-659ed21b715288931fb5cb23b0d1033c",
+      "bundleIdentifier": "com.aigch.getMoreRam",
+      "developerName": "hugeBlack",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-12T14:39:53Z",
+          "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+          "size": 2305445,
+          "buildVersion": "1",
+          "releaseChannel": "nightly",
+          "sha256": "e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274",
+          "sourceAppName": "Get More Ram",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "ipaBundleIdentifier": "com.aigch.getMoreRam",
+          "upstreamAssetURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa"
+        }
+      ],
+      "iconURL": "https://avatars.githubusercontent.com/u/60165378?v=4",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+        "checkedAt": "2026-11-01T10:13:43Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+        "sourceURL": "https://github.com/hugeBlack/GetMoreRam"
+      },
+      "githubURL": "https://github.com/hugeBlack/GetMoreRam",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-659ed21b715288931fb5cb23b0d1033c",
+        "sourceURL": "https://github.com/hugeBlack/GetMoreRam",
+        "workflowPath": ".github/workflows/update-app-project-659ed21b715288931fb5cb23b0d1033c.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
