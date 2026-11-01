@@ -14368,7 +14368,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-sm64coopdx-ios-60da0a8d",
-        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/tag/v151.1.0",
+        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/tag/v151.0.0",
         "workflowPath": ".github/workflows/update-app-com-sm64coopdx-ios-60da0a8d.yml"
       },
       "bundleIdentifier": "com.sm64coopdx.ios",
@@ -14384,7 +14384,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
-        "checkedAt": "2026-11-01T01:04:12Z",
+        "checkedAt": "2026-11-01T01:04:34Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -14424,15 +14424,16 @@
           "ipaBundleIdentifier": "com.sm64coopdx.ios"
         },
         {
-          "buildVersion": "1",
-          "date": "2026-06-02T00:22:27Z",
-          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.0.0/sm64coopdx.ipa",
-          "localizedDescription": "## SM64CoopDX iOS Port — v1.5.1 Sync ## Changes - Synced the fork with upstream SM64CoopDX **v1.5.1**. ## Installation **Sideload the IPA** Download the `.ipa` and sideload using [AltStore](https://altstore.io/), [SideStore](https://sidestore.io/), or similar tools. ## Requirements - iOS 15.0+ - ARM64 device (iPhone/iPad) - A base ROM is required for first launch",
-          "releaseChannel": "release",
-          "sha256": "0ad67f836463c96050e83f4f5c20eb7c6537a424292f915e9f560edb3a00bbe9",
-          "size": 9801794,
           "version": "v151.0.0",
-          "ipaBundleIdentifier": "com.sm64coopdx.ios"
+          "date": "2026-06-04T01:16:19Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.0.0/sm64coopdx.ipa",
+          "size": 9801794,
+          "sha256": "0ad67f836463c96050e83f4f5c20eb7c6537a424292f915e9f560edb3a00bbe9",
+          "upstreamAssetURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.0.0/sm64coopdx.ipa",
+          "sourceAssetName": "sm64coopdx.ipa",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
