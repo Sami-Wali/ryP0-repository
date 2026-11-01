@@ -8742,10 +8742,9 @@
       "localizedDescription": "GitHub project request: coflyn/Mori.",
       "name": "Mori",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
-        "checkedAt": "2026-11-01T08:47:58Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T08:48:45Z",
+        "message": "Private updater: The mobile update did not finish; it will be retried."
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
