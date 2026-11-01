@@ -14368,7 +14368,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-sm64coopdx-ios-60da0a8d",
-        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/tag/v1.1.0",
+        "sourceURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/tag/v1.0.0",
         "workflowPath": ".github/workflows/update-app-com-sm64coopdx-ios-60da0a8d.yml"
       },
       "bundleIdentifier": "com.sm64coopdx.ios",
@@ -14384,7 +14384,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
-        "checkedAt": "2026-11-01T01:05:42Z",
+        "checkedAt": "2026-11-01T01:06:10Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -14554,6 +14554,18 @@
           "size": 9681353,
           "sha256": "15a9c2e1f10d7f30587eb2a03644a100f70259cfdb2abfe58689ab5819648480",
           "upstreamAssetURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.1.0/sm64coopdx.ipa",
+          "sourceAssetName": "sm64coopdx.ipa",
+          "ipaBundleIdentifier": "com.sm64coopdx.ios",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v1.0.0",
+          "date": "2026-03-16T00:02:26Z",
+          "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.0.0/sm64coopdx.ipa",
+          "size": 9242596,
+          "sha256": "a7235c2e749e04848a85cebf1cbff861aa1483f549c207ade069af5aa90aee98",
+          "upstreamAssetURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.0.0/sm64coopdx.ipa",
           "sourceAssetName": "sm64coopdx.ipa",
           "ipaBundleIdentifier": "com.sm64coopdx.ios",
           "releaseChannel": "release",
