@@ -7947,8 +7947,8 @@
       "name": "Yuedu-reader",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T03:13:01Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T04:55:48Z",
+        "message": "Private updater: The mobile update did not finish; it will be retried."
       },
       "subtitle": "GitHub project request: CHANG-JUI-LIN/Yuedu-reader.",
       "updatePolicy": "daily",
