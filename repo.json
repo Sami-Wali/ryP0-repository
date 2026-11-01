@@ -4046,10 +4046,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-89132ca96fefd86ded3d81da828fffa6",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-IOS",
+        "configId": "project-89132ca96fefd86ded3d81da828fffa6",
+        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/actions/runs/40670374650",
         "workflowPath": ".github/workflows/update-app-project-89132ca96fefd86ded3d81da828fffa6.yml"
       },
       "bundleIdentifier": "com.gow3ios.app",
@@ -4069,14 +4069,28 @@
       "localizedDescription": "",
       "name": "god-of-war-3-IOS",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "checkedDownloadURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-65c7f75de0638ed3cf6eafccbede356e024644c3-eed51337ae78.ipa",
+        "checkedAt": "2026-11-01T14:50:35Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "65c7f75de0638ed3cf6eafccbede356e024644c3",
+          "date": "2026-10-28T10:13:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-65c7f75de0638ed3cf6eafccbede356e024644c3-eed51337ae78.ipa",
+          "size": 174221205,
+          "sha256": "eed51337ae78ce8a174a16b0b78330e2286854c5bf80da125badf68d3cbfb6be",
+          "upstreamAssetURL": "https://api.github.com/repos/MohinShaikh5689/god-of-war-3-ios/actions/artifacts/12808915667/zip",
+          "sourceAssetName": "gow3-ios-Release.ipa",
+          "sourceArchiveEntry": "gow3-ios-Release.ipa",
+          "sourceAppName": "Olympus",
+          "ipaBundleIdentifier": "com.gow3ios.app",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-25T08:10:46Z",
@@ -4090,6 +4104,9 @@
           "upstreamAssetURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
           "version": "0.1.46"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.gow3ios.app"
       ]
     },
     {
