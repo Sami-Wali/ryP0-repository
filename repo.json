@@ -18854,9 +18854,9 @@
     },
     {
       "automation": {
-        "configId": "jessi",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/b2",
+        "configId": "jessi",
+        "sourceURL": "https://github.com/Baconium/JESSI/releases/tag/1.1.2",
         "workflowPath": ".github/workflows/update-app-jessi.yml"
       },
       "bundleIdentifier": "com.baconium.jessi",
@@ -18868,10 +18868,10 @@
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/JESSI-icon.png",
       "name": "JESSI",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-11-01T07:16:44Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#4A90E2",
       "updatePolicy": "daily",
