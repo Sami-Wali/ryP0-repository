@@ -12108,7 +12108,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-23a4a1896aed4d9697dcb43e75a68334",
-        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.5.5",
+        "sourceURL": "https://github.com/kolbicz/Cyanide/releases/tag/v1.5.4",
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
@@ -12133,7 +12133,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.16.0/Cyanide-1.16.0.ipa",
-        "checkedAt": "2026-11-01T10:12:40Z",
+        "checkedAt": "2026-11-01T15:31:38Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
@@ -12465,6 +12465,18 @@
           "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1",
           "releaseChannel": "release",
           "buildVersion": "1005005"
+        },
+        {
+          "version": "v1.5.4",
+          "date": "2026-08-30T22:58:00Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.5.4/Cyanide-1.5.4.ipa",
+          "size": 6527017,
+          "sha256": "c6278f55ce7b4b662a67f801eb04ab2fe5d12004d62e937be553ee2ff0b7a851",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.5.4/Cyanide-1.5.4.ipa",
+          "sourceAssetName": "Cyanide-1.5.4.ipa",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1",
+          "releaseChannel": "release",
+          "buildVersion": "1005004"
         }
       ]
     },
