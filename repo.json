@@ -8119,9 +8119,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-6bb26cc94bd14bec92f0452fb7413d15",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader",
+        "configId": "app-6bb26cc94bd14bec92f0452fb7413d15",
+        "sourceURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/tag/v1.0.4-2",
         "workflowPath": ".github/workflows/update-app-app-6bb26cc94bd14bec92f0452fb7413d15.yml"
       },
       "bundleIdentifier": "com.zhangruilin.yuedureader",
@@ -8140,13 +8140,26 @@
       "localizedDescription": "GitHub project request: CHANG-JUI-LIN/Yuedu-reader.",
       "name": "Yuedu-reader",
       "status": {
-        "checkedAt": "2026-11-01T04:55:48Z",
-        "message": "Private updater: The mobile update did not finish; it will be retried.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+        "checkedAt": "2026-11-01T08:49:25Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: CHANG-JUI-LIN/Yuedu-reader.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.4-2",
+          "date": "2026-05-31T18:45:55Z",
+          "downloadURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+          "size": 22795452,
+          "sha256": "9a1814a2013ec085e9ff36b9cd56fe7525e05ae8d59ce17bb4d4fb307bb3b3bd",
+          "upstreamAssetURL": "https://github.com/CHANG-JUI-LIN/Yuedu-reader/releases/download/v1.0.4-2/YueduReader.ipa",
+          "sourceAssetName": "YueduReader.ipa",
+          "ipaBundleIdentifier": "com.zhangruilin.yuedureader",
+          "releaseChannel": "release",
+          "buildVersion": "2"
+        },
         {
           "buildVersion": "2",
           "date": "2026-05-31T18:45:55Z",
@@ -8155,8 +8168,12 @@
           "releaseChannel": "release",
           "sha256": "9a1814a2013ec085e9ff36b9cd56fe7525e05ae8d59ce17bb4d4fb307bb3b3bd",
           "size": 22795452,
-          "version": "1.0.4"
+          "version": "1.0.4",
+          "ipaBundleIdentifier": "com.zhangruilin.yuedureader"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.zhangruilin.yuedureader"
       ]
     },
     {
