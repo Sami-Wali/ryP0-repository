@@ -15830,10 +15830,9 @@
       "localizedDescription": "",
       "name": "PSX3IOS",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:05:51Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "updatePolicy": "daily",
