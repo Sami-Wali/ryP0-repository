@@ -11052,7 +11052,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-9a2ffddfb1834d8998699fec4fcba929",
-        "sourceURL": "https://github.com/chrissotraidis/bluewake/releases/tag/v0.2.0",
+        "sourceURL": "https://github.com/chrissotraidis/bluewake/releases/tag/v0.1.0",
         "workflowPath": ".github/workflows/update-app-app-9a2ffddfb1834d8998699fec4fcba929.yml"
       },
       "bundleIdentifier": "dev.bluewake.BlueWake",
@@ -11076,7 +11076,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
-        "checkedAt": "2026-11-01T05:18:18Z",
+        "checkedAt": "2026-11-01T05:18:35Z",
         "message": "Updated by private automation"
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
@@ -11178,6 +11178,18 @@
           "ipaBundleIdentifier": "dev.bluewake.BlueWake",
           "releaseChannel": "release",
           "buildVersion": "3"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-09-29T13:53:58Z",
+          "downloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.1.0/BlueWake-v0.1.0-ios-unsigned.ipa",
+          "size": 5524097,
+          "sha256": "6593cf51c0353cc2a22f01178d22c60910a87f402d059758e9b6297d2fd49f24",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.1.0/BlueWake-v0.1.0-ios-unsigned.ipa",
+          "sourceAssetName": "BlueWake-v0.1.0-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.bluewake.BlueWake",
+          "releaseChannel": "release",
+          "buildVersion": "2"
         }
       ]
     },
