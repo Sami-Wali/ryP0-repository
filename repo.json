@@ -17765,7 +17765,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41031146044",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41009138836",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -17782,7 +17782,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-cb0b7b9ff5e74d1afa2234a3b00dc426a37ff512-5e4a73f05723.ipa",
-        "checkedAt": "2026-11-01T22:21:05Z",
+        "checkedAt": "2026-11-01T22:24:11Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -17975,6 +17975,18 @@
           "size": 206824755,
           "sha256": "9f2995ec2e04eb4080ae410f305e42f854ebb08815f5e3bd7e386583bf0e77e6",
           "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/12965704023/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
+        },
+        {
+          "version": "d1334027e5a242ea731f191a34400fb305ea2c23",
+          "date": "2026-10-30T05:34:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-d1334027e5a242ea731f191a34400fb305ea2c23-baff4bed89b9.ipa",
+          "size": 206790028,
+          "sha256": "baff4bed89b97a3e32394930a428bed3ee5e9120cf1c5c4276c8fd166697449b",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/12956654216/zip",
           "sourceAssetName": "Madeira.ipa",
           "ipaBundleIdentifier": "com.willfaust.madeora",
           "releaseChannel": "actions",
