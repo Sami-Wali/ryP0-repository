@@ -16170,10 +16170,10 @@
       },
       "name": "MCX360 Edition",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-11-01T07:19:47Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
