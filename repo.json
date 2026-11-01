@@ -18631,7 +18631,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "xenios",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v1.0.0-build-9299",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v1.0.0-build-9296",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "bundleIdentifier": "com.xenios.app",
@@ -18651,7 +18651,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios.ipa",
-        "checkedAt": "2026-11-01T11:45:42Z",
+        "checkedAt": "2026-11-01T11:46:19Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
@@ -18773,15 +18773,16 @@
           "buildVersion": "9299"
         },
         {
-          "buildVersion": "9296",
-          "date": "2026-03-11T07:56:49Z",
+          "version": "release-v1.0.0-build-9296",
+          "date": "2026-03-11T07:58:16Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9296-3d632d377c4e.ipa",
-          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
-          "localizedDescription": "# 1.0.0-9296 - Channel: release - Stage: stable - Version: 1.0.0 - Build number: 9296 - Commit: ab2ca341a - Published at: 2026-03-11T07:38:28Z - Source ref: refs/heads/xenios",
-          "releaseChannel": "release",
-          "sha256": "3d632d377c4ec8d7d80dd5d98f151f23dd126fdbdf962b7170224277078fe2a5",
           "size": 11702513,
-          "version": "release-v1.0.0-build-9296"
+          "sha256": "3d632d377c4ec8d7d80dd5d98f151f23dd126fdbdf962b7170224277078fe2a5",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9296/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "jp.xenios.xenios.ios",
+          "releaseChannel": "release",
+          "buildVersion": "9296"
         },
         {
           "buildVersion": "9280",
