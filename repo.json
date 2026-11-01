@@ -17171,9 +17171,9 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "checkedAt": "2026-11-01T03:13:54Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T06:10:50Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
