@@ -8926,7 +8926,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/38748018925",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/tag/v1.1.0",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "bundleIdentifier": "com.yihoooong.airliftsilence",
@@ -8950,7 +8950,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
-        "checkedAt": "2026-11-01T10:53:24Z",
+        "checkedAt": "2026-11-01T10:53:44Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
@@ -8992,15 +8992,16 @@
           "buildVersion": "4"
         },
         {
-          "buildVersion": "3",
-          "date": "2026-10-15T13:48:52Z",
+          "version": "v1.1.0",
+          "date": "2026-10-15T13:49:04Z",
           "downloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.0/AirliftSilence-v1.1.0.ipa",
-          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
-          "localizedDescription": "## Shortcuts and Siri The app now ships App Intents, so it appears in the Shortcuts app as actions of its own: | Shortcut action | Notes | |---|---| | *Call-recording announcement* | one step with an **Action** menu: Check / Silence / Restore | | *Silence the call-recording announcements* | no parameters — the one to put on the Home Screen | | *Restore the call-recording announcements* | no parameters | Each action returns the outcome as text (`Call-recording announcements: Silenced`, …), so a Shortcut can branch on it or show it in a notification. Siri phrases are registered in both languages, e.g. *\"AirliftSilence 去掉通话录音提示音\"*. The intents open the app when they run. That is deliberate: a run is a long device-side session, and an iOS background intent is cut off after a few seconds, which would tear the tunnel down mid-transfer. There is also a URL scheme, for anything that can only open a URL (an *Open URLs* action, a launcher, a bookmark): ``` airliftsilence://check airliftsilence://silence airliftsilence://restore ``` ## Languages English is now the development language, with a Simplified Chinese translation. The interface, the pairing status lines, the run log and the Local Network permission prompt all follow the system language. Adding another language means copying `en.lproj`, translating the values and re-running `xcodegen generate` — see [Languages](https://github.com/YiHoooong/AirliftSilence-iOS#languages). ## Also in this release - **`StartDisclosure.caf` is covered too.** All three announcements iOS plays during call recording are replaced now, not just two. `Greeting.caf` and `GreetingWithTone.m4a` sit in the same folder and are still deliberately left alone — those are voicemail greetings. - **Runs are serialised.** A Shortcut that arrives while the app is still checking waits its turn; the device only tolerates one exploit session at a time. - A check reads three files instead of two, so the check after launch takes a little longer. Unchanged: the periodic reminder twinkle (`recurringDisclosureTwinkle.caf`) lives on the sealed system volume and cannot be replaced by this exploit. ## Install Unsigned on purpose — re-sign with AltStore, SideStore, Sideloadly, … iOS 18.0 – 27.2 beta 2 only (Apple patched the exploit in 27.2 beta 3). The official Apple Books app has to be installed and opened once, and LocalDevVPN has to be running in loopback mode. ``` AirliftSilence-v1.1.0.ipa 3,340,425 bytes sha256 b5b658cfc00b70b61e8727cc09112517fec06ef34e0320fd031fb2886e9b44b5 ```",
-          "releaseChannel": "release",
-          "sha256": "b5b658cfc00b70b61e8727cc09112517fec06ef34e0320fd031fb2886e9b44b5",
           "size": 3340425,
-          "version": "v1.1.0"
+          "sha256": "b5b658cfc00b70b61e8727cc09112517fec06ef34e0320fd031fb2886e9b44b5",
+          "upstreamAssetURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.0/AirliftSilence-v1.1.0.ipa",
+          "sourceAssetName": "AirliftSilence-v1.1.0.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ]
     },
