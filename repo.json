@@ -9559,10 +9559,9 @@
       },
       "name": "LiveContainer+SideStore",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:08:51Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "updatePolicy": "daily",
       "versions": [
