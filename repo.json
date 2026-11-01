@@ -8681,7 +8681,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-f8914557173c4e2593cd39a01e9dafc9",
-        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.4.1",
+        "sourceURL": "https://github.com/bep1s69/nfsmw-ios/releases/tag/v0.3.0",
         "workflowPath": ".github/workflows/update-app-app-f8914557173c4e2593cd39a01e9dafc9.yml"
       },
       "bundleIdentifier": "com.bep1s.nfsmwios",
@@ -8705,7 +8705,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.2/NFSMW.ipa",
-        "checkedAt": "2026-11-01T04:43:46Z",
+        "checkedAt": "2026-11-01T04:45:46Z",
         "message": "Updated by private automation"
       },
       "subtitle": "This is the static recompilation port for NFSMW 2005 I’m actively working on and maintaining on GitHub",
@@ -8748,6 +8748,18 @@
           "sourceAssetName": "NFSMW.ipa",
           "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.4.0/NFSMW.ipa",
           "version": "v0.4.0"
+        },
+        {
+          "version": "v0.3.0",
+          "date": "2026-10-14T16:35:17Z",
+          "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
+          "size": 29891937,
+          "sha256": "5823fd26d7b9a1bac32e66265a6d879c1b9d21f02462e25b3ba66ad02ffae1ac",
+          "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.3.0/NFSMW.ipa",
+          "sourceAssetName": "NFSMW.ipa",
+          "ipaBundleIdentifier": "com.bep1s.nfsmwios",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ]
     },
