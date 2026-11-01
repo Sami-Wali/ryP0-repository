@@ -10099,7 +10099,7 @@
       "name": "LiveContainer",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T05:19:10Z",
+        "checkedAt": "2026-11-01T05:19:15Z",
         "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "updatePolicy": "daily",
