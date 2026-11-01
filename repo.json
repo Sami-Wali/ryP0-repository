@@ -266,7 +266,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-d2dff9789ad212c53a39e57f69ebab7a",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/stossy11/MeloCafe/releases/tag/1.0",
         "workflowPath": ".github/workflows/update-app-project-d2dff9789ad212c53a39e57f69ebab7a.yml"
