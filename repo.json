@@ -14196,7 +14196,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "pl-adrian-factoriopad-d630d10c",
-        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.2.1",
+        "sourceURL": "https://github.com/MyNameIsArko/FactorioPad/releases/tag/v2.1.2",
         "workflowPath": ".github/workflows/update-app-pl-adrian-factoriopad-d630d10c.yml"
       },
       "bundleIdentifier": "pl.adrian.FactorioPad",
@@ -14214,9 +14214,10 @@
       "localizedDescription": "",
       "name": "Factorio",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-10-31T23:07:47Z",
-        "message": "Private updater: The read operation timed out"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
+        "checkedAt": "2026-11-01T01:14:16Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -14296,15 +14297,16 @@
           "version": "v2.1.3"
         },
         {
-          "buildVersion": "8",
-          "date": "2026-10-07T15:30:40Z",
+          "version": "v2.1.2",
+          "date": "2026-10-07T15:30:49Z",
           "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.2/FactorioPad-template.ipa",
-          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
-          "localizedDescription": "More texture compression fixes",
-          "releaseChannel": "release",
-          "sha256": "2758e5dbfd52b83a67df1e040499fd8b28dbab81c2860b77a065246352a961a6",
           "size": 2884088,
-          "version": "v2.1.2"
+          "sha256": "2758e5dbfd52b83a67df1e040499fd8b28dbab81c2860b77a065246352a961a6",
+          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.1.2/FactorioPad-template.ipa",
+          "sourceAssetName": "FactorioPad-template.ipa",
+          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
+          "releaseChannel": "release",
+          "buildVersion": "8"
         },
         {
           "buildVersion": "7",
