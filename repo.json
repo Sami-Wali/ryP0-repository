@@ -21,6 +21,20 @@
           "sourceAssetName": "lara.ipa",
           "ipaBundleIdentifier": "com.roooot.lara",
           "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa"
+        },
+        {
+          "version": "879e3fae0822776d1f75f91d9f2d1aee505f339e",
+          "date": "2026-09-25T21:20:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/lara-nightly-449173643ae6.ipa",
+          "size": 6928809,
+          "sha256": "449173643ae67c926886c5320a279d8829603228c4085cef49af2f2db1d67869",
+          "upstreamAssetURL": "https://api.github.com/repos/rooootdev/lara/actions/artifacts/10887743379/zip",
+          "sourceAssetName": "lara.ipa",
+          "sourceArchiveEntry": "lara.ipa",
+          "sourceAppName": "lara",
+          "ipaBundleIdentifier": "com.roooot.lara",
+          "releaseChannel": "actions",
+          "buildVersion": "Release"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.roooot.lara-449173643ae6.png",
@@ -30,8 +44,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa",
-        "checkedAt": "2026-11-01T15:27:02Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-01T15:27:42Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +59,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b416d05023df784e700b8ecc6bde8ca7",
-        "sourceURL": "https://github.com/rooootdev/lara",
+        "sourceURL": "https://github.com/rooootdev/lara/actions/runs/36191035585",
         "workflowPath": ".github/workflows/update-app-project-b416d05023df784e700b8ecc6bde8ca7.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.roooot.lara"
+      ]
     },
     {
       "name": "GetMoreRam",
