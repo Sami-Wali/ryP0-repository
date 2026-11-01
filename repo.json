@@ -11194,9 +11194,8 @@
       "name": "TiebaPure-iOS",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T03:14:07Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "updatePolicy": "daily",
