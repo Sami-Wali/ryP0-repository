@@ -15841,7 +15841,7 @@
       "name": "Manic EMU",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T10:52:31Z",
+        "checkedAt": "2026-11-01T15:59:13Z",
         "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
       },
       "subtitle": "",
