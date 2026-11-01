@@ -16511,9 +16511,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-mafty-dukex-a9bdf44b",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v0.1.5",
+        "configId": "com-mafty-dukex-a9bdf44b",
+        "sourceURL": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v1.0.2",
         "workflowPath": ".github/workflows/update-app-com-mafty-dukex-a9bdf44b.yml"
       },
       "bundleIdentifier": "com.mafty.dukex",
@@ -16531,10 +16531,10 @@
       "localizedDescription": "",
       "name": "DukeX",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "checkedAt": "2026-11-01T07:18:09Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
