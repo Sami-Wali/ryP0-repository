@@ -16758,9 +16758,8 @@
       "name": "DolphiniOS (nightly)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T03:14:15Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "tintColor": "#007AFF",
       "updatePolicy": "daily",
