@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "lara",
+      "catalogID": "project-b416d05023df784e700b8ecc6bde8ca7",
+      "bundleIdentifier": "com.roooot.lara",
+      "developerName": "rooootdev",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "0.2",
+          "date": "2026-09-25T21:21:54Z",
+          "downloadURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa",
+          "size": 6928809,
+          "buildVersion": "Release",
+          "releaseChannel": "nightly",
+          "sha256": "449173643ae67c926886c5320a279d8829603228c4085cef49af2f2db1d67869",
+          "sourceAppName": "lara",
+          "sourceAssetName": "lara.ipa",
+          "ipaBundleIdentifier": "com.roooot.lara",
+          "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.roooot.lara-449173643ae6.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa",
+        "checkedAt": "2026-11-01T15:27:02Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa",
+        "sourceURL": "https://github.com/rooootdev/lara"
+      },
+      "githubURL": "https://github.com/rooootdev/lara",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b416d05023df784e700b8ecc6bde8ca7",
+        "sourceURL": "https://github.com/rooootdev/lara",
+        "workflowPath": ".github/workflows/update-app-project-b416d05023df784e700b8ecc6bde8ca7.yml"
+      }
+    },
+    {
       "name": "GetMoreRam",
       "catalogID": "project-659ed21b715288931fb5cb23b0d1033c",
       "bundleIdentifier": "com.aigch.getMoreRam",
