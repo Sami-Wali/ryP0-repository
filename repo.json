@@ -8718,9 +8718,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/coflyn/Mori/actions/runs/38666878219",
+        "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
+        "sourceURL": "https://github.com/coflyn/Mori/releases/tag/v4.4.0",
         "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
       },
       "bundleIdentifier": "com.mori.downloader",
@@ -8742,9 +8742,10 @@
       "localizedDescription": "GitHub project request: coflyn/Mori.",
       "name": "Mori",
       "status": {
-        "checkedAt": "2026-11-01T04:55:02Z",
-        "message": "Private updater: The mobile update did not finish; it will be retried.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
+        "checkedAt": "2026-11-01T08:47:58Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
@@ -8809,15 +8810,16 @@
           "version": "4.5.0"
         },
         {
-          "buildVersion": "20",
-          "date": "2026-09-30T22:16:05Z",
+          "version": "v4.4.0",
+          "date": "2026-09-30T22:18:06Z",
           "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.4.0/Mori-v4.4.0-iOS-Unsigned.ipa",
-          "ipaBundleIdentifier": "com.mori.downloader",
-          "localizedDescription": "What's New in v4.4.0 - Custom Fullscreen Video Player: Replaced native WebView fullscreen with a custom cross-platform player featuring a title header, 60fps seek scrubbing, mute toggle, and back-button / Esc navigation - Batch Photo Download & PDF Export: Concurrently download all photos in carousels/slides (Instagram, TikTok, Pixiv, Douyin, RedNote) or compile them into a single PDF document - Reddit & TeraBox Platform Support: Added 2 new platforms (16 total) supporting RapidSave Reddit media and Sechno TeraBox folder and file extraction - Floating Download Bubble: Persistent monochrome floating bubble tracking up to 5 concurrent downloads with live progress rings - Concurrent Download Pool: Full concurrent download pool (up to 5 for photos/files, up to 3 for audio/video playlists) with safe rate-limit pacing - Scraper Engine Architecture: Removed binary obfuscation/encryption layer in favor of plain bundled JavaScript (bundle.js) with deterministic OTA hot-patching - Spotify Engine Provider: Migrated Server 2 (SoundLoaders) to the active spotimate.app backend with multipart token authentication - Threads Downloader: Resolved payload serialization mismatch on Android native bridges and preserved direct CDN streaming to prevent Instagram 403 Forbidden errors - YTMP3 Downloader: Separated format conversions into sequential calls with cache-busting and handled dynamic redirect loops - Bandcamp Downloader: Migrated to dynamic /get/token API and standard multipart form submissions - Multi-Photo Overwrite Collision: Appended slide index (_${photoIdx}) to filenames and unique temp file names (.tmp) to prevent file overwrite collisions during 1-by-1 downloads - History Multi-Photo Previews: Fixed duplicate slide preview in History modal where Image 1 was mistakenly repeated across all slide previews - History Card Thumbnails: Fixed broken thumbnail icons on History cards for downloaded multi-photo sets via Capacitor URI mapping - Offline History Playback: Enforced strictly offline media playback, suppressing remote network fallback and remote poster requests when viewing downloaded items - False Missing File Status: Guarded showMissingStatus() in result modals to prevent false missing warnings on un-downloaded items - Nested Directory Prefix: Resolved duplicate directory prefixes (Download/Download/Mori -> Download/Mori) in PDF export and temp file cleanup",
-          "releaseChannel": "release",
-          "sha256": "bdd98a17fc151d97d02c9d9d4d30511672319f9b760badafe82a80dcdcc548e1",
           "size": 1662745,
-          "version": "v4.4.0"
+          "sha256": "bdd98a17fc151d97d02c9d9d4d30511672319f9b760badafe82a80dcdcc548e1",
+          "upstreamAssetURL": "https://github.com/coflyn/Mori/releases/download/v4.4.0/Mori-v4.4.0-iOS-Unsigned.ipa",
+          "sourceAssetName": "Mori-v4.4.0-iOS-Unsigned.ipa",
+          "ipaBundleIdentifier": "com.mori.downloader",
+          "releaseChannel": "release",
+          "buildVersion": "20"
         }
       ]
     },
