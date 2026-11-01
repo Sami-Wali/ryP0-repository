@@ -8589,8 +8589,8 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T03:11:34Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T04:49:22Z",
+        "message": "Private updater: The mobile update did not finish; it will be retried."
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
