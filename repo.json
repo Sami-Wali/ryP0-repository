@@ -6215,10 +6215,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release1",
+        "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.2.0",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "bundleIdentifier": "com.example.piliplus",
@@ -6238,14 +6238,27 @@
       "localizedDescription": "",
       "name": "PiliPlus",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_ios_2.2.0%2B5580.ipa",
+        "checkedAt": "2026-11-01T14:07:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2026-11-01T07:35:52Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_ios_2.2.0%2B5580.ipa",
+          "size": 24921912,
+          "sha256": "0347ddd64da484d342827df1b028ae90b1e6fc356a7514b5c4f268e01b363cb9",
+          "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_ios_2.2.0%2B5580.ipa",
+          "sourceAssetName": "PiliPlus_ios_2.2.0+5580.ipa",
+          "sourceAppName": "PiliPlus",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "releaseChannel": "release",
+          "buildVersion": "5580"
+        },
         {
           "buildVersion": "5472",
           "date": "2026-10-10T13:12:25Z",
@@ -8196,6 +8209,10 @@
           "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/release1/ios-release-no-sign.ipa",
           "version": "release1"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.example.piliplus",
+        "com.example.pilipalax"
       ]
     },
     {
