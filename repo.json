@@ -16961,7 +16961,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-husk-app-9d1f0d0c",
-        "sourceURL": "https://github.com/Leviidev/Husk/releases/tag/0.5.1",
+        "sourceURL": "https://github.com/Leviidev/Husk/actions/runs/37160149558",
         "workflowPath": ".github/workflows/update-app-com-husk-app-9d1f0d0c.yml"
       },
       "bundleIdentifier": "com.husk.app",
@@ -16981,7 +16981,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
-        "checkedAt": "2026-11-01T09:32:19Z",
+        "checkedAt": "2026-11-01T09:33:19Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -17172,6 +17172,18 @@
           "sourceAssetName": "Husk.ipa",
           "ipaBundleIdentifier": "com.husk.app",
           "releaseChannel": "release",
+          "buildVersion": "2"
+        },
+        {
+          "version": "d03585246cd2c886b08f30cc08c265fb0cc28884",
+          "date": "2026-10-03T22:57:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-husk-app-9d1f0d0c-d03585246cd2c886b08f30cc08c265fb0cc28884-da14ffc4f89c.ipa",
+          "size": 40358204,
+          "sha256": "da14ffc4f89c5b20ac5cfcc1e46f5b3fca4005c5d11ea7ff31e44184ed15c9f4",
+          "upstreamAssetURL": "https://api.github.com/repos/Leviidev/Husk/actions/artifacts/11287059772/zip",
+          "sourceAssetName": "Husk.ipa",
+          "ipaBundleIdentifier": "com.husk.app",
+          "releaseChannel": "actions",
           "buildVersion": "2"
         }
       ]
