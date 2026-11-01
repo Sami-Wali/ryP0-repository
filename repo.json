@@ -4050,7 +4050,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/34332581470",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/34102316440",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       },
       "bundleIdentifier": "com.opa334.Dopamine-roothide",
@@ -4075,7 +4075,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/29/Dopamine.tipa",
-        "checkedAt": "2026-11-01T04:21:12Z",
+        "checkedAt": "2026-11-01T04:22:42Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
@@ -4236,6 +4236,20 @@
           "size": 54736866,
           "sha256": "6d50a8643cca742dc43d1ba1909e53349b877001bd1af72ce226169ae85224a9",
           "upstreamAssetURL": "https://api.github.com/repos/roothide/Dopamine-roothide/actions/artifacts/10096689130/zip",
+          "sourceAssetName": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
+          "sourceArchiveEntry": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
+        {
+          "version": "f72767b369c6440e0683439d78c25255e1d37012",
+          "date": "2026-09-07T08:45:41Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-f72767b369c6440e0683439d78c25255e1d37012-3dc9226ccbaa.ipa",
+          "size": 54736840,
+          "sha256": "3dc9226ccbaa621f5820d4296ee5fa5b86840fb8092a92689a346b21ceb4e324",
+          "upstreamAssetURL": "https://api.github.com/repos/roothide/Dopamine-roothide/actions/artifacts/10011291676/zip",
           "sourceAssetName": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
           "sourceArchiveEntry": "roothide-Dopamine-2.4.8.21-44d398a.tipa",
           "sourceAppName": "Dopamine",
