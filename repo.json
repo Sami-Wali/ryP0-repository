@@ -10550,7 +10550,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-8db2c3605eae44bc87ee9ea3d15d9c43",
-        "sourceURL": "https://github.com/RyanYuuki/AnymeX/actions/runs/40560199803",
+        "sourceURL": "https://github.com/RyanYuuki/AnymeX/releases/tag/v3.1.9",
         "workflowPath": ".github/workflows/update-app-app-8db2c3605eae44bc87ee9ea3d15d9c43.yml"
       },
       "bundleIdentifier": "com.ryan.anymex",
@@ -10574,7 +10574,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
-        "checkedAt": "2026-11-01T02:34:28Z",
+        "checkedAt": "2026-11-01T02:35:21Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: RyanYuuki/AnymeX.",
@@ -10605,17 +10605,16 @@
           "buildVersion": "42"
         },
         {
-          "buildVersion": "41",
-          "date": "2026-10-25T19:43:42Z",
+          "version": "v3.1.9",
+          "date": "2026-10-25T19:44:00Z",
           "downloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.9/AnymeX-iOS-v3.1.9.ipa",
-          "ipaBundleIdentifier": "com.ryan.anymex",
-          "localizedDescription": "### 🆕 Changelog ### 🌟 Features - [֍](https://github.com/RyanYuuki/AnymeX/commit/80f279c6) enhanced downloads ui and ux by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/9c04ca66) runtime bridge support for IOS (thanks to dartotsu) by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/9a109267) mpv config, some fixes and ui changes by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/538c3538) torrent download support by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/55b6b13f) online subtitles back again by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/07b88757) audio delay support by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/429a43ee) cold cache for instant load by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/1a21ab40) network settings (dns, proxy, tls ts) by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/5d44cc54) donation page for my broke ass by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/b6131248) markdown, reply support, moderation tools, and settings UI notifications & unread badges (comments) (#416) by @Shebyyy - [֍](https://github.com/RyanYuuki/AnymeX/commit/5c6465d5) kotatsu, aniyomi backup support by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/8346d033) backup and restore full support by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/3bc096c2) addons support (torrent) = practically nothing changes just 1 extra step for torrent by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/6a91e1ef) dock drag-to-reorder and history card poster navigation to details (#595) by @Shebyyy ### 🔧 Bug Fixes & Improvements - [֍](https://github.com/RyanYuuki/AnymeX/commit/e4d0b981) fixed duplicate media entry, nearest download bug, overall enhancement by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/fb6b505a) fixed ios flashing during navigation by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/eba12ae1) fixed abrupt crashes by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/2d28d284) fixed cancelling downloads still running in background by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/f158ab90) fixed cf backing out on its own by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/511910e9) fixed random crashes by sources by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/b61a3b8b) guarding class members and backup backward compatibility patch by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/45b1b544) fixed ios discord login issue and auto save al settings by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/5d82148d) fixed romaji title on details and offline media when english is selected by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/7d092307) fixed comments showing input for non logged in user, bad lifecycle causing grey screens by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/296a2787) proper error handler on anime and manga pages by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/4e7fb2e7) fixed syntax issue by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/b000bd37) fixed deleting media not working sometime by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/f207ce8e) improved dc rich presence fixed some issues by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/9672d46b) progress not syncing when reading offline manga fixed by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/cda59ce9) repeating status change fix when reading by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/4f64fe02) series type mismatch on simkl by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/7e1f4617) fixed offline reader crash by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/commit/bf46b551) fixed login crash, torrserver issues by @RyanYuuki - [֍](https://github.com/RyanYuuki/AnymeX/comm",
-          "releaseChannel": "release",
-          "sha256": "057dbcd47f9e6c56ce57d88934450c7557b4d4c848e731961466cb79a1615b1d",
           "size": 81113053,
-          "sourceAssetName": "AnymeX-iOS-v3.1.9.ipa",
+          "sha256": "057dbcd47f9e6c56ce57d88934450c7557b4d4c848e731961466cb79a1615b1d",
           "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.9/AnymeX-iOS-v3.1.9.ipa",
-          "version": "v3.1.9"
+          "sourceAssetName": "AnymeX-iOS-v3.1.9.ipa",
+          "ipaBundleIdentifier": "com.ryan.anymex",
+          "releaseChannel": "release",
+          "buildVersion": "41"
         },
         {
           "buildVersion": "40",
