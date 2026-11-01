@@ -11017,9 +11017,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/tag/v1.35.0",
+        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/38678184573",
         "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
       },
       "bundleIdentifier": "com.coolapk.desktop",
@@ -11043,7 +11043,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
-        "checkedAt": "2026-11-01T01:51:55Z",
+        "checkedAt": "2026-11-01T01:53:12Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
@@ -11059,6 +11059,18 @@
           "sourceAssetName": "coolapk-v1.35.0-ios-arm64-unsigned.ipa",
           "ipaBundleIdentifier": "com.coolapk.desktop",
           "releaseChannel": "release",
+          "buildVersion": "135.9.99"
+        },
+        {
+          "version": "c71c5c98e1fe6705e4edb43609192e13f7492a5e",
+          "date": "2026-10-15T03:48:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-9e5a03c8b94b43bbad52fb5f15cc6a87-c71c5c98e1fe6705e4edb43609192e13f7492a5e-3c1ddcb04bfe.ipa",
+          "size": 8021392,
+          "sha256": "3c1ddcb04bfef77990a228404c0d11e54fc1cc3cf879296f2571532769059a75",
+          "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11946741993/zip",
+          "sourceAssetName": "coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+          "ipaBundleIdentifier": "com.coolapk.desktop",
+          "releaseChannel": "actions",
           "buildVersion": "135.9.99"
         },
         {
