@@ -19770,13 +19770,14 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.5.0",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v0.2.6",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
       "bundleIdentifiers": [
         "com.frizzlem.sideinstaller",
-        "com.frizzle.sideinstaller"
+        "com.frizzle.sideinstaller",
+        "com.example.sideinstaller"
       ],
       "category": "Sideloading",
       "developerName": "FrizzleM",
@@ -19785,7 +19786,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
-        "checkedAt": "2026-11-01T15:43:05Z",
+        "checkedAt": "2026-11-01T15:44:57Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
@@ -20148,6 +20149,18 @@
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.5.0/SideInstaller.ipa",
           "sourceAssetName": "SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzle.sideinstaller",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.2.6",
+          "date": "2026-06-28T14:34:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.2.6-21c30fbc4f89.ipa",
+          "size": 7474250,
+          "sha256": "21c30fbc4f8925a5d419ed2b18f27df6111f36989a7c5c1c88ceb897c6d2e3fd",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.6/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "ipaBundleIdentifier": "com.example.sideinstaller",
           "releaseChannel": "release",
           "buildVersion": "1"
         }
