@@ -15964,10 +15964,9 @@
       "localizedDescription": "",
       "name": "DukeX",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
-        "checkedAt": "2026-10-31T21:59:36Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:05:34Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "updatePolicy": "daily",
