@@ -3230,7 +3230,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.9.7",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/actions/runs/41279848396",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "bundleIdentifier": "com.defnf.icopc",
@@ -3255,7 +3255,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.7/ico-pc-v0.9.7-ios-unsigned.ipa",
-        "checkedAt": "2026-11-01T06:37:13Z",
+        "checkedAt": "2026-11-01T06:37:37Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -3272,6 +3272,20 @@
           "sourceAppName": "ICO",
           "ipaBundleIdentifier": "com.defnf.icopc",
           "releaseChannel": "release",
+          "buildVersion": "0.9.7"
+        },
+        {
+          "version": "7cd3b1d5dbf3320b25c54f3c2b7eeea7b0f984d5",
+          "date": "2026-11-01T06:12:03Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-2b683ab30368a9600fd53fe715fbcda5-7cd3b1d5dbf3320b25c54f3c2b7eeea7b0f984d5-3ec810f7e749.ipa",
+          "size": 8262455,
+          "sha256": "3ec810f7e749f0937fd91ea6c838e6d985e28cf69d24fcb6895fcc94a0c171fd",
+          "upstreamAssetURL": "https://api.github.com/repos/nathanialf/ico-pc/actions/artifacts/13072832089/zip",
+          "sourceAssetName": "ico-pc-v0.9.7-ios-unsigned.ipa",
+          "sourceArchiveEntry": "ico-pc-v0.9.7-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "actions",
           "buildVersion": "0.9.7"
         },
         {
