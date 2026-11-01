@@ -18964,7 +18964,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "sideinstaller",
-        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.3.1",
+        "sourceURL": "https://github.com/FrizzleM/SideInstaller/releases/tag/v1.3.0",
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
@@ -18978,7 +18978,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
-        "checkedAt": "2026-11-01T11:24:50Z",
+        "checkedAt": "2026-11-01T11:25:40Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#FF2D55",
@@ -19153,15 +19153,16 @@
           "buildVersion": "1"
         },
         {
-          "buildVersion": "1",
+          "version": "v1.3.0",
           "date": "2026-10-05T18:55:57Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.0-fa10e9c3c280.ipa",
-          "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
-          "localizedDescription": "# Main changes: - Switched app signing to apple-codesign-quick (the same signer iLoader uses) - Signing is about 6-9x faster - SideInstaller is about 5 MB smaller - Popups that appear together are now merged into one card - The pairing code and its Settings steps are now one popup - An error and its fix steps are now one popup - The \"Installed\" message, the trust step and LiveContainer's certificate import are now one \"Success: last steps\" popup - Added clear explanations and steps for more errors - Apple Accounts that are too young to use developer services (error 1102) - Running out of App IDs for the week (error 9120) - Already having 3 apps installed with a free Apple ID - Logging in now automatically retries when Apple temporarily rate limits it (HTTP 429) - Added PanicAnalyzer to the apps that can receive the pairing file ## Fixes: - Fixed LiveContainer + SideStore not downloading while the official LiveContainer GitHub is down (it now uses a temporary mirror, which only has the nightly build) - Fixed imported .ipa files with spaces, symbols or non-Latin letters in their name failing to sign (error 35) - Fixed some imported .ipa files that still had parts of an old signature failing to install - Fixed Side by Side: when two people pair the same iPhone, the second one no longer breaks the first one's pairing - Fixed not being able to revoke \"Apple Development\" certificates (the ones Xcode makes) in the Certificates tool (error 7252) - Fixed AutoFill filling in the email and password separately on the login page",
-          "releaseChannel": "release",
-          "sha256": "fa10e9c3c280651e8af3bd3e842ed89573a218ea29488d6a9b3be2f16c931773",
           "size": 8883213,
-          "version": "v1.3.0"
+          "sha256": "fa10e9c3c280651e8af3bd3e842ed89573a218ea29488d6a9b3be2f16c931773",
+          "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.3.0/SideInstaller.ipa",
+          "sourceAssetName": "SideInstaller.ipa",
+          "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ]
     },
