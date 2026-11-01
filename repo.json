@@ -17317,7 +17317,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "dolphinios",
-        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b2",
+        "sourceURL": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v4.0.0b1",
         "workflowPath": ".github/workflows/update-app-dolphinios.yml"
       },
       "bundleIdentifier": "me.oatmealDome.DolphiniOS",
@@ -17332,7 +17332,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios.ipa",
-        "checkedAt": "2026-11-01T07:15:14Z",
+        "checkedAt": "2026-11-01T07:15:40Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#007AFF",
@@ -17512,6 +17512,18 @@
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "buildVersion": "8"
+        },
+        {
+          "version": "4.0.0b1",
+          "date": "2023-01-08T20:24:05Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b1-7e2ea359d3bf.ipa",
+          "size": 13147368,
+          "sha256": "7e2ea359d3bf8b7be829587840af998da5e41d0e683e741023d78c55c0306f59",
+          "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b1/Non-Jailbroken.ipa",
+          "sourceAssetName": "Non-Jailbroken.ipa",
+          "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+          "releaseChannel": "prerelease",
+          "buildVersion": "6"
         }
       ]
     },
