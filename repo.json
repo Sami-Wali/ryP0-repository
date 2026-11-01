@@ -12283,9 +12283,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/38534904336",
+        "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/38526138803",
         "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
       },
       "bundleIdentifier": "com.coolapk.desktop",
@@ -12307,10 +12307,10 @@
       "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "name": "coolapk-desktop",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "checkedAt": "2026-11-01T13:45:47Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "updatePolicy": "daily",
@@ -12408,6 +12408,18 @@
           "sourceAssetName": "coolapk-v1.35.0-beta.3-ios-arm64-unsigned.ipa",
           "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11879413152/zip",
           "version": "5db55dd6c582af6996e8b68c9009ac91f612a41b"
+        },
+        {
+          "version": "9f229f832e7292df5ccbd30fbf3fccbf7dc78968",
+          "date": "2026-10-14T07:05:40Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-9e5a03c8b94b43bbad52fb5f15cc6a87-9f229f832e7292df5ccbd30fbf3fccbf7dc78968-af452da36408.ipa",
+          "size": 8064940,
+          "sha256": "af452da364081d32253ee924bc66d8e7a189855d6e8b66fa516c12a5c3b23838",
+          "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11875748377/zip",
+          "sourceAssetName": "coolapk-v1.35.0-beta.2-ios-arm64-unsigned.ipa",
+          "ipaBundleIdentifier": "com.coolapk.desktop",
+          "releaseChannel": "actions",
+          "buildVersion": "135.0.2"
         }
       ]
     },
