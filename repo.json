@@ -17253,9 +17253,8 @@
       "name": "LiveContainer (Stable)",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-9108ae624ea001f7d7696d48407f890b48fa2653-a73c38057cf9.ipa",
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-01T03:14:23Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "tintColor": "#3986FD",
