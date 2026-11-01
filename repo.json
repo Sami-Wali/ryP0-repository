@@ -17261,10 +17261,9 @@
       "localizedDescription": "Stable release: Standalone version of LiveContainer. Run iOS apps without installing them seamlessly.",
       "name": "LiveContainer (Stable)",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-9108ae624ea001f7d7696d48407f890b48fa2653-a73c38057cf9.ipa",
-        "checkedAt": "2026-10-31T20:48:00Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T03:04:29Z",
+        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
       },
       "subtitle": "",
       "tintColor": "#3986FD",
