@@ -14128,7 +14128,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-example-kazumi-364d8606",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/38518638031",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/38516194797",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -14149,7 +14149,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-6680cd847658635e34429d01198f028cd4ec0564-e774281f73fd.ipa",
-        "checkedAt": "2026-11-01T23:20:10Z",
+        "checkedAt": "2026-11-01T23:22:57Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
@@ -14537,6 +14537,18 @@
           "size": 30480811,
           "sha256": "99368e33af77e2d4a3743e7c2268440507dee49d5378a675146de5146766bbc9",
           "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/11873126994/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20308"
+        },
+        {
+          "version": "a2fb8338031db8922107a862606df65e9c4707e0",
+          "date": "2026-10-14T05:21:29Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-a2fb8338031db8922107a862606df65e9c4707e0-4db10e622464.ipa",
+          "size": 30482917,
+          "sha256": "4db10e622464d9bf4ed74c7fa696cf6a8b75581927186d76f19ed8b49384b741",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/11872601347/zip",
           "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
           "ipaBundleIdentifier": "com.example.kazumi",
           "releaseChannel": "actions",
