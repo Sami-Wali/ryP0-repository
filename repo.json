@@ -8848,10 +8848,9 @@
       "localizedDescription": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "name": "AirliftSilence-iOS",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
-        "checkedAt": "2026-11-01T08:46:05Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-01T08:46:38Z",
+        "message": "Private updater: The mobile update did not finish; it will be retried."
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
