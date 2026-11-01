@@ -13398,9 +13398,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-example-kazumi-364d8606",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/40917135964",
+        "configId": "com-example-kazumi-364d8606",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/41272608126",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -13419,14 +13419,26 @@
       "localizedDescription": "GitHub project request: Predidit/Kazumi.",
       "name": "Kazumi",
       "status": {
-        "checkedAt": "2026-11-01T03:07:43Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-1cb2ea4245e9cf97be664e72b3f2b0ab6a62ad44-87bb829ed458.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-6680cd847658635e34429d01198f028cd4ec0564-e774281f73fd.ipa",
+        "checkedAt": "2026-11-01T13:32:48Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "6680cd847658635e34429d01198f028cd4ec0564",
+          "date": "2026-11-01T04:18:55Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-6680cd847658635e34429d01198f028cd4ec0564-e774281f73fd.ipa",
+          "size": 30530634,
+          "sha256": "e774281f73fd283a68453f813043d79faf6135bf90344a63fbf9c2f20f5854f4",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/13070301837/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20402"
+        },
         {
           "buildVersion": "20402",
           "date": "2026-10-31T09:03:40Z",
