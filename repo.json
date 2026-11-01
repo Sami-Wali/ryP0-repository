@@ -10098,9 +10098,10 @@
       },
       "name": "LiveContainer",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-01T05:19:15Z",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+        "checkedAt": "2026-11-01T05:38:14Z",
+        "message": "Checked by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
