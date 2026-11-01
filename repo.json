@@ -11640,9 +11640,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-8e7e6db5a310455f85d91f822b18c6ea",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/tag/v1.4.4",
+        "configId": "app-8e7e6db5a310455f85d91f822b18c6ea",
+        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/tag/v1.4.2",
         "workflowPath": ".github/workflows/update-app-app-8e7e6db5a310455f85d91f822b18c6ea.yml"
       },
       "bundleIdentifier": "dev.infinityf4p.tiebapure",
@@ -11664,9 +11664,10 @@
       "localizedDescription": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "name": "TiebaPure-iOS",
       "status": {
-        "checkedAt": "2026-11-01T03:14:07Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+        "checkedAt": "2026-11-01T07:12:36Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
       "updatePolicy": "daily",
@@ -11753,6 +11754,18 @@
           "sourceAssetName": "TiebaPure-v1.4.4-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.4/TiebaPure-v1.4.4-unsigned.ipa",
           "version": "v1.4.4"
+        },
+        {
+          "version": "v1.4.2",
+          "date": "2026-08-08T03:18:35Z",
+          "downloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.2/TiebaPure-v1.4.2-unsigned.ipa",
+          "size": 3006440,
+          "sha256": "c95b0933c229c6876526b4e61d40b4c6b7b74cdddc20a00a73223a5c8b7cf76f",
+          "upstreamAssetURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.2/TiebaPure-v1.4.2-unsigned.ipa",
+          "sourceAssetName": "TiebaPure-v1.4.2-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.infinityf4p.tiebapure",
+          "releaseChannel": "release",
+          "buildVersion": "46"
         }
       ]
     },
