@@ -4049,7 +4049,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89132ca96fefd86ded3d81da828fffa6",
-        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/actions/runs/40198073861",
+        "sourceURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/actions/runs/40136071159",
         "workflowPath": ".github/workflows/update-app-project-89132ca96fefd86ded3d81da828fffa6.yml"
       },
       "bundleIdentifier": "com.gow3ios.app",
@@ -4071,7 +4071,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-65c7f75de0638ed3cf6eafccbede356e024644c3-eed51337ae78.ipa",
-        "checkedAt": "2026-11-01T15:01:11Z",
+        "checkedAt": "2026-11-01T15:03:27Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -4187,6 +4187,20 @@
           "sourceAssetName": "gow3-ios-Release.ipa",
           "upstreamAssetURL": "https://github.com/MohinShaikh5689/god-of-war-3-ios/releases/download/God_of_War_IOS/gow3-ios-Release.ipa",
           "version": "0.1.46"
+        },
+        {
+          "version": "8e9264eff188b64219e0991aea53c24147004056",
+          "date": "2026-10-24T21:51:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-89132ca96fefd86ded3d81da828fffa6-8e9264eff188b64219e0991aea53c24147004056-5dc23bb2ab58.ipa",
+          "size": 17855221,
+          "sha256": "5dc23bb2ab58ad7c6d15aa667665a7985df04353bcfe3d519957b879f10a9b9d",
+          "upstreamAssetURL": "https://api.github.com/repos/MohinShaikh5689/god-of-war-3-ios/actions/artifacts/12578100265/zip",
+          "sourceAssetName": "gow3-ios-Release.ipa",
+          "sourceArchiveEntry": "gow3-ios-Release.ipa",
+          "sourceAppName": "Olympus",
+          "ipaBundleIdentifier": "com.gow3ios.app",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "bundleIdentifiers": [
