@@ -8819,7 +8819,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-13c4e5b3e7f84bb88355b99695fe1aa2",
-        "sourceURL": "https://github.com/coflyn/Mori/releases/tag/v4.4.0",
+        "sourceURL": "https://github.com/coflyn/Mori/actions/runs/36784567823",
         "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
       },
       "bundleIdentifier": "com.mori.downloader",
@@ -8841,9 +8841,10 @@
       "localizedDescription": "GitHub project request: coflyn/Mori.",
       "name": "Mori",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-01T08:48:45Z",
-        "message": "Private updater: The mobile update did not finish; it will be retried."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.1/Mori-v4.5.1-iOS-Unsigned.ipa",
+        "checkedAt": "2026-11-01T10:57:08Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
@@ -8917,6 +8918,18 @@
           "sourceAssetName": "Mori-v4.4.0-iOS-Unsigned.ipa",
           "ipaBundleIdentifier": "com.mori.downloader",
           "releaseChannel": "release",
+          "buildVersion": "20"
+        },
+        {
+          "version": "b4ddad29693a8c4dc48bd7398ec35e697e26b32e",
+          "date": "2026-09-30T22:16:07Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-13c4e5b3e7f84bb88355b99695fe1aa2-b4ddad29693a8c4dc48bd7398ec35e697e26b32e-bdd98a17fc15.ipa",
+          "size": 1662745,
+          "sha256": "bdd98a17fc151d97d02c9d9d4d30511672319f9b760badafe82a80dcdcc548e1",
+          "upstreamAssetURL": "https://api.github.com/repos/coflyn/Mori/actions/artifacts/11128669665/zip",
+          "sourceAssetName": "Mori-v4.4.0-iOS-Unsigned.ipa",
+          "ipaBundleIdentifier": "com.mori.downloader",
+          "releaseChannel": "actions",
           "buildVersion": "20"
         }
       ]
