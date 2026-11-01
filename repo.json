@@ -11642,7 +11642,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-8e7e6db5a310455f85d91f822b18c6ea",
-        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/tag/v1.4.2",
+        "sourceURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/tag/v1.4.1",
         "workflowPath": ".github/workflows/update-app-app-8e7e6db5a310455f85d91f822b18c6ea.yml"
       },
       "bundleIdentifier": "dev.infinityf4p.tiebapure",
@@ -11666,7 +11666,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
-        "checkedAt": "2026-11-01T07:12:36Z",
+        "checkedAt": "2026-11-01T07:12:52Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: infinityf4p/TiebaPure-iOS.",
@@ -11766,6 +11766,18 @@
           "ipaBundleIdentifier": "dev.infinityf4p.tiebapure",
           "releaseChannel": "release",
           "buildVersion": "46"
+        },
+        {
+          "version": "v1.4.1",
+          "date": "2026-08-04T00:31:54Z",
+          "downloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.1/TiebaPure-v1.4.1-unsigned.ipa",
+          "size": 2876856,
+          "sha256": "b60aa0c6947f85dbd2bcf6350e100cc05d2562364213f5f7af6b66743fda8478",
+          "upstreamAssetURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.1/TiebaPure-v1.4.1-unsigned.ipa",
+          "sourceAssetName": "TiebaPure-v1.4.1-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.infinityf4p.tiebapure",
+          "releaseChannel": "release",
+          "buildVersion": "31"
         }
       ]
     },
