@@ -70,7 +70,7 @@
       },
       "githubURL": "https://github.com/hugeBlack/GetMoreRam",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-659ed21b715288931fb5cb23b0d1033c",
         "sourceURL": "https://github.com/hugeBlack/GetMoreRam/actions/runs/34670257545",
