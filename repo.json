@@ -10794,9 +10794,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-9a2ffddfb1834d8998699fec4fcba929",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/bluewake/releases/tag/v0.9.0",
+        "configId": "app-9a2ffddfb1834d8998699fec4fcba929",
+        "sourceURL": "https://github.com/chrissotraidis/bluewake/releases/tag/v0.10.0",
         "workflowPath": ".github/workflows/update-app-app-9a2ffddfb1834d8998699fec4fcba929.yml"
       },
       "bundleIdentifier": "dev.bluewake.BlueWake",
@@ -10819,13 +10819,25 @@
       "name": "BlueWake",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.9.0/BlueWake-v0.9.0-ios-unsigned.ipa",
-        "checkedAt": "2026-10-31T18:35:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
+        "checkedAt": "2026-11-01T02:23:16Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.10.0",
+          "date": "2026-11-01T01:19:50Z",
+          "downloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
+          "size": 6062308,
+          "sha256": "73d433b8ea17565506a8c7c51a43c506453f455be8fe150e9871869c70c265bf",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
+          "sourceAssetName": "BlueWake-v0.10.0-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "dev.bluewake.BlueWake",
+          "releaseChannel": "release",
+          "buildVersion": "9"
+        },
         {
           "buildVersion": "8",
           "date": "2026-10-25T01:44:43Z",
