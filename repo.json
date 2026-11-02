@@ -15478,10 +15478,10 @@
       "localizedDescription": "Manga reading app",
       "name": "Aidoku",
       "status": {
-        "state": "update-error",
+        "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-41ae2a604213d4eeb5bf19287eec675ea90e15aa-7e28b6c6ece6.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
+        "checkedAt": "2026-11-02T09:34:14Z",
+        "message": "Upstream index is unchanged; verified published package remains available."
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
