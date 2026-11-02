@@ -16209,9 +16209,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "dev-kartpad-app-6eef8493",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.6",
+        "configId": "dev-kartpad-app-6eef8493",
+        "sourceURL": "https://github.com/chrissotraidis/kartpad/releases/tag/v0.8.7",
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "bundleIdentifier": "dev.kartpad.app",
@@ -16227,14 +16227,26 @@
       "localizedDescription": "GitHub project request: chrissotraidis/kartpad.",
       "name": "kartpad",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.6/KartPad-v0.8.6-ios-for-padmint.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.7/KartPad-v0.8.7-ios-for-padmint.ipa",
+        "checkedAt": "2026-11-02T14:48:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.7",
+          "date": "2026-11-01T02:01:40Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.7/KartPad-v0.8.7-ios-for-padmint.ipa",
+          "size": 9444166,
+          "sha256": "e97759c15950138635830449d4e9e1a220c43642ed49c54b5655ecb9facee375",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.7/KartPad-v0.8.7-ios-for-padmint.ipa",
+          "sourceAssetName": "KartPad-v0.8.7-ios-for-padmint.ipa",
+          "ipaBundleIdentifier": "dev.kartpad.app",
+          "releaseChannel": "beta",
+          "buildVersion": "272"
+        },
         {
           "buildVersion": "268",
           "date": "2026-10-25T13:38:20Z",
@@ -16245,7 +16257,8 @@
           "size": 9442192,
           "sourceAssetName": "KartPad-v0.8.6-ios-for-padmint.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.6/KartPad-v0.8.6-ios-for-padmint.ipa",
-          "version": "v0.8.6"
+          "version": "v0.8.6",
+          "ipaBundleIdentifier": "dev.kartpad.app"
         },
         {
           "buildVersion": "267",
@@ -16257,7 +16270,8 @@
           "size": 9303796,
           "sourceAssetName": "KartPad-v0.8.5-ios-for-padmint.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.5/KartPad-v0.8.5-ios-for-padmint.ipa",
-          "version": "v0.8.5"
+          "version": "v0.8.5",
+          "ipaBundleIdentifier": "dev.kartpad.app"
         },
         {
           "buildVersion": "266",
@@ -16269,8 +16283,12 @@
           "size": 9303837,
           "sourceAssetName": "KartPad-v0.8.4-ios-for-padmint.ipa",
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
-          "version": "v0.8.4"
+          "version": "v0.8.4",
+          "ipaBundleIdentifier": "dev.kartpad.app"
         }
+      ],
+      "bundleIdentifiers": [
+        "dev.kartpad.app"
       ]
     },
     {
