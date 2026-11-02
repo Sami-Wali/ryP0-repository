@@ -642,10 +642,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/4c8e09b",
+        "configId": "project-8c7a4bebefdaead56d8a3e04f72fd3e4",
+        "sourceURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/tag/ee70177",
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
@@ -669,13 +669,26 @@
       "name": "Dartotsu-Downloader",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/4c8e09b/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/ee70177/Dartotsu-iOS-main.ipa",
+        "checkedAt": "2026-11-02T13:23:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ee70177",
+          "date": "2026-11-01T20:00:30Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/ee70177/Dartotsu-iOS-main.ipa",
+          "size": 86293751,
+          "sha256": "23aa3d1b3e14b52ac3d0dc9b577ad784fe26bc206c9d1a1caed90ab9bf02fe0e",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/ee70177/Dartotsu-iOS-main.ipa",
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "sourceAppName": "Dartotsu",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "releaseChannel": "release",
+          "buildVersion": "1.2.0"
+        },
         {
           "buildVersion": "1.1.1",
           "date": "2026-10-31T20:09:54Z",
