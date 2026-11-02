@@ -3404,7 +3404,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/actions/runs/38915689059",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/actions/runs/38911935414",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "bundleIdentifier": "com.defnf.icopc",
@@ -3429,7 +3429,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.9.7/ico-pc-v0.9.7-ios-unsigned.ipa",
-        "checkedAt": "2026-11-01T15:26:16Z",
+        "checkedAt": "2026-11-02T03:41:25Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -3928,6 +3928,20 @@
           "size": 5914022,
           "sha256": "59931268ba039d7b7bde49d2d58a10c6f78cdec323cb5ef6ea3c6dab73fc167f",
           "upstreamAssetURL": "https://api.github.com/repos/nathanialf/ico-pc/actions/artifacts/12052028152/zip",
+          "sourceAssetName": "ico-pc-v0.7.8-ios-unsigned.ipa",
+          "sourceArchiveEntry": "ico-pc-v0.7.8-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "actions",
+          "buildVersion": "0.7.8"
+        },
+        {
+          "version": "627a8b5e711408fa1b1a2bda53efe9caecfaff28",
+          "date": "2026-10-16T13:57:46Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-2b683ab30368a9600fd53fe715fbcda5-627a8b5e711408fa1b1a2bda53efe9caecfaff28-4dabda7ae960.ipa",
+          "size": 5913604,
+          "sha256": "4dabda7ae9609ea18a4061b426de3d23c4327f27e1cae48706c6c06e82d76d14",
+          "upstreamAssetURL": "https://api.github.com/repos/nathanialf/ico-pc/actions/artifacts/12052491053/zip",
           "sourceAssetName": "ico-pc-v0.7.8-ios-unsigned.ipa",
           "sourceArchiveEntry": "ico-pc-v0.7.8-ios-unsigned.ipa",
           "sourceAppName": "ICO",
