@@ -10237,7 +10237,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-5d25dc266a154f1e9274170b8280263a",
-        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/39004072668",
+        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/38854157425",
         "workflowPath": ".github/workflows/update-app-app-5d25dc266a154f1e9274170b8280263a.yml"
       },
       "bundleIdentifier": "com.SideStore.SideStore",
@@ -10260,7 +10260,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-        "checkedAt": "2026-11-02T13:06:59Z",
+        "checkedAt": "2026-11-02T13:07:57Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -10297,6 +10297,18 @@
           "sha256": "53a0643c464e92f60970c82ad491814a2ce03a46ad421c858a4061067ec48398",
           "upstreamAssetURL": "https://api.github.com/repos/SideStore/SideStore/actions/artifacts/12098781102/zip",
           "sourceAssetName": "SideStore-0.7.0-pr.1653+3da60f2.ipa",
+          "ipaBundleIdentifier": "com.SideStore.SideStore",
+          "releaseChannel": "actions",
+          "buildVersion": "0700"
+        },
+        {
+          "version": "d97ec133719d79916675bdaf722b82a8d091d545",
+          "date": "2026-10-16T05:07:41Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-5d25dc266a154f1e9274170b8280263a-d97ec133719d79916675bdaf722b82a8d091d545-b6855f5a055e.ipa",
+          "size": 31137643,
+          "sha256": "b6855f5a055e3068e136f2bafb97d6da1cbea188a7d1778dd26d3d8d8a4caad2",
+          "upstreamAssetURL": "https://api.github.com/repos/SideStore/SideStore/actions/artifacts/12027190794/zip",
+          "sourceAssetName": "SideStore.ipa",
           "ipaBundleIdentifier": "com.SideStore.SideStore",
           "releaseChannel": "actions",
           "buildVersion": "0700"
