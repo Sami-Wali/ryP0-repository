@@ -21003,7 +21003,7 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-02T12:57:18Z",
+        "checkedAt": "2026-11-02T13:18:15Z",
         "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
       },
       "tintColor": "#224A8B",
