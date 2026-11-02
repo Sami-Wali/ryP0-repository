@@ -10237,7 +10237,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-5d25dc266a154f1e9274170b8280263a",
-        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/38575696385",
+        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/38463957675",
         "workflowPath": ".github/workflows/update-app-app-5d25dc266a154f1e9274170b8280263a.yml"
       },
       "bundleIdentifier": "com.SideStore.SideStore",
@@ -10260,7 +10260,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-        "checkedAt": "2026-11-02T13:08:54Z",
+        "checkedAt": "2026-11-02T13:09:42Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -10321,6 +10321,18 @@
           "sha256": "a947556ef7eb45be299c0e73a768a861ed1728b6c35786654b76995671fb4882",
           "upstreamAssetURL": "https://api.github.com/repos/SideStore/SideStore/actions/artifacts/11900736886/zip",
           "sourceAssetName": "SideStore-0.7.0-pr.1653+d1ede3b.ipa",
+          "ipaBundleIdentifier": "com.SideStore.SideStore",
+          "releaseChannel": "actions",
+          "buildVersion": "0700"
+        },
+        {
+          "version": "12ff39c6b6c0ccd8180f0834a893a4bbaf7bcd31",
+          "date": "2026-10-13T20:34:57Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sidestore-nightly-Nightly-2023.01.04-b082a52e2b19.ipa",
+          "size": 31137651,
+          "sha256": "b082a52e2b1949200caeaba9a72767004a99c850b5bcbe964b6edf076535d4ac",
+          "upstreamAssetURL": "https://api.github.com/repos/SideStore/SideStore/actions/artifacts/11848812784/zip",
+          "sourceAssetName": "SideStore.ipa",
           "ipaBundleIdentifier": "com.SideStore.SideStore",
           "releaseChannel": "actions",
           "buildVersion": "0700"
