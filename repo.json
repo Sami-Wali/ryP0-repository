@@ -20828,8 +20828,8 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-01T10:52:22Z",
-        "message": "Private updater: Actions discovery failed: Actions history exceeds 10,000 artifacts; refusing a partial snapshot."
+        "checkedAt": "2026-11-02T08:53:11Z",
+        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
