@@ -20833,8 +20833,7 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
+        "checkedAt": "2026-11-02T09:33:50Z",
         "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
       },
       "tintColor": "#224A8B",
