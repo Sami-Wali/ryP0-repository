@@ -14430,7 +14430,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-example-kazumi-364d8606",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/37565751540",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/37501556738",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -14451,7 +14451,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-6680cd847658635e34429d01198f028cd4ec0564-e774281f73fd.ipa",
-        "checkedAt": "2026-11-02T05:17:28Z",
+        "checkedAt": "2026-11-02T05:19:58Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
@@ -15119,6 +15119,18 @@
           "ipaBundleIdentifier": "com.example.kazumi",
           "releaseChannel": "actions",
           "buildVersion": "20308"
+        },
+        {
+          "version": "d5879b9a1318c21c0057688f0ce4b08659cf445e",
+          "date": "2026-10-06T17:11:01Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-d5879b9a1318c21c0057688f0ce4b08659cf445e-f2db71155e8c.ipa",
+          "size": 30462393,
+          "sha256": "f2db71155e8cbdd46205b3a3e8dd42788912bf80c5c882770d97f3bded81da33",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/11430881121/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20307"
         }
       ]
     },
