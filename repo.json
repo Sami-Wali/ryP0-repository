@@ -12749,7 +12749,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-9e5a03c8b94b43bbad52fb5f15cc6a87",
-        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/36961486388",
+        "sourceURL": "https://github.com/daimiaopeng/coolapk-desktop/actions/runs/36954487993",
         "workflowPath": ".github/workflows/update-app-app-9e5a03c8b94b43bbad52fb5f15cc6a87.yml"
       },
       "bundleIdentifier": "com.coolapk.desktop",
@@ -12773,7 +12773,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
-        "checkedAt": "2026-11-01T23:43:12Z",
+        "checkedAt": "2026-11-02T02:25:02Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
@@ -13276,6 +13276,18 @@
           "size": 8063917,
           "sha256": "a12f640ad66ba794301126d93f91f02c7c54a63a9537aebc5d5675639cd7a853",
           "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11208085911/zip",
+          "sourceAssetName": "coolapk-main-ios-arm64-unsigned.ipa",
+          "ipaBundleIdentifier": "com.coolapk.desktop",
+          "releaseChannel": "actions",
+          "buildVersion": "1.29.0"
+        },
+        {
+          "version": "342b29e1de5f775d393d4a3fff24cf2eb049ce4d",
+          "date": "2026-10-02T02:11:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-9e5a03c8b94b43bbad52fb5f15cc6a87-342b29e1de5f775d393d4a3fff24cf2eb049ce4d-e2ba0c722f4f.ipa",
+          "size": 8023778,
+          "sha256": "e2ba0c722f4f8b26d99ab4f0c6357854610215be624d04a950cedc23b43e3d55",
+          "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/11205721541/zip",
           "sourceAssetName": "coolapk-main-ios-arm64-unsigned.ipa",
           "ipaBundleIdentifier": "com.coolapk.desktop",
           "releaseChannel": "actions",
