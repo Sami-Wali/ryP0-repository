@@ -17255,9 +17255,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-aoshuang-manicemu-c53539f7",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Manic-EMU/ManicEMU",
+        "configId": "com-aoshuang-manicemu-c53539f7",
+        "sourceURL": "https://github.com/Manic-EMU/ManicEMU/releases/tag/v2.0.2",
         "workflowPath": ".github/workflows/update-app-com-aoshuang-manicemu-c53539f7.yml"
       },
       "bundleIdentifier": "com.aoshuang.manicemu",
@@ -17273,14 +17273,26 @@
       "localizedDescription": "",
       "name": "Manic EMU",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.1/ManicEMU.v2.0.1.SideloadJIT.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Private updater: Releases discovery failed: The selected upstream release now has multiple matching IPA assets; choose a dedicated release or refine the app source before updating."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa",
+        "checkedAt": "2026-11-02T14:47:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.0.2",
+          "date": "2026-11-02T08:03:58Z",
+          "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa",
+          "size": 293317769,
+          "sha256": "fa3d1a272298b02de44eeec182ea5c2bb1f9800b65b3239a4f2ee1ea4f0d99a7",
+          "upstreamAssetURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa",
+          "sourceAssetName": "ManicEMU.v2.0.2.SideloadJIT.ipa",
+          "ipaBundleIdentifier": "com.aoshuang.manicemu",
+          "releaseChannel": "release",
+          "buildVersion": "5"
+        },
         {
           "buildVersion": "12",
           "date": "2026-09-18T09:29:42Z",
@@ -17289,7 +17301,8 @@
           "releaseChannel": "release",
           "sha256": "b670b1c1c538325d82ff2c74ebacd97c9fb338af6dc8516cccbfade882147b71",
           "size": 288525117,
-          "version": "2.0.1"
+          "version": "2.0.1",
+          "ipaBundleIdentifier": "com.aoshuang.manicemu"
         },
         {
           "buildVersion": "20",
@@ -17299,8 +17312,12 @@
           "releaseChannel": "release",
           "sha256": "7f2adf280dba286ef1374fac874b87af9be535bae39f62139e0e68b4ae324a9f",
           "size": 273393210,
-          "version": "v2.0.0"
+          "version": "v2.0.0",
+          "ipaBundleIdentifier": "com.aoshuang.manicemu"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.aoshuang.manicemu"
       ]
     },
     {
