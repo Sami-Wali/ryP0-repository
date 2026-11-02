@@ -6321,10 +6321,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.625",
+        "configId": "project-f948af035c5e0940c83aa30aa0c406fe",
+        "sourceURL": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.626",
         "workflowPath": ".github/workflows/update-app-project-f948af035c5e0940c83aa30aa0c406fe.yml"
       },
       "bundleIdentifier": "com.thebcd69.bcd",
@@ -6348,13 +6348,26 @@
       "name": "BCD",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.625/BCD.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.626/BCD.ipa",
+        "checkedAt": "2026-11-02T13:20:51Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "He’s",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.626",
+          "date": "2026-11-01T05:08:29Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.626/BCD.ipa",
+          "size": 185050286,
+          "sha256": "0243bac423688aafa659a20c99489f9b107e9463e55120750c1eda5875c441ba",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.626/BCD.ipa",
+          "sourceAssetName": "BCD.ipa",
+          "sourceAppName": "BCD",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "releaseChannel": "alpha",
+          "buildVersion": "626"
+        },
         {
           "buildVersion": "625",
           "date": "2026-10-31T11:23:12Z",
