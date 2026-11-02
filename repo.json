@@ -18167,9 +18167,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-meleepad-meleepad-a64c007e",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/chrissotraidis/meleepad/releases/tag/v0.2.2",
+        "configId": "com-meleepad-meleepad-a64c007e",
+        "sourceURL": "https://github.com/chrissotraidis/meleepad/releases/tag/v0.3.0",
         "workflowPath": ".github/workflows/update-app-com-meleepad-meleepad-a64c007e.yml"
       },
       "bundleIdentifier": "com.meleepad.MeleePad",
@@ -18188,13 +18188,25 @@
       "name": "MeleePad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.2.5/MeleePad-v0.2.5-ios-unsigned.ipa",
-        "checkedAt": "2026-11-02T09:16:03Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.0/MeleePad-v0.3.0-ios-unsigned.ipa",
+        "checkedAt": "2026-11-02T09:38:30Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.3.0",
+          "date": "2026-11-01T03:50:45Z",
+          "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.0/MeleePad-v0.3.0-ios-unsigned.ipa",
+          "size": 15740589,
+          "sha256": "98519113d919301e52401f8309a06d618c0a0cc78994b8add36ee4a63b44b8e3",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.0/MeleePad-v0.3.0-ios-unsigned.ipa",
+          "sourceAssetName": "MeleePad-v0.3.0-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad",
+          "releaseChannel": "release",
+          "buildVersion": "36"
+        },
         {
           "buildVersion": "35",
           "date": "2026-10-30T04:07:48Z",
