@@ -12787,9 +12787,10 @@
       "localizedDescription": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "name": "coolapk-desktop",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-02T09:34:18Z",
-        "message": "Private updater: Releases discovery failed: GitHub API closed connection before completing its response."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/daimiaopeng/coolapk-desktop/releases/download/v1.35.0/coolapk-v1.35.0-ios-arm64-unsigned.ipa",
+        "checkedAt": "2026-11-02T10:14:31Z",
+        "message": "Upstream index is unchanged; verified published package remains available."
       },
       "subtitle": "GitHub project request: daimiaopeng/coolapk-desktop.",
       "updatePolicy": "daily",
