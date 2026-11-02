@@ -16077,6 +16077,7 @@
       },
       "bundleIdentifier": "com.spotify.client",
       "bundleIdentifiers": [
+        "com.ss.iphone.ugc.Ame",
         "net.whatsapp.WhatsApp",
         "com.burbn.instagram",
         "com.spotify.client"
@@ -16094,12 +16095,21 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
-        "checkedAt": "2026-11-02T17:39:27Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-02T19:18:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Spotify cracked releases",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "47.5.0",
+          "date": "2026-11-02T19:15:28Z",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com-spotify-client-7f294ec0/current.ipa",
+          "size": 532321307,
+          "sha256": "48f5063ee2a56f15d804d8ecc5f4f4d28a9b5f61f09cebfb99240c80b9be26f5",
+          "ipaBundleIdentifier": "com.ss.iphone.ugc.Ame",
+          "buildVersion": "475031"
+        },
         {
           "buildVersion": "1097159405",
           "date": "2026-10-30T20:21:16Z",
