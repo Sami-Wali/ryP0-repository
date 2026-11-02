@@ -21257,7 +21257,7 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-02T19:52:41Z",
+        "checkedAt": "2026-11-02T20:34:20Z",
         "message": "Private updater: Actions artifact is not a valid ZIP archive."
       },
       "tintColor": "#224A8B",
