@@ -6714,7 +6714,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.2.0",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.2.0.1",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "bundleIdentifier": "com.example.piliplus",
@@ -6735,13 +6735,26 @@
       "name": "PiliPlus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_ios_2.2.0%2B5580.ipa",
-        "checkedAt": "2026-11-02T17:39:27Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_ios_2.2.0%2B5590.ipa",
+        "checkedAt": "2026-11-02T18:13:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.2.0.1",
+          "date": "2026-11-02T12:31:07Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_ios_2.2.0%2B5590.ipa",
+          "size": 24914746,
+          "sha256": "becc6671e2557dc2b41176130125729396a9e9363d76ed73fc379ee932f2661e",
+          "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_ios_2.2.0%2B5590.ipa",
+          "sourceAssetName": "PiliPlus_ios_2.2.0+5590.ipa",
+          "sourceAppName": "PiliPlus",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "releaseChannel": "release",
+          "buildVersion": "5590"
+        },
         {
           "version": "2.2.0",
           "date": "2026-11-01T07:35:52Z",
