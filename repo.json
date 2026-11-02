@@ -21232,9 +21232,8 @@
       "name": "PPSSPP",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-11-02T17:39:27Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 500."
+        "checkedAt": "2026-11-02T19:52:41Z",
+        "message": "Private updater: Actions artifact is not a valid ZIP archive."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
