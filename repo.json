@@ -12,6 +12,19 @@
         {
           "version": "0.1.0",
           "date": "2026-11-01T18:28:08Z",
+          "downloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.tipa",
+          "size": 5422866,
+          "sha256": "e03892003b15e9920b56570b9e772a3fa0ea30d1e483c1ed76bd6451240b0328",
+          "upstreamAssetURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.tipa",
+          "sourceAssetName": "Utsuro.tipa",
+          "sourceAppName": "Utsuro",
+          "ipaBundleIdentifier": "com.utsuro.app",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.1.0",
+          "date": "2026-11-01T18:28:08Z",
           "downloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
           "size": 5423119,
           "buildVersion": "1",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
-        "checkedAt": "2026-11-03T17:19:54Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.tipa",
+        "checkedAt": "2026-11-03T17:20:35Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-190db1661397120e3e77eef33b5688f6",
-        "sourceURL": "https://github.com/leviidev/Utsuro",
+        "sourceURL": "https://github.com/Leviidev/Utsuro/releases/tag/0.1.0",
         "workflowPath": ".github/workflows/update-app-project-190db1661397120e3e77eef33b5688f6.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.utsuro.app"
+      ]
     },
     {
       "name": "Ymir-iOS",
