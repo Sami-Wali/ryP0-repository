@@ -24434,7 +24434,7 @@
       "name": "MeloNX",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.7-2dad0849a77c.ipa",
+        "checkedDownloadURL": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa",
         "checkedAt": "2026-11-03T19:07:45Z",
         "message": "Download is available"
       },
@@ -24444,7 +24444,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-11T05:08:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/melonx-2.7-2dad0849a77c.ipa",
+          "downloadURL": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa",
           "sha256": "2dad0849a77cfb0ce26a44cf682caff1485b1e7d92da70e77be64ae67668d8b0",
           "size": 49196463,
           "version": "2.7"
@@ -26626,7 +26626,7 @@
       "name": "YTPlus/YTLite Cracked (5.2.2) - v21.36.6",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.38.2-96ff0f010ced.ipa",
+        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.38.2_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
         "checkedAt": "2026-11-03T19:07:45Z",
         "message": "Download is available"
       },
@@ -26637,7 +26637,7 @@
         {
           "buildVersion": "21.38.2",
           "date": "2026-09-20T00:00:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ytplus-ytlite-21.38.2-96ff0f010ced.ipa",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.38.2_YTPlus_v5.2.2_cracked%5Btg%40tubevault%5D.ipa",
           "sha256": "96ff0f010ced971c6c71ea80c0bcff26da9d5b5bebc23e5899b45989ae0de6bf",
           "size": 145735275,
           "version": "21.38.2"
@@ -26687,7 +26687,7 @@
       "name": "YT Music",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.43.2-a88f8913718d.ipa",
+        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.43.2.ipa",
         "checkedAt": "2026-11-03T19:07:45Z",
         "message": "Download is available"
       },
@@ -26698,7 +26698,7 @@
         {
           "buildVersion": "9.43.2",
           "date": "2026-10-24T00:00:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/maxmusic-9.43.2-a88f8913718d.ipa",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.43.2.ipa",
           "sha256": "a88f8913718d27e048450de3fbf78e2833c695725bf9f207ac418abfe1b57a8a",
           "size": 107825399,
           "version": "9.43.2"
