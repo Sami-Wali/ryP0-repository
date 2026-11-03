@@ -24504,7 +24504,7 @@
         {
           "buildVersion": "26",
           "date": "2026-06-20T07:09:18Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b6-8460c194f0b2.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
@@ -24516,7 +24516,7 @@
         {
           "buildVersion": "25",
           "date": "2026-06-16T21:55:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b5-9e03f90da7fc.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b5/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "9e03f90da7fc988d52e76f8aeed934f97657dec39bce0cff9b902e815ab9c3bf",
@@ -24528,7 +24528,7 @@
         {
           "buildVersion": "24",
           "date": "2025-10-23T02:55:30Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b4-3654f513e019.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
@@ -24540,7 +24540,7 @@
         {
           "buildVersion": "23",
           "date": "2025-10-18T17:09:05Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b3-9016d50856ca.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
@@ -24552,7 +24552,7 @@
         {
           "buildVersion": "22",
           "date": "2025-10-13T02:24:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b2-9f7e91e76d7a.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
@@ -24564,7 +24564,7 @@
         {
           "buildVersion": "21",
           "date": "2025-10-11T17:35:11Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-5.0.0b1-ea27bd1a7b8f.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
@@ -24576,7 +24576,7 @@
         {
           "buildVersion": "20",
           "date": "2025-05-06T17:32:22Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b9-99b72c4f6419.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b9/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "99b72c4f6419605a7c4464d99fb4756f5f7a7f2b9e8784602bc38857199420b3",
@@ -24588,7 +24588,7 @@
         {
           "buildVersion": "19",
           "date": "2025-01-17T21:06:59Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b8-9e058c0c1e2c.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
@@ -24600,7 +24600,7 @@
         {
           "buildVersion": "15",
           "date": "2024-01-19T21:02:02Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b7-31934065e81f.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
@@ -24612,7 +24612,7 @@
         {
           "buildVersion": "13",
           "date": "2024-01-16T22:30:15Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b6-c40e383b03f5.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b6/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "c40e383b03f56728db7bf6c422b54011f73fe03043227e37a8cf757090973765",
@@ -24624,7 +24624,7 @@
         {
           "buildVersion": "12",
           "date": "2023-02-18T08:39:25Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b5-68dfd5a85848.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b5/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "68dfd5a85848a536be64484976e4f4c31b94f0fd11535b4a215e6e67cf77c635",
@@ -24636,7 +24636,7 @@
         {
           "buildVersion": "11",
           "date": "2023-01-26T14:35:03Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b4-e638e2bf1c88.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b4/Non-Jailbroken.ipa",
           "ipaBundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
           "releaseChannel": "prerelease",
           "sha256": "e638e2bf1c8849cddef56232bbeb0e3170647bdf58d6e4fb1694542586376098",
@@ -24648,7 +24648,7 @@
         {
           "version": "4.0.0b3",
           "date": "2023-01-23T18:45:42Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b3-1091397a8ca9.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b3/Non-Jailbroken.ipa",
           "size": 13414159,
           "sha256": "1091397a8ca99398b57667fee4f67824d24a3b56fe8ae73d30196f44367dc6be",
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b3/Non-Jailbroken.ipa",
@@ -24660,7 +24660,7 @@
         {
           "version": "4.0.0b2",
           "date": "2023-01-19T04:10:09Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b2-7868f1c086a4.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b2/Non-Jailbroken.ipa",
           "size": 13158027,
           "sha256": "7868f1c086a430f2c3f89a53739d08f2c598f6f353261d00982610a7d4c3b051",
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b2/Non-Jailbroken.ipa",
@@ -24672,7 +24672,7 @@
         {
           "version": "4.0.0b1",
           "date": "2023-01-08T20:24:05Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/dolphinios-4.0.0b1-7e2ea359d3bf.ipa",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b1/Non-Jailbroken.ipa",
           "size": 13147368,
           "sha256": "7e2ea359d3bf8b7be829587840af998da5e41d0e683e741023d78c55c0306f59",
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b1/Non-Jailbroken.ipa",
@@ -24808,7 +24808,7 @@
         {
           "buildVersion": "1.20.4",
           "date": "2026-05-16T12:42:59Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.4-822c7042311f.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "822c7042311ff47710c9148c8edb5aab649cf85ce6ba96b9e8190feb91f45a51",
@@ -24820,7 +24820,7 @@
         {
           "buildVersion": "1.20.3",
           "date": "2026-03-15T18:02:06Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.3-463b9e004ab9.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-iOS-v1.20.3.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "463b9e004ab939f5a70b565344553aeb0beff665c48e85603083ec247c972d70",
@@ -24832,7 +24832,7 @@
         {
           "buildVersion": "1.20.2",
           "date": "2026-03-10T13:50:36Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.2-b350842b49e8.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.2/PPSSPP-iOS-v1.20.2.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "b350842b49e8ed094f9da66bf12422e93521434488151308ffcc659473af62f5",
@@ -24844,7 +24844,7 @@
         {
           "buildVersion": "1.20.1",
           "date": "2026-03-03T15:09:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20.1-69d63c7063f4.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.1/PPSSPP-iOS-v1.20.1.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "69d63c7063f44ee7f33e17825b50cca7294945ac32a1ee1fee2b92f6fd5f788d",
@@ -24856,7 +24856,7 @@
         {
           "buildVersion": "1.20",
           "date": "2026-03-03T14:40:44Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.20-f70980c08b0f.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20/PPSSPP-iOS-v1.20.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "f70980c08b0f0ea31861870f9d5634cf29be63ffedf0745cf4e04d5356e72aab",
@@ -24868,7 +24868,7 @@
         {
           "buildVersion": "1.19.3",
           "date": "2025-07-15T10:21:14Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-1.19.3-e604412d637a.ipa",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.19.3/PPSSPP-iOS-v1.19.3.ipa",
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "sha256": "e604412d637a9e3d52b0cbde4e39213f7d85a609256b400d77491b10566a18bc",
@@ -24969,7 +24969,7 @@
         {
           "buildVersion": "9857",
           "date": "2026-06-19T01:56:09Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.1-build-9857-080af9f0ab6a.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.1-build-9857/xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.537ee73c0a351cb0",
           "releaseChannel": "prerelease",
           "sha256": "080af9f0ab6a624b70014918b575320f154b14c77f068ba2c0a0eeafcf528f4c",
@@ -24981,7 +24981,7 @@
         {
           "buildVersion": "9852",
           "date": "2026-06-16T12:40:45Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.1-build-9852-53115a3be8a9.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.1-build-9852/xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.684992932fab9dd5",
           "releaseChannel": "prerelease",
           "sha256": "53115a3be8a96c61cc18292c96fc619ea7fd55e301dc133a4b99052f567263ba",
@@ -24993,7 +24993,7 @@
         {
           "buildVersion": "9849",
           "date": "2026-06-16T04:05:14Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.0.1-build-9849-ec277f6effa3.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.0.1-build-9849/xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.0745ac3d34efa070",
           "releaseChannel": "prerelease",
           "sha256": "ec277f6effa363d2b311ce5bdb0510b0e4630ea0b31aed08ad8a31eb42656336",
@@ -25005,7 +25005,7 @@
         {
           "buildVersion": "9848",
           "date": "2026-06-16T02:31:05Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-preview-v2.0.1-build-9848-39baed25bf15.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/preview-v2.0.1-build-9848/xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.efda62f4ef7913e3",
           "releaseChannel": "prerelease",
           "sha256": "39baed25bf15325920634459ec17a02c51abe096b7f79c93d695e6449aeca45a",
@@ -25017,7 +25017,7 @@
         {
           "buildVersion": "9730",
           "date": "2026-06-08T04:29:40Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9730-61de6cfc9cf0.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
           "ipaBundleIdentifier": "com.xenios.jp",
           "releaseChannel": "release",
           "sha256": "61de6cfc9cf05389161272ceaa70d46662dab77de40ab11fdda3d4a2221621a7",
@@ -25029,7 +25029,7 @@
         {
           "version": "release-v2.0.1-build-9729",
           "date": "2026-06-07T19:24:32Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0.1-build-9729-2100237f60a8.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9729/xenios_ios_iphone_ipad.ipa",
           "size": 46246197,
           "sha256": "2100237f60a82e51ec5203b404a12d6ff18cb75498592b3b08accadb51ab09ce",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9729/xenios_ios_iphone_ipad.ipa",
@@ -25041,7 +25041,7 @@
         {
           "version": "release-v2.0-build-9712",
           "date": "2026-06-06T20:06:02Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.0-build-9712-27e4b711c26b.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0-build-9712/xenios_ios_iphone_ipad.ipa",
           "size": 41493705,
           "sha256": "27e4b711c26b1ca08a72d2a51433c10c186ba72211a7f1db22a3da9a6bf202a7",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0-build-9712/xenios_ios_iphone_ipad.ipa",
@@ -25053,7 +25053,7 @@
         {
           "version": "release-v1.0.1-build-9288",
           "date": "2026-03-13T16:25:12Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.1-build-9288-e3f5d3b84c0d.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.1-build-9288/xenios_ios_iphone_ipad.ipa",
           "size": 11703406,
           "sha256": "e3f5d3b84c0dc6af4ff7cd56b0433ba44561982adb666e25f034fda4c4ec8225",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.1-build-9288/xenios_ios_iphone_ipad.ipa",
@@ -25065,7 +25065,7 @@
         {
           "version": "release-v1.0.0-build-9299",
           "date": "2026-03-12T11:19:12Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9299-6aa2e871baa8.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9299/xenios_ios_iphone_ipad.ipa",
           "size": 11702981,
           "sha256": "6aa2e871baa8223a251ee3cc7a4b10d395e0b9ca72b4ad22dce51e638c42e6b1",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9299/xenios_ios_iphone_ipad.ipa",
@@ -25077,7 +25077,7 @@
         {
           "version": "release-v1.0.0-build-9296",
           "date": "2026-03-11T07:58:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9296-3d632d377c4e.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9296/xenios_ios_iphone_ipad.ipa",
           "size": 11702513,
           "sha256": "3d632d377c4ec8d7d80dd5d98f151f23dd126fdbdf962b7170224277078fe2a5",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9296/xenios_ios_iphone_ipad.ipa",
@@ -25089,7 +25089,7 @@
         {
           "version": "release-v1.0.0-build-9280",
           "date": "2026-03-08T16:49:42Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v1.0.0-build-9280-3afee85c1fa4.ipa",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9280/xenios_ios_iphone_ipad.ipa",
           "size": 11684380,
           "sha256": "3afee85c1fa485dae4f331577b8e4b254a1f38c505327a654c57d6433c2adeba",
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9280/xenios_ios_iphone_ipad.ipa",
@@ -25125,7 +25125,7 @@
       "name": "LiveContainer (Stable)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -25136,7 +25136,7 @@
         {
           "buildVersion": "3.8.0",
           "date": "2026-07-17T07:44:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/livecontainer-standalone-stable-3.8.0-b6fea95e3008.ipa",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
           "ipaBundleIdentifier": "com.kdt.livecontainer",
           "releaseChannel": "release",
           "sha256": "b6fea95e30083382e29ffef88fa1aaa40b5069e1112e5307d490dab04648bba6",
@@ -25287,7 +25287,7 @@
       "name": "SideInstaller",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.5-0ae47fc35e80.ipa",
+        "checkedDownloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.5/SideInstaller.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -25297,7 +25297,7 @@
         {
           "version": "v1.6.5",
           "date": "2026-11-02T22:21:12Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.5-0ae47fc35e80.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.5/SideInstaller.ipa",
           "size": 10380171,
           "sha256": "0ae47fc35e8024d14438feccfb5e990851a15795494fe6b6f7aa8afe2dc4a4e2",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.5/SideInstaller.ipa",
@@ -25309,7 +25309,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-31T14:30:24Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.4-f65332d61306.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.4/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "f65332d61306c545e323bfac2d1836a87cc1affe2b3b9dfa4d8086af601b3387",
@@ -25333,7 +25333,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-31T10:40:37Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.3-65fc42836c31.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.3/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "65fc42836c3100c62281ab63eb8018e584a245ba1384ee63ff7805fac3dcf83b",
@@ -25357,7 +25357,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-29T08:30:09Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.2-1d76e3f67732.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.2/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "1d76e3f67732dee4dbf18a5de8af99ce02a6f81fbd51538711a9526d45f47da9",
@@ -25369,7 +25369,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-23T11:25:00Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.1-b76b4fdde86e.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.1/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "b76b4fdde86e46364d757286252bb64234a65d12ad051c3f4c6e0571a3b1ce1f",
@@ -25381,7 +25381,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-23T08:22:02Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.6.0-8991eeeb4d42.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.6.0/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "8991eeeb4d4207f8d4205c23378ad06d308878e17d5ebd21e3be7aff45b56bc6",
@@ -25405,7 +25405,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-16T17:52:51Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.3-4a7ce3e04607.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.5.3/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "4a7ce3e04607b91f09eccc81e296fb0f172d8057f4bc06f602656d4113f71161",
@@ -25417,7 +25417,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-15T07:49:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.2-3e46708f6aa8.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.5.2/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "3e46708f6aa89d7313ee82b9d3dc76d4e797b09586a06da57839e4085c373f6c",
@@ -25429,7 +25429,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-14T09:25:30Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.1-d85d59dab8cd.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.5.1/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "d85d59dab8cd8f302effc6ca406cf6de445e8b1e313feaa905a47bffe9dec109",
@@ -25441,7 +25441,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-13T17:27:12Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.5.0-2a4ae00dae2c.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.5.0/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "2a4ae00dae2c8ce8c2342a4c56148abcb4f10254eeb57dc2b90512638d16c355",
@@ -25453,7 +25453,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-12T13:21:32Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.4.0-1baf1f2f3e19.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.4.0/SideInstaller.ipa",
           "ipaBundleIdentifier": "com.frizzlem.sideinstaller",
           "releaseChannel": "release",
           "sha256": "1baf1f2f3e192e865613da4c3d8f706c1555460b521172651ee1e2097953a807",
@@ -25465,7 +25465,7 @@
         {
           "version": "v1.3.1",
           "date": "2026-10-06T16:24:26Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.1-de6175558542.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.3.1/SideInstaller.ipa",
           "size": 8901679,
           "sha256": "de6175558542925627d9606dac27f63903bc05074b2f348fc268aca23b92a05d",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.3.1/SideInstaller.ipa",
@@ -25477,7 +25477,7 @@
         {
           "version": "v1.3.0",
           "date": "2026-10-05T18:55:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.3.0-fa10e9c3c280.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.3.0/SideInstaller.ipa",
           "size": 8883213,
           "sha256": "fa10e9c3c280651e8af3bd3e842ed89573a218ea29488d6a9b3be2f16c931773",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.3.0/SideInstaller.ipa",
@@ -25489,7 +25489,7 @@
         {
           "version": "v1.2.2",
           "date": "2026-10-04T08:49:05Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.2-345cc88e2370.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.2/SideInstaller.ipa",
           "size": 9379704,
           "sha256": "345cc88e2370cf98072cd23f124bad03354317f3c598891f34cae490c81885ed",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.2/SideInstaller.ipa",
@@ -25501,7 +25501,7 @@
         {
           "version": "v1.2.1",
           "date": "2026-09-30T16:30:57Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.1-9d7f69c23d99.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.1/SideInstaller.ipa",
           "size": 9349679,
           "sha256": "9d7f69c23d99d47b35e9f17db5d9f8ab299f868f778d6d8b6ccbcf3706a3ce0a",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.1/SideInstaller.ipa",
@@ -25513,7 +25513,7 @@
         {
           "version": "v1.2.0",
           "date": "2026-09-30T14:26:55Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.2.0-99c632441fad.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.0/SideInstaller.ipa",
           "size": 9331555,
           "sha256": "99c632441fad5210631609d18052d5dfda810c312146991ab987091efb455231",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.2.0/SideInstaller.ipa",
@@ -25525,7 +25525,7 @@
         {
           "version": "v1.1.0",
           "date": "2026-09-21T17:52:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.1.0-66a8938e955b.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.1.0/SideInstaller.ipa",
           "size": 9269862,
           "sha256": "66a8938e955b21c6b1ffaca922c517b3095ab955c1d74e6af9d274d02fb8e42c",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.1.0/SideInstaller.ipa",
@@ -25537,7 +25537,7 @@
         {
           "version": "v1.0.0",
           "date": "2026-09-14T17:59:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v1.0.0-0bf74b00c964.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.0.0/SideInstaller.ipa",
           "size": 9243749,
           "sha256": "0bf74b00c9643ee3380caa0483b45365bceb96fbb7b2c80f833c12a66e5df336",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v1.0.0/SideInstaller.ipa",
@@ -25549,7 +25549,7 @@
         {
           "version": "v0.9.0",
           "date": "2026-08-07T14:00:16Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-0.9.0-73dd6b9027cb.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
           "size": 7908297,
           "sha256": "73dd6b9027cbe850f1556ec87bd12a1c36bce9b020c79bdaa7f7b2e5153a4613",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.9.0/SideInstaller.ipa",
@@ -25561,7 +25561,7 @@
         {
           "version": "v0.8.0",
           "date": "2026-08-06T21:03:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.8.0-90825f8c7275.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.8.0/SideInstaller.ipa",
           "size": 8436151,
           "sha256": "90825f8c727590ca756b7c22f4c3e5f89ed1681ed15b068bf5a277512ad508f7",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.8.0/SideInstaller.ipa",
@@ -25573,7 +25573,7 @@
         {
           "version": "v0.7.0",
           "date": "2026-08-03T13:58:44Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.7.0-c58bee780540.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.7.0/SideInstaller.ipa",
           "size": 7626179,
           "sha256": "c58bee7805409cd567321b42a1e0e08ffbca364ecefc7fd7b3f30a1132041ee7",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.7.0/SideInstaller.ipa",
@@ -25585,7 +25585,7 @@
         {
           "version": "v0.6.5",
           "date": "2026-07-21T18:23:55Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.5-8bda614d023a.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.5/SideInstaller.ipa",
           "size": 7581370,
           "sha256": "8bda614d023af0a8c986b05325371b45134a7b09940a96e1085c51c1e2b15496",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.5/SideInstaller.ipa",
@@ -25597,7 +25597,7 @@
         {
           "version": "v0.6.4",
           "date": "2026-07-21T17:07:22Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.4-17e95b5c8927.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.4/SideInstaller.ipa",
           "size": 7581179,
           "sha256": "17e95b5c89271c8d17f65cafa01408eb073fa14b8ac561c1166ff025107b9cc0",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.4/SideInstaller.ipa",
@@ -25609,7 +25609,7 @@
         {
           "version": "v0.6.3",
           "date": "2026-07-21T14:46:53Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.3-b239335154c5.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.3/SideInstaller.ipa",
           "size": 7581349,
           "sha256": "b239335154c56be087f0b2432da88a9f84f204fd35cd1e9c635d126b535b6358",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.3/SideInstaller.ipa",
@@ -25621,7 +25621,7 @@
         {
           "version": "v0.6.2",
           "date": "2026-07-19T15:46:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.2-2261e55f24bf.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.2/SideInstaller.ipa",
           "size": 7554853,
           "sha256": "2261e55f24bf7ed8ea3a8268c088c3f5f01aa267fe26fbc8b91b542cb82def40",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.2/SideInstaller.ipa",
@@ -25633,7 +25633,7 @@
         {
           "version": "v0.6.1",
           "date": "2026-07-09T13:06:19Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.1-3e0f0cfc0250.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.1/SideInstaller.ipa",
           "size": 7546083,
           "sha256": "3e0f0cfc02509e0d21b459ad061ddbda90a8529c2d929f96faee2da4273db268",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.1/SideInstaller.ipa",
@@ -25645,7 +25645,7 @@
         {
           "version": "v0.6.0",
           "date": "2026-07-09T12:57:41Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.6.0-994d9dfbb5b6.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.0/SideInstaller.ipa",
           "size": 7546033,
           "sha256": "994d9dfbb5b6dc9aeae90825a5d7342f073216058203990dbc00b03c397a3c95",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.6.0/SideInstaller.ipa",
@@ -25657,7 +25657,7 @@
         {
           "version": "v0.5.0",
           "date": "2026-07-03T12:13:21Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.5.0-32a3998157be.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.5.0/SideInstaller.ipa",
           "size": 7540187,
           "sha256": "32a3998157be68118c20128ed732ec3cd9a1cf5a3a3e03a3950c741e5325382d",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.5.0/SideInstaller.ipa",
@@ -25669,7 +25669,7 @@
         {
           "version": "v0.2.6",
           "date": "2026-06-28T14:34:14Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.2.6-21c30fbc4f89.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.6/SideInstaller.ipa",
           "size": 7474250,
           "sha256": "21c30fbc4f8925a5d419ed2b18f27df6111f36989a7c5c1c88ceb897c6d2e3fd",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.6/SideInstaller.ipa",
@@ -25681,7 +25681,7 @@
         {
           "version": "v0.2.5",
           "date": "2026-06-23T12:54:07Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.2.5-950d76292e2e.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.5/SideInstaller.ipa",
           "size": 7467575,
           "sha256": "950d76292e2e10a45a3188becab25c9c1765f1d4350f2474d6f345a2c0e595ea",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.5/SideInstaller.ipa",
@@ -25693,7 +25693,7 @@
         {
           "version": "v0.2.0",
           "date": "2026-06-23T10:19:07Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.2.0-b418be368116.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.0/SideInstaller.ipa",
           "size": 7456091,
           "sha256": "b418be368116b470a9ca26962fd23b634dffa1bc2177cfdebf42b5932c9d157e",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.2.0/SideInstaller.ipa",
@@ -25705,7 +25705,7 @@
         {
           "version": "v0.1.0",
           "date": "2026-06-22T11:33:44Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v0.1.0-32f60c4c1f55.ipa",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.1.0/SideInstaller.ipa",
           "size": 7073668,
           "sha256": "32f60c4c1f55ab7e3654e93bba6de23faa56a25fb0007bb2b52c110e5e910974",
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.1.0/SideInstaller.ipa",
@@ -25733,7 +25733,7 @@
       "name": "EnsWilde",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+        "checkedDownloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -25743,7 +25743,7 @@
         {
           "buildVersion": "3",
           "date": "2026-02-25T15:28:02Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.3-a924663f814e.ipa",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
           "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
           "releaseChannel": "release",
           "sha256": "a924663f814e2097378dd9e6c1367dec2119f4221e36e495fea5218c8d19165b",
@@ -25764,7 +25764,7 @@
         {
           "buildVersion": "3",
           "date": "2026-02-01T14:58:19Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.2-88b502eb30d9.ipa",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.2/EnsWilde.ipa",
           "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
           "releaseChannel": "release",
           "sha256": "88b502eb30d95d466ebf2d205dafdb955fbb234cf3601292c972bd72c4d147ca",
@@ -25776,7 +25776,7 @@
         {
           "buildVersion": "3",
           "date": "2026-01-22T11:37:58Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1.1-822fdc9b3059.ipa",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.1/EnsWilde.ipa",
           "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
           "releaseChannel": "release",
           "sha256": "822fdc9b3059dbc9743ec8d5564733422c22ca2f6b84ed9953216685e2fc69eb",
@@ -25788,7 +25788,7 @@
         {
           "buildVersion": "3",
           "date": "2026-01-19T15:53:10Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.1-06ec468721a6.ipa",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1/EnsWilde.ipa",
           "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
           "releaseChannel": "release",
           "sha256": "06ec468721a64a6267dbb334cac11ed88065602dd779fca08941a550652e14f8",
@@ -25800,7 +25800,7 @@
         {
           "buildVersion": "3",
           "date": "2026-01-18T07:14:23Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/enswilde-EnsWilde3.0-a4c3b2cf670d.ipa",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.0/EnsWilde.ipa",
           "ipaBundleIdentifier": "com.yangjiii.EnsWilde",
           "releaseChannel": "release",
           "sha256": "a4c3b2cf670da9b7a242389733c653acfa03456834f647233262a4af86e75486",
@@ -25828,7 +25828,7 @@
       "name": "3105",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
+        "checkedDownloadURL": "https://github.com/YangJiiii/3105/releases/download/v2.0/3105-2.0-build8-20260914-125906-unsigned.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -25838,7 +25838,7 @@
         {
           "buildVersion": "8",
           "date": "2026-09-14T06:18:20Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v2.0-239cd9a10ad9.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v2.0/3105-2.0-build8-20260914-125906-unsigned.ipa",
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "release",
           "sha256": "239cd9a10ad91bdd708bd84e1b75d6e8416a95d2b1e46e34e5e80cc58c324991",
@@ -25867,7 +25867,7 @@
         {
           "buildVersion": "6",
           "date": "2026-08-19T16:23:34Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.1.0-80d77f655fd4.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.0/3105-unsigned.ipa",
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "release",
           "sha256": "80d77f655fd4da9655fbc71e28aa0a7abf6dac7bfddfe8b0b5464d2603df8719",
@@ -25879,7 +25879,7 @@
         {
           "buildVersion": "5",
           "date": "2026-08-15T08:37:54Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.1-cce50b1c6868.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.1/3105-v1.0.1-build5-MobileHouseArrest-unsigned.ipa",
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "release",
           "sha256": "cce50b1c686847c8c9090322ce5ba4fcaf619d0d73eb503565d9c4352c59dcb0",
@@ -25891,7 +25891,7 @@
         {
           "buildVersion": "4",
           "date": "2026-08-14T16:56:21Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.0-5778e000299f.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.0/3105-1.0-unsigned.ipa",
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "release",
           "sha256": "5778e000299f2a62cc31a38b25f5140f77ce6ee459dcbd3bb13afce784cc9964",
@@ -25903,7 +25903,7 @@
         {
           "buildVersion": "3",
           "date": "2026-08-14T03:25:59Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/3105-v1.0.0-beta.3-01c98077aae4.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.0-beta.3/3105-v1.0-beta3-unsigned.ipa",
           "ipaBundleIdentifier": "com.apple.mobile.MobileHouseArrest",
           "releaseChannel": "beta",
           "sha256": "01c98077aae477f349d4a18a63037fb8d2658443930c0ba2c8cddbad5d8fb8c1",
@@ -25932,7 +25932,7 @@
       "name": "PancakeStore",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+        "checkedDownloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -25942,7 +25942,7 @@
         {
           "buildVersion": "Release",
           "date": "2026-07-27T08:58:47Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3.1-062c081e491e.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
           "releaseChannel": "release",
           "sha256": "062c081e491ee3e5d7aeb660836fdf1538530f3761810956855a7dae4b23097d",
@@ -25963,7 +25963,7 @@
         {
           "buildVersion": "Release",
           "date": "2026-07-26T17:55:07Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.3-aba39557a110.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3/PancakeStore_v1.3.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
           "releaseChannel": "release",
           "sha256": "aba39557a1105b0888fbd842a389850190944178b28d9affa9cc74af93aa49b7",
@@ -25975,7 +25975,7 @@
         {
           "buildVersion": "Release",
           "date": "2026-07-01T02:08:51Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.2.2-fdd668987273.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.2.2/PancakeStore_v1.2.2.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
           "releaseChannel": "release",
           "sha256": "fdd6689872736c70d4b3487b3fffc199d03d7d2b87c42aaf4ce89733fd7bcbcb",
@@ -25987,7 +25987,7 @@
         {
           "buildVersion": "Release",
           "date": "2026-06-26T23:43:46Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.2.1-7e2f055237a0.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.2.1/PancakeStore_v1.2.1.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
           "releaseChannel": "release",
           "sha256": "7e2f055237a0806169f0745623ae3e3d6988d5960d7e65ce250e5f9d32622717",
@@ -25999,7 +25999,7 @@
         {
           "buildVersion": "Release",
           "date": "2026-06-12T17:49:41Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.2-992dfdd9dff0.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.2/PancakeStore_v1.2.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStore",
           "releaseChannel": "release",
           "sha256": "992dfdd9dff093c30c1a084ebeb93241a024dacf18e4d8f8a1267d4be24be01d",
@@ -26011,7 +26011,7 @@
         {
           "buildVersion": "1",
           "date": "2026-02-27T02:18:24Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/pancakestore-1.1-92eb3c58407f.ipa",
+          "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.1/PancakeStore_v1.1.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.PancakeStoreLung",
           "releaseChannel": "release",
           "sha256": "92eb3c58407f299c5d0069d76c7e6fca2dfa4e920825e1a6597235062178e541",
@@ -26047,7 +26047,7 @@
       "name": "ARMSX2 (Stable)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
+        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.6.0/ARMSX2-iOS-2.6.0.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -26057,7 +26057,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-02T16:14:50Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-stable-iOSv2.6.0-86189c429769.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/iOSv2.6.0/ARMSX2-iOS-2.6.0.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios",
           "releaseChannel": "release",
           "sha256": "86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0",
@@ -26212,7 +26212,7 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.29-87f9f8b8c634.ipa",
+        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261029/ARMSX2-nightly-20261029-aa52a1fdc7-iOS-arm64.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -26222,7 +26222,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-29T13:29:45Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.29-87f9f8b8c634.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261029/ARMSX2-nightly-20261029-aa52a1fdc7-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "87f9f8b8c6349c38df7a1837299f77ef2de7f6f813d9bd469bfff3b93c794d4d",
@@ -26234,7 +26234,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-28T14:04:50Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.28-bd0160f85c7b.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261028/ARMSX2-nightly-20261028-e3c7d2102e-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "bd0160f85c7b722203ba19f81d5e365c4b39539717a4f9d13d712f59a76eb265",
@@ -26246,7 +26246,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-23T14:10:10Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.23-d69c486e5679.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261023/ARMSX2-nightly-20261023-90126bdfea-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "d69c486e567970e22049a4212c436aca5f948a5dca3c74d52edcce10428063ac",
@@ -26258,7 +26258,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-22T14:35:03Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.22-c0cfd12557a1.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261022/ARMSX2-nightly-20261022-b276f045c6-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "c0cfd12557a1e4251745db4945ec343958365af0a6bff424f87b516e4db265e3",
@@ -26270,7 +26270,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-20T14:16:32Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.20-610c975ad2cc.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261020/ARMSX2-nightly-20261020-c66d053fe5-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "610c975ad2ccf0b973b39252c10c1479c681ab851929ba763d870c41c1e881f6",
@@ -26282,7 +26282,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-19T13:17:07Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-c703735468b3.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261019/ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "c703735468b3ef247ae3575e813d5ab590ebdc6701d731fab80e1a47e3a5e450",
@@ -26294,7 +26294,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-19T13:17:07Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.19-fdca03b55749.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261019/ARMSX2-nightly-20261019-83fe4e293f-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "fdca03b557495f16ea003f066c914208068a0aa22450a0cd4405faecf016a667",
@@ -26306,7 +26306,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-18T14:27:28Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.18-684a77da8ee4.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261018/ARMSX2-nightly-20261018-0d525e4bdb-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "684a77da8ee4b7f463dc232e7dfffd2d26540d2b7c403e69db366ecd3e939f28",
@@ -26318,7 +26318,7 @@
         {
           "buildVersion": "260",
           "date": "2026-10-16T19:36:18Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.10.16-32c2c6bcd0b8.ipa",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261016/ARMSX2-nightly-20261016-25e7084fde-iOS-arm64.ipa",
           "ipaBundleIdentifier": "com.armsx2.ios.nightly",
           "releaseChannel": "nightly",
           "sha256": "32c2c6bcd0b8c296b25534052e1ccb119a40643ce6afc59bba9dd7db064a66b9",
@@ -26374,7 +26374,7 @@
       "name": "JESSI",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
+        "checkedDownloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -26384,7 +26384,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-06T07:25:26Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.2-0110251f8d8c.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "release",
           "sha256": "0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6",
@@ -26396,7 +26396,7 @@
         {
           "buildVersion": "1",
           "date": "2026-10-04T08:04:41Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1.1-2192f5ed265b.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.1/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "release",
           "sha256": "2192f5ed265b4216a4287abc90c2ba7450a4a7a06ebd3e2bf82eda36fde60c53",
@@ -26408,7 +26408,7 @@
         {
           "buildVersion": "1",
           "date": "2026-09-30T04:56:03Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.1-97ff906c97c3.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "release",
           "sha256": "97ff906c97c3ec23531e744571ba241158b98a89b9cbefc09f20745993f2e29f",
@@ -26437,7 +26437,7 @@
         {
           "buildVersion": "1",
           "date": "2026-03-12T10:05:11Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-1.0-e8a4ae46e685.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "release",
           "sha256": "e8a4ae46e6853615408c405427517e705465b1ec9fdcf2eac7a38c891d25bc02",
@@ -26449,7 +26449,7 @@
         {
           "buildVersion": "1",
           "date": "2026-03-04T21:55:48Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-rc-f54894d4f3c8.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/rc/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "release",
           "sha256": "f54894d4f3c85b0be5417a5c20fea486f8f17e036ba5e288d6d8d7cf5152ea6f",
@@ -26461,7 +26461,7 @@
         {
           "buildVersion": "1",
           "date": "2026-02-23T20:46:26Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b5-d59e4e855222.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/b5/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "sha256": "d59e4e8552222a5f23c4fe8f8efc4f2335fff5b7e536a5be399bba6c96596b5f",
@@ -26473,7 +26473,7 @@
         {
           "buildVersion": "1",
           "date": "2026-02-23T20:08:22Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-super-beta-f063982580c8.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/super-beta/JESSI-1.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "sha256": "f063982580c86bf5895024edbc2b625777023639ccb4b572916f46f1b67dedce",
@@ -26485,7 +26485,7 @@
         {
           "buildVersion": "1",
           "date": "2026-02-10T06:21:33Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b4-fd0b4199bda9.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/b4/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "sha256": "fd0b4199bda9348280c322e2b5d138f37542109a9d53cd12f47475a78577d315",
@@ -26497,7 +26497,7 @@
         {
           "buildVersion": "1",
           "date": "2026-02-02T10:50:36Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b3-703c1016ebca.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/b3/JESSI.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "sha256": "703c1016ebca1d579604310b2786fdd476abc2159a7489d40aa878ce37d00456",
@@ -26509,7 +26509,7 @@
         {
           "buildVersion": "0.1",
           "date": "2026-01-25T09:33:38Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/jessi-b2-425cb5ff761e.ipa",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/b2/jessiB2.ipa",
           "ipaBundleIdentifier": "com.baconmania.jessi",
           "releaseChannel": "beta",
           "sha256": "425cb5ff761e41f93ea1d57a4ed959786b3bd2a9014b9933c8fecf7890a081e4",
@@ -26537,7 +26537,7 @@
       "name": "mond",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-84109cb5ee11.ipa",
+        "checkedDownloadURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
         "checkedAt": "2026-11-03T13:07:12Z",
         "message": "Download is available"
       },
@@ -26547,7 +26547,7 @@
         {
           "buildVersion": "1",
           "date": "2026-08-19T15:48:33Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-84109cb5ee11.ipa",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
           "ipaBundleIdentifier": "com.roooot.mond",
           "releaseChannel": "prerelease",
           "sha256": "84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633",
@@ -26577,7 +26577,7 @@
         {
           "buildVersion": "1",
           "date": "2026-08-16T12:00:45Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.1-05c8bbd87c5e.ipa",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/2.1/mond.ipa",
           "ipaBundleIdentifier": "com.roooot.mond",
           "releaseChannel": "release",
           "sha256": "05c8bbd87c5e43c6a33e5bad2e8933ab94a0b1775163f45833915cc6e44ec635",
@@ -26589,7 +26589,7 @@
         {
           "buildVersion": "1",
           "date": "2026-08-16T03:10:54Z",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-2.0-2e15d300985a.ipa",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/2.0/mond.ipa",
           "ipaBundleIdentifier": "com.roooot.mond",
           "releaseChannel": "release",
           "sha256": "2e15d300985a59d3bf49cd74adbd96d280e3cdf1dbc687e9abf69f4fe5cae8fb",
