@@ -6277,7 +6277,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-dc2b41ad5c44522672a8382c60a8732a",
-        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/v2.1.2",
+        "sourceURL": "https://github.com/mikevillarroel/buildbox-ios/releases/tag/v2.1.4",
         "workflowPath": ".github/workflows/update-app-project-dc2b41ad5c44522672a8382c60a8732a.yml"
       },
       "bundleIdentifier": "com.mikevillarroel.buildbox",
@@ -6300,12 +6300,25 @@
       "name": "buildbox-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.2/BuildBox-2.1.2.ipa",
-        "checkedAt": "2026-11-02T23:41:25Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
+        "checkedAt": "2026-11-03T00:44:09Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.1.4",
+          "date": "2026-11-03T00:42:32Z",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
+          "size": 15595926,
+          "sha256": "ba719e8ffba8b508864c45c14267e6df6108f69cec73fca8b2d43a9b9ca3c9b9",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
+          "sourceAssetName": "BuildBox-2.1.4.ipa",
+          "sourceAppName": "BuildBox",
+          "ipaBundleIdentifier": "com.mikevillarroel.buildbox",
+          "releaseChannel": "release",
+          "buildVersion": "129"
+        },
         {
           "version": "v2.1.2",
           "date": "2026-11-02T21:02:26Z",
