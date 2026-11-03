@@ -21453,9 +21453,9 @@
         ]
       },
       "automation": {
-        "configId": "ppsspp",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.19.3",
+        "configId": "ppsspp",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41639749543",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -21468,14 +21468,26 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
-        "checkedAt": "2026-11-03T13:07:12Z",
-        "message": "Private updater: Actions artifact is not a valid ZIP archive."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-19b2894c2a016e59ddcaa7739e8b8362e7ed87fa-a1000d58dd11.ipa",
+        "checkedAt": "2026-11-03T13:17:08Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "19b2894c2a016e59ddcaa7739e8b8362e7ed87fa",
+          "date": "2026-11-03T12:55:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-19b2894c2a016e59ddcaa7739e8b8362e7ed87fa-a1000d58dd11.ipa",
+          "size": 20907775,
+          "sha256": "a1000d58dd1179bb54ff69fe8292c2a612876735382c35da7479afb337ea1123",
+          "upstreamAssetURL": "https://api.github.com/repos/hrydgard/ppsspp/actions/artifacts/13232402418/zip",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4-4372-g19b2894c2a.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "actions",
+          "buildVersion": "10020.4.4372"
+        },
         {
           "date": "2026-09-08T16:33:48Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp.ipa",
