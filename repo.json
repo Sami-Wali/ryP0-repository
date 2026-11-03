@@ -24662,9 +24662,9 @@
         ]
       },
       "automation": {
-        "configId": "ppsspp",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41697643790",
+        "configId": "ppsspp",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41699691082",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -24677,14 +24677,26 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "checkedAt": "2026-11-03T19:19:45Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-6e292608d4fd55e6f1e0bfd802d5559e69568b8d-26e863951a30.ipa",
-        "message": "Updated by private automation",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-2742a6374a21ed092aa401d6166e863538be09e7-c297e3067610.ipa",
+        "checkedAt": "2026-11-03T19:45:05Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2742a6374a21ed092aa401d6166e863538be09e7",
+          "date": "2026-11-03T19:03:42Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-2742a6374a21ed092aa401d6166e863538be09e7-c297e3067610.ipa",
+          "size": 20911614,
+          "sha256": "c297e30676103a42600430abea7f5ea161f8edc417de0ce3088368cd22038aea",
+          "upstreamAssetURL": "https://api.github.com/repos/hrydgard/ppsspp/actions/artifacts/13263546844/zip",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4-4387-g6e1a9aafbd.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "actions",
+          "buildVersion": "10020.4.4387"
+        },
         {
           "buildVersion": "10020.4.4387",
           "date": "2026-11-03T18:50:36Z",
