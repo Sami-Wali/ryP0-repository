@@ -125,6 +125,19 @@
           "ipaBundleIdentifier": "com.varunsalian.debrifytv",
           "releaseChannel": "alpha",
           "buildVersion": "53"
+        },
+        {
+          "version": "v0.9.9-alpha.1",
+          "date": "2026-09-23T09:29:04Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.9.9-alpha.1/debrify-v0.9.9-alpha.1-unsigned.ipa",
+          "size": 40821843,
+          "sha256": "a92b72ff76ac6bba5b49a81b4175f08e1b2b3b4feff820ccd181c4c9cf56c1cd",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.9.9-alpha.1/debrify-v0.9.9-alpha.1-unsigned.ipa",
+          "sourceAssetName": "debrify-v0.9.9-alpha.1-unsigned.ipa",
+          "sourceAppName": "Debrify",
+          "ipaBundleIdentifier": "com.varunsalian.debrify",
+          "releaseChannel": "alpha",
+          "buildVersion": "53"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.varunsalian.debrifytv-41d351af17e2.png",
@@ -134,7 +147,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-tvos-unsigned.ipa",
-        "checkedAt": "2026-11-03T14:29:14Z",
+        "checkedAt": "2026-11-03T14:29:48Z",
         "message": "Updated by private automation"
       },
       "importSource": {
