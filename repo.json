@@ -1163,6 +1163,20 @@
           "ipaBundleIdentifier": "io.github.jmillz269.ymir",
           "releaseChannel": "actions",
           "buildVersion": "0.4.2"
+        },
+        {
+          "version": "6d0f309ef1ee38fcc61e25e6d255a342ac475ae6",
+          "date": "2026-10-27T21:30:21Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-6d0f309ef1ee38fcc61e25e6d255a342ac475ae6-fdc71a8d1298.ipa",
+          "size": 9990564,
+          "sha256": "fdc71a8d12986f3e64c571cc5dd1ea4b1fe155d06a447c7ab29ae4898a5a270e",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12771822869/zip",
+          "sourceAssetName": "ymir-ios-arm64-6d0f309e.ipa",
+          "sourceArchiveEntry": "ymir-ios-arm64-6d0f309e.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "actions",
+          "buildVersion": "0.4.2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.jmillz269.ymir-f0589928f315.png",
@@ -1172,7 +1186,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/io.github.jmillz269.ymir-f0589928f315927be0e509464193f70b5e6dd391d53612dec7ee21278490e28f.ipa",
-        "checkedAt": "2026-11-03T18:05:59Z",
+        "checkedAt": "2026-11-03T18:06:34Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1187,7 +1201,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/40601529753",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/40587339957",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
       },
       "bundleIdentifiers": [
