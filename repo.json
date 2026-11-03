@@ -178,7 +178,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41386422968",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41572961195",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "bundleIdentifier": "dev.horizon.game",
@@ -202,12 +202,26 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-5793ad2237dcad13c2a1e3a5eb57613f299e1a8f-8f927bddeec0.ipa",
-        "checkedAt": "2026-11-02T23:41:25Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-219fe0f2a121f76a7a572d426004729290943f4b-32f3fc482378.ipa",
+        "checkedAt": "2026-11-03T04:56:59Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "219fe0f2a121f76a7a572d426004729290943f4b",
+          "date": "2026-11-03T03:33:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-219fe0f2a121f76a7a572d426004729290943f4b-32f3fc482378.ipa",
+          "size": 29569706,
+          "sha256": "32f3fc4823784fc7d3b71e7c935005f04dbf98232e6257b3dab4f95b4ac3c149",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13203725505/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "87.1"
+        },
         {
           "version": "5793ad2237dcad13c2a1e3a5eb57613f299e1a8f",
           "date": "2026-11-02T06:56:56Z",
