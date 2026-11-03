@@ -4292,13 +4292,19 @@
       "name": "Zeus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.1.9-19.ipa",
-        "checkedAt": "2026-11-03T13:07:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2-20.ipa",
+        "checkedAt": "2026-11-03T15:59:08Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "Zeus signs apps with your Apple Account and installs them on this iPhone, then keeps them going: a countdown shows when each one runs out, and Refresh All renews every app, and Zeus itself, in one go.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2",
+          "date": "2026-11-03T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2-20.ipa",
+          "size": 27560273
+        },
         {
           "buildVersion": "19",
           "date": "2026-10-30",
