@@ -20819,7 +20819,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "software-iridium-b8778bc6",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/40160854079",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/41613244677",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "bundleIdentifier": "software.iridium",
@@ -20837,13 +20837,26 @@
       "localizedDescription": "",
       "name": "Iridium",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-03T08:58:51Z",
-        "message": "Private updater: The downloaded file is too small to be an IPA."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-24b9d63c9a17ef9e8d1a686db3eb17ee7760b78a-ab843c0f8463.ipa",
+        "checkedAt": "2026-11-03T13:05:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "24b9d63c9a17ef9e8d1a686db3eb17ee7760b78a",
+          "date": "2026-11-03T09:42:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-24b9d63c9a17ef9e8d1a686db3eb17ee7760b78a-ab843c0f8463.ipa",
+          "size": 263705022,
+          "sha256": "ab843c0f8463b0ed2b3e9e9453a8c8bb1dc26b03c9f5550fb1907fdeaff8def1",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/13226233440/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "183.1"
+        },
         {
           "buildVersion": "176.1",
           "date": "2026-10-30T06:01:23Z",
