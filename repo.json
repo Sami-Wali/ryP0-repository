@@ -24355,7 +24355,8 @@
           "date": "2026-08-30",
           "downloadURL": "https://github.com/Leviidev/AetherPS4/releases/download/v1.0.1_release/AetherPS4-iOS.ipa",
           "size": 33931355,
-          "version": "1.0.1_release"
+          "version": "1.0.1_release",
+          "releaseChannel": "release"
         }
       ]
     },
