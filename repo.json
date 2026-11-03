@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "Animeko",
+      "catalogID": "app-ba192a3bc30d4ad880b1d16cfd7aa733",
+      "bundleIdentifier": "org.animeko.animeko",
+      "developerName": "open-ani",
+      "localizedDescription": "Animeko 是一个 Kotlin/Compose Multiplatform 打造的一站式弹幕追番平台，集找番、追番、看番于一体，支持 Bangumi 云同步观看记录、多视频数据源聚合（含 BitTorrent、Jellyfin、Emby）、离线缓存与弹幕云过滤。",
+      "subtitle": "Animeko 是一个 Kotlin/Compose Multiplatform 打造的一站式弹幕追番平台，集找番、追番、看番于一体，支持 Bangumi 云同步观看记录、多视频数据源聚合（含 BitTorrent、Jellyfin、Emby）、离线缓存与弹幕云过滤。",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "6.4.0",
+          "date": "2026-10-24",
+          "downloadURL": "https://github.com/open-ani/animeko/releases/download/v6.4.0/ani-6.4.0.ipa",
+          "size": 48615547,
+          "buildVersion": "6.4.99",
+          "localizedDescription": "- 加快桌面端网页视频解析速度 - 优化季度拆分资源的弹幕匹配准确性 - 新增通知中心与公告，可查看互动消息、举报处理结果和账号安全提醒，并按类型设置通知 - 新增弹幕文字转换设置，支持按弹幕来源单独配置并预览转换效果 (#3536 by @GeneralK1ng) - iOS 支持 Anime4K 视频增强，提升视频画面清晰度 (#3606 by @black4der) - Windows 和 macOS 自动更新支持增量下载，减少下载流量并加快更新 - 新增 JSON API 数据源 - 修复一系列播放相关问题 ---- - TV 端支持配置全局网络代理 (#3550 by @LoliWolf) - Android 支持通过包含 Bangumi 章节 ID 或剧集 ID 的 ani 链接打开指定剧集 - 优化续播与换源体验，直接从记忆进度开始播放，减少重复缓冲并避免换源后进度回退 - 优化剧集页播放器快捷键，切换标签页或关闭侧边栏后可直接操作视频，输入文字时避免误触快捷键 (#3542 by @Tsukumi233) - 修复桌面端在部分多显卡或渲染模式切换场景下视频黑屏、窗口空白的问题 - 修复 Windows 退出播放页时可能卡死的问题 - 修复 Windows 和 Linux 播放纯音频媒体时可能卡在加载中的问题 - 修复 Android 播放部分 MKV 视频时无法显示压缩字幕的问题，支持 ASS 和 SRT 字幕 - 修复 Android 暂停或播放结束后切换全屏时画面缩在左侧或被裁切的问题 - 修复 Android 应用语言切换不生效的问题 - 修复 Jellyfin 数据源切集后找不到下一集资源的问题 - 修复部分网络环境下数据源因页面链接使用 HTTP 而无法加载的问题 (#3633 by @wdw89) - 修复进入或切换页面时自动聚焦输入框、滑块等控件，导致页面意外滚动的问题 (#3650 by @NihilDigit) **Full Changelog**: https://github.com/open-ani/animeko/compare/v6.3.0...v6.4.0 [//]: # (ANI-SERVER-MAGIC-SEPARATOR) [//]: # (注意: api server 依赖这个特殊分隔符) [//]: # (对于所有可用的变量列表, 参考 CI release.yml 的 step release-notes) [github-win-x64]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-windows-x86_64.zip [github-win-aarch64]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-windows-aarch64.zip [github-mac-x64]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-macos-x86_64.dmg [github-mac-aarch64]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-macos-aarch64.dmg [github-android]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-universal.apk [github-android-arm64-v8a]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-arm64-v8a.apk [github-android-armeabi-v7a]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-armeabi-v7a.apk [github-android-x86_64]: https://github.com/open-ani/ani/releases/download/v6.4.0/ani-6.4.0-x86_64.apk [cf-win-x64]: https://d.myani.org/v6.4.0/ani-6.4.0-windows-x86_64.zip [cf-win-aarch64]: https://d.myani.org/v6.4.0/ani-6.4.0-windows-aarch64.zip [cf-linux-x64]: https://d.myani.org/v6.4.0/ani-6.4.0-linux-x86_64.appimage [cf-mac-x64]: https://d.myani.org/v6.4.0/ani-6.4.0-macos-x86_64.zip [cf-mac-aarch64]: https://d.myani.org/v6.4.0/ani-6.4.0-macos-aarch64.dmg [cf-ios]: https://d.myani.org/v6.4.0/ani-6.4.0.ipa [cf-android]: https://d.myani.org/v6.4.0/ani-6.4.0-universal.apk [cf-android-arm64-v8a]: https://d.myani.org/v6.4.0/ani-6.4.0-arm64-v8a.apk [cf-android-armeabi-v7a]: https://d.myani.org/v6.4.0/ani-6.4.0-armeabi-v7a.apk [cf-android-x86_64]: https://d.myani.org/v6.4.0/ani-6.4.0-x86_64.apk [ghproxy-win-x64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-windows-x86_64.zip [ghproxy-win-aarch64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-windows-aarch64.zip [ghproxy-mac-x64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-macos-x86_64.zip [ghproxy-linux-x64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-linux-x86_64.appimage [ghproxy-mac-aarch64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-macos-aarch64.dmg [ghproxy-ios]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0.ios [ghproxy-android]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-universal.apk [ghproxy-android-arm64-v8a]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-arm64-v8a.apk [ghproxy-android-armeabi-v7a]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Freleases%2Fdownload%2Fv6.4.0%2Fani-6.4.0-armeabi-v7a.apk [ghproxy-android-x86_64]: https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2Fopen-ani%2Fani%2Frelea",
+          "sha256": "c5797e772fa654b2a6723f3f61c8332465b760435e7ea5ee18da3448cb27ad8a",
+          "ipaBundleIdentifier": "org.animeko.animeko"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.animeko.animeko-c5797e772fa6.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/open-ani/animeko/releases/download/v6.4.0/ani-6.4.0.ipa",
+        "checkedAt": "2026-11-03T21:34:19Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/open-ani/animeko/releases/download/v6.4.0/ani-6.4.0.ipa",
+        "selector": "entry-bb6d2fe24d60fffda098770b25f8eb2d469425e42099d7392782feebbbd53fc4",
+        "sourceURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/all-apps.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-ba192a3bc30d4ad880b1d16cfd7aa733",
+        "sourceURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/all-apps.json",
+        "workflowPath": ".github/workflows/update-app-app-ba192a3bc30d4ad880b1d16cfd7aa733.yml"
+      }
+    },
+    {
       "name": "Breeze",
       "catalogID": "project-d2b372b8cdc3db0c68349a8d5147eae4",
       "bundleIdentifier": "com.zephyr.breeze",
