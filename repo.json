@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Utsuro",
+      "catalogID": "project-190db1661397120e3e77eef33b5688f6",
+      "bundleIdentifier": "com.utsuro.app",
+      "developerName": "leviidev",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-01T18:28:08Z",
+          "downloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
+          "size": 5423119,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "40ceb59c17809ec90bad2d2c2eead0ed6ab362f076e10fc8ad7d50f06f0bef81",
+          "sourceAppName": "Utsuro",
+          "sourceAssetName": "Utsuro.ipa",
+          "ipaBundleIdentifier": "com.utsuro.app",
+          "upstreamAssetURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.utsuro.app-40ceb59c1780.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
+        "checkedAt": "2026-11-03T17:19:54Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
+        "sourceURL": "https://github.com/leviidev/Utsuro"
+      },
+      "githubURL": "https://github.com/leviidev/Utsuro",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-190db1661397120e3e77eef33b5688f6",
+        "sourceURL": "https://github.com/leviidev/Utsuro",
+        "workflowPath": ".github/workflows/update-app-project-190db1661397120e3e77eef33b5688f6.yml"
+      }
+    },
+    {
       "name": "Ymir-iOS",
       "catalogID": "project-4a1a129c09874263ac2e03acc0269a61",
       "bundleIdentifier": "io.github.jmillz269.ymir",
