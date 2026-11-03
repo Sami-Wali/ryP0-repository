@@ -1,6 +1,42 @@
 {
   "apps": [
     {
+      "name": "super mario 64 ios port 60fps",
+      "catalogID": "app-c38b031da3634b479d744890e854500d",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "developerName": "Unknown Developer",
+      "localizedDescription": "super mario 64 on ios with 60fps!",
+      "subtitle": "super mario 64 on ios with 60fps!",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-11-03T21:13:27Z",
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
+          "size": 9222773,
+          "buildVersion": "1",
+          "sha256": "2d2374796cd8168e3bbb90dd9f496e616a17528448533647906ccfd10e94110f",
+          "ipaBundleIdentifier": "xyz.cypwn.sm64ios-60fps"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/xyz.cypwn.sm64ios-60fps-2d2374796cd8.png",
+      "updatePolicy": "static",
+      "appType": "Static",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
+        "checkedAt": "2026-11-03T21:13:32Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "direct-url",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
+        "sourceURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-190db1661397120e3e77eef33b5688f6",
