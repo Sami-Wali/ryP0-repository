@@ -21,6 +21,19 @@
           "sourceAssetName": "debrify-v0.10.1-alpha.1-tvos-unsigned.ipa",
           "ipaBundleIdentifier": "com.varunsalian.debrifytv",
           "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-tvos-unsigned.ipa"
+        },
+        {
+          "version": "v0.10.1-alpha.1",
+          "date": "2026-10-31T12:17:22Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-unsigned.ipa",
+          "size": 39763038,
+          "sha256": "994ec046a294903adeee395a1a84fcb8f11303216c66badbe8726b6629ea6267",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-unsigned.ipa",
+          "sourceAssetName": "debrify-v0.10.1-alpha.1-unsigned.ipa",
+          "sourceAppName": "Debrify",
+          "ipaBundleIdentifier": "com.varunsalian.debrify",
+          "releaseChannel": "alpha",
+          "buildVersion": "57"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.varunsalian.debrifytv-41d351af17e2.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-tvos-unsigned.ipa",
-        "checkedAt": "2026-11-03T14:25:09Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-03T14:25:54Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2080023ed46dc8c95d091f9c6d0673cb",
-        "sourceURL": "https://github.com/varunsalian/debrify",
+        "sourceURL": "https://github.com/varunsalian/debrify/releases/tag/v0.10.1-alpha.1",
         "workflowPath": ".github/workflows/update-app-project-2080023ed46dc8c95d091f9c6d0673cb.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.varunsalian.debrifytv",
+        "com.varunsalian.debrify"
+      ]
     },
     {
       "name": "lara",
