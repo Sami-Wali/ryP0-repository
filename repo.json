@@ -78,6 +78,19 @@
           "ipaBundleIdentifier": "io.github.jmillz269.ymir",
           "releaseChannel": "actions",
           "buildVersion": "0.4.2"
+        },
+        {
+          "version": "v0.4.2",
+          "date": "2026-11-02T01:33:44Z",
+          "downloadURL": "https://github.com/JMillz269/Ymir-iOS/releases/download/v0.4.2/Ymir-iOS.ipa",
+          "size": 10629293,
+          "sha256": "62a1f43daa71213101c395e33ffd780e3691bcadaa3eeffa050d46bd2321ee42",
+          "upstreamAssetURL": "https://github.com/JMillz269/Ymir-iOS/releases/download/v0.4.2/Ymir-iOS.ipa",
+          "sourceAssetName": "Ymir-iOS.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "release",
+          "buildVersion": "0.4.2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.jmillz269.ymir-f0589928f315.png",
@@ -87,7 +100,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/io.github.jmillz269.ymir-f0589928f315927be0e509464193f70b5e6dd391d53612dec7ee21278490e28f.ipa",
-        "checkedAt": "2026-11-03T17:12:01Z",
+        "checkedAt": "2026-11-03T17:12:24Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -102,7 +115,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/41554735913",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/releases/tag/v0.4.2",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
       },
       "bundleIdentifiers": [
