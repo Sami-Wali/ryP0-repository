@@ -580,6 +580,19 @@
           "ipaBundleIdentifier": "com.varunsalian.debrifytv",
           "releaseChannel": "alpha",
           "buildVersion": "36"
+        },
+        {
+          "version": "v0.8.7-alpha.1",
+          "date": "2026-08-22T14:09:16Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.8.7-alpha.1/debrify-v0.8.7-alpha.1-unsigned.ipa",
+          "size": 36342939,
+          "sha256": "278241950924584b9de3ade55c827a5b7056938a75f72f1ffbd83188651dd6df",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.8.7-alpha.1/debrify-v0.8.7-alpha.1-unsigned.ipa",
+          "sourceAssetName": "debrify-v0.8.7-alpha.1-unsigned.ipa",
+          "sourceAppName": "Debrify",
+          "ipaBundleIdentifier": "com.varunsalian.debrify",
+          "releaseChannel": "alpha",
+          "buildVersion": "35"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.varunsalian.debrifytv-41d351af17e2.png",
@@ -589,7 +602,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.1-alpha.1/debrify-v0.10.1-alpha.1-tvos-unsigned.ipa",
-        "checkedAt": "2026-11-03T14:54:01Z",
+        "checkedAt": "2026-11-03T14:55:35Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -604,7 +617,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-2080023ed46dc8c95d091f9c6d0673cb",
-        "sourceURL": "https://github.com/varunsalian/debrify/releases/tag/v0.8.8-alpha.1",
+        "sourceURL": "https://github.com/varunsalian/debrify/releases/tag/v0.8.7-alpha.1",
         "workflowPath": ".github/workflows/update-app-project-2080023ed46dc8c95d091f9c6d0673cb.yml"
       },
       "bundleIdentifiers": [
