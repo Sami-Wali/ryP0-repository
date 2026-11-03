@@ -20813,8 +20813,8 @@
       "name": "Iridium",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-03T06:36:40Z",
-        "message": "Private updater: The read operation timed out"
+        "checkedAt": "2026-11-03T08:58:51Z",
+        "message": "Private updater: The downloaded file is too small to be an IPA."
       },
       "subtitle": "",
       "updatePolicy": "daily",
