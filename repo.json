@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Breeze",
+      "catalogID": "project-d2b372b8cdc3db0c68349a8d5147eae4",
+      "bundleIdentifier": "com.zephyr.breeze",
+      "developerName": "deretame",
+      "localizedDescription": "GitHub project request: deretame/Breeze.",
+      "subtitle": "GitHub project request: deretame/Breeze.",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "3.0.37",
+          "date": "2026-10-31T09:28:32Z",
+          "downloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa",
+          "size": 26431983,
+          "buildVersion": "2225",
+          "releaseChannel": "release",
+          "sha256": "ca6d6508b60e004b99c47f07a7e0d6c5546eb9384a91f69ba87c8f470fe1e32f",
+          "sourceAppName": "Breeze",
+          "sourceAssetName": "Breeze-iOS-v3.0.37.ipa",
+          "ipaBundleIdentifier": "com.zephyr.breeze",
+          "upstreamAssetURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.zephyr.breeze-ca6d6508b60e.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa",
+        "checkedAt": "2026-11-03T21:26:40Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa",
+        "sourceURL": "https://github.com/deretame/Breeze"
+      },
+      "githubURL": "https://github.com/deretame/Breeze",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
+        "sourceURL": "https://github.com/deretame/Breeze",
+        "workflowPath": ".github/workflows/update-app-project-d2b372b8cdc3db0c68349a8d5147eae4.yml"
+      }
+    },
+    {
       "name": "mangayomi",
       "catalogID": "project-696a6410c95a02f4afeecff28dbd6b10",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
