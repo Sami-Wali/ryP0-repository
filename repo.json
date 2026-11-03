@@ -234,6 +234,19 @@
           "ipaBundleIdentifier": "com.zephyr.breeze",
           "releaseChannel": "release",
           "buildVersion": "2211"
+        },
+        {
+          "version": "v3.0.22",
+          "date": "2026-07-19T13:14:38Z",
+          "downloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.22/Breeze-iOS-v3.0.22.ipa",
+          "size": 24685393,
+          "sha256": "80222887db5ceadae8c2f1529a8b85ca6e8e5b055b3decd43ab303336ed6ad65",
+          "upstreamAssetURL": "https://github.com/deretame/Breeze/releases/download/v3.0.22/Breeze-iOS-v3.0.22.ipa",
+          "sourceAssetName": "Breeze-iOS-v3.0.22.ipa",
+          "sourceAppName": "Breeze",
+          "ipaBundleIdentifier": "com.zephyr.breeze",
+          "releaseChannel": "release",
+          "buildVersion": "2210"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.zephyr.breeze-ca6d6508b60e.png",
@@ -243,7 +256,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa",
-        "checkedAt": "2026-11-03T22:10:44Z",
+        "checkedAt": "2026-11-03T22:11:19Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -258,7 +271,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
-        "sourceURL": "https://github.com/deretame/Breeze/releases/tag/v3.0.23",
+        "sourceURL": "https://github.com/deretame/Breeze/releases/tag/v3.0.22",
         "workflowPath": ".github/workflows/update-app-project-d2b372b8cdc3db0c68349a8d5147eae4.yml"
       },
       "bundleIdentifiers": [
