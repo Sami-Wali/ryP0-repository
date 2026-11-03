@@ -12387,9 +12387,8 @@
       "name": "BlueWake",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
-        "checkedAt": "2026-11-03T05:42:01Z",
-        "message": "Private updater: Actions discovery failed: GitHub API returned HTTP 403."
+        "checkedAt": "2026-11-03T08:51:16Z",
+        "message": "Private updater: Actions artifact is not a valid ZIP archive."
       },
       "subtitle": "The Legend of Zelda: The Wind Waker iOS port",
       "updatePolicy": "daily",
