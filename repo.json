@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "mangayomi",
+      "catalogID": "project-696a6410c95a02f4afeecff28dbd6b10",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "developerName": "kodjodevf",
+      "localizedDescription": "GitHub project request: kodjodevf/mangayomi.",
+      "subtitle": "GitHub project request: kodjodevf/mangayomi.",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "0.9.95",
+          "date": "2026-11-01T15:42:14Z",
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa",
+          "size": 115450399,
+          "buildVersion": "128",
+          "releaseChannel": "release",
+          "sha256": "da0fd7eb5989dce528d6ba2a2b12ec4b6c43dec5e1e600cd9036085498a2cb96",
+          "sourceAppName": "Mangayomi",
+          "sourceAssetName": "Mangayomi-v0.9.95-ios.ipa",
+          "ipaBundleIdentifier": "com.kodjodevf.mangayomi",
+          "upstreamAssetURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.kodjodevf.mangayomi-da0fd7eb5989.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa",
+        "checkedAt": "2026-11-03T21:14:42Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa",
+        "sourceURL": "https://github.com/kodjodevf/mangayomi"
+      },
+      "githubURL": "https://github.com/kodjodevf/mangayomi",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-696a6410c95a02f4afeecff28dbd6b10",
+        "sourceURL": "https://github.com/kodjodevf/mangayomi",
+        "workflowPath": ".github/workflows/update-app-project-696a6410c95a02f4afeecff28dbd6b10.yml"
+      }
+    },
+    {
       "name": "super mario 64 ios port 60fps",
       "catalogID": "app-c38b031da3634b479d744890e854500d",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
