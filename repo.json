@@ -21,6 +21,19 @@
           "sourceAssetName": "Breeze-iOS-v3.0.37.ipa",
           "ipaBundleIdentifier": "com.zephyr.breeze",
           "upstreamAssetURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa"
+        },
+        {
+          "version": "v3.0.36",
+          "date": "2026-10-25T05:46:26Z",
+          "downloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.36/Breeze-iOS-v3.0.36.ipa",
+          "size": 26377539,
+          "sha256": "8886584b808c3ceb48d58a7e50aa9961998f7789996df86fac3c69b51f6df69a",
+          "upstreamAssetURL": "https://github.com/deretame/Breeze/releases/download/v3.0.36/Breeze-iOS-v3.0.36.ipa",
+          "sourceAssetName": "Breeze-iOS-v3.0.36.ipa",
+          "sourceAppName": "Breeze",
+          "ipaBundleIdentifier": "com.zephyr.breeze",
+          "releaseChannel": "release",
+          "buildVersion": "2224"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.zephyr.breeze-ca6d6508b60e.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/deretame/Breeze/releases/download/v3.0.37/Breeze-iOS-v3.0.37.ipa",
-        "checkedAt": "2026-11-03T21:26:40Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-03T21:27:31Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
-        "sourceURL": "https://github.com/deretame/Breeze",
+        "sourceURL": "https://github.com/deretame/Breeze/releases/tag/v3.0.36",
         "workflowPath": ".github/workflows/update-app-project-d2b372b8cdc3db0c68349a8d5147eae4.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.zephyr.breeze"
+      ]
     },
     {
       "name": "mangayomi",
