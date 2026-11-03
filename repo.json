@@ -19187,7 +19187,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41580027188",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41590379977",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -19203,13 +19203,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-e54ba3e0c83d85eb9860bd9375f3f5c24af244a7-e3c0a08c793b.ipa",
-        "checkedAt": "2026-11-03T05:42:01Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-1608a250dbbd0fbffd9fd724531fb197190b6252-47a460dcf6b3.ipa",
+        "checkedAt": "2026-11-03T11:32:23Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1608a250dbbd0fbffd9fd724531fb197190b6252",
+          "date": "2026-11-03T06:31:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-1608a250dbbd0fbffd9fd724531fb197190b6252-47a460dcf6b3.ipa",
+          "size": 210870679,
+          "sha256": "47a460dcf6b35c6b60d6d0c49f75581cf8c64570b3360553d602e88200306b8a",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13211915077/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "e54ba3e0c83d85eb9860bd9375f3f5c24af244a7",
           "date": "2026-11-03T04:46:12Z",
