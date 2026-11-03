@@ -19148,7 +19148,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41557088081",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41559131931",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -19164,13 +19164,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-8e939b78dc9d0a03e027eb90e0c3d6cc58b03281-779214b4eed1.ipa",
-        "checkedAt": "2026-11-03T01:34:33Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-effa2ff15d99bfc8082e91f42e170dbe8c7e652f-a0cf875a9331.ipa",
+        "checkedAt": "2026-11-03T01:49:04Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "effa2ff15d99bfc8082e91f42e170dbe8c7e652f",
+          "date": "2026-11-03T01:20:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-effa2ff15d99bfc8082e91f42e170dbe8c7e652f-a0cf875a9331.ipa",
+          "size": 209893819,
+          "sha256": "a0cf875a9331c23b55aa9b1e44f6838a5e25471f9ee69f76127ca7fa43ecb0fb",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13195758955/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "8e939b78dc9d0a03e027eb90e0c3d6cc58b03281",
           "date": "2026-11-03T01:02:46Z",
