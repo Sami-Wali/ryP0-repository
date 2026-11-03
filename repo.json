@@ -20773,10 +20773,9 @@
       "localizedDescription": "",
       "name": "Iridium",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-cb59d6f3f3895f229af033b81783bde31878f56e-91b341365a41.ipa",
-        "checkedAt": "2026-11-02T23:41:25Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-03T04:31:00Z",
+        "message": "Private updater: The downloaded file is too small to be an IPA."
       },
       "subtitle": "",
       "updatePolicy": "daily",
