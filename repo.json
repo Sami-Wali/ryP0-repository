@@ -19163,10 +19163,9 @@
       "localizedDescription": "",
       "name": "Madeira",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-effa2ff15d99bfc8082e91f42e170dbe8c7e652f-a0cf875a9331.ipa",
-        "checkedAt": "2026-11-03T01:49:04Z",
-        "message": "Updated by private automation"
+        "state": "update-error",
+        "checkedAt": "2026-11-03T01:49:31Z",
+        "message": "Private updater: GitHub API closed connection before completing its response."
       },
       "subtitle": "",
       "updatePolicy": "daily",
