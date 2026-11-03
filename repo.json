@@ -22103,7 +22103,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "org-emexlabs-nyxian-c609773b",
-        "sourceURL": "https://github.com/emexlab/Nyxian/releases/tag/0.11.4",
+        "sourceURL": "https://github.com/emexlab/Nyxian/actions/runs/41180250109",
         "workflowPath": ".github/workflows/update-app-org-emexlabs-nyxian-c609773b.yml"
       },
       "bundleIdentifier": "org.emexlabs.nyxian",
@@ -22119,13 +22119,25 @@
       "name": "Nyxian",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.4/Nyxian.ipa",
-        "checkedAt": "2026-11-03T19:07:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-emexlabs-nyxian-c609773b-0d573db99dca3e64f26534593598245e2098e502-47875d3f0348.ipa",
+        "checkedAt": "2026-11-03T19:22:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0d573db99dca3e64f26534593598245e2098e502",
+          "date": "2026-10-31T07:20:56Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-emexlabs-nyxian-c609773b-0d573db99dca3e64f26534593598245e2098e502-47875d3f0348.ipa",
+          "size": 112548275,
+          "sha256": "47875d3f03481b7cd6a85137fe72e1658da744329bb8b852001f6a6eb1039fa5",
+          "upstreamAssetURL": "https://api.github.com/repos/emexlab/Nyxian/actions/artifacts/13042691123/zip",
+          "sourceAssetName": "Nyxian.ipa",
+          "ipaBundleIdentifier": "org.emexlabs.nyxian",
+          "releaseChannel": "actions",
+          "buildVersion": "20261031.2.RELEASE"
+        },
         {
           "version": "0.11.4",
           "date": "2026-09-10T12:58:18Z",
