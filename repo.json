@@ -20814,7 +20814,7 @@
       "name": "Iridium",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-03T04:31:00Z",
+        "checkedAt": "2026-11-03T05:16:31Z",
         "message": "Private updater: The downloaded file is too small to be an IPA."
       },
       "subtitle": "",
