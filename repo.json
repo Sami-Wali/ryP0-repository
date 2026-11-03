@@ -16236,7 +16236,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-example-kazumi-364d8606",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/36338584771",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/41667613210",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -16256,13 +16256,25 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-6680cd847658635e34429d01198f028cd4ec0564-e774281f73fd.ipa",
-        "checkedAt": "2026-11-03T13:07:12Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-fdb3dfded1fab5d0f6b50fc3b9a79be5845d9a0e-182ae79b2108.ipa",
+        "checkedAt": "2026-11-03T16:04:26Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "fdb3dfded1fab5d0f6b50fc3b9a79be5845d9a0e",
+          "date": "2026-11-03T15:48:03Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-fdb3dfded1fab5d0f6b50fc3b9a79be5845d9a0e-182ae79b2108.ipa",
+          "size": 30439009,
+          "sha256": "182ae79b2108feaece606fd9c2f19a4170ac560aa0d660bf958d8e817468907e",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/13248035619/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20402"
+        },
         {
           "version": "6680cd847658635e34429d01198f028cd4ec0564",
           "date": "2026-11-01T04:18:55Z",
