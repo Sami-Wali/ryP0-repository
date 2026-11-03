@@ -22,6 +22,20 @@
           "ipaBundleIdentifier": "io.github.jmillz269.ymir",
           "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/13239965404/zip",
           "sourceArchiveEntry": "ymir-ios-arm64-f10f7d4a.ipa"
+        },
+        {
+          "version": "1c04a952cbfb6cb4eaee79ffb57052aa2e724ad4",
+          "date": "2026-11-03T01:56:48Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-1c04a952cbfb6cb4eaee79ffb57052aa2e724ad4-d018d1aaffa9.ipa",
+          "size": 10827538,
+          "sha256": "d018d1aaffa93feb30b8665d2d4ff572373b83fd617681cc652f1e967de6ec22",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/13197718344/zip",
+          "sourceAssetName": "ymir-ios-arm64-1c04a952.ipa",
+          "sourceArchiveEntry": "ymir-ios-arm64-1c04a952.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "actions",
+          "buildVersion": "0.4.2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.jmillz269.ymir-f0589928f315.png",
@@ -31,8 +45,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/io.github.jmillz269.ymir-f0589928f315927be0e509464193f70b5e6dd391d53612dec7ee21278490e28f.ipa",
-        "checkedAt": "2026-11-03T17:06:42Z",
-        "message": "Imported and mirrored after IPA validation"
+        "checkedAt": "2026-11-03T17:10:18Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -46,9 +60,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/41562990351",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "io.github.jmillz269.ymir"
+      ]
     },
     {
       "name": "Vita3KiOS",
