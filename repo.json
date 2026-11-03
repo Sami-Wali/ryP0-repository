@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Vita3KiOS",
+      "catalogID": "project-3c27f9223659f404df544efbe467a17a",
+      "bundleIdentifier": "org.vita3k.ios",
+      "developerName": "oledz-i",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-03T12:40:23Z",
+          "downloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.0.0/Vita3KiOS-1.0.0.ipa",
+          "size": 16450403,
+          "buildVersion": "46",
+          "releaseChannel": "release",
+          "sha256": "bb3735d69b839b2889b415130fc23796ee1a3d9ad8cbb775f4ddb502c6e0bb2d",
+          "sourceAppName": "Vita3K",
+          "sourceAssetName": "Vita3KiOS-1.0.0.ipa",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "upstreamAssetURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.0.0/Vita3KiOS-1.0.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.vita3k.ios-bb3735d69b83.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.0.0/Vita3KiOS-1.0.0.ipa",
+        "checkedAt": "2026-11-03T15:16:51Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.0.0/Vita3KiOS-1.0.0.ipa",
+        "sourceURL": "https://github.com/oledz-i/Vita3KiOS"
+      },
+      "githubURL": "https://github.com/oledz-i/Vita3KiOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-3c27f9223659f404df544efbe467a17a",
+        "sourceURL": "https://github.com/oledz-i/Vita3KiOS",
+        "workflowPath": ".github/workflows/update-app-project-3c27f9223659f404df544efbe467a17a.yml"
+      }
+    },
+    {
       "name": "Debrify",
       "catalogID": "project-2080023ed46dc8c95d091f9c6d0673cb",
       "bundleIdentifier": "com.varunsalian.debrifytv",
