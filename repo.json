@@ -17672,14 +17672,23 @@
       "localizedDescription": "",
       "name": "EspressU",
       "status": {
-        "checkedAt": "2026-11-03T19:07:45Z",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.3/EspressU-v1.3.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedAt": "2026-11-03T21:09:27Z",
+        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.4",
+          "date": "2026-11-03T21:04:01Z",
+          "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
+          "upstreamAssetURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
+          "size": 30393789,
+          "sourceAssetName": "EspressU-v1.4.ipa",
+          "releaseChannel": "release"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-26T13:41:32Z",
