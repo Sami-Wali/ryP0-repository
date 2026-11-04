@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.mirazbakis.altload",
           "releaseChannel": "beta",
           "buildVersion": "3"
+        },
+        {
+          "version": "v1.0.1",
+          "date": "2026-10-15T13:17:51Z",
+          "downloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.0.1/AltLoad.ipa",
+          "size": 11508461,
+          "sha256": "ec6cf7b73c89fe5adf962edb47f08910fbc935cfd2a64482846cea3b5d55cd12",
+          "upstreamAssetURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.0.1/AltLoad.ipa",
+          "sourceAssetName": "AltLoad.ipa",
+          "sourceAppName": "AltLoad",
+          "ipaBundleIdentifier": "com.mirazbakis.altload",
+          "releaseChannel": "release",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mirazbakis.altload-7c54488f125f.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
-        "checkedAt": "2026-11-04T16:32:08Z",
+        "checkedAt": "2026-11-04T16:32:43Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-83b07021643b9ed0bd00b972e2fca6f6",
-        "sourceURL": "https://github.com/mirazbakis/AltLoad/releases/tag/v1.2.0-beta.1",
+        "sourceURL": "https://github.com/mirazbakis/AltLoad/releases/tag/v1.0.1",
         "workflowPath": ".github/workflows/update-app-project-83b07021643b9ed0bd00b972e2fca6f6.yml"
       },
       "bundleIdentifiers": [
