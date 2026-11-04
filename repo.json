@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8ed085db26c2e1c1543e4527b0f8ee1a",
-        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/actions/runs/34665553825",
+        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/actions/runs/34537007213",
         "workflowPath": ".github/workflows/update-app-project-8ed085db26c2e1c1543e4527b0f8ee1a.yml"
       },
       "bundleIdentifier": "novadev.iram-plus",
@@ -31,7 +31,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/NexSideloading/iRAM-Plus/releases/download/v1.3.1/iRAM-Plus.ipa",
-        "checkedAt": "2026-11-04T17:38:03Z",
+        "checkedAt": "2026-11-04T17:38:43Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -237,6 +237,20 @@
           "size": 2872976,
           "sha256": "dae4c49f256fc141de8d36dd27dd2d05f2fd9049e3df59d2b440bcac433848df",
           "upstreamAssetURL": "https://api.github.com/repos/NexSideloading/iRAM-Plus/actions/artifacts/10289540667/zip",
+          "sourceAssetName": "iRAM-Plus.ipa",
+          "sourceArchiveEntry": "iRAM-Plus.ipa",
+          "sourceAppName": "iRAM+",
+          "ipaBundleIdentifier": "novadev.iram-plus",
+          "releaseChannel": "actions",
+          "buildVersion": "6"
+        },
+        {
+          "version": "44089aecd4cdb1ac8bc133b9eb4f7c7bdb2c7b24",
+          "date": "2026-09-10T22:21:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8ed085db26c2e1c1543e4527b0f8ee1a-44089aecd4cdb1ac8bc133b9eb4f7c7bdb2c7b24-0b9010155cf1.ipa",
+          "size": 2858539,
+          "sha256": "0b9010155cf1512fbf26a12b6aa762bd94cda4c138c739a6b50c67adcb74dc2f",
+          "upstreamAssetURL": "https://api.github.com/repos/NexSideloading/iRAM-Plus/actions/artifacts/10175911279/zip",
           "sourceAssetName": "iRAM-Plus.ipa",
           "sourceArchiveEntry": "iRAM-Plus.ipa",
           "sourceAppName": "iRAM+",
