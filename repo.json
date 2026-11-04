@@ -232,7 +232,7 @@
       },
       "githubURL": "https://github.com/mirazbakis/AltLoad",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-83b07021643b9ed0bd00b972e2fca6f6",
         "sourceURL": "https://github.com/mirazbakis/AltLoad/actions/runs/36167622927",
