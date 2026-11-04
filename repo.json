@@ -167,7 +167,7 @@
       },
       "githubURL": "https://github.com/ometavr/dioshonored",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a1255b6935dfb53d078e4968cad0b510",
         "sourceURL": "https://github.com/OMetaVR/DiOShonored/actions/runs/39861046074",
