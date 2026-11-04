@@ -35,6 +35,20 @@
           "ipaBundleIdentifier": "dev.dios.dishonored",
           "releaseChannel": "actions",
           "buildVersion": "1"
+        },
+        {
+          "version": "427b4ac8e355bf427a8e696a78f1092956ec612c",
+          "date": "2026-10-22T23:30:24Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-a1255b6935dfb53d078e4968cad0b510-427b4ac8e355bf427a8e696a78f1092956ec612c-6517ccc28089.ipa",
+          "size": 1510882,
+          "sha256": "6517ccc28089e89ae94653b385ed032efe99f4bc74fe67b708d92f2b918fd665",
+          "upstreamAssetURL": "https://api.github.com/repos/OMetaVR/DiOShonored/actions/artifacts/12466662549/zip",
+          "sourceAssetName": "DiOShonored-shell.ipa",
+          "sourceArchiveEntry": "DiOShonored-shell.ipa",
+          "sourceAppName": "Dishonored",
+          "ipaBundleIdentifier": "dev.dios.dishonored",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.dios.dishonored-1dc1c707d0a7.png",
@@ -44,7 +58,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.2/DiOShonored-shell.ipa",
-        "checkedAt": "2026-11-04T19:30:12Z",
+        "checkedAt": "2026-11-04T19:30:48Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -59,7 +73,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a1255b6935dfb53d078e4968cad0b510",
-        "sourceURL": "https://github.com/OMetaVR/DiOShonored/actions/runs/39872245805",
+        "sourceURL": "https://github.com/OMetaVR/DiOShonored/actions/runs/39872227568",
         "workflowPath": ".github/workflows/update-app-project-a1255b6935dfb53d078e4968cad0b510.yml"
       },
       "bundleIdentifiers": [
