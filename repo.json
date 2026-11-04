@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "AltLoad",
+      "catalogID": "project-83b07021643b9ed0bd00b972e2fca6f6",
+      "bundleIdentifier": "com.mirazbakis.altload",
+      "developerName": "mirazbakis",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "date": "2026-11-03T16:18:55Z",
+          "downloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
+          "size": 11794981,
+          "buildVersion": "7",
+          "releaseChannel": "release",
+          "sha256": "7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257",
+          "sourceAppName": "AltLoad",
+          "sourceAssetName": "AltLoad.ipa",
+          "ipaBundleIdentifier": "com.mirazbakis.altload",
+          "upstreamAssetURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mirazbakis.altload-7c54488f125f.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
+        "checkedAt": "2026-11-04T16:29:23Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
+        "sourceURL": "https://github.com/mirazbakis/AltLoad"
+      },
+      "githubURL": "https://github.com/mirazbakis/AltLoad",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-83b07021643b9ed0bd00b972e2fca6f6",
+        "sourceURL": "https://github.com/mirazbakis/AltLoad",
+        "workflowPath": ".github/workflows/update-app-project-83b07021643b9ed0bd00b972e2fca6f6.yml"
+      }
+    },
+    {
       "name": "Animeko",
       "catalogID": "app-ba192a3bc30d4ad880b1d16cfd7aa733",
       "bundleIdentifier": "org.animeko.animeko",
