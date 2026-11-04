@@ -1009,7 +1009,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/41661463451",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/41750611184",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
       },
       "bundleIdentifier": "io.github.jmillz269.ymir",
@@ -1033,13 +1033,27 @@
       "name": "Ymir-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-1d4da008e6b0efc00b290f0c61a782351fc59df5-7b1473f70485.ipa",
-        "checkedAt": "2026-11-03T21:04:43Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-76d37591586f6c468e5b626f5cdafa137259ff76-d7b07f2a1f2c.ipa",
+        "checkedAt": "2026-11-04T01:09:29Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "76d37591586f6c468e5b626f5cdafa137259ff76",
+          "date": "2026-11-04T00:57:18Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-76d37591586f6c468e5b626f5cdafa137259ff76-d7b07f2a1f2c.ipa",
+          "size": 10862398,
+          "sha256": "d7b07f2a1f2cfc014c9d16f09786cca1c614b2c1a63171882f5deecadf06bb63",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/13286761213/zip",
+          "sourceAssetName": "ymir-ios-arm64-76d37591.ipa",
+          "sourceArchiveEntry": "ymir-ios-arm64-76d37591.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "actions",
+          "buildVersion": "0.4.2"
+        },
         {
           "version": "1d4da008e6b0efc00b290f0c61a782351fc59df5",
           "date": "2026-11-03T15:12:31Z",
