@@ -21,6 +21,20 @@
           "sourceAssetName": "DiOShonored-shell.ipa",
           "ipaBundleIdentifier": "dev.dios.dishonored",
           "upstreamAssetURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.2/DiOShonored-shell.ipa"
+        },
+        {
+          "version": "427b4ac8e355bf427a8e696a78f1092956ec612c",
+          "date": "2026-10-22T23:30:33Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-a1255b6935dfb53d078e4968cad0b510-427b4ac8e355bf427a8e696a78f1092956ec612c-1dc1c707d0a7.ipa",
+          "size": 1510879,
+          "sha256": "1dc1c707d0a786e361d720c2f920a7f4fdfb575353c00d5af9868ec06db3190e",
+          "upstreamAssetURL": "https://api.github.com/repos/OMetaVR/DiOShonored/actions/artifacts/12466617786/zip",
+          "sourceAssetName": "DiOShonored-shell.ipa",
+          "sourceArchiveEntry": "DiOShonored-shell.ipa",
+          "sourceAppName": "Dishonored",
+          "ipaBundleIdentifier": "dev.dios.dishonored",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.dios.dishonored-1dc1c707d0a7.png",
@@ -30,8 +44,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.2/DiOShonored-shell.ipa",
-        "checkedAt": "2026-11-04T19:29:10Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-04T19:30:12Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +59,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a1255b6935dfb53d078e4968cad0b510",
-        "sourceURL": "https://github.com/ometavr/dioshonored",
+        "sourceURL": "https://github.com/OMetaVR/DiOShonored/actions/runs/39872245805",
         "workflowPath": ".github/workflows/update-app-project-a1255b6935dfb53d078e4968cad0b510.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "dev.dios.dishonored"
+      ]
     },
     {
       "appType": "Daily Update",
