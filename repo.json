@@ -49,6 +49,20 @@
           "ipaBundleIdentifier": "novadev.iram-plus",
           "releaseChannel": "actions",
           "buildVersion": "7"
+        },
+        {
+          "version": "891adbf8dc5c9d8de5a431173ecf7bc4ee7daec3",
+          "date": "2026-09-18T23:37:02Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8ed085db26c2e1c1543e4527b0f8ee1a-891adbf8dc5c9d8de5a431173ecf7bc4ee7daec3-a705770ebde1.ipa",
+          "size": 4561710,
+          "sha256": "a705770ebde1d788021af37c30be1d976f4e38f11f673825b143efaa6419d8ac",
+          "upstreamAssetURL": "https://api.github.com/repos/NexSideloading/iRAM-Plus/actions/artifacts/10573120483/zip",
+          "sourceAssetName": "iRAM-Plus.ipa",
+          "sourceArchiveEntry": "iRAM-Plus.ipa",
+          "sourceAppName": "iRAM+",
+          "ipaBundleIdentifier": "novadev.iram-plus",
+          "releaseChannel": "actions",
+          "buildVersion": "7"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/novadev.iram-plus-db09912d8043.png",
@@ -58,7 +72,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/NexSideloading/iRAM-Plus/releases/download/v1.3.1/iRAM-Plus.ipa",
-        "checkedAt": "2026-11-04T17:30:47Z",
+        "checkedAt": "2026-11-04T17:31:33Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -73,7 +87,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8ed085db26c2e1c1543e4527b0f8ee1a",
-        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/actions/runs/40061172040",
+        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/actions/runs/35406393580",
         "workflowPath": ".github/workflows/update-app-project-8ed085db26c2e1c1543e4527b0f8ee1a.yml"
       },
       "bundleIdentifiers": [
