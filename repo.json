@@ -23393,13 +23393,22 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-5fda6a0e9543e5de1df010aff35748ab913fd0d9-10f5a97d92f0.ipa",
-        "checkedAt": "2026-11-04T03:27:51Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-04T03:29:42Z",
+        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.2.0",
+          "date": "2026-11-04T03:29:04Z",
+          "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
+          "upstreamAssetURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
+          "size": 186400561,
+          "sourceAssetName": "Madeira-0.2.0.ipa",
+          "releaseChannel": "release"
+        },
         {
           "version": "5fda6a0e9543e5de1df010aff35748ab913fd0d9",
           "date": "2026-11-04T03:02:51Z",
