@@ -27358,9 +27358,9 @@
         ]
       },
       "automation": {
-        "configId": "ppsspp",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41887449585",
+        "configId": "ppsspp",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41907137932",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -27373,14 +27373,26 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "checkedAt": "2026-11-04T19:15:14Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-c68f43c7311b9ec4e8ef1fb201adcd05852469ef-8c9cc7fcf114.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-c5a51c084c8e819a150d1789dc89ce72aa28707b-2d7a1b4e56dd.ipa",
+        "checkedAt": "2026-11-04T20:55:04Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "c5a51c084c8e819a150d1789dc89ce72aa28707b",
+          "date": "2026-11-04T20:29:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-c5a51c084c8e819a150d1789dc89ce72aa28707b-2d7a1b4e56dd.ipa",
+          "size": 20928191,
+          "sha256": "2d7a1b4e56ddf4bcf719950f94c84a999e3b7d5c1ba38cc49992fd985c8d11d3",
+          "upstreamAssetURL": "https://api.github.com/repos/hrydgard/ppsspp/actions/artifacts/13360614922/zip",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4-4435-ga8a5573678.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "actions",
+          "buildVersion": "10020.4.4435"
+        },
         {
           "buildVersion": "10020.4.4429",
           "date": "2026-11-04T18:28:08Z",
