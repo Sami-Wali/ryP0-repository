@@ -929,7 +929,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-190db1661397120e3e77eef33b5688f6",
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/Leviidev/Utsuro/releases/tag/0.1.0-alpha",
         "workflowPath": ".github/workflows/update-app-project-190db1661397120e3e77eef33b5688f6.yml"
