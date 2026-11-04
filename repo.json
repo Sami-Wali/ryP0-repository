@@ -1373,7 +1373,7 @@
       },
       "githubURL": "https://github.com/kodjodevf/mangayomi",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-696a6410c95a02f4afeecff28dbd6b10",
         "sourceURL": "https://github.com/kodjodevf/mangayomi/releases/tag/v0.5.0",
