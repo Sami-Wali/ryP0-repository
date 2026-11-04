@@ -20036,13 +20036,22 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-03655f152e5472c687d1ab12f1b7f4609df38124-4fc1716d1171.ipa",
-        "checkedAt": "2026-11-04T07:12:24Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-04T12:15:26Z",
+        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.4.3",
+          "date": "2026-11-04T12:12:33Z",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
+          "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
+          "size": 30439714,
+          "sourceAssetName": "Kazumi_ios_2.4.3_no_sign.ipa",
+          "releaseChannel": "release"
+        },
         {
           "version": "03655f152e5472c687d1ab12f1b7f4609df38124",
           "date": "2026-11-04T03:51:09Z",
