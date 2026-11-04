@@ -63,6 +63,19 @@
           "ipaBundleIdentifier": "novadev.iram-plus",
           "releaseChannel": "actions",
           "buildVersion": "7"
+        },
+        {
+          "version": "v1.3.2-experimental-2fa-methods",
+          "date": "2026-09-17T22:30:37Z",
+          "downloadURL": "https://github.com/NexSideloading/iRAM-Plus/releases/download/v1.3.2-experimental-2fa-methods/iRAM-Plus.ipa",
+          "size": 4822443,
+          "sha256": "a20210b7b9319fed2eaa9f6222957322faee700bc52aef8a95c138c5d33535dc",
+          "upstreamAssetURL": "https://github.com/NexSideloading/iRAM-Plus/releases/download/v1.3.2-experimental-2fa-methods/iRAM-Plus.ipa",
+          "sourceAssetName": "iRAM-Plus.ipa",
+          "sourceAppName": "iRAM+",
+          "ipaBundleIdentifier": "novadev.iram-plus",
+          "releaseChannel": "alpha",
+          "buildVersion": "7"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/novadev.iram-plus-db09912d8043.png",
@@ -72,7 +85,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/NexSideloading/iRAM-Plus/releases/download/v1.3.1/iRAM-Plus.ipa",
-        "checkedAt": "2026-11-04T17:31:33Z",
+        "checkedAt": "2026-11-04T17:31:59Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -87,7 +100,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8ed085db26c2e1c1543e4527b0f8ee1a",
-        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/actions/runs/35406393580",
+        "sourceURL": "https://github.com/NexSideloading/iRAM-Plus/releases/tag/v1.3.2-experimental-2fa-methods",
         "workflowPath": ".github/workflows/update-app-project-8ed085db26c2e1c1543e4527b0f8ee1a.yml"
       },
       "bundleIdentifiers": [
