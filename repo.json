@@ -7241,14 +7241,20 @@
       "localizedDescription": "Zeus signs apps with your Apple Account and installs them on this iPhone, then keeps them going: a countdown shows when each one runs out, and Refresh All renews every app, and Zeus itself, in one go.",
       "name": "Zeus",
       "status": {
-        "checkedAt": "2026-11-03T19:07:45Z",
-        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2-20.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2.1-21.ipa",
+        "checkedAt": "2026-11-04T00:08:58Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "Zeus signs apps with your Apple Account and installs them on this iPhone, then keeps them going: a countdown shows when each one runs out, and Refresh All renews every app, and Zeus itself, in one go.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2026-11-04T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2.1-21.ipa",
+          "size": 29650438
+        },
         {
           "date": "2026-11-03T00:00:00Z",
           "downloadURL": "https://repo.getzeus.app/assets/apps/zeus/Zeus-3.2-20.ipa",
