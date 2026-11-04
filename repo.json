@@ -1022,7 +1022,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/41750611184",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/40153698477",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
       },
       "bundleIdentifier": "io.github.jmillz269.ymir",
@@ -1047,8 +1047,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-76d37591586f6c468e5b626f5cdafa137259ff76-d7b07f2a1f2c.ipa",
-        "checkedAt": "2026-11-04T01:09:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-04T04:40:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -2941,6 +2941,20 @@
           "sourceAssetName": "ymir-ios-arm64-cbe984dc.ipa",
           "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12585290640/zip",
           "version": "cbe984dc191aaf9dc3e387e2dd81f076bee867c2"
+        },
+        {
+          "version": "d9ebf8d9f9660d38d8b6618e9f2c0d51c9db1d42",
+          "date": "2026-10-25T02:14:29Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-d9ebf8d9f9660d38d8b6618e9f2c0d51c9db1d42-24fbf232d758.ipa",
+          "size": 9407407,
+          "sha256": "24fbf232d7586e975ef90e3f316c4bf4190febb22bc6e2e282e94d8c2656fb78",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12583497559/zip",
+          "sourceAssetName": "ymir-ios-arm64-d9ebf8d9.ipa",
+          "sourceArchiveEntry": "ymir-ios-arm64-d9ebf8d9.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "actions",
+          "buildVersion": "0.4.2"
         }
       ]
     },
