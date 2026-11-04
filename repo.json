@@ -1313,6 +1313,19 @@
           "ipaBundleIdentifier": "com.kodjodevf.mangayomi",
           "releaseChannel": "release",
           "buildVersion": "81"
+        },
+        {
+          "version": "v0.5.2",
+          "date": "2025-02-23T16:15:35Z",
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.5.2/Mangayomi-v0.5.2-ios.ipa",
+          "size": 56680831,
+          "sha256": "d7a98b0c1585b36b2434e79eda5e80bf8bb392a7ab1804af3513711bc4f83388",
+          "upstreamAssetURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.5.2/Mangayomi-v0.5.2-ios.ipa",
+          "sourceAssetName": "Mangayomi-v0.5.2-ios.ipa",
+          "sourceAppName": "Mangayomi",
+          "ipaBundleIdentifier": "com.kodjodevf.mangayomi",
+          "releaseChannel": "release",
+          "buildVersion": "80"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.kodjodevf.mangayomi-da0fd7eb5989.png",
@@ -1322,7 +1335,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa",
-        "checkedAt": "2026-11-04T05:56:50Z",
+        "checkedAt": "2026-11-04T05:57:23Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1337,7 +1350,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-696a6410c95a02f4afeecff28dbd6b10",
-        "sourceURL": "https://github.com/kodjodevf/mangayomi/releases/tag/v0.6.0",
+        "sourceURL": "https://github.com/kodjodevf/mangayomi/releases/tag/v0.5.2",
         "workflowPath": ".github/workflows/update-app-project-696a6410c95a02f4afeecff28dbd6b10.yml"
       },
       "bundleIdentifiers": [
