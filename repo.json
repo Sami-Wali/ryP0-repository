@@ -27266,7 +27266,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "ppsspp",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41883042090",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41884756551",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -27280,13 +27280,25 @@
       "name": "PPSSPP",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-324f608a94b41e7fd13223608a42905616f730b8-5f01066f3371.ipa",
-        "checkedAt": "2026-11-04T18:20:01Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-9366aa7dc2d2fb1f49cde97ffbf5ab434d4d6ff9-21efb1aaadcb.ipa",
+        "checkedAt": "2026-11-04T18:35:23Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9366aa7dc2d2fb1f49cde97ffbf5ab434d4d6ff9",
+          "date": "2026-11-04T18:12:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-9366aa7dc2d2fb1f49cde97ffbf5ab434d4d6ff9-21efb1aaadcb.ipa",
+          "size": 20921773,
+          "sha256": "21efb1aaadcb22cdb7a846edf38c5cf02aca722be9ced553d6481cacad2efe90",
+          "upstreamAssetURL": "https://api.github.com/repos/hrydgard/ppsspp/actions/artifacts/13351382975/zip",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4-4426-g9366aa7dc2.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "actions",
+          "buildVersion": "10020.4.4426"
+        },
         {
           "version": "324f608a94b41e7fd13223608a42905616f730b8",
           "date": "2026-11-04T18:02:26Z",
