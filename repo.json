@@ -4483,7 +4483,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41463635810",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41337440433",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "bundleIdentifier": "dev.horizon.game",
@@ -4508,7 +4508,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-219fe0f2a121f76a7a572d426004729290943f4b-32f3fc482378.ipa",
-        "checkedAt": "2026-11-04T04:50:30Z",
+        "checkedAt": "2026-11-04T04:51:31Z",
         "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
@@ -4596,6 +4596,20 @@
           "sourceAssetName": "Horizon-game-unsigned.ipa",
           "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13116216232/zip",
           "version": "94b6223a3422d9f2e5df3cc6076f3dcfbe9dffbe"
+        },
+        {
+          "version": "3e140d2d2f6fbacebccd27bfa41d7c1dfb9305c7",
+          "date": "2026-11-01T18:35:51Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-3e140d2d2f6fbacebccd27bfa41d7c1dfb9305c7-e0ca36631e2d.ipa",
+          "size": 23940694,
+          "sha256": "e0ca36631e2db286e18f3fb9fb6939a0c7369831a0e363ff4bb861d83aa193bc",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13096305749/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
