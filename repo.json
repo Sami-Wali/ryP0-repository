@@ -19237,9 +19237,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-example-kazumi-364d8606",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/41667613210",
+        "configId": "com-example-kazumi-364d8606",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/41766914790",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -19259,13 +19259,25 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-fdb3dfded1fab5d0f6b50fc3b9a79be5845d9a0e-182ae79b2108.ipa",
-        "checkedAt": "2026-11-04T01:09:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-086a0e2a5c847ccb47cb49e71257030e86738b8e-5bd4381b3d3d.ipa",
+        "checkedAt": "2026-11-04T03:40:11Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "086a0e2a5c847ccb47cb49e71257030e86738b8e",
+          "date": "2026-11-04T03:24:21Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-086a0e2a5c847ccb47cb49e71257030e86738b8e-5bd4381b3d3d.ipa",
+          "size": 30440113,
+          "sha256": "5bd4381b3d3d91a3ce1654199028971638765e6c93457b9b3505820ab8e48d07",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/13292729715/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20402"
+        },
         {
           "buildVersion": "20402",
           "date": "2026-11-03T15:48:03Z",
