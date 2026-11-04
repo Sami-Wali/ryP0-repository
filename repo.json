@@ -26523,7 +26523,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "ppsspp",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41791616473",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/actions/runs/41793876802",
         "workflowPath": ".github/workflows/update-app-ppsspp.yml"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
@@ -26536,13 +26536,26 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-04T07:45:04Z",
-        "message": "Private updater: GitHub API closed connection before completing its response."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-8f83f1ea16c93c919b9da845a979a7088b46ea99-560a06366324.ipa",
+        "checkedAt": "2026-11-04T08:00:54Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "8f83f1ea16c93c919b9da845a979a7088b46ea99",
+          "date": "2026-11-04T07:40:13Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-8f83f1ea16c93c919b9da845a979a7088b46ea99-560a06366324.ipa",
+          "size": 20916849,
+          "sha256": "560a063663244a999bbaec7209aaf1378aee8fded3947407b98fd500ac8840fa",
+          "upstreamAssetURL": "https://api.github.com/repos/hrydgard/ppsspp/actions/artifacts/13304678083/zip",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.4-4404-g8f83f1ea16.ipa",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "actions",
+          "buildVersion": "10020.4.4404"
+        },
         {
           "version": "20271307634f93a66475775a787e0e74a0229c1d",
           "date": "2026-11-04T07:20:47Z",
