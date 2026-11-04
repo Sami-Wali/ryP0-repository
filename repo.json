@@ -24195,7 +24195,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41764604943",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41844797192",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -24214,13 +24214,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
-        "checkedAt": "2026-11-04T13:14:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-ba96c159a16842e72e584cc0417fb3bcf7eeb21d-817ad708fc6f.ipa",
+        "checkedAt": "2026-11-04T14:33:05Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ba96c159a16842e72e584cc0417fb3bcf7eeb21d",
+          "date": "2026-11-04T14:09:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-ba96c159a16842e72e584cc0417fb3bcf7eeb21d-817ad708fc6f.ipa",
+          "size": 210931876,
+          "sha256": "817ad708fc6f3611f9b0d217ce49af2ef563615ad7c6715c52c91776911979df",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13331642783/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "v0.2.0",
           "date": "2026-11-04T03:29:04Z",
@@ -24228,7 +24240,8 @@
           "upstreamAssetURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
           "size": 186400561,
           "sourceAssetName": "Madeira-0.2.0.ipa",
-          "releaseChannel": "release"
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "com.willfaust.madeora"
         },
         {
           "version": "5fda6a0e9543e5de1df010aff35748ab913fd0d9",
