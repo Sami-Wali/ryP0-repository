@@ -21,6 +21,19 @@
           "sourceAssetName": "AltLoad.ipa",
           "ipaBundleIdentifier": "com.mirazbakis.altload",
           "upstreamAssetURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa"
+        },
+        {
+          "version": "v1.3.0",
+          "date": "2026-10-31T08:29:17Z",
+          "downloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.3.0/AltLoad.ipa",
+          "size": 11540525,
+          "sha256": "3f5566861d1c226b0d23621658fa37a7bce5b4537dd7f521ed1ba8a51771ca5a",
+          "upstreamAssetURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.3.0/AltLoad.ipa",
+          "sourceAssetName": "AltLoad.ipa",
+          "sourceAppName": "AltLoad",
+          "ipaBundleIdentifier": "com.mirazbakis.altload",
+          "releaseChannel": "release",
+          "buildVersion": "6"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mirazbakis.altload-7c54488f125f.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
-        "checkedAt": "2026-11-04T16:29:23Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-04T16:30:40Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-83b07021643b9ed0bd00b972e2fca6f6",
-        "sourceURL": "https://github.com/mirazbakis/AltLoad",
+        "sourceURL": "https://github.com/mirazbakis/AltLoad/releases/tag/v1.3.0",
         "workflowPath": ".github/workflows/update-app-project-83b07021643b9ed0bd00b972e2fca6f6.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.mirazbakis.altload"
+      ]
     },
     {
       "name": "Animeko",
