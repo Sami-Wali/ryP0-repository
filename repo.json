@@ -24542,13 +24542,22 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-dcade51767a4b76e29bbd28fc067683fb1febf9d-9c86af618fc3.ipa",
-        "checkedAt": "2026-11-04T02:30:59Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-04T03:00:08Z",
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.7-beta/nuvio-0.6.7-full-release.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.7-beta",
+          "date": "2026-11-04T02:57:36Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.7-beta/nuvio-0.6.7-full-release.ipa",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.7-beta/nuvio-0.6.7-full-release.ipa",
+          "size": 68798444,
+          "sourceAssetName": "nuvio-0.6.7-full-release.ipa",
+          "releaseChannel": "beta"
+        },
         {
           "version": "dcade51767a4b76e29bbd28fc067683fb1febf9d",
           "date": "2026-11-04T01:35:38Z",
