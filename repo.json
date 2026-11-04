@@ -26536,10 +26536,9 @@
       "localizedDescription": "PSP emulator for iOS.",
       "name": "PPSSPP",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/ppsspp-a2001917b2cc32145b24a4274dfa06fc1c6d5b98-0c76d992209c.ipa",
-        "checkedAt": "2026-11-04T07:12:24Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-04T07:40:40Z",
+        "message": "Private updater: GitHub API closed connection before completing its response."
       },
       "tintColor": "#224A8B",
       "updatePolicy": "daily",
