@@ -24521,9 +24521,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-nuvio-media-579c450d",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.6.6-beta",
+        "configId": "com-nuvio-media-579c450d",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/actions/runs/41755109683",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "bundleIdentifier": "com.nuvio.media",
@@ -24542,13 +24542,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.6-beta/nuvio-0.6.6-full-release.ipa",
-        "checkedAt": "2026-11-04T01:09:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-dcade51767a4b76e29bbd28fc067683fb1febf9d-9c86af618fc3.ipa",
+        "checkedAt": "2026-11-04T02:30:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "dcade51767a4b76e29bbd28fc067683fb1febf9d",
+          "date": "2026-11-04T01:35:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-dcade51767a4b76e29bbd28fc067683fb1febf9d-9c86af618fc3.ipa",
+          "size": 68798444,
+          "sha256": "9c86af618fc388ff1441505cc8fc1135b13e10b7818d7eaad03439f89e315463",
+          "upstreamAssetURL": "https://api.github.com/repos/NuvioMedia/NuvioMobile/actions/artifacts/13290237495/zip",
+          "sourceAssetName": "nuvio-0.6.7-full-release.ipa",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "releaseChannel": "actions",
+          "buildVersion": "150"
+        },
         {
           "buildVersion": "149",
           "date": "2026-10-31T02:59:46Z",
