@@ -29327,6 +29327,23 @@
       "versions" : [
 
       ]
+    },
+    {
+      "appType" : "Static",
+      "bundleIdentifier" : "source-port-7889192cd47f0a98c76f709f9b984747",
+      "catalogID" : "source-port-7889192cd47f0a98c76f709f9b984747",
+      "category" : "Ports",
+      "developerName" : "cheemu21",
+      "githubProjectCard" : false,
+      "githubURL" : "https:\/\/github.com\/cheemu21\/plumber-racer-2",
+      "iconURL" : "https:\/\/avatars.githubusercontent.com\/u\/130556833?v=4",
+      "localizedDescription" : "Plumber Racer 2: Mario Kart World on iPhone and Mac with nxnative. Bring your own game dump: no game files included.",
+      "name" : "plumber-racer-2",
+      "portDistribution" : "source-code",
+      "updatePolicy" : "static",
+      "versions" : [
+
+      ]
     }
   ],
   "categories" : [
