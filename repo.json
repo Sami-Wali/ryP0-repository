@@ -11483,13 +11483,24 @@
       "name": "BCD",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.626/BCD.ipa",
-        "checkedAt": "2026-11-04T07:12:24Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-04T09:50:31Z",
+        "checkedDownloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.630/BCD.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "He’s",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.630",
+          "date": "2026-11-04T09:49:07Z",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.630/BCD.ipa",
+          "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.630/BCD.ipa",
+          "size": 185317150,
+          "sourceAssetName": "BCD.ipa",
+          "releaseChannel": "alpha",
+          "ipaBundleIdentifier": "com.thebcd69.bcd",
+          "sourceAppName": "BCD"
+        },
         {
           "buildVersion": "626",
           "date": "2026-11-01T05:08:29Z",
