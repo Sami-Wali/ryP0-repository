@@ -1022,7 +1022,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4a1a129c09874263ac2e03acc0269a61",
-        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/40151027446",
+        "sourceURL": "https://github.com/JMillz269/Ymir-iOS/actions/runs/40148602873",
         "workflowPath": ".github/workflows/update-app-project-4a1a129c09874263ac2e03acc0269a61.yml"
       },
       "bundleIdentifier": "io.github.jmillz269.ymir",
@@ -1047,7 +1047,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-76d37591586f6c468e5b626f5cdafa137259ff76-d7b07f2a1f2c.ipa",
-        "checkedAt": "2026-11-04T04:41:54Z",
+        "checkedAt": "2026-11-04T04:42:42Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -2979,6 +2979,20 @@
           "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12582841177/zip",
           "sourceAssetName": "ymir-ios-arm64-9723c250.ipa",
           "sourceArchiveEntry": "ymir-ios-arm64-9723c250.ipa",
+          "sourceAppName": "Ymir",
+          "ipaBundleIdentifier": "io.github.jmillz269.ymir",
+          "releaseChannel": "actions",
+          "buildVersion": "0.4.2"
+        },
+        {
+          "version": "ca45edb3a8c582284d366fe86cc6d5dba8832c0e",
+          "date": "2026-10-25T00:55:45Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-4a1a129c09874263ac2e03acc0269a61-ca45edb3a8c582284d366fe86cc6d5dba8832c0e-e5b6fa92814a.ipa",
+          "size": 8539240,
+          "sha256": "e5b6fa92814a65ebe0c29d2ac2d7183f1758143afd0c3768bba47a1041c1b4be",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12582086415/zip",
+          "sourceAssetName": "ymir-ios-arm64-ca45edb3.ipa",
+          "sourceArchiveEntry": "ymir-ios-arm64-ca45edb3.ipa",
           "sourceAppName": "Ymir",
           "ipaBundleIdentifier": "io.github.jmillz269.ymir",
           "releaseChannel": "actions",
