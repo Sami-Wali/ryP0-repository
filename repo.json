@@ -99,6 +99,20 @@
           "ipaBundleIdentifier": "com.mirazbakis.altload",
           "releaseChannel": "nightly",
           "buildVersion": "1"
+        },
+        {
+          "version": "d5366e28cc80130604e870ce99ec05f539ee2481",
+          "date": "2026-09-27T13:21:47Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-83b07021643b9ed0bd00b972e2fca6f6-d5366e28cc80130604e870ce99ec05f539ee2481-897b812d53d2.ipa",
+          "size": 11282888,
+          "sha256": "897b812d53d2fdce940d7ec80eb0aa631361668672f48bd66bf132c8f45f51bf",
+          "upstreamAssetURL": "https://api.github.com/repos/mirazbakis/AltLoad/actions/artifacts/10932673781/zip",
+          "sourceAssetName": "AltLoad.ipa",
+          "sourceArchiveEntry": "AltLoad.ipa",
+          "sourceAppName": "AltLoad",
+          "ipaBundleIdentifier": "com.altload.AltLoad",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.mirazbakis.altload-7c54488f125f.png",
@@ -108,7 +122,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
-        "checkedAt": "2026-11-04T16:33:38Z",
+        "checkedAt": "2026-11-04T16:35:07Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -123,11 +137,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-83b07021643b9ed0bd00b972e2fca6f6",
-        "sourceURL": "https://github.com/mirazbakis/AltLoad/releases/tag/nightly",
+        "sourceURL": "https://github.com/mirazbakis/AltLoad/actions/runs/36322129002",
         "workflowPath": ".github/workflows/update-app-project-83b07021643b9ed0bd00b972e2fca6f6.yml"
       },
       "bundleIdentifiers": [
-        "com.mirazbakis.altload"
+        "com.mirazbakis.altload",
+        "com.altload.AltLoad"
       ]
     },
     {
