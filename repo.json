@@ -956,8 +956,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.tipa",
-        "checkedAt": "2026-11-04T01:09:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-04T04:39:22Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -987,6 +987,19 @@
           "sourceAssetName": "Utsuro.ipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0/Utsuro.ipa",
           "version": "0.1.0"
+        },
+        {
+          "version": "0.1.0-alpha",
+          "date": "2026-10-22T12:55:03Z",
+          "downloadURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0-alpha/Utsuro-alpha.tipa",
+          "size": 5327025,
+          "sha256": "1bc379bbfcc8e1d2b3f1fab5b0bed7df85050e04e5e53e6a5a78f52e3006d6ec",
+          "upstreamAssetURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0-alpha/Utsuro-alpha.tipa",
+          "sourceAssetName": "Utsuro-alpha.tipa",
+          "sourceAppName": "Utsuro",
+          "ipaBundleIdentifier": "com.utsuro.app",
+          "releaseChannel": "alpha",
+          "buildVersion": "1"
         },
         {
           "buildVersion": "1",
