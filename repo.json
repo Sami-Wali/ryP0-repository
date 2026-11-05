@@ -2384,7 +2384,14 @@
           "upstreamAssetURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.5.0/Mangayomi-v0.5.0-ios.ipa",
           "version": "v0.5.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.9.95",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-303260b5fdae52109e0cfaa9-da0fd7eb5989dce528d6ba2a2b12ec4b6c43dec5e1e600cd9036085498a2cb96.ipa",
+        "sha256": "da0fd7eb5989dce528d6ba2a2b12ec4b6c43dec5e1e600cd9036085498a2cb96",
+        "size": 115450399,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Static",
