@@ -15869,7 +15869,14 @@
           "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v0.9.0/YTKACE_0.9.0_YouTube_21.33.6.ipa",
           "version": "v0.9.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e0b67cb891a07ca2efe64921-1236ee0969c4a119e8269e1b211373ff4fdffa68799198c962f9be288dbd6d7e.ipa",
+        "sha256": "1236ee0969c4a119e8269e1b211373ff4fdffa68799198c962f9be288dbd6d7e",
+        "size": 139496330,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
