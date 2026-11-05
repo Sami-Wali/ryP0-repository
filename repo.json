@@ -10672,10 +10672,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/41776472373",
+        "configId": "project-e77446e3cb1fc908363cb7c5d877b8a8",
+        "sourceURL": "https://github.com/roothide/Dopamine-roothide/actions/runs/41946074147",
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       },
       "bundleIdentifier": "com.opa334.Dopamine-roothide",
@@ -10698,14 +10698,27 @@
       "localizedDescription": "GitHub project request: roothide/Dopamine-roothide.",
       "name": "Dopamine-roothide",
       "status": {
-        "checkedAt": "2026-11-04T19:15:14Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-9202f7a9ef69ce9eba08a74a4a0e60747b35f013-64e5e52bdab6.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-473d52e44d14e3ccc7cf4e86d1095d26be2e6987-5336cac80877.ipa",
+        "checkedAt": "2026-11-05T01:16:40Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "473d52e44d14e3ccc7cf4e86d1095d26be2e6987",
+          "date": "2026-11-05T01:05:25Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e77446e3cb1fc908363cb7c5d877b8a8-473d52e44d14e3ccc7cf4e86d1095d26be2e6987-5336cac80877.ipa",
+          "size": 55362491,
+          "sha256": "5336cac80877b8d5f0f88c6d6f4eeb69319ab621b3dcde0033990c81ea5454e1",
+          "upstreamAssetURL": "https://api.github.com/repos/roothide/Dopamine-roothide/actions/artifacts/13379310950/zip",
+          "sourceAssetName": "roothide-Dopamine-(3.0.13-29-473d52e)-2026.11.05-UTC-01.04.41.ipa",
+          "sourceAppName": "Dopamine",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-04T04:59:31Z",
