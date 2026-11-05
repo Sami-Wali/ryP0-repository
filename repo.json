@@ -12802,7 +12802,14 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/test8/BuildBox-Test8.ipa",
           "version": "test8"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v2.1.4",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4fef2e422578ea964d6db6d1-ba719e8ffba8b508864c45c14267e6df6108f69cec73fca8b2d43a9b9ca3c9b9.ipa",
+        "sha256": "ba719e8ffba8b508864c45c14267e6df6108f69cec73fca8b2d43a9b9ca3c9b9",
+        "size": 15595926,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
