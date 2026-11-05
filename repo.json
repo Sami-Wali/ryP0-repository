@@ -5846,7 +5846,14 @@
           "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.2.0/debrify-v0.2.0-unsigned.ipa",
           "version": "v0.2.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.10.1-alpha.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-23b7a05ab2849e80eba7b432-41d351af17e282a5fe26f91a03e569afe2e838d6039daef8675186ba82ee71bd.ipa",
+        "sha256": "41d351af17e282a5fe26f91a03e569afe2e838d6039daef8675186ba82ee71bd",
+        "size": 62709774,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
