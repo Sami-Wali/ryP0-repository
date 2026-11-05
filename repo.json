@@ -6555,7 +6555,14 @@
           "upstreamAssetURL": "https://github.com/yashjain8824/better-xcloud/releases/download/v0.24.2/BetterXCloud_iOS.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-31e997b22a2607325277ec5b-74175db269210374fb759bb231f49577fc73eade65d0c924c9f404601007615c.ipa",
+        "sha256": "74175db269210374fb759bb231f49577fc73eade65d0c924c9f404601007615c",
+        "size": 1286097,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
