@@ -13041,7 +13041,14 @@
           "upstreamAssetURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.573/BCD.ipa",
           "version": "v0.1.573"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.1.630",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-36801d7e983ca584e94dc7e4-21e3fbfdc4c4221a4295d35d28348e826226ff3f727a18f110d3617d371f83d2.ipa",
+        "sha256": "21e3fbfdc4c4221a4295d35d28348e826226ff3f727a18f110d3617d371f83d2",
+        "size": 185317150,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
