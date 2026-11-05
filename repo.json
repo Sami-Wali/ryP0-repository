@@ -18714,7 +18714,14 @@
           "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.6/AnymeX-iOS-v3.1.6.ipa",
           "version": "v3.1.6"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v3.2.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fe70297d27f4fdc13ee551d0-2f354bd40d7abba9ac078696401951a390d840ff2749a27780c8919757c5b396.ipa",
+        "sha256": "2f354bd40d7abba9ac078696401951a390d840ff2749a27780c8919757c5b396",
+        "size": 80589346,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
