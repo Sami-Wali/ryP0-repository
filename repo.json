@@ -19058,7 +19058,14 @@
           "upstreamAssetURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.1.0/BlueWake-v0.1.0-ios-unsigned.ipa",
           "version": "v0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.10.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5fbe64a6d7afd6ae5b124bc0-73d433b8ea17565506a8c7c51a43c506453f455be8fe150e9871869c70c265bf.ipa",
+        "sha256": "73d433b8ea17565506a8c7c51a43c506453f455be8fe150e9871869c70c265bf",
+        "size": 6062308,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
