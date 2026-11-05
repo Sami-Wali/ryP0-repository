@@ -10381,7 +10381,14 @@
           "upstreamAssetURL": "https://github.com/77emul/77U-BETA/releases/download/77U_0.1.0.ipa/77U_0.1.0.ipa",
           "version": "77U_0.1.0.ipa"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-21026935dfafb9e83290beb1-1b835b338152890cf60bcb7cdf258b45a19b2fbd0ccd087147f07e9117577e71.ipa",
+        "sha256": "1b835b338152890cf60bcb7cdf258b45a19b2fbd0ccd087147f07e9117577e71",
+        "size": 65790091,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
