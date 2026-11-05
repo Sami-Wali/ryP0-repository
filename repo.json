@@ -16252,7 +16252,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/11487619689/zip",
           "version": "181cc4c0c773325e0052d1c4dd04bd6f201c1d60"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e6c00cc7384a430f4ea67a31-daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e.ipa",
+        "sha256": "daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e",
+        "size": 3348064,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
