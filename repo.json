@@ -47,6 +47,19 @@
           "ipaBundleIdentifier": "org.ppsspp.ppsspp",
           "releaseChannel": "release",
           "buildVersion": "1.20.2"
+        },
+        {
+          "version": "v1.20.1",
+          "date": "2026-03-03T15:09:20Z",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.1/PPSSPP-iOS-v1.20.1.ipa",
+          "size": 30928281,
+          "sha256": "69d63c7063f44ee7f33e17825b50cca7294945ac32a1ee1fee2b92f6fd5f788d",
+          "upstreamAssetURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.1/PPSSPP-iOS-v1.20.1.ipa",
+          "sourceAssetName": "PPSSPP-iOS-v1.20.1.ipa",
+          "sourceAppName": "PPSSPP",
+          "ipaBundleIdentifier": "org.ppsspp.ppsspp",
+          "releaseChannel": "release",
+          "buildVersion": "1.20.1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.ppsspp.ppsspp-822c7042311f.png",
@@ -56,7 +69,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
-        "checkedAt": "2026-11-05T14:20:56Z",
+        "checkedAt": "2026-11-05T14:21:57Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -71,7 +84,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d6831408c2df682989d2a0379497597e",
-        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.2",
+        "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.20.1",
         "workflowPath": ".github/workflows/update-app-project-d6831408c2df682989d2a0379497597e.yml"
       },
       "bundleIdentifiers": [
