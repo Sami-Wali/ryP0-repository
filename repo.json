@@ -4681,7 +4681,14 @@
           "upstreamAssetURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.0.0/Vita3KiOS-1.0.0.ipa",
           "version": "1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-560ab92b88312f5196b8e5d5-353cc4bb75a1774289251431b6115b19853bd922c32c284ac3fd1d61e77bbabb.ipa",
+        "sha256": "353cc4bb75a1774289251431b6115b19853bd922c32c284ac3fd1d61e77bbabb",
+        "size": 16532038,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
