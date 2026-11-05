@@ -2525,7 +2525,14 @@
           "upstreamAssetURL": "https://github.com/Leviidev/Utsuro/releases/download/0.1.0-alpha/Utsuro-alpha.ipa",
           "version": "0.1.0-alpha"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-996880a4d8d6a5db8fa1c4ea-e03892003b15e9920b56570b9e772a3fa0ea30d1e483c1ed76bd6451240b0328.ipa",
+        "sha256": "e03892003b15e9920b56570b9e772a3fa0ea30d1e483c1ed76bd6451240b0328",
+        "size": 5422866,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
