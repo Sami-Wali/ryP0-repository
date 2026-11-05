@@ -980,7 +980,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/mirazbakis/AltLoad/actions/artifacts/10879080933/zip",
           "version": "99f6540c0c36af7a628eb3eb2d4a971ed4d47ab5"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.4.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-094e2d1c7f10f66d8e8873b4-7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257.ipa",
+        "sha256": "7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257",
+        "size": 11794981,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
