@@ -9513,7 +9513,14 @@
           "upstreamAssetURL": "https://github.com/mcpebd/ipa-wo-hynis-jutsu/releases/download/26.40/Minecraft-Hynis%2BHyniSwizzleFPS-26.40.ipa",
           "version": "26.40"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v26.60",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3140a3c3bb717eb58bfdffc9-de44c356ba5c8a5c917134d49d2f7c150aa9f5c0ee45429a156c3bd1153328bb.ipa",
+        "sha256": "de44c356ba5c8a5c917134d49d2f7c150aa9f5c0ee45429a156c3bd1153328bb",
+        "size": 356165944,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
