@@ -19502,7 +19502,14 @@
           "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.4/Cyanide-1.4.ipa",
           "version": "v1.4"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.16.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-641f9b3718dd9a111a93562b-b7112333052219a9b8152a07d82d154d4c7ae1ac17d79a78766a72cd68815b1f.ipa",
+        "sha256": "b7112333052219a9b8152a07d82d154d4c7ae1ac17d79a78766a72cd68815b1f",
+        "size": 7126727,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
