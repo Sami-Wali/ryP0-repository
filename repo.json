@@ -6032,7 +6032,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/hugeBlack/GetMoreRam/actions/artifacts/10290342142/zip",
           "version": "bc51655c777e5d075d5c0e7e25230cc9966a7d8e"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-8c232848b2ed022d64823c79-e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274.ipa",
+        "sha256": "e1650d5975869eed223e331e8773fda7f12a119d50ea547a0815abaa3ca65274",
+        "size": 2305445,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
