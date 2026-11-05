@@ -19713,7 +19713,14 @@
           "upstreamAssetURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.0.2/TiebaPure-v1.0.2-unsigned.ipa",
           "version": "v1.0.2"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.4.15",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fdb84a1911a7a08b248374b0-28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123.ipa",
+        "sha256": "28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123",
+        "size": 9347637,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
