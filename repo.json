@@ -4614,7 +4614,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Ymir-iOS/actions/artifacts/12574139738/zip",
           "version": "c8d0f5714162bf94c56e4b6fc271ab3d69545fa8"
         }
-      ]
+      ],
+      "backup": {
+        "version": "76d37591586f6c468e5b626f5cdafa137259ff76",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-86ae5f4e99639f83fb90e11b-d7b07f2a1f2cfc014c9d16f09786cca1c614b2c1a63171882f5deecadf06bb63.ipa",
+        "sha256": "d7b07f2a1f2cfc014c9d16f09786cca1c614b2c1a63171882f5deecadf06bb63",
+        "size": 10862398,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
