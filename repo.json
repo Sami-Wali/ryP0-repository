@@ -10775,7 +10775,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/MohinShaikh5689/god-of-war-3-ios/actions/artifacts/12568112725/zip",
           "version": "3668c4999522381c729c95d00b7dfed6b254f345"
         }
-      ]
+      ],
+      "backup": {
+        "version": "65c7f75de0638ed3cf6eafccbede356e024644c3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-490dfd2d1c5f738968f4b507-eed51337ae78ce8a174a16b0b78330e2286854c5bf80da125badf68d3cbfb6be.ipa",
+        "sha256": "eed51337ae78ce8a174a16b0b78330e2286854c5bf80da125badf68d3cbfb6be",
+        "size": 174221205,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
