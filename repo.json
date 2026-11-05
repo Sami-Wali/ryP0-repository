@@ -6427,7 +6427,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/12779030386/zip",
           "version": "4f8d07458df060b9cfa35aef4524736882c2fd37"
         }
-      ]
+      ],
+      "backup": {
+        "version": "219fe0f2a121f76a7a572d426004729290943f4b",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c6b92ea1991264c1cf139f25-32f3fc4823784fc7d3b71e7c935005f04dbf98232e6257b3dab4f95b4ac3c149.ipa",
+        "sha256": "32f3fc4823784fc7d3b71e7c935005f04dbf98232e6257b3dab4f95b4ac3c149",
+        "size": 29569706,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
