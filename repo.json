@@ -107,7 +107,7 @@
       },
       "githubURL": "https://github.com/hrydgard/PPSSPP",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d6831408c2df682989d2a0379497597e",
         "sourceURL": "https://github.com/hrydgard/ppsspp/releases/tag/v1.19.3",
