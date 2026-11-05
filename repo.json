@@ -23385,7 +23385,14 @@
           "upstreamAssetURL": "https://github.com/g8row/PhotosBackup/releases/download/0.0.1/PhotosBackup.ipa",
           "version": "0.0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.3.7",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9ef1394b8903c981d62a7202-3beae99581e1be7cd607bfe0365caa61839e46ff8e3eca04ba2db36de0c9c90c.ipa",
+        "sha256": "3beae99581e1be7cd607bfe0365caa61839e46ff8e3eca04ba2db36de0c9c90c",
+        "size": 2716224,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
