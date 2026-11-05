@@ -15542,7 +15542,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/COD4iOS-COD4NS/releases/download/R1/COD4iOS_v1.0.3.ipa",
           "version": "R1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "R6-beta.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6b7fc9be501284b26b0f0e5c-dbbc5e981f6fb79da2aaaf0fea8de4eeed1667310863ca8388ede051beb72a05.ipa",
+        "sha256": "dbbc5e981f6fb79da2aaaf0fea8de4eeed1667310863ca8388ede051beb72a05",
+        "size": 9692131,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
