@@ -23067,7 +23067,14 @@
           "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.4/KartPad-v0.8.4-ios-for-padmint.ipa",
           "version": "v0.8.4"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.8.7",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6eef8493aba4d246df25c03f-e97759c15950138635830449d4e9e1a220c43642ed49c54b5655ecb9facee375.ipa",
+        "sha256": "e97759c15950138635830449d4e9e1a220c43642ed49c54b5655ecb9facee375",
+        "size": 9444166,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
