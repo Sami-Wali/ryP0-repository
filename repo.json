@@ -12245,7 +12245,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/ProjectReignition-iOS/releases/download/1.0.9/ProjectReignition-iOS.ipa",
           "version": "1.0.9"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.9",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-d3f89ff17cef45fe25fc963f-9959b3fe8b58fcf5c95945e25fa2706c71ff26038e1bdd7add7365d62b31b142.ipa",
+        "sha256": "9959b3fe8b58fcf5c95945e25fa2706c71ff26038e1bdd7add7365d62b31b142",
+        "size": 1944594351,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
