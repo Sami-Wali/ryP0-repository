@@ -12189,7 +12189,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/R1/Sonic06-iOS.ipa",
           "version": "R1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-dd4661882b86ff2528ddfbec-a4eaa970bee587ffa1ca4dbbe9752b80cb4d9f638cecad4c855a6f91a0a5d522.ipa",
+        "sha256": "a4eaa970bee587ffa1ca4dbbe9752b80cb4d9f638cecad4c855a6f91a0a5d522",
+        "size": 35806088,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
