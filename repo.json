@@ -25127,9 +25127,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-willfaust-madeora-e97f8532",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/41844797192",
+        "configId": "com-willfaust-madeora-e97f8532",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42081837815",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "bundleIdentifier": "com.willfaust.madeora",
@@ -25147,14 +25147,26 @@
       "localizedDescription": "",
       "name": "Madeira",
       "status": {
-        "checkedAt": "2026-11-05T13:18:12Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-ba96c159a16842e72e584cc0417fb3bcf7eeb21d-817ad708fc6f.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-7635994fc4fcca29fca665251137f3554185c3c8-95639ee1c5d9.ipa",
+        "checkedAt": "2026-11-05T18:33:47Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "7635994fc4fcca29fca665251137f3554185c3c8",
+          "date": "2026-11-05T18:11:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-7635994fc4fcca29fca665251137f3554185c3c8-95639ee1c5d9.ipa",
+          "size": 210932951,
+          "sha256": "95639ee1c5d9b10c91582513ec33929938704a85fdc0c661bc8d153060768d96",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13441647824/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "buildVersion": "5",
           "date": "2026-11-04T14:09:43Z",
