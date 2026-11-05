@@ -11703,7 +11703,14 @@
           "upstreamAssetURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9294/LSX4-JIT-128.9294.ipa",
           "version": "ios-jit-128.9294"
         }
-      ]
+      ],
+      "backup": {
+        "version": "ios-jit-128.9775",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-683644b98e28ed1ebcca6b85-6525fb7bee0850f3c71f0240816f95ed2de75a370cc04ec7b9365998d5220e01.ipa",
+        "sha256": "6525fb7bee0850f3c71f0240816f95ed2de75a370cc04ec7b9365998d5220e01",
+        "size": 76905447,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
