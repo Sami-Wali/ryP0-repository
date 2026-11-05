@@ -26415,13 +26415,22 @@
       "name": "Husk",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
-        "checkedAt": "2026-11-05T01:17:04Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-05T03:34:31Z",
+        "checkedDownloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.4",
+          "date": "2026-11-05T03:33:53Z",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+          "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+          "size": 142303569,
+          "sourceAssetName": "Husk.ipa",
+          "releaseChannel": "release"
+        },
         {
           "buildVersion": "148",
           "date": "2026-11-01T01:44:15Z",
