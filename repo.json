@@ -16418,7 +16418,14 @@
           "upstreamAssetURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.2.0/NFSMW.ipa",
           "version": "v0.2.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.5.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-827fb1e2a2329a61834d7344-95acb5e31318fdae2237bad62b015fb0ae95484c494f3624babe2a5a70c74eeb.ipa",
+        "sha256": "95acb5e31318fdae2237bad62b015fb0ae95484c494f3624babe2a5a70c74eeb",
+        "size": 30186591,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
