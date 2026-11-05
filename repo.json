@@ -22927,7 +22927,14 @@
           "size": 4111825,
           "version": "0.9.7"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.9.9",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-00bbe3fc2887bebe064d4301-211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e.ipa",
+        "sha256": "211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e",
+        "size": 4627321,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
