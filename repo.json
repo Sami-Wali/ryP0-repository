@@ -10988,7 +10988,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/Skate2-iOS/releases/download/v1.0.0/Skate2-iOS.ipa",
           "version": "1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b18366b71f3013032915ea7d-ce56ddba3e471f41a2d5d0b99956aacc3c5f8caa733aa5ddbc2c8f3d634c5d93.ipa",
+        "sha256": "ce56ddba3e471f41a2d5d0b99956aacc3c5f8caa733aa5ddbc2c8f3d634c5d93",
+        "size": 29098040,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
