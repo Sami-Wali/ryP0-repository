@@ -15185,7 +15185,14 @@
           "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/release1/ios-release-no-sign.ipa",
           "version": "release1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.2.0.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a27a9c59d0c9642ac07668de-b60cf81f7189787d912cba8f2a7d3dbadebcc415f16a50feee4fc7f8c9cd1471.ipa",
+        "sha256": "b60cf81f7189787d912cba8f2a7d3dbadebcc415f16a50feee4fc7f8c9cd1471",
+        "size": 24933082,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
