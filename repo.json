@@ -11475,7 +11475,14 @@
           "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/17/Dopamine.tipa",
           "version": "17"
         }
-      ]
+      ],
+      "backup": {
+        "version": "473d52e44d14e3ccc7cf4e86d1095d26be2e6987",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-61ceea8acb1b207bde534339-5336cac80877b8d5f0f88c6d6f4eeb69319ab621b3dcde0033990c81ea5454e1.ipa",
+        "sha256": "5336cac80877b8d5f0f88c6d6f4eeb69319ab621b3dcde0033990c81ea5454e1",
+        "size": 55362491,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
