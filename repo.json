@@ -20595,7 +20595,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/daimiaopeng/coolapk-desktop/actions/artifacts/10634515675/zip",
           "version": "21cc861fb7c4caf4fc0d59b9b1b96005bc7a25d1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.35.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3b0c5383e4bbef7e0f06543a-3c1ddcb04bfef77990a228404c0d11e54fc1cc3cf879296f2571532769059a75.ipa",
+        "sha256": "3c1ddcb04bfef77990a228404c0d11e54fc1cc3cf879296f2571532769059a75",
+        "size": 8021392,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
