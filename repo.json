@@ -11948,7 +11948,14 @@
           "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.8/RewindBox-0.0.8.ipa",
           "version": "0.0.8"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.0.10",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4ccccb85f745ef57098c241f-f16c2a3529537bfbaa933972ed63f6ce96bb2a9ca176f1e2d1726dcd7896480d.ipa",
+        "sha256": "f16c2a3529537bfbaa933972ed63f6ce96bb2a9ca176f1e2d1726dcd7896480d",
+        "size": 188063063,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
