@@ -10548,7 +10548,14 @@
           "upstreamAssetURL": "https://github.com/iSVG4/Bai/releases/download/Release/Bai.tipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-704f0ea58e377778ea7f6446-8372ec8885f5510dd258b8201f180660975a7c86d2017eb1f61e25062e4e2d79.ipa",
+        "sha256": "8372ec8885f5510dd258b8201f180660975a7c86d2017eb1f61e25062e4e2d79",
+        "size": 1828906,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
