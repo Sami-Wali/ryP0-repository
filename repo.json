@@ -12479,7 +12479,14 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.0/Layers-v1.0.0.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.0.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3032d11f8e6cddda19fd9e89-d687a0e7d5aad0947a719427cdea3d45ebda938fe3d59918a68bd8359e4d49ad.ipa",
+        "sha256": "d687a0e7d5aad0947a719427cdea3d45ebda938fe3d59918a68bd8359e4d49ad",
+        "size": 889664,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
