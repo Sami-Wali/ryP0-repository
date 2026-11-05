@@ -5945,7 +5945,14 @@
           "upstreamAssetURL": "https://github.com/rooootdev/lara/releases/download/0.1/lara_v0.1.ipa",
           "version": "0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-418a4cbba2857ec958fd4d4a-449173643ae67c926886c5320a279d8829603228c4085cef49af2f2db1d67869.ipa",
+        "sha256": "449173643ae67c926886c5320a279d8829603228c4085cef49af2f2db1d67869",
+        "size": 6928809,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
