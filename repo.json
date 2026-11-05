@@ -10932,7 +10932,14 @@
           "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.8.11-r11/Strata%2BSideStore-3.8.11-r11.ipa",
           "version": "3.8.11"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v2.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-8a8b09966b3873bdc9395164-981ab6c5e13a585d7712709340a45cd9254ca0c8230b29bd112628743cff739e.ipa",
+        "sha256": "981ab6c5e13a585d7712709340a45cd9254ca0c8230b29bd112628743cff739e",
+        "size": 61011538,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
