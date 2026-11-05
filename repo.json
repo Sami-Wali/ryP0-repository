@@ -6499,7 +6499,14 @@
           "upstreamAssetURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0671d1268079c6d481be5fdf-595c8c307206c789e607836e670a9290dbacc0c51a224934fd2fde002b190fce.ipa",
+        "sha256": "595c8c307206c789e607836e670a9290dbacc0c51a224934fd2fde002b190fce",
+        "size": 23558287,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
