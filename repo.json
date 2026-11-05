@@ -9598,7 +9598,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/P4G-iOS/releases/download/v0.1.0/Persona4Golden-iOS-0.1.0.ipa",
           "version": "0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "build2_1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-97dcc5bc141f961cf7c62c37-482310577e3a80c78222cbab3cf72264531394e01bb82605309daffef77f40e4.ipa",
+        "sha256": "482310577e3a80c78222cbab3cf72264531394e01bb82605309daffef77f40e4",
+        "size": 17250693,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
