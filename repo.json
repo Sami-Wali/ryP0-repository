@@ -12301,7 +12301,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/TheChoicerVoicer-iOS/releases/download/1.0.0/TheChoicerVoicer-iOS.ipa",
           "version": "1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-67576d2158597beac8cd5e53-fb2b100dc4089e25e8cadc771b4bd1b271ee7fbb79dda135454a45a46c757e4e.ipa",
+        "sha256": "fb2b100dc4089e25e8cadc771b4bd1b271ee7fbb79dda135454a45a46c757e4e",
+        "size": 28257735,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
