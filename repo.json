@@ -24629,9 +24629,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "org-emexlabs-nyxian-c609773b",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/emexlab/Nyxian/actions/runs/41180250109",
+        "configId": "org-emexlabs-nyxian-c609773b",
+        "sourceURL": "https://github.com/emexlab/Nyxian/actions/runs/41888154149",
         "workflowPath": ".github/workflows/update-app-org-emexlabs-nyxian-c609773b.yml"
       },
       "bundleIdentifier": "org.emexlabs.nyxian",
@@ -24650,14 +24650,26 @@
       "localizedDescription": "",
       "name": "Nyxian",
       "status": {
-        "checkedAt": "2026-11-04T19:15:14Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-emexlabs-nyxian-c609773b-0d573db99dca3e64f26534593598245e2098e502-47875d3f0348.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-emexlabs-nyxian-c609773b-1642b14ac1af5852b5e978f9ee1927c887ea4701-c3657c0a5caa.ipa",
+        "checkedAt": "2026-11-05T00:36:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1642b14ac1af5852b5e978f9ee1927c887ea4701",
+          "date": "2026-11-04T18:32:27Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-emexlabs-nyxian-c609773b-1642b14ac1af5852b5e978f9ee1927c887ea4701-c3657c0a5caa.ipa",
+          "size": 132644660,
+          "sha256": "c3657c0a5caa0e188eef6d7b0c6c25507ad49b6e68d0a33e2618ce6193b04098",
+          "upstreamAssetURL": "https://api.github.com/repos/emexlab/Nyxian/actions/artifacts/13376147914/zip",
+          "sourceAssetName": "Nyxian.ipa",
+          "ipaBundleIdentifier": "org.emexlabs.nyxian",
+          "releaseChannel": "actions",
+          "buildVersion": "20261105.2.RELEASE"
+        },
         {
           "buildVersion": "20261031.2.RELEASE",
           "date": "2026-10-31T07:20:56Z",
