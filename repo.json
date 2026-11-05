@@ -12602,7 +12602,14 @@
           "upstreamAssetURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.3/TendieMaker-v1.0.3.ipa",
           "version": "v1.0.3"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.0.9",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-d0a30b470d5a589baf76ca0d-41ad5467138ac79cfe05400396f8258743f9434813e1409d3ea41361ab43ab8b.ipa",
+        "sha256": "41ad5467138ac79cfe05400396f8258743f9434813e1409d3ea41361ab43ab8b",
+        "size": 3697748,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
