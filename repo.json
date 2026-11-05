@@ -12029,7 +12029,14 @@
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
           "version": "2.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-cc2f12c7e802a55f7a2b7c52-2780c7523e90ec5edcbd63448997844303bae57362f329b78343c6576dfe2ccb.ipa",
+        "sha256": "2780c7523e90ec5edcbd63448997844303bae57362f329b78343c6576dfe2ccb",
+        "size": 14531954,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
