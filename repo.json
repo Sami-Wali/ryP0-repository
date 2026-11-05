@@ -11044,7 +11044,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/SonicGenerations-iOS/releases/download/v1.0.0/Sonic-Generations-iOS.ipa",
           "version": "1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-95fbdfe429cc595a64a2866c-95191959ad44ade508e7f3d0017976f95cf1a4d44ce8e60c29fe5dcbf59f6220.ipa",
+        "sha256": "95191959ad44ade508e7f3d0017976f95cf1a4d44ce8e60c29fe5dcbf59f6220",
+        "size": 43488206,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
