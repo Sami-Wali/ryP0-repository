@@ -8871,7 +8871,14 @@
           "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/95e8419/Dartotsu-iOS-main.ipa",
           "version": "95e8419"
         }
-      ]
+      ],
+      "backup": {
+        "version": "bb20cdd",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fbcef85bf40836a3bda34fac-c719020072e6be4b6bb74e7dbbee40aae14f910438070e5eb78cfb7249c16d13.ipa",
+        "sha256": "c719020072e6be4b6bb74e7dbbee40aae14f910438070e5eb78cfb7249c16d13",
+        "size": 86665558,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
