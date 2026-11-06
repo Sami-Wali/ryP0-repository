@@ -307,6 +307,20 @@
           "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
           "releaseChannel": "actions",
           "buildVersion": "1"
+        },
+        {
+          "version": "18eb93aa56be518b9a005bc07573df3104614df8",
+          "date": "2026-10-28T07:36:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-a5b1869123f197a5d1af02004b4edd96-18eb93aa56be518b9a005bc07573df3104614df8-b31654b59cbf.ipa",
+          "size": 36055532,
+          "sha256": "b31654b59cbfc5a703c4dcb8501136f0c0a6e385fdf44608c89667f7395389ba",
+          "upstreamAssetURL": "https://api.github.com/repos/WiseManChris/MHGURecomp-iOS/actions/artifacts/12799985486/zip",
+          "sourceAssetName": "MHGURecomp.ipa",
+          "sourceArchiveEntry": "MHGURecomp.ipa",
+          "sourceAppName": "MHGU Recomp",
+          "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.wisemanchris.mhgurecomp-94155259d070.png",
@@ -316,7 +330,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.wisemanchris.mhgurecomp-94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4.ipa",
-        "checkedAt": "2026-11-06T17:57:59Z",
+        "checkedAt": "2026-11-06T17:58:53Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -331,7 +345,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a5b1869123f197a5d1af02004b4edd96",
-        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS/actions/runs/40653796854",
+        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS/actions/runs/40651229020",
         "workflowPath": ".github/workflows/update-app-project-a5b1869123f197a5d1af02004b4edd96.yml"
       },
       "bundleIdentifiers": [
