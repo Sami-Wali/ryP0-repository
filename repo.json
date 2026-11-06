@@ -12694,13 +12694,24 @@
       },
       "name": "buildbox-ios",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
-        "checkedAt": "2026-11-06T07:27:59Z",
-        "message": "Download returned HTTP 404"
+        "state": "healthy",
+        "checkedAt": "2026-11-06T12:33:32Z",
+        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+        "message": "Updated from upstream release"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.1.6",
+          "date": "2026-11-06T12:14:46Z",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+          "size": 15597600,
+          "sourceAssetName": "BuildBox-2.1.6.ipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "com.mikevillarroel.buildbox",
+          "sourceAppName": "BuildBox"
+        },
         {
           "version": "v2.1.5",
           "date": "2026-11-06T01:43:20Z",
