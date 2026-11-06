@@ -10442,13 +10442,24 @@
       "name": "iDeck",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.5/iDeck-0.1.3-alpha.5-build143.ipa",
-        "checkedAt": "2026-11-06T01:22:43Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-06T05:46:18Z",
+        "checkedDownloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.6/iDeck-0.1.3-alpha.6-build145.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.3-alpha.6",
+          "date": "2026-11-06T05:45:57Z",
+          "downloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.6/iDeck-0.1.3-alpha.6-build145.ipa",
+          "upstreamAssetURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.6/iDeck-0.1.3-alpha.6-build145.ipa",
+          "size": 173835258,
+          "sourceAssetName": "iDeck-0.1.3-alpha.6-build145.ipa",
+          "releaseChannel": "alpha",
+          "ipaBundleIdentifier": "com.kuschqin.madeira.steamui",
+          "sourceAppName": "iDeck"
+        },
         {
           "buildVersion": "143",
           "date": "2026-11-03T04:50:18Z",
