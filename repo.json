@@ -28731,7 +28731,14 @@
           "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.0-build-9280/xenios_ios_iphone_ipad.ipa",
           "version": "release-v1.0.0-build-9280"
         }
-      ]
+      ],
+      "backup": {
+        "version": "release-v2.2.2-build-11498",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9a109c3f32fcde31aaeefe73-577c2c44052352d8a1ff4839fb2b60f0353e42d7842276ab8f0f823efc1c56d3.ipa",
+        "sha256": "577c2c44052352d8a1ff4839fb2b60f0353e42d7842276ab8f0f823efc1c56d3",
+        "size": 48360698,
+        "week": "2026-11-06"
+      }
     },
     {
       "appPermissions": {
