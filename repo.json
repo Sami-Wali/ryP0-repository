@@ -27767,7 +27767,14 @@
           "upstreamAssetURL": "https://github.com/Leviidev/Husk/releases/download/0.2.0/Husk.ipa",
           "version": "0.2.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "3.4",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9d1f0d0c31a9e83e0b06b9d0-3907f099d91411c24d703d825276102d2ba213c628cd6701fb977c25fe398fab.ipa",
+        "sha256": "3907f099d91411c24d703d825276102d2ba213c628cd6701fb977c25fe398fab",
+        "size": 142303569,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
