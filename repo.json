@@ -28457,7 +28457,14 @@
           "upstreamAssetURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b1/Non-Jailbroken.ipa",
           "version": "4.0.0b1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "5.0.0b6",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5ac24acfa35395d96d4e2dd2-8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2.ipa",
+        "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
+        "size": 17963367,
+        "week": "2026-11-06"
+      }
     },
     {
       "appPermissions": {
