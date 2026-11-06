@@ -21644,7 +21644,14 @@
           "upstreamAssetURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.0.1/MiniWatts-unsigned.ipa",
           "version": "v1.0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.6.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c828cf1845d52f1b4ba123ff-093f5af9b4294b985fb11ba0b45793853333a5f06792e3cbe2c2823d60c94506.ipa",
+        "sha256": "093f5af9b4294b985fb11ba0b45793853333a5f06792e3cbe2c2823d60c94506",
+        "size": 3332420,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
