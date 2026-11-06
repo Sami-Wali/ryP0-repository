@@ -30162,7 +30162,14 @@
           "upstreamAssetURL": "https://github.com/Baconium/JESSI/releases/download/b2/jessiB2.ipa",
           "version": "b2"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.1.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-eae7f60954c8da8df5ded3e8-0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6.ipa",
+        "sha256": "0110251f8d8c65d5e413fb1b1b2b24e5d38aaeeb2a3c825c55da047625d002f6",
+        "size": 12168815,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
