@@ -29377,7 +29377,14 @@
           "upstreamAssetURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v0.1.0/SideInstaller.ipa",
           "version": "v0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.6.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-45343518de3870e47ea07515-0ae47fc35e8024d14438feccfb5e990851a15795494fe6b6f7aa8afe2dc4a4e2.ipa",
+        "sha256": "0ae47fc35e8024d14438feccfb5e990851a15795494fe6b6f7aa8afe2dc4a4e2",
+        "size": 10380171,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
