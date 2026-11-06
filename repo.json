@@ -55,7 +55,7 @@
       },
       "githubURL": "https://github.com/Leviidev/Henge",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
         "sourceURL": "https://github.com/Leviidev/Henge/releases/tag/0.1",
