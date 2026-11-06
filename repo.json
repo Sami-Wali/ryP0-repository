@@ -30249,7 +30249,14 @@
           "upstreamAssetURL": "https://github.com/rooootdev/mond/releases/download/2.0/mond.ipa",
           "version": "2.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "development",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-43e7c1a03c6ec978ae7aaba1-84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633.ipa",
+        "sha256": "84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633",
+        "size": 3385571,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
