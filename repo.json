@@ -26814,7 +26814,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/R1/SonicUnleashed_Release.ipa",
           "version": "R1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-aa78ecec516af0848490b061-01922af57e83993baf45253ea4e7815b095ebee89b8e345aa1eb5a245a232c81.ipa",
+        "sha256": "01922af57e83993baf45253ea4e7815b095ebee89b8e345aa1eb5a245a232c81",
+        "size": 55943360,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
