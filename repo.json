@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Henge",
+      "catalogID": "project-c9c7fbab9f7764f2432d012e429b2384",
+      "bundleIdentifier": "com.henge.app",
+      "developerName": "Leviidev",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2026-11-06T13:28:11Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+          "size": 8761298,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "80008c82ab738eab7513a69c16d63b15414b84a37b4c0bde357368073fc67b41",
+          "sourceAppName": "Henge",
+          "sourceAssetName": "Henge.ipa",
+          "ipaBundleIdentifier": "com.henge.app",
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.henge.app-80008c82ab73.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+        "checkedAt": "2026-11-06T16:06:20Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+        "sourceURL": "https://github.com/Leviidev/Henge"
+      },
+      "githubURL": "https://github.com/Leviidev/Henge",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
+        "sourceURL": "https://github.com/Leviidev/Henge",
+        "workflowPath": ".github/workflows/update-app-project-c9c7fbab9f7764f2432d012e429b2384.yml"
+      }
+    },
+    {
       "name": "PPSSPP",
       "catalogID": "project-d6831408c2df682989d2a0379497597e",
       "bundleIdentifier": "org.ppsspp.ppsspp",
