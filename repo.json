@@ -27869,9 +27869,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/41792001317",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42157442947",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "bundleIdentifier": "software.iridium",
@@ -27890,13 +27890,25 @@
       "name": "Iridium",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-0c9ea55c003163b74c314097d254d2a10daa7d22-84332bb39486.ipa",
-        "checkedAt": "2026-11-06T01:22:43Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-40a054e297e90515c13f8c94d0060b18d124b9d7-dd4b16843e78.ipa",
+        "checkedAt": "2026-11-06T05:11:06Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "40a054e297e90515c13f8c94d0060b18d124b9d7",
+          "date": "2026-11-06T03:35:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-40a054e297e90515c13f8c94d0060b18d124b9d7-dd4b16843e78.ipa",
+          "size": 264852480,
+          "sha256": "dd4b16843e78e2ef65194bf0544f344ec3a26efc43dce8c2089b6d07ecd098c7",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/13477943091/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "192.1"
+        },
         {
           "buildVersion": "189.1",
           "date": "2026-11-04T07:24:03Z",
