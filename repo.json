@@ -25275,7 +25275,14 @@
           "upstreamAssetURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v1.0.0/sm64coopdx.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "151.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-60da0a8de20432bdde2c802c-7ac5ffc5aa96426ec9e5e33ace5e6e0cf3d8c139c9218d2c4c9196b17300e840.ipa",
+        "sha256": "7ac5ffc5aa96426ec9e5e33ace5e6e0cf3d8c139c9218d2c4c9196b17300e840",
+        "size": 9790397,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
