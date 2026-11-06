@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "dev.fnvshim.game",
           "releaseChannel": "prerelease",
           "buildVersion": "17"
+        },
+        {
+          "version": "ios-build-16",
+          "date": "2026-11-05T12:51:11Z",
+          "downloadURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-16/FNV-iOS-build16-unsigned.ipa",
+          "size": 45831883,
+          "sha256": "a27003f27cd84605a90d7897ef9bce3489f74d7a1679d502557bb5bf5b5f4c21",
+          "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-16/FNV-iOS-build16-unsigned.ipa",
+          "sourceAssetName": "FNV-iOS-build16-unsigned.ipa",
+          "sourceAppName": "FNVGame",
+          "ipaBundleIdentifier": "dev.fnvshim.game",
+          "releaseChannel": "prerelease",
+          "buildVersion": "16"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.fnvshim.game-393fb9d96034.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-20/FNV-iOS-build20-calltrace-comparison-unsigned.ipa",
-        "checkedAt": "2026-11-06T17:55:44Z",
+        "checkedAt": "2026-11-06T17:56:27Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-7aeb1e2a39f95400bbebad658f12bc37",
-        "sourceURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/tag/ios-build-17",
+        "sourceURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/tag/ios-build-16",
         "workflowPath": ".github/workflows/update-app-project-7aeb1e2a39f95400bbebad658f12bc37.yml"
       },
       "bundleIdentifiers": [
