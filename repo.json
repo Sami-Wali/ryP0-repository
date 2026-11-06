@@ -29992,7 +29992,14 @@
           "size": 30493138,
           "version": "Nightly-2026.09.19"
         }
-      ]
+      ],
+      "backup": {
+        "version": "Nightly-2026.11.04",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ba00cff8e0c8174f629f315f-710d401aee5667f5459165d6077e78353f8ec568801b3ca5f48de5d0f7d2c3fb.ipa",
+        "sha256": "710d401aee5667f5459165d6077e78353f8ec568801b3ca5f48de5d0f7d2c3fb",
+        "size": 40568716,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
