@@ -17269,9 +17269,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-5d25dc266a154f1e9274170b8280263a",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/35396320000",
+        "configId": "app-5d25dc266a154f1e9274170b8280263a",
+        "sourceURL": "https://github.com/SideStore/SideStore/actions/runs/42247462541",
         "workflowPath": ".github/workflows/update-app-app-5d25dc266a154f1e9274170b8280263a.yml"
       },
       "backup": {
@@ -17299,13 +17299,25 @@
       },
       "name": "SideStore",
       "status": {
-        "checkedAt": "2026-11-06T13:28:34Z",
-        "checkedDownloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-5d25dc266a154f1e9274170b8280263a-9f0b082ddce2d912322b04910b8a8dd964bf45a8-c271bf5e4dc0.ipa",
+        "checkedAt": "2026-11-06T19:06:52Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9f0b082ddce2d912322b04910b8a8dd964bf45a8",
+          "date": "2026-11-06T15:54:58Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-5d25dc266a154f1e9274170b8280263a-9f0b082ddce2d912322b04910b8a8dd964bf45a8-c271bf5e4dc0.ipa",
+          "size": 30681539,
+          "sha256": "c271bf5e4dc0a57ceb5845ea0984b3b20337ad6556f4328047bd5506fcf1a83b",
+          "upstreamAssetURL": "https://api.github.com/repos/SideStore/SideStore/actions/artifacts/13533361376/zip",
+          "sourceAssetName": "SideStore-0.7.0-pr.1725+9f0b082.ipa",
+          "ipaBundleIdentifier": "com.SideStore.SideStore",
+          "releaseChannel": "actions",
+          "buildVersion": "0700"
+        },
         {
           "buildVersion": "0700",
           "date": "2026-10-27T04:19:40Z",
