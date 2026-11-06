@@ -1,6 +1,56 @@
 {
   "apps": [
     {
+      "name": "MHGURecomp-iOS",
+      "catalogID": "project-a5b1869123f197a5d1af02004b4edd96",
+      "bundleIdentifier": "com.wisemanchris.mhgurecomp",
+      "developerName": "WiseManChris",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "13e097eecec8d71035b0bd5479a0676ee0497b4d",
+          "date": "2026-10-29T23:20:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.wisemanchris.mhgurecomp-94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4.ipa",
+          "size": 36168167,
+          "buildVersion": "1",
+          "releaseChannel": "actions",
+          "sha256": "94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4",
+          "sourceAppName": "MHGU Recomp",
+          "sourceAssetName": "MHGURecomp.ipa",
+          "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
+          "upstreamAssetURL": "https://api.github.com/repos/WiseManChris/MHGURecomp-iOS/actions/artifacts/12940214259/zip",
+          "sourceArchiveEntry": "MHGURecomp.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.wisemanchris.mhgurecomp-94155259d070.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.wisemanchris.mhgurecomp-94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4.ipa",
+        "checkedAt": "2026-11-06T17:40:34Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "mirror-release",
+        "originURL": "https://api.github.com/repos/WiseManChris/MHGURecomp-iOS/actions/artifacts/12940214259/zip",
+        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS"
+      },
+      "githubURL": "https://github.com/WiseManChris/MHGURecomp-iOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-a5b1869123f197a5d1af02004b4edd96",
+        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS",
+        "workflowPath": ".github/workflows/update-app-project-a5b1869123f197a5d1af02004b4edd96.yml"
+      }
+    },
+    {
       "name": "Henge",
       "catalogID": "project-c9c7fbab9f7764f2432d012e429b2384",
       "bundleIdentifier": "com.henge.app",
