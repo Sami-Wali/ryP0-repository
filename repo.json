@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/WiseManChris/MHGURecomp-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a5b1869123f197a5d1af02004b4edd96",
         "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS",
