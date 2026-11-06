@@ -22,6 +22,19 @@
           "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
           "upstreamAssetURL": "https://api.github.com/repos/WiseManChris/MHGURecomp-iOS/actions/artifacts/12940214259/zip",
           "sourceArchiveEntry": "MHGURecomp.ipa"
+        },
+        {
+          "version": "v1.0.0-ios",
+          "date": "2026-10-29T23:12:23Z",
+          "downloadURL": "https://github.com/WiseManChris/MHGURecomp-iOS/releases/download/v1.0.0-ios/MHGURecomp.ipa",
+          "size": 36168167,
+          "sha256": "3093e42f18d260c2975c7be0d93a01e23454fdedca59b300c299eda3131c5aae",
+          "upstreamAssetURL": "https://github.com/WiseManChris/MHGURecomp-iOS/releases/download/v1.0.0-ios/MHGURecomp.ipa",
+          "sourceAssetName": "MHGURecomp.ipa",
+          "sourceAppName": "MHGU Recomp",
+          "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.wisemanchris.mhgurecomp-94155259d070.png",
@@ -31,8 +44,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.wisemanchris.mhgurecomp-94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4.ipa",
-        "checkedAt": "2026-11-06T17:40:34Z",
-        "message": "Imported and mirrored after IPA validation"
+        "checkedAt": "2026-11-06T17:42:04Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -46,9 +59,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a5b1869123f197a5d1af02004b4edd96",
-        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS",
+        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS/releases/tag/v1.0.0-ios",
         "workflowPath": ".github/workflows/update-app-project-a5b1869123f197a5d1af02004b4edd96.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.wisemanchris.mhgurecomp"
+      ]
     },
     {
       "name": "Henge",
