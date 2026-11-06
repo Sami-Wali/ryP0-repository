@@ -28134,7 +28134,14 @@
           "size": 13544301,
           "version": "3.1.12"
         }
-      ]
+      ],
+      "backup": {
+        "version": "3.2.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fd6dcaff922752dac449a291-f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced.ipa",
+        "sha256": "f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced",
+        "size": 16818331,
+        "week": "2026-11-06"
+      }
     },
     {
       "bundleIdentifier": "com.github.leviidev.aetherps4",
