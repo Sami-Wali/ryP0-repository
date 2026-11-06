@@ -94,7 +94,7 @@
       },
       "githubURL": "https://github.com/arjunyerevan95-dot/FNV-iOS-Shim",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-7aeb1e2a39f95400bbebad658f12bc37",
         "sourceURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/tag/ios-build-16",
