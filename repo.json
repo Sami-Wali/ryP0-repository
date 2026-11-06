@@ -21746,9 +21746,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-example-kazumi-364d8606",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/41769632006",
+        "configId": "com-example-kazumi-364d8606",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/42225948521",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -21768,13 +21768,25 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
-        "checkedAt": "2026-11-06T13:28:34Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-ec5fcc54d02a40c15e9ba2e87e47309d7f5a0a4b-277be46e2e8e.ipa",
+        "checkedAt": "2026-11-06T13:56:28Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ec5fcc54d02a40c15e9ba2e87e47309d7f5a0a4b",
+          "date": "2026-11-06T13:29:53Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-ec5fcc54d02a40c15e9ba2e87e47309d7f5a0a4b-277be46e2e8e.ipa",
+          "size": 30442915,
+          "sha256": "277be46e2e8e4b02ffebf485f91653170dd20ef48c364afbae0d5efcf43cc59b",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/13507335012/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20403"
+        },
         {
           "date": "2026-11-04T12:12:33Z",
           "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
@@ -21782,7 +21794,8 @@
           "size": 30439714,
           "sourceAssetName": "Kazumi_ios_2.4.3_no_sign.ipa",
           "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
-          "version": "2.4.3"
+          "version": "2.4.3",
+          "ipaBundleIdentifier": "com.example.kazumi"
         },
         {
           "buildVersion": "20402",
