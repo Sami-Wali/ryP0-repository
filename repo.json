@@ -22465,7 +22465,14 @@
           "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/10937774557/zip",
           "version": "9b561dbb11e8ba5aef199f23c6ec3b6ffd47238e"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.4.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-364d8606b59b86d8e1d9211a-d62822b316d361a8296cb0b7e1ca49b55d9378463b181ea624562e147a2c7516.ipa",
+        "sha256": "d62822b316d361a8296cb0b7e1ca49b55d9378463b181ea624562e147a2c7516",
+        "size": 30439714,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
