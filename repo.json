@@ -77,6 +77,20 @@
           "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
           "releaseChannel": "actions",
           "buildVersion": "1"
+        },
+        {
+          "version": "676f403609abc77ee973dbcb056948a8a60d6cc6",
+          "date": "2026-10-29T22:17:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-a5b1869123f197a5d1af02004b4edd96-676f403609abc77ee973dbcb056948a8a60d6cc6-d8db97705218.ipa",
+          "size": 36125636,
+          "sha256": "d8db97705218afa5bd8d47ae10f68fbfb53bf1186d711b8768ee2fe0e73e5ff3",
+          "upstreamAssetURL": "https://api.github.com/repos/WiseManChris/MHGURecomp-iOS/actions/artifacts/12936978566/zip",
+          "sourceAssetName": "MHGURecomp.ipa",
+          "sourceArchiveEntry": "MHGURecomp.ipa",
+          "sourceAppName": "MHGU Recomp",
+          "ipaBundleIdentifier": "com.wisemanchris.mhgurecomp",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.wisemanchris.mhgurecomp-94155259d070.png",
@@ -86,7 +100,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.wisemanchris.mhgurecomp-94155259d070694747a89f9e58d3bd6343b738e2dad601ca289bca12eb309bc4.ipa",
-        "checkedAt": "2026-11-06T17:44:47Z",
+        "checkedAt": "2026-11-06T17:45:39Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -101,7 +115,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-a5b1869123f197a5d1af02004b4edd96",
-        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS/actions/runs/40967804057",
+        "sourceURL": "https://github.com/WiseManChris/MHGURecomp-iOS/actions/runs/40964694613",
         "workflowPath": ".github/workflows/update-app-project-a5b1869123f197a5d1af02004b4edd96.yml"
       },
       "bundleIdentifiers": [
