@@ -29479,7 +29479,14 @@
           "upstreamAssetURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.0/EnsWilde.ipa",
           "version": "EnsWilde3.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "EnsWilde3.1.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-155384e7a0b54fe741cdc370-a924663f814e2097378dd9e6c1367dec2119f4221e36e495fea5218c8d19165b.ipa",
+        "sha256": "a924663f814e2097378dd9e6c1367dec2119f4221e36e495fea5218c8d19165b",
+        "size": 13591314,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
