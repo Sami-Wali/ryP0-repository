@@ -29804,7 +29804,14 @@
           "size": 23003493,
           "version": "2.6.0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "iOSv2.6.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-7ce859d145da0cce2d4673b9-86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0.ipa",
+        "sha256": "86189c429769cbabdec2c842744a4541351c142a5576f5078c5fc94b553ee7d0",
+        "size": 39142823,
+        "week": "2026-11-06"
+      }
     },
     {
       "appPermissions": {
