@@ -12,6 +12,19 @@
         {
           "version": "0.1",
           "date": "2026-11-06T13:28:11Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
+          "size": 8760860,
+          "sha256": "64791770cb02c757ab4ef9fbb4ae9d3bfe4738f42c5a79073a45f2dbaaa6725f",
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
+          "sourceAssetName": "Henge.tipa",
+          "sourceAppName": "Henge",
+          "ipaBundleIdentifier": "com.henge.app",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "0.1",
+          "date": "2026-11-06T13:28:11Z",
           "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
           "size": 8761298,
           "buildVersion": "1",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
-        "checkedAt": "2026-11-06T16:06:20Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
+        "checkedAt": "2026-11-06T16:07:02Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
-        "sourceURL": "https://github.com/Leviidev/Henge",
+        "sourceURL": "https://github.com/Leviidev/Henge/releases/tag/0.1",
         "workflowPath": ".github/workflows/update-app-project-c9c7fbab9f7764f2432d012e429b2384.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.henge.app"
+      ]
     },
     {
       "name": "PPSSPP",
