@@ -24856,7 +24856,14 @@
           "upstreamAssetURL": "https://github.com/andrewnakas/skate3-ios-setup/releases/download/v2.0.0/skate3.ipa",
           "version": "v2.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.7.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-cbc799a2398d6d99c59b41a3-109607f9c19e5f98e34e0bda883b07ecfb0a2d81592b332d459c6fdde6f9f7e9.ipa",
+        "sha256": "109607f9c19e5f98e34e0bda883b07ecfb0a2d81592b332d459c6fdde6f9f7e9",
+        "size": 33581505,
+        "week": "2026-11-06"
+      }
     },
     {
       "appType": "Daily Update",
