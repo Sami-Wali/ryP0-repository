@@ -29589,7 +29589,14 @@
           "upstreamAssetURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.0-beta.3/3105-v1.0-beta3-unsigned.ipa",
           "version": "v1.0.0-beta.3"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v2.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-faa5cb7a2f01b14165a3204b-239cd9a10ad91bdd708bd84e1b75d6e8416a95d2b1e46e34e5e80cc58c324991.ipa",
+        "sha256": "239cd9a10ad91bdd708bd84e1b75d6e8416a95d2b1e46e34e5e80cc58c324991",
+        "size": 4604223,
+        "week": "2026-11-06"
+      }
     },
     {
       "automation": {
