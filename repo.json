@@ -164,6 +164,19 @@
           "ipaBundleIdentifier": "io.github.ttyd-port.eu",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-10-26T18:44:51Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-jp-ios-unsigned.ipa",
+          "size": 10150151,
+          "sha256": "5b502c90ed0ff73e06f835c095b37845b05687422e7fda8ea65fabc86e7bf62b",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-jp-ios-unsigned.ipa",
+          "sourceAssetName": "ttyd-port-0.1.0-jp-ios-unsigned.ipa",
+          "sourceAppName": "TTYD JP",
+          "ipaBundleIdentifier": "io.github.ttyd-port.jp",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.ttyd-port.us-b4cd76232697.png",
@@ -173,7 +186,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
-        "checkedAt": "2026-11-07T18:58:25Z",
+        "checkedAt": "2026-11-07T18:58:48Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -188,7 +201,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-713f4cdc36162e2464f8f7265c298b5b",
-        "sourceURL": "https://github.com/LLCOOLT/paper-cut/releases/tag/v0.2.0",
+        "sourceURL": "https://github.com/LLCOOLT/paper-cut/releases/tag/v0.1.0",
         "workflowPath": ".github/workflows/update-app-project-713f4cdc36162e2464f8f7265c298b5b.yml"
       },
       "bundleIdentifiers": [
