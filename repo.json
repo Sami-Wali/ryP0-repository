@@ -129,6 +129,19 @@
         {
           "version": "v0.2.0",
           "date": "2026-11-03T23:30:19Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.2.0/papercut-0.2.0-jp-ios-unsigned.ipa",
+          "size": 10575589,
+          "sha256": "2853ad9be7d1303da144159867177c7a6e252ec7554b5a4a52f0883171b07202",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.2.0/papercut-0.2.0-jp-ios-unsigned.ipa",
+          "sourceAssetName": "papercut-0.2.0-jp-ios-unsigned.ipa",
+          "sourceAppName": "Paper Cut",
+          "ipaBundleIdentifier": "io.github.ttyd-port.jp",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.2.0",
+          "date": "2026-11-03T23:30:19Z",
           "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.2.0/papercut-0.2.0-eu-ios-unsigned.ipa",
           "size": 10937819,
           "sha256": "c45436ae1c14ce5892b3781fc6a30361b91cbef3ddb09eca7f541f06051b5904",
@@ -147,7 +160,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
-        "checkedAt": "2026-11-07T18:57:36Z",
+        "checkedAt": "2026-11-07T18:58:01Z",
         "message": "Updated by private automation"
       },
       "importSource": {
