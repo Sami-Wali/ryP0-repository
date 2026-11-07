@@ -22008,7 +22008,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-6038fee174ab4e5cba1069c4b21efede",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42381809037",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42414356794",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "backup": {
@@ -22039,13 +22039,25 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-8247d4e2c0da915ae923605861976941d95e605a-a3a5e506edb9.ipa",
-        "checkedAt": "2026-11-07T19:32:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c650a36d2c2ab1016b68fd094720a89a2e0a29f1-7b4f349da1b4.ipa",
+        "checkedAt": "2026-11-07T21:21:35Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "c650a36d2c2ab1016b68fd094720a89a2e0a29f1",
+          "date": "2026-11-07T21:07:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c650a36d2c2ab1016b68fd094720a89a2e0a29f1-7b4f349da1b4.ipa",
+          "size": 30363686,
+          "sha256": "7b4f349da1b4db58e81d17e2de9107cb9d55dc32382866b01f682ba555cae92c",
+          "upstreamAssetURL": "https://api.github.com/repos/EspressU/EspressU-Emu/actions/artifacts/13590757896/zip",
+          "sourceAssetName": "EspressU.ipa",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "version": "8247d4e2c0da915ae923605861976941d95e605a",
           "date": "2026-11-07T14:29:14Z",
