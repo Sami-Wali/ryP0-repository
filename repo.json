@@ -28220,9 +28220,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42170563289",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42321889023",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "backup": {
@@ -28248,13 +28248,25 @@
       "name": "Iridium",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-acfe8d49d585d1bd54256b381af69272b67e7e7b-48481d21e789.ipa",
-        "checkedAt": "2026-11-07T01:29:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-7da30ab0e214f6b971c024ad8a9e12b6af8fd4fb-c78b8637806d.ipa",
+        "checkedAt": "2026-11-07T03:44:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "7da30ab0e214f6b971c024ad8a9e12b6af8fd4fb",
+          "date": "2026-11-07T01:03:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-7da30ab0e214f6b971c024ad8a9e12b6af8fd4fb-c78b8637806d.ipa",
+          "size": 277832482,
+          "sha256": "c78b8637806dd810af0ab83a277cd0d38c5e8e2a75809354d383ebebe24ba003",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/13558857142/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "194.1"
+        },
         {
           "buildVersion": "193.1",
           "date": "2026-11-06T05:48:16Z",
