@@ -34,6 +34,19 @@
           "sourceAssetName": "OpenJK-MP-0.2.0.ipa",
           "ipaBundleIdentifier": "org.openjk.ios.mp",
           "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa"
+        },
+        {
+          "version": "ios-v0.1.0",
+          "date": "2026-10-29T17:48:49Z",
+          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-MP-0.1.0.ipa",
+          "size": 6224843,
+          "sha256": "68451d6dae52227102861122cb144017a961838354ff1a0b7a495b92222ec8f0",
+          "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-MP-0.1.0.ipa",
+          "sourceAssetName": "OpenJK-MP-0.1.0.ipa",
+          "sourceAppName": "OpenJK MP",
+          "ipaBundleIdentifier": "org.openjk.ios.mp",
+          "releaseChannel": "release",
+          "buildVersion": "4845"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.openjk.ios.mp-c8fe28825f6d.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
-        "checkedAt": "2026-11-07T18:51:15Z",
+        "checkedAt": "2026-11-07T18:51:37Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e1ef1160ce76e7a5f3393e7fa6c0cc21",
-        "sourceURL": "https://github.com/Nodman/OpenJK-iOS/releases/tag/ios-v0.2.0",
+        "sourceURL": "https://github.com/Nodman/OpenJK-iOS/releases/tag/ios-v0.1.0",
         "workflowPath": ".github/workflows/update-app-project-e1ef1160ce76e7a5f3393e7fa6c0cc21.yml"
       },
       "bundleIdentifiers": [
