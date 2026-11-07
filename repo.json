@@ -125,6 +125,19 @@
           "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
           "releaseChannel": "release",
           "buildVersion": "0.35.0"
+        },
+        {
+          "version": "v0.34.0",
+          "date": "2026-10-26T23:07:15Z",
+          "downloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.34.0/MetroidPrimePort.ipa",
+          "size": 14449672,
+          "sha256": "c53c0f429e751cd8b5771547d051b736f6b356844a042b1578bedb47b8cd2e46",
+          "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.34.0/MetroidPrimePort.ipa",
+          "sourceAssetName": "MetroidPrimePort.ipa",
+          "sourceAppName": "Metroid Prime",
+          "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
+          "releaseChannel": "release",
+          "buildVersion": "0.34.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.odrannnn.metroidprimeport-759c38f41708.png",
@@ -134,7 +147,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa",
-        "checkedAt": "2026-11-07T18:45:46Z",
+        "checkedAt": "2026-11-07T18:46:09Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -149,7 +162,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3aefb6f6f45e6dc69251567730fcb858",
-        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.35.0",
+        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.34.0",
         "workflowPath": ".github/workflows/update-app-project-3aefb6f6f45e6dc69251567730fcb858.yml"
       },
       "bundleIdentifiers": [
