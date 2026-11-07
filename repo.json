@@ -159,7 +159,7 @@
       },
       "githubURL": "https://github.com/Odrannnn/MetroidPrimePort",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3aefb6f6f45e6dc69251567730fcb858",
         "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.34.0",
