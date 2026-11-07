@@ -21764,9 +21764,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "org-zhaohe-miniwatts-c828cf18",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.0.1",
+        "configId": "org-zhaohe-miniwatts-c828cf18",
+        "sourceURL": "https://github.com/ResistanceTo/MiniWatts/actions/runs/42352947828",
         "workflowPath": ".github/workflows/update-app-org-zhaohe-miniwatts-c828cf18.yml"
       },
       "backup": {
@@ -21793,13 +21793,25 @@
       "name": "MiniWatts",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
-        "checkedAt": "2026-11-07T07:30:37Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-zhaohe-miniwatts-c828cf18-0b519fda61dfd7b766d4be05fdaa2114f295d5e4-81d7ff1afaea.ipa",
+        "checkedAt": "2026-11-07T07:56:14Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: ResistanceTo/MiniWatts.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0b519fda61dfd7b766d4be05fdaa2114f295d5e4",
+          "date": "2026-11-07T07:50:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/org-zhaohe-miniwatts-c828cf18-0b519fda61dfd7b766d4be05fdaa2114f295d5e4-81d7ff1afaea.ipa",
+          "size": 3374229,
+          "sha256": "81d7ff1afaea8ef0d7b71f02d834709b327cc8a758f954091bf6bb89f8e23885",
+          "upstreamAssetURL": "https://api.github.com/repos/ResistanceTo/MiniWatts/actions/artifacts/13566710893/zip",
+          "sourceAssetName": "MiniWatts-unsigned.ipa",
+          "ipaBundleIdentifier": "org.zhaohe.MiniWatts",
+          "releaseChannel": "actions",
+          "buildVersion": "22"
+        },
         {
           "buildVersion": "21",
           "date": "2026-10-27T03:11:13Z",
