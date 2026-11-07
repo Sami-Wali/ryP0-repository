@@ -38,6 +38,19 @@
         {
           "version": "ios-v0.1.0",
           "date": "2026-10-29T17:48:49Z",
+          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-SP-0.1.0.ipa",
+          "size": 5560696,
+          "sha256": "8afc2b0b46389a3d0dad6c05446de905ec10f33a04aa97e00229eb4fcffad2eb",
+          "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-SP-0.1.0.ipa",
+          "sourceAssetName": "OpenJK-SP-0.1.0.ipa",
+          "sourceAppName": "OpenJK SP",
+          "ipaBundleIdentifier": "org.openjk.ios.sp",
+          "releaseChannel": "release",
+          "buildVersion": "4845"
+        },
+        {
+          "version": "ios-v0.1.0",
+          "date": "2026-10-29T17:48:49Z",
           "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-MP-0.1.0.ipa",
           "size": 6224843,
           "sha256": "68451d6dae52227102861122cb144017a961838354ff1a0b7a495b92222ec8f0",
@@ -56,7 +69,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
-        "checkedAt": "2026-11-07T18:51:37Z",
+        "checkedAt": "2026-11-07T18:52:07Z",
         "message": "Updated by private automation"
       },
       "importSource": {
