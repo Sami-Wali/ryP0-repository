@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Nookery",
+      "catalogID": "project-00e5f4f498f00dd96b6f3ed5b2af7b80",
+      "bundleIdentifier": "com.flyngmt.nookery",
+      "developerName": "flyngmt",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-02T19:31:17Z",
+          "downloadURL": "https://github.com/flyngmt/Nookery/releases/download/v1.0.0/Nookery-v1.0.0-ios-arm64.ipa",
+          "size": 17474473,
+          "buildVersion": "1.0",
+          "releaseChannel": "release",
+          "sha256": "2b566b78bda7e0c4ba7c54e5e6707b4e4cfa07a5b65a22e78189c2e28dc7c49d",
+          "sourceAppName": "Nookery",
+          "sourceAssetName": "Nookery-v1.0.0-ios-arm64.ipa",
+          "ipaBundleIdentifier": "com.flyngmt.nookery",
+          "upstreamAssetURL": "https://github.com/flyngmt/Nookery/releases/download/v1.0.0/Nookery-v1.0.0-ios-arm64.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/flyngmt/Nookery/master/platforms/ios/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/flyngmt/Nookery/releases/download/v1.0.0/Nookery-v1.0.0-ios-arm64.ipa",
+        "checkedAt": "2026-11-07T18:40:33Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/flyngmt/Nookery/releases/download/v1.0.0/Nookery-v1.0.0-ios-arm64.ipa",
+        "sourceURL": "https://github.com/flyngmt/Nookery"
+      },
+      "githubURL": "https://github.com/flyngmt/Nookery",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-00e5f4f498f00dd96b6f3ed5b2af7b80",
+        "sourceURL": "https://github.com/flyngmt/Nookery",
+        "workflowPath": ".github/workflows/update-app-project-00e5f4f498f00dd96b6f3ed5b2af7b80.yml"
+      }
+    },
+    {
       "name": "OpenRAC-iOS",
       "catalogID": "project-1b056cbfab137c0e22c4f70d98ead2b0",
       "bundleIdentifier": "dev.openrac.rac1-ntsc",
