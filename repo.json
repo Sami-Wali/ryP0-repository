@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "paper-cut",
+      "catalogID": "project-713f4cdc36162e2464f8f7265c298b5b",
+      "bundleIdentifier": "io.github.ttyd-port.us",
+      "developerName": "LLCOOLT",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.4.1",
+          "date": "2026-11-07T00:34:09Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-us-ios-unsigned.ipa",
+          "size": 13437510,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "b4cd7623269799fd0c078617ef50ddef4cfc808944b9cb12f32282f6d8bf481e",
+          "sourceAppName": "Paper Cut",
+          "sourceAssetName": "papercut-0.4.1-us-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "io.github.ttyd-port.us",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-us-ios-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.ttyd-port.us-b4cd76232697.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-us-ios-unsigned.ipa",
+        "checkedAt": "2026-11-07T18:53:32Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-us-ios-unsigned.ipa",
+        "sourceURL": "https://github.com/LLCOOLT/paper-cut"
+      },
+      "githubURL": "https://github.com/LLCOOLT/paper-cut",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-713f4cdc36162e2464f8f7265c298b5b",
+        "sourceURL": "https://github.com/LLCOOLT/paper-cut",
+        "workflowPath": ".github/workflows/update-app-project-713f4cdc36162e2464f8f7265c298b5b.yml"
+      }
+    },
+    {
       "name": "OpenJK-iOS",
       "catalogID": "project-e1ef1160ce76e7a5f3393e7fa6c0cc21",
       "bundleIdentifier": "org.openjk.ios.mp",
