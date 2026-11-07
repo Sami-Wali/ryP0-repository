@@ -4924,13 +4924,24 @@
       "name": "Vita3KiOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.1.2/Vita3KiOS-1.1.2.ipa",
-        "checkedAt": "2026-11-07T13:31:33Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-07T18:36:41Z",
+        "checkedDownloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.2.0/Vita3KiOS-1.2.0.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.2.0",
+          "date": "2026-11-07T18:33:18Z",
+          "downloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.2.0/Vita3KiOS-1.2.0.ipa",
+          "upstreamAssetURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.2.0/Vita3KiOS-1.2.0.ipa",
+          "size": 16576636,
+          "sourceAssetName": "Vita3KiOS-1.2.0.ipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "sourceAppName": "Vita3K"
+        },
         {
           "date": "2026-11-06T12:15:55Z",
           "downloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.1.2/Vita3KiOS-1.1.2.ipa",
