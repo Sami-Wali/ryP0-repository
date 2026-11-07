@@ -543,6 +543,17 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v0.1.1",
+          "date": "2026-11-07T19:11:59Z",
+          "downloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.1/OpenRAC_rac1-ntsc_0.1.1_ios.ipa",
+          "upstreamAssetURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.1/OpenRAC_rac1-ntsc_0.1.1_ios.ipa",
+          "size": 29137796,
+          "sourceAssetName": "OpenRAC_rac1-ntsc_0.1.1_ios.ipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "dev.openrac.rac1-ntsc",
+          "sourceAppName": "Ratchet & Clank (NTSC)"
+        },
+        {
           "version": "1.0",
           "date": "2026-11-07T18:33:53Z",
           "downloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
@@ -562,9 +573,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
-        "checkedAt": "2026-11-07T18:35:29Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-07T19:15:38Z",
+        "checkedDownloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.1/OpenRAC_rac1-ntsc_0.1.1_ios.ipa",
+        "message": "Updated from upstream release"
       },
       "importSource": {
         "method": "github",
