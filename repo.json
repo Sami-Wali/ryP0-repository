@@ -125,6 +125,19 @@
           "ipaBundleIdentifier": "io.github.ttyd-port.eu",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "v0.2.0",
+          "date": "2026-11-03T23:30:19Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.2.0/papercut-0.2.0-eu-ios-unsigned.ipa",
+          "size": 10937819,
+          "sha256": "c45436ae1c14ce5892b3781fc6a30361b91cbef3ddb09eca7f541f06051b5904",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.2.0/papercut-0.2.0-eu-ios-unsigned.ipa",
+          "sourceAssetName": "papercut-0.2.0-eu-ios-unsigned.ipa",
+          "sourceAppName": "Paper Cut",
+          "ipaBundleIdentifier": "io.github.ttyd-port.eu",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.ttyd-port.us-b4cd76232697.png",
@@ -134,7 +147,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
-        "checkedAt": "2026-11-07T18:57:07Z",
+        "checkedAt": "2026-11-07T18:57:36Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -149,7 +162,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-713f4cdc36162e2464f8f7265c298b5b",
-        "sourceURL": "https://github.com/LLCOOLT/paper-cut/releases/tag/v0.3.0",
+        "sourceURL": "https://github.com/LLCOOLT/paper-cut/releases/tag/v0.2.0",
         "workflowPath": ".github/workflows/update-app-project-713f4cdc36162e2464f8f7265c298b5b.yml"
       },
       "bundleIdentifiers": [
