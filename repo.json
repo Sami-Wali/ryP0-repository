@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "MetroidPrimePort",
+      "catalogID": "project-3aefb6f6f45e6dc69251567730fcb858",
+      "bundleIdentifier": "io.github.odrannnn.metroidprimeport",
+      "developerName": "Odrannnn",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.42.0",
+          "date": "2026-11-06T17:34:36Z",
+          "downloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa",
+          "size": 15441441,
+          "buildVersion": "0.42.0",
+          "releaseChannel": "release",
+          "sha256": "759c38f41708421987a4e4fa6a1373e9df641df8edb65e72279ef0553b84cbe6",
+          "sourceAppName": "Metroid Prime",
+          "sourceAssetName": "MetroidPrimePort.ipa",
+          "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
+          "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.odrannnn.metroidprimeport-759c38f41708.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa",
+        "checkedAt": "2026-11-07T18:41:47Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa",
+        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort"
+      },
+      "githubURL": "https://github.com/Odrannnn/MetroidPrimePort",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-3aefb6f6f45e6dc69251567730fcb858",
+        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort",
+        "workflowPath": ".github/workflows/update-app-project-3aefb6f6f45e6dc69251567730fcb858.yml"
+      }
+    },
+    {
       "name": "Nookery",
       "catalogID": "project-00e5f4f498f00dd96b6f3ed5b2af7b80",
       "bundleIdentifier": "com.flyngmt.nookery",
