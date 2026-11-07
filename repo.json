@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "OpenJK-iOS",
+      "catalogID": "project-e1ef1160ce76e7a5f3393e7fa6c0cc21",
+      "bundleIdentifier": "org.openjk.ios.mp",
+      "developerName": "Nodman",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "date": "2026-10-29T21:33:47Z",
+          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
+          "size": 6228396,
+          "buildVersion": "4876",
+          "releaseChannel": "release",
+          "sha256": "c8fe28825f6d769cc5b674d68e661abcc435b080e78ba6936e49bdf6231cb989",
+          "sourceAppName": "OpenJK MP",
+          "sourceAssetName": "OpenJK-MP-0.2.0.ipa",
+          "ipaBundleIdentifier": "org.openjk.ios.mp",
+          "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.openjk.ios.mp-c8fe28825f6d.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
+        "checkedAt": "2026-11-07T18:50:27Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
+        "sourceURL": "https://github.com/Nodman/OpenJK-iOS"
+      },
+      "githubURL": "https://github.com/Nodman/OpenJK-iOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-e1ef1160ce76e7a5f3393e7fa6c0cc21",
+        "sourceURL": "https://github.com/Nodman/OpenJK-iOS",
+        "workflowPath": ".github/workflows/update-app-project-e1ef1160ce76e7a5f3393e7fa6c0cc21.yml"
+      }
+    },
+    {
       "name": "MetroidPrimePort",
       "catalogID": "project-3aefb6f6f45e6dc69251567730fcb858",
       "bundleIdentifier": "io.github.odrannnn.metroidprimeport",
