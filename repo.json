@@ -28309,7 +28309,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "software-iridium-b8778bc6",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42321889023",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42397445429",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "backup": {
@@ -28335,13 +28335,25 @@
       "name": "Iridium",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-7da30ab0e214f6b971c024ad8a9e12b6af8fd4fb-c78b8637806d.ipa",
-        "checkedAt": "2026-11-07T13:31:33Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-e9a5033071d269cb2dff6c79edc1b508030f33ea-ed3278bdfad4.ipa",
+        "checkedAt": "2026-11-07T18:18:25Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "e9a5033071d269cb2dff6c79edc1b508030f33ea",
+          "date": "2026-11-07T17:40:15Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-e9a5033071d269cb2dff6c79edc1b508030f33ea-ed3278bdfad4.ipa",
+          "size": 277832010,
+          "sha256": "ed3278bdfad4100e96b1f1ca2e1bc8d4f2bc7a2cb332a0d48e897345ff73747a",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/13584791828/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "196.1"
+        },
         {
           "version": "7da30ab0e214f6b971c024ad8a9e12b6af8fd4fb",
           "date": "2026-11-07T01:03:19Z",
