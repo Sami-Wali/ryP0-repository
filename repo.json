@@ -10,6 +10,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "ios-v0.2.0",
+          "date": "2026-10-29T21:33:47Z",
+          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
+          "size": 5565206,
+          "sha256": "44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9",
+          "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
+          "sourceAssetName": "OpenJK-SP-0.2.0.ipa",
+          "sourceAppName": "OpenJK SP",
+          "ipaBundleIdentifier": "org.openjk.ios.sp",
+          "releaseChannel": "release",
+          "buildVersion": "4876"
+        },
+        {
           "version": "0.2.0",
           "date": "2026-10-29T21:33:47Z",
           "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
-        "checkedAt": "2026-11-07T18:50:27Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
+        "checkedAt": "2026-11-07T18:51:15Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e1ef1160ce76e7a5f3393e7fa6c0cc21",
-        "sourceURL": "https://github.com/Nodman/OpenJK-iOS",
+        "sourceURL": "https://github.com/Nodman/OpenJK-iOS/releases/tag/ios-v0.2.0",
         "workflowPath": ".github/workflows/update-app-project-e1ef1160ce76e7a5f3393e7fa6c0cc21.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "org.openjk.ios.sp",
+        "org.openjk.ios.mp"
+      ]
     },
     {
       "name": "MetroidPrimePort",
