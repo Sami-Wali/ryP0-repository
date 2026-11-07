@@ -21,6 +21,19 @@
           "sourceAssetName": "MetroidPrimePort.ipa",
           "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
           "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa"
+        },
+        {
+          "version": "v0.41.0",
+          "date": "2026-11-04T20:34:35Z",
+          "downloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.41.0/MetroidPrimePort.ipa",
+          "size": 15610125,
+          "sha256": "1bf3e8cc8dd3b574af5bbd2f383421a7b7cea1181c38c4b9224b56460bc907a2",
+          "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.41.0/MetroidPrimePort.ipa",
+          "sourceAssetName": "MetroidPrimePort.ipa",
+          "sourceAppName": "Metroid Prime",
+          "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
+          "releaseChannel": "release",
+          "buildVersion": "0.41.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.odrannnn.metroidprimeport-759c38f41708.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.42.0/MetroidPrimePort.ipa",
-        "checkedAt": "2026-11-07T18:41:47Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-07T18:42:37Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3aefb6f6f45e6dc69251567730fcb858",
-        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort",
+        "sourceURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.41.0",
         "workflowPath": ".github/workflows/update-app-project-3aefb6f6f45e6dc69251567730fcb858.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "io.github.odrannnn.metroidprimeport"
+      ]
     },
     {
       "name": "Nookery",
