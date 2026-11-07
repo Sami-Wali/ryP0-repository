@@ -776,13 +776,24 @@
       "name": "Henge",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
-        "checkedAt": "2026-11-07T19:32:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-07T21:50:35Z",
+        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.2",
+          "date": "2026-11-07T21:49:27Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
+          "size": 8880854,
+          "sourceAssetName": "Henge.ipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "com.henge.app",
+          "sourceAppName": "Henge"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-06T13:28:11Z",
