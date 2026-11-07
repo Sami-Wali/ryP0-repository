@@ -168,6 +168,19 @@
         {
           "version": "v0.1.0",
           "date": "2026-10-26T18:44:51Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-us-ios-unsigned.ipa",
+          "size": 10314316,
+          "sha256": "8c392ff24245ffa94178906428ebc4c3046ec12325175d15fbac85c848ee1d56",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-us-ios-unsigned.ipa",
+          "sourceAssetName": "ttyd-port-0.1.0-us-ios-unsigned.ipa",
+          "sourceAppName": "TTYD US",
+          "ipaBundleIdentifier": "io.github.ttyd-port.us",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "v0.1.0",
+          "date": "2026-10-26T18:44:51Z",
           "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-jp-ios-unsigned.ipa",
           "size": 10150151,
           "sha256": "5b502c90ed0ff73e06f835c095b37845b05687422e7fda8ea65fabc86e7bf62b",
@@ -186,7 +199,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
-        "checkedAt": "2026-11-07T18:58:48Z",
+        "checkedAt": "2026-11-07T19:00:02Z",
         "message": "Updated by private automation"
       },
       "importSource": {
