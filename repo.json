@@ -6952,13 +6952,24 @@
       "name": "Dartotsu-Downloader",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/8ad9771/Dartotsu-iOS-main.ipa",
-        "checkedAt": "2026-11-07T13:31:33Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-07T16:21:40Z",
+        "checkedDownloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/a49bb11/Dartotsu-iOS-main.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "GitHub project request: grayankit/Dartotsu-Downloader.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "a49bb11",
+          "date": "2026-11-07T16:20:29Z",
+          "downloadURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/a49bb11/Dartotsu-iOS-main.ipa",
+          "upstreamAssetURL": "https://github.com/grayankit/Dartotsu-Downloader/releases/download/a49bb11/Dartotsu-iOS-main.ipa",
+          "size": 86805118,
+          "sourceAssetName": "Dartotsu-iOS-main.ipa",
+          "releaseChannel": "alpha",
+          "ipaBundleIdentifier": "ani.aayush262.dartotsu",
+          "sourceAppName": "Dartotsu"
+        },
         {
           "version": "8ad9771",
           "date": "2026-11-07T07:37:24Z",
