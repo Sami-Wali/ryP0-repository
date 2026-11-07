@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "OpenRAC-iOS",
+      "catalogID": "project-1b056cbfab137c0e22c4f70d98ead2b0",
+      "bundleIdentifier": "dev.openrac.rac1-ntsc",
+      "developerName": "SubhanHabib",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-07T18:33:53Z",
+          "downloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
+          "size": 29137702,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "f1f6cea93ee12e86bf42fadc0eb1bea2b8950509f5819d84054e69dad12646e4",
+          "sourceAppName": "Ratchet & Clank (NTSC)",
+          "sourceAssetName": "OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
+          "ipaBundleIdentifier": "dev.openrac.rac1-ntsc",
+          "upstreamAssetURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.openrac.rac1-ntsc-f1f6cea93ee1.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
+        "checkedAt": "2026-11-07T18:35:29Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
+        "sourceURL": "https://github.com/SubhanHabib/OpenRAC-iOS"
+      },
+      "githubURL": "https://github.com/SubhanHabib/OpenRAC-iOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-1b056cbfab137c0e22c4f70d98ead2b0",
+        "sourceURL": "https://github.com/SubhanHabib/OpenRAC-iOS",
+        "workflowPath": ".github/workflows/update-app-project-1b056cbfab137c0e22c4f70d98ead2b0.yml"
+      }
+    },
+    {
       "name": "FNV-iOS-Shim",
       "catalogID": "project-7aeb1e2a39f95400bbebad658f12bc37",
       "bundleIdentifier": "dev.fnvshim.game",
