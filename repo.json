@@ -21375,9 +21375,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/releases/tag/v1.3",
+        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42381809037",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "backup": {
@@ -21408,13 +21408,25 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
-        "checkedAt": "2026-11-07T13:31:33Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-8247d4e2c0da915ae923605861976941d95e605a-a3a5e506edb9.ipa",
+        "checkedAt": "2026-11-07T14:46:48Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "8247d4e2c0da915ae923605861976941d95e605a",
+          "date": "2026-11-07T14:29:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-8247d4e2c0da915ae923605861976941d95e605a-a3a5e506edb9.ipa",
+          "size": 30372052,
+          "sha256": "a3a5e506edb9fe0f54a8ca67c5d8e1b7347fdc9906461d0e6fa12e131f6c0fa7",
+          "upstreamAssetURL": "https://api.github.com/repos/EspressU/EspressU-Emu/actions/artifacts/13578136886/zip",
+          "sourceAssetName": "EspressU.ipa",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "date": "2026-11-03T21:04:01Z",
           "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
@@ -21422,7 +21434,8 @@
           "size": 30393789,
           "sourceAssetName": "EspressU-v1.4.ipa",
           "upstreamAssetURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
-          "version": "v1.4"
+          "version": "v1.4",
+          "ipaBundleIdentifier": "com.am4rdev.EspressU"
         },
         {
           "buildVersion": "1",
