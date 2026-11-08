@@ -12442,13 +12442,24 @@
       "name": "lsx4",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9921/LSX4-JIT-128.9921.ipa",
-        "checkedAt": "2026-11-07T19:32:09Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-08T00:36:26Z",
+        "checkedDownloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9934/LSX4-JIT-128.9934.ipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ios-jit-128.9934",
+          "date": "2026-11-08T00:33:06Z",
+          "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9934/LSX4-JIT-128.9934.ipa",
+          "upstreamAssetURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9934/LSX4-JIT-128.9934.ipa",
+          "size": 77017813,
+          "sourceAssetName": "LSX4-JIT-128.9934.ipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+          "sourceAppName": "LSX4"
+        },
         {
           "version": "ios-jit-128.9921",
           "date": "2026-11-07T19:01:52Z",
