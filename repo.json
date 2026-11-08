@@ -12,7 +12,7 @@
         {
           "version": "v0.4.1",
           "date": "2026-11-07T00:34:09Z",
-          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/io.github.ttyd-port.jp/release-baefc07f31b00fe9dbbb2e924e78074e43fc66a15f0aff1550932b99cfc5ca79.ipa",
           "size": 13398112,
           "sha256": "baefc07f31b00fe9dbbb2e924e78074e43fc66a15f0aff1550932b99cfc5ca79",
           "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
@@ -25,7 +25,7 @@
         {
           "version": "v0.4.1",
           "date": "2026-11-07T00:34:09Z",
-          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-eu-ios-unsigned.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/io.github.ttyd-port.eu/release-720655f821ed04f88c8c48ffe7c2d5c24ddaa181d34dbe53d505d90748710053.ipa",
           "size": 13767495,
           "sha256": "720655f821ed04f88c8c48ffe7c2d5c24ddaa181d34dbe53d505d90748710053",
           "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-eu-ios-unsigned.ipa",
@@ -198,7 +198,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-jp-ios-unsigned.ipa",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/io.github.ttyd-port.jp/release-baefc07f31b00fe9dbbb2e924e78074e43fc66a15f0aff1550932b99cfc5ca79.ipa",
         "checkedAt": "2026-11-08T07:33:22Z",
         "message": "Download is available"
       },
