@@ -21,6 +21,19 @@
           "sourceAssetName": "Porthole-1.2.1-688.ipa",
           "ipaBundleIdentifier": "site.portholehq.app",
           "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa"
+        },
+        {
+          "version": "v1.2.0",
+          "date": "2026-11-04T20:08:52Z",
+          "downloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.0/Porthole-1.2.0-681.ipa",
+          "size": 199756924,
+          "sha256": "8b01553c17b4dcb636bbbd3094b652e685e2c6ade56f72f902fde4748825cdb5",
+          "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.0/Porthole-1.2.0-681.ipa",
+          "sourceAssetName": "Porthole-1.2.0-681.ipa",
+          "sourceAppName": "Porthole",
+          "ipaBundleIdentifier": "site.portholehq.app",
+          "releaseChannel": "release",
+          "buildVersion": "681"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/site.portholehq.app-5a6d06aa00cd.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa",
-        "checkedAt": "2026-11-08T16:24:06Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-08T16:28:16Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9912d5e2d8ad8cbebbd2aefd084ebc88",
-        "sourceURL": "https://github.com/tylerkaska112/Porthole",
+        "sourceURL": "https://github.com/tylerkaska112/Porthole/releases/tag/v1.2.0",
         "workflowPath": ".github/workflows/update-app-project-9912d5e2d8ad8cbebbd2aefd084ebc88.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "site.portholehq.app"
+      ]
     },
     {
       "name": "paper-cut",
