@@ -28375,7 +28375,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-nuvio-media-579c450d",
-        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/actions/runs/42279917630",
+        "sourceURL": "https://github.com/NuvioMedia/NuvioMobile/actions/runs/42432838765",
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "backup": {
@@ -28401,13 +28401,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.9-beta/nuvio-0.6.9-full-release.ipa",
-        "checkedAt": "2026-11-08T01:32:46Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-20fb87e66e84ca416034c002f2cff1fcadf229f3-a6fcd5573348.ipa",
+        "checkedAt": "2026-11-08T02:12:58Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "20fb87e66e84ca416034c002f2cff1fcadf229f3",
+          "date": "2026-11-08T01:07:11Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-20fb87e66e84ca416034c002f2cff1fcadf229f3-a6fcd5573348.ipa",
+          "size": 69752091,
+          "sha256": "a6fcd55733485bd24bd38669abaab65c2fc102d866d083d8a4bdf4797fa91935",
+          "upstreamAssetURL": "https://api.github.com/repos/NuvioMedia/NuvioMobile/actions/artifacts/13600042211/zip",
+          "sourceAssetName": "nuvio-0.6.10-full-release.ipa",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "releaseChannel": "actions",
+          "buildVersion": "153"
+        },
         {
           "version": "0.6.9-beta",
           "date": "2026-11-06T21:19:10Z",
@@ -28415,7 +28427,8 @@
           "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.9-beta/nuvio-0.6.9-full-release.ipa",
           "size": 69322992,
           "sourceAssetName": "nuvio-0.6.9-full-release.ipa",
-          "releaseChannel": "beta"
+          "releaseChannel": "beta",
+          "ipaBundleIdentifier": "com.nuvio.media"
         },
         {
           "version": "42e37ace0820a86c8b924b41b4bba4e570f12a6d",
