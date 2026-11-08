@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Porthole",
+      "catalogID": "project-9912d5e2d8ad8cbebbd2aefd084ebc88",
+      "bundleIdentifier": "site.portholehq.app",
+      "developerName": "tylerkaska112",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-11-04T22:42:23Z",
+          "downloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa",
+          "size": 199771062,
+          "buildVersion": "688",
+          "releaseChannel": "release",
+          "sha256": "5a6d06aa00cd05d76c5fab1a0a0380a38c43fcdd4790bf6f845744fb7e0dfaf7",
+          "sourceAppName": "Porthole",
+          "sourceAssetName": "Porthole-1.2.1-688.ipa",
+          "ipaBundleIdentifier": "site.portholehq.app",
+          "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/site.portholehq.app-5a6d06aa00cd.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa",
+        "checkedAt": "2026-11-08T16:24:06Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa",
+        "sourceURL": "https://github.com/tylerkaska112/Porthole"
+      },
+      "githubURL": "https://github.com/tylerkaska112/Porthole",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-9912d5e2d8ad8cbebbd2aefd084ebc88",
+        "sourceURL": "https://github.com/tylerkaska112/Porthole",
+        "workflowPath": ".github/workflows/update-app-project-9912d5e2d8ad8cbebbd2aefd084ebc88.yml"
+      }
+    },
+    {
       "name": "paper-cut",
       "catalogID": "project-713f4cdc36162e2464f8f7265c298b5b",
       "bundleIdentifier": "io.github.ttyd-port.us",
