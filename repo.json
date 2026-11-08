@@ -12048,13 +12048,24 @@
       "name": "Dopamine-roothide",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.ipa",
-        "checkedAt": "2026-11-08T07:33:22Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-08T09:33:11Z",
+        "checkedDownloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.tipa",
+        "message": "Updated from upstream release"
       },
       "subtitle": "GitHub project request: roothide/Dopamine-roothide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "30",
+          "date": "2026-11-06T02:18:04Z",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.tipa",
+          "upstreamAssetURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.tipa",
+          "size": 55348740,
+          "sourceAssetName": "Dopamine-roothide-3.0.13-30.tipa",
+          "releaseChannel": "release",
+          "ipaBundleIdentifier": "com.opa334.Dopamine-roothide",
+          "sourceAppName": "Dopamine"
+        },
         {
           "date": "2026-11-06T02:18:04Z",
           "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.ipa",
