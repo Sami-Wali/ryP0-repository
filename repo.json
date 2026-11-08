@@ -29809,13 +29809,22 @@
       "name": "Xenios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.0-build-11659/xenios_ios_iphone_ipad.ipa",
-        "checkedAt": "2026-11-08T01:32:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-08T02:51:11Z",
+        "checkedDownloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.1-build-11662/xenios_ios_iphone_ipad.ipa",
+        "message": "Updated from upstream release"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "release-v2.3.1-build-11662",
+          "date": "2026-11-08T02:49:21Z",
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.1-build-11662/xenios_ios_iphone_ipad.ipa",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.1-build-11662/xenios_ios_iphone_ipad.ipa",
+          "size": 49156698,
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "releaseChannel": "release"
+        },
         {
           "version": "release-v2.3.0-build-11659",
           "date": "2026-11-07T18:46:16Z",
