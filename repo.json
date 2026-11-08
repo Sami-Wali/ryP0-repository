@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "site.portholehq.app",
           "releaseChannel": "release",
           "buildVersion": "681"
+        },
+        {
+          "version": "v1.1.0",
+          "date": "2026-10-18T22:53:11Z",
+          "downloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.1.0/Porthole-1.1.0-551.ipa",
+          "size": 186295465,
+          "sha256": "339871111bd03a1e8c1f252dc5a43efdf8a24b1f1f002eccc52c09aebb1e3ee3",
+          "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.1.0/Porthole-1.1.0-551.ipa",
+          "sourceAssetName": "Porthole-1.1.0-551.ipa",
+          "sourceAppName": "Porthole",
+          "ipaBundleIdentifier": "site.portholehq.app",
+          "releaseChannel": "release",
+          "buildVersion": "551"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/site.portholehq.app-5a6d06aa00cd.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.2.1/Porthole-1.2.1-688.ipa",
-        "checkedAt": "2026-11-08T16:28:16Z",
+        "checkedAt": "2026-11-08T16:29:26Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9912d5e2d8ad8cbebbd2aefd084ebc88",
-        "sourceURL": "https://github.com/tylerkaska112/Porthole/releases/tag/v1.2.0",
+        "sourceURL": "https://github.com/tylerkaska112/Porthole/releases/tag/v1.1.0",
         "workflowPath": ".github/workflows/update-app-project-9912d5e2d8ad8cbebbd2aefd084ebc88.yml"
       },
       "bundleIdentifiers": [
