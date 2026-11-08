@@ -11922,13 +11922,26 @@
       "name": "LinuxRunner",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.1.0/LinuxRunner-1.1.0-build900.ipa",
-        "checkedAt": "2026-11-08T13:34:01Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-08T16:39:35Z",
+        "checkedDownloadURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.1.1/LinuxRunner-1.1.1-build905.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.1",
+          "date": "2026-11-08T16:35:07Z",
+          "downloadURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.1.1/LinuxRunner-1.1.1-build905.ipa",
+          "upstreamAssetURL": "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.1.1/LinuxRunner-1.1.1-build905.ipa",
+          "size": 26429748,
+          "sha256": "99497f75a6be81179c688d0cd63d30c9727481ee698551a6910accba8a9338bd",
+          "ipaBundleIdentifier": "dev.linuxrunner.app",
+          "sourceAssetName": "LinuxRunner-1.1.1-build905.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "905",
+          "sourceAppName": "LinuxRunner"
+        },
         {
           "buildVersion": "900",
           "date": "2026-11-01T21:53:14Z",
