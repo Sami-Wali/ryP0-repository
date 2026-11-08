@@ -29699,13 +29699,19 @@
       "name": "StikDebug",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa",
-        "checkedAt": "2026-11-08T19:34:45Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.2/StikDebug-3.2.2.ipa",
+        "checkedAt": "2026-11-08T22:08:50Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2.2",
+          "date": "2026-11-08T00:00:00Z",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.2/StikDebug-3.2.2.ipa",
+          "size": 16924687
+        },
         {
           "version": "3.2.1",
           "date": "2026-11-07T00:00:00Z",
