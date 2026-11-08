@@ -235,7 +235,7 @@
         {
           "version": "ios-v0.2.0",
           "date": "2026-10-29T21:33:47Z",
-          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/org.openjk.ios.sp/release-44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9.ipa",
           "size": 5565206,
           "sha256": "44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9",
           "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
@@ -291,7 +291,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-SP-0.2.0.ipa",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/org.openjk.ios.sp/release-44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9.ipa",
         "checkedAt": "2026-11-08T07:33:22Z",
         "message": "Download is available"
       },
