@@ -38,7 +38,7 @@
         {
           "version": "0.4.1",
           "date": "2026-11-07T00:34:09Z",
-          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.4.1/papercut-0.4.1-us-ios-unsigned.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/io.github.ttyd-port.us/release-b4cd7623269799fd0c078617ef50ddef4cfc808944b9cb12f32282f6d8bf481e.ipa",
           "size": 13437510,
           "buildVersion": "1",
           "releaseChannel": "release",
@@ -248,7 +248,7 @@
         {
           "version": "0.2.0",
           "date": "2026-10-29T21:33:47Z",
-          "downloadURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.2.0/OpenJK-MP-0.2.0.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/org.openjk.ios.mp/release-c8fe28825f6d769cc5b674d68e661abcc435b080e78ba6936e49bdf6231cb989.ipa",
           "size": 6228396,
           "buildVersion": "4876",
           "releaseChannel": "release",
@@ -1614,7 +1614,7 @@
       "name": "AltLoad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com.mirazbakis.altload/release-7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257.ipa",
         "checkedAt": "2026-11-08T07:33:22Z",
         "message": "Download is available"
       },
@@ -1624,7 +1624,7 @@
         {
           "buildVersion": "7",
           "date": "2026-11-03T16:18:55Z",
-          "downloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.4.0/AltLoad.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com.mirazbakis.altload/release-7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257.ipa",
           "ipaBundleIdentifier": "com.mirazbakis.altload",
           "releaseChannel": "release",
           "sha256": "7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257",
