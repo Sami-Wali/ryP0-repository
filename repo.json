@@ -1880,7 +1880,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
         "sourceURL": "https://github.com/breeze-project-org/Breeze/releases/tag/v3.0.37",
