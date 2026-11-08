@@ -776,8 +776,8 @@
       "name": "Henge",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
-        "checkedAt": "2026-11-08T07:33:22Z",
+        "checkedAt": "2026-11-08T09:31:30Z",
+        "checkedDownloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com.henge.app/henge-0.2-bbd79987787985012ff3e24ad782e272afe55dc4d77c8d62f9f0d51e2f8dbbed.ipa",
         "message": "Download is available"
       },
       "subtitle": "",
@@ -786,13 +786,28 @@
         {
           "version": "0.2",
           "date": "2026-11-07T21:49:27Z",
-          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com.henge.app/henge-0.2-bbd79987787985012ff3e24ad782e272afe55dc4d77c8d62f9f0d51e2f8dbbed.ipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.ipa",
           "size": 8880854,
           "sourceAssetName": "Henge.ipa",
           "releaseChannel": "release",
           "ipaBundleIdentifier": "com.henge.app",
-          "sourceAppName": "Henge"
+          "sourceAppName": "Henge",
+          "buildVersion": "100",
+          "sha256": "bbd79987787985012ff3e24ad782e272afe55dc4d77c8d62f9f0d51e2f8dbbed"
+        },
+        {
+          "version": "0.2",
+          "date": "2026-11-07T21:49:27Z",
+          "buildVersion": "100",
+          "downloadURL": "https://pub-25644d4114404c50baab5bb1fb002079.r2.dev/apps/com.henge.app/henge-0.2-c116105d223d4047e36bb76e8e41df8c6b57ca9c86716b033832edcb32491dc1.tipa",
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.2/Henge.tipa",
+          "sourceAssetName": "Henge.tipa",
+          "size": 8880405,
+          "sha256": "c116105d223d4047e36bb76e8e41df8c6b57ca9c86716b033832edcb32491dc1",
+          "ipaBundleIdentifier": "com.henge.app",
+          "sourceAppName": "Henge",
+          "releaseChannel": "release"
         },
         {
           "buildVersion": "1",
