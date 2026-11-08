@@ -7113,12 +7113,25 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-219fe0f2a121f76a7a572d426004729290943f4b-32f3fc482378.ipa",
-        "checkedAt": "2026-11-08T13:34:01Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-08T16:49:58Z",
+        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-88.1/Horizon-iOS-0.1.0-build88.1-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ios-build-88.1",
+          "date": "2026-11-08T16:48:44Z",
+          "downloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-88.1/Horizon-iOS-0.1.0-build88.1-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-88.1/Horizon-iOS-0.1.0-build88.1-unsigned.ipa",
+          "size": 29580006,
+          "sha256": "ff72bab0c452e0df0d96d46de3ec7abbee348092d4fff673522e570383ac5428",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "sourceAssetName": "Horizon-iOS-0.1.0-build88.1-unsigned.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "88.1",
+          "sourceAppName": "Horizon"
+        },
         {
           "buildVersion": "87.1",
           "date": "2026-11-03T03:33:59Z",
