@@ -151,6 +151,19 @@
           "ipaBundleIdentifier": "com.example.kazumi",
           "releaseChannel": "release",
           "buildVersion": "20401"
+        },
+        {
+          "version": "2.4.0",
+          "date": "2026-09-16T16:36:36Z",
+          "downloadURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/2.4.0/Kazumi_ios_2.4.0_no_sign.ipa",
+          "size": 29703246,
+          "sha256": "fce90997541334122a20635d8243b65ba3c6553efce49dad602bc8a34304cd86",
+          "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/2.4.0/Kazumi_ios_2.4.0_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_2.4.0_no_sign.ipa",
+          "sourceAppName": "Kazumi",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "release",
+          "buildVersion": "20400"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.kazumi-f6deff302401.png",
@@ -160,7 +173,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/3.0.4/Kazumi_ios_3.0.4_no_sign.ipa",
-        "checkedAt": "2026-11-09T15:15:41Z",
+        "checkedAt": "2026-11-09T15:16:15Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -175,7 +188,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f898930d3389c29be00602fe5365a1ac",
-        "sourceURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/tag/2.4.1",
+        "sourceURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/tag/2.4.0",
         "workflowPath": ".github/workflows/update-app-project-f898930d3389c29be00602fe5365a1ac.yml"
       },
       "bundleIdentifiers": [
