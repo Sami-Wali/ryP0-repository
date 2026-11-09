@@ -934,6 +934,19 @@
           "ipaBundleIdentifier": "com.minh-ton.Reynard",
           "releaseChannel": "alpha",
           "buildVersion": "a3315eb"
+        },
+        {
+          "version": "0.16.0",
+          "date": "2026-10-04T23:34:23Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.16.0/Reynard-Jailbroken.ipa",
+          "size": 109209550,
+          "sha256": "704438eb40f0fc1cdd6197109aed004a20a79e45854e4d83a1fea43727004c03",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.16.0/Reynard-Jailbroken.ipa",
+          "sourceAssetName": "Reynard-Jailbroken.ipa",
+          "sourceAppName": "Reynard",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "releaseChannel": "alpha",
+          "buildVersion": "63fb54d"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.minh-ton.Reynard-2d9e11a843b9.png",
@@ -943,7 +956,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard.ipa",
-        "checkedAt": "2026-11-09T17:54:50Z",
+        "checkedAt": "2026-11-09T17:55:22Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -958,7 +971,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
-        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.15.0",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.16.0",
         "workflowPath": ".github/workflows/update-app-project-b7664cc2d66d73c81f2f25f011ef5116.yml"
       },
       "bundleIdentifiers": [
