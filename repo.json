@@ -24004,9 +24004,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-aidoku-aidoku-c3112316",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/37436011359",
+        "configId": "app-aidoku-aidoku-c3112316",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/42573096308",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "backup": {
@@ -24033,13 +24033,25 @@
       "name": "Aidoku",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-41ae2a604213d4eeb5bf19287eec675ea90e15aa-7e28b6c6ece6.ipa",
-        "checkedAt": "2026-11-09T01:35:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-3806e4bb91f0703d5fa13d5201e58b0b7f0b6557-a21ad998dad0.ipa",
+        "checkedAt": "2026-11-09T06:34:43Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3806e4bb91f0703d5fa13d5201e58b0b7f0b6557",
+          "date": "2026-11-09T06:27:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-3806e4bb91f0703d5fa13d5201e58b0b7f0b6557-a21ad998dad0.ipa",
+          "size": 14552634,
+          "sha256": "a21ad998dad05d09342c86ef21f8aad45ccbe438af02f778ce9e22fb031f5b00",
+          "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/13654805224/zip",
+          "sourceAssetName": "Aidoku-iOS_nightly-3806e4b.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
+        },
         {
           "buildVersion": "4",
           "date": "2026-10-31T05:51:38Z",
