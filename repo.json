@@ -711,7 +711,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f898930d3389c29be00602fe5365a1ac",
-        "sourceURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/tag/3.0.2",
+        "sourceURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/tag/2.3.0",
         "workflowPath": ".github/workflows/update-app-project-f898930d3389c29be00602fe5365a1ac.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
@@ -736,7 +736,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/3.0.4/Kazumi_ios_3.0.4_no_sign.ipa",
-        "checkedAt": "2026-11-09T16:12:00Z",
+        "checkedAt": "2026-11-09T16:12:37Z",
         "message": "Updated by private automation"
       },
       "subtitle": "原生 SwiftUI 实现Kazumi，支持Anskip自动跳过片头片尾，支持番剧更新提醒，原版有的都有，没有的也有。",
@@ -936,6 +936,19 @@
           "ipaBundleIdentifier": "com.example.kazumi",
           "releaseChannel": "release",
           "buildVersion": "20301"
+        },
+        {
+          "version": "2.3.0",
+          "date": "2026-09-15T17:28:36Z",
+          "downloadURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/2.3.0/Kazumi_ios_2.3.0_no_sign.ipa",
+          "size": 29680990,
+          "sha256": "9008aa9a8c2dae959afff2258d6721d2b134be70094d40447905ad5620aba769",
+          "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/2.3.0/Kazumi_ios_2.3.0_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_2.3.0_no_sign.ipa",
+          "sourceAppName": "Kazumi",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "release",
+          "buildVersion": "20300"
         }
       ]
     },
