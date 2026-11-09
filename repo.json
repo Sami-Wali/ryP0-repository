@@ -639,6 +639,19 @@
         {
           "version": "0.20.0",
           "date": "2026-11-03T10:03:30Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.0/Reynard.ipa",
+          "size": 111452819,
+          "sha256": "6ebc53836a232d0bb1b655c97dd7b44156e1ee6ca0889ef383069fc7b0a1c1ea",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.0/Reynard.ipa",
+          "sourceAssetName": "Reynard.ipa",
+          "sourceAppName": "Reynard",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "releaseChannel": "alpha",
+          "buildVersion": "e81351f"
+        },
+        {
+          "version": "0.20.0",
+          "date": "2026-11-03T10:03:30Z",
           "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.0/Reynard-TrollStore.tipa",
           "size": 111548576,
           "sha256": "2f62860b972fd76f6a1cb1609e9664b8c126b6e3db23e23bd439a6928cbecd5f",
@@ -683,7 +696,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard.ipa",
-        "checkedAt": "2026-11-09T15:37:54Z",
+        "checkedAt": "2026-11-09T16:23:05Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -698,7 +711,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
-        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.18.0",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.20.0",
         "workflowPath": ".github/workflows/update-app-project-b7664cc2d66d73c81f2f25f011ef5116.yml"
       },
       "bundleIdentifiers": [
