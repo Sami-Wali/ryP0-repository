@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/Ayan4k/Ram-Checker",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-cda5f46dc6edad929f142d13a5cab512",
         "sourceURL": "https://github.com/Ayan4k/Ram-Checker",
