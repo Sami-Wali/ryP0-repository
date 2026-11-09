@@ -55,7 +55,7 @@
       },
       "githubURL": "https://github.com/Alaaaya/Mirsa",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-bad74bc988365d51e7b0369496f8c254",
         "sourceURL": "https://github.com/Alaaaya/Mirsa/releases/tag/setup",
