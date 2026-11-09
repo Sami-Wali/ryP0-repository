@@ -1891,7 +1891,7 @@
       },
       "githubURL": "https://github.com/minh-ton/reynard-browser",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
         "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.0.1-a1",
