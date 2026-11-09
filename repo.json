@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Mirsa",
+      "catalogID": "project-bad74bc988365d51e7b0369496f8c254",
+      "bundleIdentifier": "com.alaa.mirsa.setup",
+      "developerName": "Alaaaya",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.3.222",
+          "date": "2026-11-09T12:16:46Z",
+          "downloadURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa",
+          "size": 15939317,
+          "buildVersion": "4.22.1",
+          "releaseChannel": "release",
+          "sha256": "5e5994b183f70507eb2ee30fbf7a81065da1901faa36e83ea74782899f8ed964",
+          "sourceAppName": "Mirsa Setup",
+          "sourceAssetName": "Mirsa-Setup.ipa",
+          "ipaBundleIdentifier": "com.alaa.mirsa.setup",
+          "upstreamAssetURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.alaa.mirsa.setup-5e5994b183f7.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa",
+        "checkedAt": "2026-11-09T12:38:43Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa",
+        "sourceURL": "https://github.com/Alaaaya/Mirsa"
+      },
+      "githubURL": "https://github.com/Alaaaya/Mirsa",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-bad74bc988365d51e7b0369496f8c254",
+        "sourceURL": "https://github.com/Alaaaya/Mirsa",
+        "workflowPath": ".github/workflows/update-app-project-bad74bc988365d51e7b0369496f8c254.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-9912d5e2d8ad8cbebbd2aefd084ebc88",
