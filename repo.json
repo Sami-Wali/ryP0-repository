@@ -11,11 +11,11 @@
       "versions": [
         {
           "version": "v0.6",
-          "date": "2026-11-09T21:54:54Z",
+          "date": "2026-11-09T22:08:07Z",
           "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.6/WQFiles.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.6/WQFiles.ipa",
-          "size": 272155,
-          "sha256": "4e0cf3531ce25f229ade438a3cfd014fe6eecb87cb5f3de8208ff3ce2a7168f3",
+          "size": 274646,
+          "sha256": "73fc5790e9b9bec968c0253627356436c17bb6465b412683eff2700764e6e633",
           "ipaBundleIdentifier": "cz.kolbi.wqfiles",
           "sourceAssetName": "WQFiles.ipa",
           "releaseChannel": "release",
@@ -94,7 +94,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-09T21:59:18Z",
+        "checkedAt": "2026-11-09T22:09:21Z",
         "checkedDownloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.6/WQFiles.ipa",
         "message": "Updated after package verification"
       },
