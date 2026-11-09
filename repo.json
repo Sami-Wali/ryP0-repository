@@ -21,6 +21,19 @@
           "sourceAssetName": "Laya-1.9.2-ios.ipa",
           "ipaBundleIdentifier": "com.music.laya",
           "upstreamAssetURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa"
+        },
+        {
+          "version": "v1.9.1",
+          "date": "2026-10-30T18:54:11Z",
+          "downloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.1/Laya-1.9.1-ios.ipa",
+          "size": 86541580,
+          "sha256": "a79199fd97432c6641d569252252abeefc84b89eef98b4400199b731530557d1",
+          "upstreamAssetURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.1/Laya-1.9.1-ios.ipa",
+          "sourceAssetName": "Laya-1.9.1-ios.ipa",
+          "sourceAppName": "Laya",
+          "ipaBundleIdentifier": "com.music.laya",
+          "releaseChannel": "release",
+          "buildVersion": "32"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.music.laya-c820009ce869.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa",
-        "checkedAt": "2026-11-09T15:49:35Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-09T15:51:26Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-5d156168c6b33a676c5c77bd681b06b0",
-        "sourceURL": "https://github.com/impin2rex/Laya",
+        "sourceURL": "https://github.com/impin2rex/Laya/releases/tag/v1.9.1",
         "workflowPath": ".github/workflows/update-app-project-5d156168c6b33a676c5c77bd681b06b0.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.music.laya"
+      ]
     },
     {
       "name": "Eagle",
