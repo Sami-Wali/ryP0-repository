@@ -408,7 +408,7 @@
       },
       "githubURL": "https://github.com/iamjhe08/VidGrab",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4ffe862ea88c50c3fcea4f3cef1d7f44",
         "sourceURL": "https://github.com/iamjhe08/VidGrab/releases/tag/1.0.0",
