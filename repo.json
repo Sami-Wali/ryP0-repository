@@ -12,6 +12,19 @@
         {
           "version": "1.3.6c",
           "date": "2026-10-13T12:06:00Z",
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
+          "size": 31242447,
+          "sha256": "7cdc7addecc73a99b1e19127df55a174c63cec2dfc1a6b8d1de81d673c5f8499",
+          "upstreamAssetURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
+          "sourceAssetName": "VidGrab-1.3.6c.tipa",
+          "sourceAppName": "VidGrab",
+          "ipaBundleIdentifier": "com.t4mag0.vidgrab.ts",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "1.3.6c",
+          "date": "2026-10-13T12:06:00Z",
           "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
           "size": 31200926,
           "buildVersion": "1",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
-        "checkedAt": "2026-11-09T15:54:18Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
+        "checkedAt": "2026-11-09T15:55:33Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4ffe862ea88c50c3fcea4f3cef1d7f44",
-        "sourceURL": "https://github.com/iamjhe08/VidGrab",
+        "sourceURL": "https://github.com/iamjhe08/VidGrab/releases/tag/1.3.6c",
         "workflowPath": ".github/workflows/update-app-project-4ffe862ea88c50c3fcea4f3cef1d7f44.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.t4mag0.vidgrab.ts",
+        "com.t4mag0.vidgrab"
+      ]
     },
     {
       "name": "Laya",
