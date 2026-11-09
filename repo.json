@@ -32381,14 +32381,20 @@
       "name": "YT Music",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.43.2.ipa",
-        "checkedAt": "2026-11-09T07:36:09Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.45.2.ipa",
+        "checkedAt": "2026-11-09T13:04:04Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "Mod by Mark02-2012",
       "tintColor": "#848ef9",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9.45.2",
+          "date": "2026-11-08T00:00:00Z",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.45.2.ipa",
+          "size": 107182055
+        },
         {
           "buildVersion": "9.43.2",
           "date": "2026-10-24T00:00:00Z",
