@@ -1857,6 +1857,19 @@
           "ipaBundleIdentifier": "me.minh-ton.Reynard",
           "releaseChannel": "alpha",
           "buildVersion": "61ccecb"
+        },
+        {
+          "version": "0.0.1-a1",
+          "date": "2026-03-08T09:59:46Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.0.1-a1/Reynard.ipa",
+          "size": 97012586,
+          "sha256": "901a4448416e22f7052ad107acecc858d30d384f156ab06351d2c01ca3efef78",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.0.1-a1/Reynard.ipa",
+          "sourceAssetName": "Reynard.ipa",
+          "sourceAppName": "Reynard",
+          "ipaBundleIdentifier": "me.minh-ton.Reynard",
+          "releaseChannel": "alpha",
+          "buildVersion": "2026MAR08"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.minh-ton.Reynard-2d9e11a843b9.png",
@@ -1866,7 +1879,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard.ipa",
-        "checkedAt": "2026-11-09T18:41:01Z",
+        "checkedAt": "2026-11-09T18:42:00Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1881,7 +1894,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
-        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.0.1-a2",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.0.1-a1",
         "workflowPath": ".github/workflows/update-app-project-b7664cc2d66d73c81f2f25f011ef5116.yml"
       },
       "bundleIdentifiers": [
