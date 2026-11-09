@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.leonardobaptiste.laracustom",
           "releaseChannel": "release",
           "buildVersion": "95"
+        },
+        {
+          "version": "v1.0.5",
+          "date": "2026-09-26T05:59:47Z",
+          "downloadURL": "https://github.com/leonardob8777-bit/Eagle/releases/download/v1.0.5/Eagle-1.0.5-92.ipa",
+          "size": 18327350,
+          "sha256": "82e90b50cc43e15284ecb47eed9deec862f912d7571136571da32ecfa12cacf9",
+          "upstreamAssetURL": "https://github.com/leonardob8777-bit/Eagle/releases/download/v1.0.5/Eagle-1.0.5-92.ipa",
+          "sourceAssetName": "Eagle-1.0.5-92.ipa",
+          "sourceAppName": "Eagle",
+          "ipaBundleIdentifier": "com.leonardobaptiste.laracustom",
+          "releaseChannel": "release",
+          "buildVersion": "92"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.leonardobaptiste.laracustom-365719741e55.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/leonardob8777-bit/Eagle/releases/download/v1.0.7/Eagle-1.0.7-102.ipa",
-        "checkedAt": "2026-11-09T15:40:06Z",
+        "checkedAt": "2026-11-09T15:40:39Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8b19cf9e7c8ed135b47aadd35f6d0296",
-        "sourceURL": "https://github.com/leonardob8777-bit/Eagle/releases/tag/v1.0.6",
+        "sourceURL": "https://github.com/leonardob8777-bit/Eagle/releases/tag/v1.0.5",
         "workflowPath": ".github/workflows/update-app-project-8b19cf9e7c8ed135b47aadd35f6d0296.yml"
       },
       "bundleIdentifiers": [
