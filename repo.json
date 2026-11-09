@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "cz.kolbi.wqfiles",
           "releaseChannel": "release",
           "buildVersion": "3"
+        },
+        {
+          "version": "v0.2",
+          "date": "2026-11-09T15:27:02Z",
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.2/WQFiles.ipa",
+          "size": 173725,
+          "sha256": "d285b65c567eac9b785e039cc356f918beea68cdb4902ff292678d2558657cae",
+          "upstreamAssetURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.2/WQFiles.ipa",
+          "sourceAssetName": "WQFiles.ipa",
+          "sourceAppName": "WQ Files",
+          "ipaBundleIdentifier": "cz.kolbi.wqfiles",
+          "releaseChannel": "release",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/cz.kolbi.wqfiles-31baa49aa716.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.4/WQFiles.ipa",
-        "checkedAt": "2026-11-09T18:05:55Z",
+        "checkedAt": "2026-11-09T18:06:14Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9988f0913fd0c2436e68d10087bf1f84",
-        "sourceURL": "https://github.com/kolbicz/WQFiles/releases/tag/v0.3",
+        "sourceURL": "https://github.com/kolbicz/WQFiles/releases/tag/v0.2",
         "workflowPath": ".github/workflows/update-app-project-9988f0913fd0c2436e68d10087bf1f84.yml"
       },
       "bundleIdentifiers": [
