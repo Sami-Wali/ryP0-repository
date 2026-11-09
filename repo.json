@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.t4mag0.vidgrab",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "1.3.6a",
+          "date": "2026-10-12T10:25:30Z",
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
+          "size": 31081489,
+          "sha256": "e2deb95c70a85f4a706cec26f226b4cc37757c7586a565b1ce15ea03c81f059b",
+          "upstreamAssetURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6a/VidGrab-1.3.6a.ipa",
+          "sourceAssetName": "VidGrab-1.3.6a.ipa",
+          "sourceAppName": "VidGrab",
+          "ipaBundleIdentifier": "com.t4mag0.vidgrab",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.t4mag0.vidgrab-102b48f5ba58.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
-        "checkedAt": "2026-11-09T15:57:40Z",
+        "checkedAt": "2026-11-09T15:58:31Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4ffe862ea88c50c3fcea4f3cef1d7f44",
-        "sourceURL": "https://github.com/iamjhe08/VidGrab/releases/tag/1.3.6b",
+        "sourceURL": "https://github.com/iamjhe08/VidGrab/releases/tag/1.3.6a",
         "workflowPath": ".github/workflows/update-app-project-4ffe862ea88c50c3fcea4f3cef1d7f44.yml"
       },
       "bundleIdentifiers": [
