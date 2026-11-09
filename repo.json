@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "terminal_worse",
+      "catalogID": "project-b9ddd247e0471efb7eb456dabf8df4f9",
+      "bundleIdentifier": "com.apple.Terminal",
+      "developerName": "ztby",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "2.3.2",
+          "date": "2026-11-09T14:59:43Z",
+          "downloadURL": "https://github.com/ztby/terminal_worse/releases/download/v1.0/Terminal.ipa",
+          "size": 599782634,
+          "buildVersion": "600",
+          "releaseChannel": "release",
+          "sha256": "fe32344f286221e201c8e99822f90427c6322dc2e39ed602110569aefd3da46b",
+          "sourceAppName": "Terminal",
+          "sourceAssetName": "Terminal.ipa",
+          "ipaBundleIdentifier": "com.apple.Terminal",
+          "upstreamAssetURL": "https://github.com/ztby/terminal_worse/releases/download/v1.0/Terminal.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.apple.Terminal-fe32344f2862.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ztby/terminal_worse/releases/download/v1.0/Terminal.ipa",
+        "checkedAt": "2026-11-09T16:19:33Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/ztby/terminal_worse/releases/download/v1.0/Terminal.ipa",
+        "sourceURL": "https://github.com/ztby/terminal_worse"
+      },
+      "githubURL": "https://github.com/ztby/terminal_worse",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b9ddd247e0471efb7eb456dabf8df4f9",
+        "sourceURL": "https://github.com/ztby/terminal_worse",
+        "workflowPath": ".github/workflows/update-app-project-b9ddd247e0471efb7eb456dabf8df4f9.yml"
+      }
+    },
+    {
       "name": "AniBaka",
       "catalogID": "app-bf1715e2d2094244beadaa02a2893f18",
       "bundleIdentifier": "ani.baka",
