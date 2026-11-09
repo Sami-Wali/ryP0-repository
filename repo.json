@@ -90,6 +90,19 @@
         {
           "version": "1.3.6",
           "date": "2026-10-12T09:14:49Z",
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6/VidGrab-1.3.6.tipa",
+          "size": 30957788,
+          "sha256": "5d141ea7393919de2d99f966f3e8c0dfebb6b12cc84919304ab25072f42c3e7e",
+          "upstreamAssetURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6/VidGrab-1.3.6.tipa",
+          "sourceAssetName": "VidGrab-1.3.6.tipa",
+          "sourceAppName": "VidGrab",
+          "ipaBundleIdentifier": "com.t4mag0.vidgrab.ts",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
+        {
+          "version": "1.3.6",
+          "date": "2026-10-12T09:14:49Z",
           "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6/VidGrab-1.3.6.ipa",
           "size": 30916267,
           "sha256": "351742366ec521e3405a27f140536947301b6f4db5d52b944153ccc151676b3c",
@@ -108,7 +121,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
-        "checkedAt": "2026-11-09T16:00:26Z",
+        "checkedAt": "2026-11-09T16:01:58Z",
         "message": "Updated by private automation"
       },
       "importSource": {
