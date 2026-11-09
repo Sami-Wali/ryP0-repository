@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "WQFiles",
+      "catalogID": "project-9988f0913fd0c2436e68d10087bf1f84",
+      "bundleIdentifier": "cz.kolbi.wqfiles",
+      "developerName": "kolbicz",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.4",
+          "date": "2026-11-09T16:39:26Z",
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.4/WQFiles.ipa",
+          "size": 208625,
+          "buildVersion": "4",
+          "releaseChannel": "release",
+          "sha256": "31baa49aa716389c9973470ae18c945785bf5e13aa78d4357cfee6b11b8420f6",
+          "sourceAppName": "WQ Files",
+          "sourceAssetName": "WQFiles.ipa",
+          "ipaBundleIdentifier": "cz.kolbi.wqfiles",
+          "upstreamAssetURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.4/WQFiles.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/cz.kolbi.wqfiles-31baa49aa716.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.4/WQFiles.ipa",
+        "checkedAt": "2026-11-09T18:05:16Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.4/WQFiles.ipa",
+        "sourceURL": "https://github.com/kolbicz/WQFiles"
+      },
+      "githubURL": "https://github.com/kolbicz/WQFiles",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-9988f0913fd0c2436e68d10087bf1f84",
+        "sourceURL": "https://github.com/kolbicz/WQFiles",
+        "workflowPath": ".github/workflows/update-app-project-9988f0913fd0c2436e68d10087bf1f84.yml"
+      }
+    },
+    {
       "name": "terminal_worse",
       "catalogID": "project-b9ddd247e0471efb7eb456dabf8df4f9",
       "bundleIdentifier": "com.apple.Terminal",
