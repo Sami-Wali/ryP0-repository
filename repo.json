@@ -30659,9 +30659,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "software-iridium-b8778bc6",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42537125163",
+        "configId": "software-iridium-b8778bc6",
+        "sourceURL": "https://github.com/intraducine/iridium/actions/runs/42638933416",
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "backup": {
@@ -30686,13 +30686,26 @@
       "localizedDescription": "",
       "name": "Iridium",
       "status": {
-        "checkedAt": "2026-11-09T14:17:55Z",
-        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-fa12556c19bbbc286262f116ca0213b335aed6b1-1335549f7f94.ipa",
+        "checkedAt": "2026-11-09T16:50:40Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "fa12556c19bbbc286262f116ca0213b335aed6b1",
+          "date": "2026-11-09T14:52:28Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/software-iridium-b8778bc6-fa12556c19bbbc286262f116ca0213b335aed6b1-1335549f7f94.ipa",
+          "size": 300614837,
+          "sha256": "1335549f7f946be3c1dcc029b0092e78f852d4431b524136d999142f3efb7922",
+          "upstreamAssetURL": "https://api.github.com/repos/intraducine/iridium/actions/artifacts/13690330629/zip",
+          "sourceAssetName": "Iridium-unsigned.ipa",
+          "ipaBundleIdentifier": "software.iridium",
+          "releaseChannel": "actions",
+          "buildVersion": "209.1"
+        },
         {
           "buildVersion": "206.1",
           "date": "2026-11-08T23:50:53Z",
