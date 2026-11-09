@@ -32102,13 +32102,25 @@
       "name": "mond",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-a206b72424cd.ipa",
-        "checkedAt": "2026-11-09T01:35:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-756bc9fa2daa.ipa",
+        "checkedAt": "2026-11-09T09:25:05Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "development",
+          "date": "2026-11-09T09:24:09Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-756bc9fa2daa.ipa",
+          "size": 3417180,
+          "sha256": "756bc9fa2daa4e0593c577923848b155fb31ee80baa4e594b8169658861c8c41",
+          "upstreamAssetURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
+          "sourceAssetName": "mond.ipa",
+          "ipaBundleIdentifier": "com.roooot.mondapp",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-08T20:33:25Z",
