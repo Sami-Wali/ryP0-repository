@@ -21,6 +21,19 @@
           "sourceAssetName": "Mirsa-Setup.ipa",
           "ipaBundleIdentifier": "com.alaa.mirsa.setup",
           "upstreamAssetURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa"
+        },
+        {
+          "version": "setup",
+          "date": "2026-11-05T15:02:47Z",
+          "downloadURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Alaa-Player-2.9.ipa",
+          "size": 22564656,
+          "sha256": "71b1d955f99b8cda7ded5629308550d4dc0aa0b25de20b959ca1f7ef802b13e0",
+          "upstreamAssetURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Alaa-Player-2.9.ipa",
+          "sourceAssetName": "Alaa-Player-2.9.ipa",
+          "sourceAppName": "Alaa Player",
+          "ipaBundleIdentifier": "com.alaa.player.web",
+          "releaseChannel": "release",
+          "buildVersion": "290"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.alaa.mirsa.setup-5e5994b183f7.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Alaaaya/Mirsa/releases/download/setup/Mirsa-Setup.ipa",
-        "checkedAt": "2026-11-09T12:38:43Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-09T12:39:35Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-bad74bc988365d51e7b0369496f8c254",
-        "sourceURL": "https://github.com/Alaaaya/Mirsa",
+        "sourceURL": "https://github.com/Alaaaya/Mirsa/releases/tag/setup",
         "workflowPath": ".github/workflows/update-app-project-bad74bc988365d51e7b0369496f8c254.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.alaa.mirsa.setup",
+        "com.alaa.player.web"
+      ]
     },
     {
       "appType": "Daily Update",
