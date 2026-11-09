@@ -296,6 +296,19 @@
           "ipaBundleIdentifier": "com.t4mag0.vidgrab",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "1.3.3",
+          "date": "2026-10-09T19:18:57Z",
+          "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.3/VidGrab.for.Trollstore.-1.3.3.tipa",
+          "size": 30573573,
+          "sha256": "6341a6bf9acba639c4e7cfc386df0d71ec9cae3c91b624dda18555eda5928386",
+          "upstreamAssetURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.3/VidGrab.for.Trollstore.-1.3.3.tipa",
+          "sourceAssetName": "VidGrab.for.Trollstore.-1.3.3.tipa",
+          "sourceAppName": "VidGrab",
+          "ipaBundleIdentifier": "com.t4mag0.vidgrab.ts",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.t4mag0.vidgrab-102b48f5ba58.png",
@@ -305,7 +318,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.tipa",
-        "checkedAt": "2026-11-09T18:00:44Z",
+        "checkedAt": "2026-11-09T18:01:19Z",
         "message": "Updated by private automation"
       },
       "importSource": {
