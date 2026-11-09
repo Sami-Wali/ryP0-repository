@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "reynard-browser",
+      "catalogID": "project-b7664cc2d66d73c81f2f25f011ef5116",
+      "bundleIdentifier": "com.minh-ton.Reynard",
+      "developerName": "minh-ton",
+      "localizedDescription": "GitHub project request: minh-ton/reynard-browser.",
+      "subtitle": "GitHub project request: minh-ton/reynard-browser.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.20.1",
+          "date": "2026-11-05T23:17:58Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa",
+          "size": 111510142,
+          "buildVersion": "219bc31",
+          "releaseChannel": "alpha",
+          "sha256": "2d9e11a843b91cc4f40e7c2c41e1ac60edcd3eca8b3fc2df2dbc14925f4f19cc",
+          "sourceAppName": "Reynard",
+          "sourceAssetName": "Reynard-Jailbroken.ipa",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.minh-ton.Reynard-2d9e11a843b9.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa",
+        "checkedAt": "2026-11-09T15:19:29Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser"
+      },
+      "githubURL": "https://github.com/minh-ton/reynard-browser",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser",
+        "workflowPath": ".github/workflows/update-app-project-b7664cc2d66d73c81f2f25f011ef5116.yml"
+      }
+    },
+    {
       "name": "RAM Checker",
       "catalogID": "project-cda5f46dc6edad929f142d13a5cab512",
       "bundleIdentifier": "com.mody.ramchecker",
