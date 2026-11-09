@@ -12,6 +12,19 @@
         {
           "version": "0.20.1",
           "date": "2026-11-05T23:17:58Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-TrollStore.tipa",
+          "size": 111556566,
+          "sha256": "e2ab5e555617bc5da9f7597a070ef67247feac75c9103d5e684612c8bc0c0370",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-TrollStore.tipa",
+          "sourceAssetName": "Reynard-TrollStore.tipa",
+          "sourceAppName": "Reynard",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "releaseChannel": "alpha",
+          "buildVersion": "219bc31"
+        },
+        {
+          "version": "0.20.1",
+          "date": "2026-11-05T23:17:58Z",
           "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa",
           "size": 111510142,
           "buildVersion": "219bc31",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-Jailbroken.ipa",
-        "checkedAt": "2026-11-09T15:19:29Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard-TrollStore.tipa",
+        "checkedAt": "2026-11-09T15:21:16Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-b7664cc2d66d73c81f2f25f011ef5116",
-        "sourceURL": "https://github.com/minh-ton/reynard-browser",
+        "sourceURL": "https://github.com/minh-ton/reynard-browser/releases/tag/0.20.1",
         "workflowPath": ".github/workflows/update-app-project-b7664cc2d66d73c81f2f25f011ef5116.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.minh-ton.Reynard"
+      ]
     },
     {
       "name": "RAM Checker",
