@@ -643,7 +643,7 @@
       },
       "githubURL": "https://github.com/leonardob8777-bit/Eagle",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8b19cf9e7c8ed135b47aadd35f6d0296",
         "sourceURL": "https://github.com/leonardob8777-bit/Eagle/releases/tag/v0.3.0-beta.1",
