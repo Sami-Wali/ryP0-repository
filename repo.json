@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Laya",
+      "catalogID": "project-5d156168c6b33a676c5c77bd681b06b0",
+      "bundleIdentifier": "com.music.laya",
+      "developerName": "impin2rex",
+      "localizedDescription": "GitHub project request: impin2rex/Laya.",
+      "subtitle": "GitHub project request: impin2rex/Laya.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "1.9.2",
+          "date": "2026-11-05T05:12:47Z",
+          "downloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa",
+          "size": 86724710,
+          "buildVersion": "33",
+          "releaseChannel": "release",
+          "sha256": "c820009ce869d62e98a581c0d42f0ba9890bebe097389a9acf9dfa097c86e1bb",
+          "sourceAppName": "Laya",
+          "sourceAssetName": "Laya-1.9.2-ios.ipa",
+          "ipaBundleIdentifier": "com.music.laya",
+          "upstreamAssetURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.music.laya-c820009ce869.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa",
+        "checkedAt": "2026-11-09T15:49:35Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.2/Laya-1.9.2-ios.ipa",
+        "sourceURL": "https://github.com/impin2rex/Laya"
+      },
+      "githubURL": "https://github.com/impin2rex/Laya",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-5d156168c6b33a676c5c77bd681b06b0",
+        "sourceURL": "https://github.com/impin2rex/Laya",
+        "workflowPath": ".github/workflows/update-app-project-5d156168c6b33a676c5c77bd681b06b0.yml"
+      }
+    },
+    {
       "name": "Eagle",
       "catalogID": "project-8b19cf9e7c8ed135b47aadd35f6d0296",
       "bundleIdentifier": "com.leonardobaptiste.laracustom",
