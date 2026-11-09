@@ -1796,6 +1796,19 @@
         {
           "version": "0.2.0",
           "date": "2026-04-26T15:52:43Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.2.0/Reynard.ipa",
+          "size": 100815817,
+          "sha256": "12a0cc51303195dcf0dcba230111ef6f5ec0efe31b773dd3178da8d408af7f49",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.2.0/Reynard.ipa",
+          "sourceAssetName": "Reynard.ipa",
+          "sourceAppName": "Reynard",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "releaseChannel": "alpha",
+          "buildVersion": "9a2435f"
+        },
+        {
+          "version": "0.2.0",
+          "date": "2026-04-26T15:52:43Z",
           "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.2.0/Reynard-TrollStore.tipa",
           "size": 100833287,
           "sha256": "8e9269c4e97c6a2cbf0e87b712fb0e3ffae0d1719288d9f5fa2e7967b447bf27",
@@ -1814,7 +1827,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard.ipa",
-        "checkedAt": "2026-11-09T18:38:47Z",
+        "checkedAt": "2026-11-09T18:39:21Z",
         "message": "Updated by private automation"
       },
       "importSource": {
