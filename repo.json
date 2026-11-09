@@ -68,7 +68,7 @@
       },
       "githubURL": "https://github.com/impin2rex/Laya",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-5d156168c6b33a676c5c77bd681b06b0",
         "sourceURL": "https://github.com/impin2rex/Laya/releases/tag/v1.9.0",
