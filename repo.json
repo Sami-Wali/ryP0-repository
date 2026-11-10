@@ -14785,14 +14785,27 @@
       "localizedDescription": "",
       "name": "Strata",
       "status": {
-        "checkedAt": "2026-11-10T18:02:46Z",
-        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v2.0.0/Strata-2.0%2BSideStore.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedAt": "2026-11-10T21:47:56Z",
+        "checkedDownloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.0.0/Strata-3.0%2BSideStore.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v3.0.0",
+          "date": "2026-11-10T21:45:53Z",
+          "downloadURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.0.0/Strata-3.0%2BSideStore.ipa",
+          "upstreamAssetURL": "https://github.com/huzaifahshahid71-ops/Strata/releases/download/v3.0.0/Strata-3.0%2BSideStore.ipa",
+          "size": 64454314,
+          "sha256": "ce762ae8ea4419546ace0f160cc4aec9b1c544cf4becb130f6ae60510cd44c0c",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "sourceAssetName": "Strata-3.0+SideStore.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "3.8.11",
+          "sourceAppName": "Strata"
+        },
         {
           "buildVersion": "3.8.11",
           "date": "2026-10-29T20:22:25Z",
