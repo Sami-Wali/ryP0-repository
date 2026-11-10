@@ -15765,13 +15765,26 @@
       "name": "ryP0",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.2/ryP0-unsigned.ipa",
-        "checkedAt": "2026-11-10T18:02:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-10T21:25:10Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "New Huge Update 2.2",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.3",
+          "date": "2026-11-10T20:29:35Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
+          "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
+          "size": 16597954,
+          "sha256": "c49c96eb9599ea2346b8e692defd60014eeb2cd159356c0a34f491bd071bb7f4",
+          "ipaBundleIdentifier": "com.ry0.ryP0",
+          "sourceAssetName": "ryP0-2.3.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "ryP0"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-23T20:56:06Z",
@@ -15811,6 +15824,9 @@
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.0/ryP0-unsigned.ipa",
           "version": "2.0"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.ry0.ryP0"
       ]
     },
     {
