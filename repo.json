@@ -16720,7 +16720,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/actions/runs/42791999773",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/actions/runs/42815131358",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "backup": {
@@ -16752,13 +16752,26 @@
       "name": "PiliPlus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-c5cd0f281a9dca98b3017c2b3ec312f965ace05d-15829d053ffd.ipa",
-        "checkedAt": "2026-11-10T12:01:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-bd93f479262637f03a91efbbd05b660b194e0943-121fa34378a0.ipa",
+        "checkedAt": "2026-11-10T12:39:22Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "bd93f479262637f03a91efbbd05b660b194e0943",
+          "date": "2026-11-10T12:22:01Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-bd93f479262637f03a91efbbd05b660b194e0943-121fa34378a0.ipa",
+          "size": 25029882,
+          "sha256": "121fa34378a03f37ecdae600b3d99b120cc09ac615ccefa6e14c7716d212c4e1",
+          "upstreamAssetURL": "https://api.github.com/repos/bggRGjQaUbCoE/PiliPlus/actions/artifacts/13765795443/zip",
+          "sourceAssetName": "PiliPlus_ios_2.2.0+5640.ipa",
+          "sourceAppName": "PiliPlus",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "releaseChannel": "actions",
+          "buildVersion": "5640"
+        },
         {
           "version": "c5cd0f281a9dca98b3017c2b3ec312f965ace05d",
           "date": "2026-11-10T09:35:32Z",
