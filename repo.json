@@ -19744,13 +19744,25 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-d316570bfac6a2af1f779109e291d341bcc5e98f-d1161ced2f49.ipa",
-        "checkedAt": "2026-11-10T09:03:18Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-10T09:13:07Z",
+        "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.2.0/AirliftSilence-v1.2.0.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.2.0",
+          "date": "2026-11-10T09:12:47Z",
+          "downloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.2.0/AirliftSilence-v1.2.0.ipa",
+          "upstreamAssetURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.2.0/AirliftSilence-v1.2.0.ipa",
+          "size": 3373262,
+          "sha256": "10cf9c7a394cc86ff207ff7bb8f0e55b4904b78261bcb405b9276012b40ce0ec",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "sourceAssetName": "AirliftSilence-v1.2.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "5"
+        },
         {
           "version": "d316570bfac6a2af1f779109e291d341bcc5e98f",
           "date": "2026-11-10T08:50:17Z",
