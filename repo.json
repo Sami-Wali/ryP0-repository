@@ -19727,7 +19727,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42802438409",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42807059942",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "backup": {
@@ -19757,13 +19757,25 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-ab24859bac7cf5956f00d7d4622763c3fbef638f-a0a363becb1b.ipa",
-        "checkedAt": "2026-11-10T11:03:30Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-75ef4415c89ed390bf061e1c00b117d60b16a2c4-ce7a0384ccb0.ipa",
+        "checkedAt": "2026-11-10T11:53:36Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "75ef4415c89ed390bf061e1c00b117d60b16a2c4",
+          "date": "2026-11-10T11:23:21Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-75ef4415c89ed390bf061e1c00b117d60b16a2c4-ce7a0384ccb0.ipa",
+          "size": 3381982,
+          "sha256": "ce7a0384ccb0ab8ed2e4e9461c205f72e54a6eaef6625e3dc7c2d9908db3e1e3",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/13761668785/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "6"
+        },
         {
           "version": "ab24859bac7cf5956f00d7d4622763c3fbef638f",
           "date": "2026-11-10T10:49:55Z",
