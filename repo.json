@@ -73,6 +73,19 @@
           "ipaBundleIdentifier": "app.local.iPadn",
           "releaseChannel": "release",
           "buildVersion": "19"
+        },
+        {
+          "version": "v1.7.2",
+          "date": "2026-10-16T11:55:56Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.7.2/iPadn-1.7.2-unsigned.ipa",
+          "size": 41658347,
+          "sha256": "9de32beb79d9c3194e60597a926057ba66674ff41bac8b7beb5bdfb1026510c7",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.7.2/iPadn-1.7.2-unsigned.ipa",
+          "sourceAssetName": "iPadn-1.7.2-unsigned.ipa",
+          "sourceAppName": "iPadn",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "releaseChannel": "release",
+          "buildVersion": "18"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.local.iPadn-cdabe980bd59.png",
@@ -82,7 +95,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
-        "checkedAt": "2026-11-10T21:19:34Z",
+        "checkedAt": "2026-11-10T21:20:13Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -97,7 +110,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-015d31cebbdc030c3f7fdd1fa742bc36",
-        "sourceURL": "https://github.com/mengangs/ipadn/releases/tag/v1.7.3",
+        "sourceURL": "https://github.com/mengangs/ipadn/releases/tag/v1.7.2",
         "workflowPath": ".github/workflows/update-app-project-015d31cebbdc030c3f7fdd1fa742bc36.yml"
       },
       "bundleIdentifiers": [
