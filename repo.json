@@ -16704,10 +16704,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/actions/runs/42439984611",
+        "configId": "project-1ff0e3ae75e3d0da72d39e2cd4ac5d09",
+        "sourceURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/actions/runs/42791999773",
         "workflowPath": ".github/workflows/update-app-project-1ff0e3ae75e3d0da72d39e2cd4ac5d09.yml"
       },
       "backup": {
@@ -16739,13 +16739,26 @@
       "name": "PiliPlus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-4fce4bb5a35c425aee759ef9263352316a29e355-6b735cdd97ab.ipa",
-        "checkedAt": "2026-11-10T06:01:13Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-c5cd0f281a9dca98b3017c2b3ec312f965ace05d-15829d053ffd.ipa",
+        "checkedAt": "2026-11-10T09:49:25Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "c5cd0f281a9dca98b3017c2b3ec312f965ace05d",
+          "date": "2026-11-10T09:35:32Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-c5cd0f281a9dca98b3017c2b3ec312f965ace05d-15829d053ffd.ipa",
+          "size": 25028027,
+          "sha256": "15829d053ffdcabee53ca24a7e4465f62c95ccf2a49cc24aa8bedd1f17345c88",
+          "upstreamAssetURL": "https://api.github.com/repos/bggRGjQaUbCoE/PiliPlus/actions/artifacts/13753121898/zip",
+          "sourceAssetName": "PiliPlus_ios_2.2.0+5640.ipa",
+          "sourceAppName": "PiliPlus",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "releaseChannel": "actions",
+          "buildVersion": "5640"
+        },
         {
           "buildVersion": "5628",
           "date": "2026-11-08T02:47:09Z",
