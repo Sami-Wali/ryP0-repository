@@ -19727,7 +19727,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42785758410",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42800310987",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "backup": {
@@ -19757,13 +19757,25 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-10T10:28:04Z",
-        "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.2.1/AirliftSilence-v1.2.1.ipa",
-        "message": "Updated after package verification"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-cf723993651122137657f06e3cc4d22d1f13c1c7-97d89850447a.ipa",
+        "checkedAt": "2026-11-10T10:43:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "cf723993651122137657f06e3cc4d22d1f13c1c7",
+          "date": "2026-11-10T10:34:34Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-cf723993651122137657f06e3cc4d22d1f13c1c7-97d89850447a.ipa",
+          "size": 3381867,
+          "sha256": "97d89850447a0c89d6acb7102efa0754dacc4d02ea5df39b46c362f22a5d3f89",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/13756661264/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "6"
+        },
         {
           "version": "v1.2.1",
           "date": "2026-11-10T10:23:53Z",
