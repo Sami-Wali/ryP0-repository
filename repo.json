@@ -21,6 +21,19 @@
           "sourceAssetName": "iPadn-1.8.5-unsigned.ipa",
           "ipaBundleIdentifier": "app.local.iPadn",
           "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa"
+        },
+        {
+          "version": "v1.8.0",
+          "date": "2026-11-09T00:04:33Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.0/iPadn-1.8.0-unsigned.ipa",
+          "size": 43743768,
+          "sha256": "ca4bb1a66bdb393bab01410bd8893bc72c170987d5f47f09b224d2beeb083df0",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.0/iPadn-1.8.0-unsigned.ipa",
+          "sourceAssetName": "iPadn-1.8.0-unsigned.ipa",
+          "sourceAppName": "iPadn",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "releaseChannel": "release",
+          "buildVersion": "22"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.local.iPadn-cdabe980bd59.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
-        "checkedAt": "2026-11-10T21:16:36Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-10T21:17:43Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-015d31cebbdc030c3f7fdd1fa742bc36",
-        "sourceURL": "https://github.com/mengangs/ipadn",
+        "sourceURL": "https://github.com/mengangs/ipadn/releases/tag/v1.8.0",
         "workflowPath": ".github/workflows/update-app-project-015d31cebbdc030c3f7fdd1fa742bc36.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "app.local.iPadn"
+      ]
     },
     {
       "name": "WQFiles",
