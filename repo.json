@@ -15593,13 +15593,26 @@
       "name": "RewindBox",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
-        "checkedAt": "2026-11-10T18:02:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-10T21:27:20Z",
+        "checkedDownloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.11/RewindBox-0.0.11.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.0.11",
+          "date": "2026-11-10T19:41:55Z",
+          "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.11/RewindBox-0.0.11.ipa",
+          "upstreamAssetURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.11/RewindBox-0.0.11.ipa",
+          "size": 267033667,
+          "sha256": "bc640a83a01de8a623c16fb0b5977edf16ac6010b61c9c2489ae334d3db3c0d7",
+          "ipaBundleIdentifier": "com.neogamelab.neostation",
+          "sourceAssetName": "RewindBox-0.0.11.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "721",
+          "sourceAppName": "RewindBox"
+        },
         {
           "buildVersion": "559",
           "date": "2026-10-26T23:39:28Z",
