@@ -2920,13 +2920,26 @@
       "name": "MetroidPrimePort",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.44.0/MetroidPrimePort.ipa",
-        "checkedAt": "2026-11-10T18:02:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-10T21:24:23Z",
+        "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.45.0/MetroidPrimePort.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.45.0",
+          "date": "2026-11-10T20:22:12Z",
+          "downloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.45.0/MetroidPrimePort.ipa",
+          "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.45.0/MetroidPrimePort.ipa",
+          "size": 15616038,
+          "sha256": "ad70d3a748c66c4e067c5f386005e32c60d5e224597c3cecda2e4ca48c677503",
+          "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
+          "sourceAssetName": "MetroidPrimePort.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "0.45.0",
+          "sourceAppName": "Metroid Prime"
+        },
         {
           "version": "v0.44.0",
           "date": "2026-11-09T18:48:24Z",
