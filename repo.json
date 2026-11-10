@@ -19579,13 +19579,39 @@
       "name": "ytkace",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-17abd0e8d00f737225b122e8e81c2b72-f61d63c5b2329e5167b40922522630a4e2ea5951-7414b14b9253.ipa",
-        "checkedAt": "2026-11-10T21:56:21Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-10T21:59:56Z",
+        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_21.45.4.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.6",
+          "date": "2026-11-10T21:54:48Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_21.45.4.ipa",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_21.45.4.ipa",
+          "size": 140301936,
+          "sha256": "83d2882d2317208505e063d4b803c9e8de537d26c7669ee10fb6e02869239ff3",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "sourceAssetName": "YTKACE_1.1.6_YouTube_21.45.4.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "21.45.4",
+          "sourceAppName": "YouTube"
+        },
+        {
+          "version": "v1.1.6",
+          "date": "2026-11-10T21:54:48Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_iOS16_21.33.6.ipa",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_iOS16_21.33.6.ipa",
+          "size": 134300431,
+          "sha256": "7414b14b925369efdfda0a27ffbd1983ab1f9ec33b783bcbd940229f20427774",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "sourceAssetName": "YTKACE_1.1.6_YouTube_iOS16_21.33.6.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "21.33.6",
+          "sourceAppName": "YouTube"
+        },
         {
           "version": "f61d63c5b2329e5167b40922522630a4e2ea5951",
           "date": "2026-11-10T21:50:40Z",
