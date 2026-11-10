@@ -19149,10 +19149,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/itzzace/ytkace/releases/tag/v1.1.4",
+        "configId": "project-17abd0e8d00f737225b122e8e81c2b72",
+        "sourceURL": "https://github.com/itzzace/ytkace/actions/runs/42763915562",
         "workflowPath": ".github/workflows/update-app-project-17abd0e8d00f737225b122e8e81c2b72.yml"
       },
       "backup": {
@@ -19180,13 +19180,27 @@
       "name": "ytkace",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.5/YTKACE_1.1.5_YouTube_iOS16_21.33.6.ipa",
-        "checkedAt": "2026-11-10T06:01:13Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-17abd0e8d00f737225b122e8e81c2b72-1124a91c13ed320deb5d152d80019af7b9cda15d-b47d2ce8531a.ipa",
+        "checkedAt": "2026-11-10T06:07:30Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1124a91c13ed320deb5d152d80019af7b9cda15d",
+          "date": "2026-11-10T05:43:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-17abd0e8d00f737225b122e8e81c2b72-1124a91c13ed320deb5d152d80019af7b9cda15d-b47d2ce8531a.ipa",
+          "size": 134238664,
+          "sha256": "b47d2ce8531a9ad68e4e8ffb4524a44aea4611089d92baa35d7163615c23db2c",
+          "upstreamAssetURL": "https://api.github.com/repos/itzzace/ytkace/actions/artifacts/13738498011/zip",
+          "sourceAssetName": "YTKACE_1.1.5_YouTube_iOS16_21.33.6.ipa",
+          "sourceArchiveEntry": "YTKACE_1.1.5_YouTube_iOS16_21.33.6.ipa",
+          "sourceAppName": "YouTube",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "releaseChannel": "actions",
+          "buildVersion": "21.33.6"
+        },
         {
           "date": "2026-11-03T22:13:29Z",
           "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.5/YTKACE_1.1.5_YouTube_iOS16_21.33.6.ipa",
@@ -19482,6 +19496,9 @@
           "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v0.9.0/YTKACE_0.9.0_YouTube_21.33.6.ipa",
           "version": "v0.9.0"
         }
+      ],
+      "bundleIdentifiers": [
+        "com.google.ios.youtube"
       ]
     },
     {
