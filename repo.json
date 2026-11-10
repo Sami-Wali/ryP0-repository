@@ -19727,7 +19727,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-09d8f1ab279d40c38882e11adad1af01",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42807059942",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42813402276",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "backup": {
@@ -19757,13 +19757,25 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-75ef4415c89ed390bf061e1c00b117d60b16a2c4-ce7a0384ccb0.ipa",
-        "checkedAt": "2026-11-10T12:01:53Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-65478f0f1dc4c469ec0d0035d46b4861197110c1-337e066ef4e6.ipa",
+        "checkedAt": "2026-11-10T12:23:28Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "65478f0f1dc4c469ec0d0035d46b4861197110c1",
+          "date": "2026-11-10T12:09:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-65478f0f1dc4c469ec0d0035d46b4861197110c1-337e066ef4e6.ipa",
+          "size": 3348537,
+          "sha256": "337e066ef4e61b8f8b60ee7f4839ef35c58d8207027ebb4ba0890526581b55dc",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/13763648529/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
+        },
         {
           "version": "75ef4415c89ed390bf061e1c00b117d60b16a2c4",
           "date": "2026-11-10T11:23:21Z",
