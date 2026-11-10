@@ -36,7 +36,7 @@
       "name": "ryP0",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-10T22:52:42Z",
+        "checkedAt": "2026-11-10T23:02:35Z",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
         "message": "Updated after package verification"
       },
@@ -45,11 +45,11 @@
       "versions": [
         {
           "version": "2.3",
-          "date": "2026-11-10T22:48:13Z",
+          "date": "2026-11-10T22:59:37Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
           "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
-          "size": 16783166,
-          "sha256": "d5cba36175e692b3b3bb67f5e5798906b7e7eee98dbf5ffeffe5cf2adb6987e6",
+          "size": 16533197,
+          "sha256": "859f0b5a3df1157fbe53321235bed539a7debf5ee2b416034737efd0a5b971e3",
           "ipaBundleIdentifier": "com.ry0.ryP0",
           "sourceAssetName": "ryP0-2.3.ipa",
           "releaseChannel": "release",
