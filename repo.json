@@ -19712,9 +19712,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-09d8f1ab279d40c38882e11adad1af01",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/37634117890",
+        "configId": "app-09d8f1ab279d40c38882e11adad1af01",
+        "sourceURL": "https://github.com/YiHoooong/AirliftSilence-iOS/actions/runs/42785758410",
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "backup": {
@@ -19744,13 +19744,25 @@
       "name": "AirliftSilence-iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/YiHoooong/AirliftSilence-iOS/releases/download/v1.1.1/AirliftSilence-v1.1.1.ipa",
-        "checkedAt": "2026-11-10T06:01:13Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-d316570bfac6a2af1f779109e291d341bcc5e98f-d1161ced2f49.ipa",
+        "checkedAt": "2026-11-10T09:03:18Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: YiHoooong/AirliftSilence-iOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "d316570bfac6a2af1f779109e291d341bcc5e98f",
+          "date": "2026-11-10T08:50:17Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-09d8f1ab279d40c38882e11adad1af01-d316570bfac6a2af1f779109e291d341bcc5e98f-d1161ced2f49.ipa",
+          "size": 3373259,
+          "sha256": "d1161ced2f49dcb213001ffc6ed1f5324502c6e32a36631a8c284b14540edcf9",
+          "upstreamAssetURL": "https://api.github.com/repos/YiHoooong/AirliftSilence-iOS/actions/artifacts/13749638480/zip",
+          "sourceAssetName": "AirliftSilence.ipa",
+          "ipaBundleIdentifier": "com.yihoooong.airliftsilence",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
+        },
         {
           "buildVersion": "4",
           "date": "2026-10-15T14:12:56Z",
