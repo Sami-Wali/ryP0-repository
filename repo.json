@@ -29837,7 +29837,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42810276452",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42812776534",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "backup": {
@@ -29863,13 +29863,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-941884667178b656c78a07204c36f8f2c5ae533c-9d2869b09ee6.ipa",
-        "checkedAt": "2026-11-10T12:12:28Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-1d1035195b6cc956ce02c0a982013d9a8aa09b8f-da38d1e57354.ipa",
+        "checkedAt": "2026-11-10T12:26:22Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1d1035195b6cc956ce02c0a982013d9a8aa09b8f",
+          "date": "2026-11-10T12:05:20Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-1d1035195b6cc956ce02c0a982013d9a8aa09b8f-da38d1e57354.ipa",
+          "size": 220896649,
+          "sha256": "da38d1e57354ac2262131e36762161e646a45e9816fa5121b9c3e78edcc77f1c",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13764083460/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "941884667178b656c78a07204c36f8f2c5ae533c",
           "date": "2026-11-10T11:47:05Z",
