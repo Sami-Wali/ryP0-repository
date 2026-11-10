@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ipadn",
+      "catalogID": "project-015d31cebbdc030c3f7fdd1fa742bc36",
+      "bundleIdentifier": "app.local.iPadn",
+      "developerName": "mengangs",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.8.5",
+          "date": "2026-11-10T12:52:09Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
+          "size": 43961928,
+          "buildVersion": "24",
+          "releaseChannel": "release",
+          "sha256": "cdabe980bd592ecbab1af8d65ba4e343efab4ccd35bf06c2384e2a99102ba81b",
+          "sourceAppName": "iPadn",
+          "sourceAssetName": "iPadn-1.8.5-unsigned.ipa",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.local.iPadn-cdabe980bd59.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
+        "checkedAt": "2026-11-10T21:16:36Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
+        "sourceURL": "https://github.com/mengangs/ipadn"
+      },
+      "githubURL": "https://github.com/mengangs/ipadn",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-015d31cebbdc030c3f7fdd1fa742bc36",
+        "sourceURL": "https://github.com/mengangs/ipadn",
+        "workflowPath": ".github/workflows/update-app-project-015d31cebbdc030c3f7fdd1fa742bc36.yml"
+      }
+    },
+    {
       "name": "WQFiles",
       "catalogID": "project-9988f0913fd0c2436e68d10087bf1f84",
       "bundleIdentifier": "cz.kolbi.wqfiles",
