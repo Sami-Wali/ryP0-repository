@@ -25169,9 +25169,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42414356794",
+        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42909500111",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "backup": {
@@ -25201,14 +25201,26 @@
       "localizedDescription": "",
       "name": "EspressU",
       "status": {
-        "checkedAt": "2026-11-10T18:02:46Z",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c650a36d2c2ab1016b68fd094720a89a2e0a29f1-7b4f349da1b4.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c28dbabffa09ed62905990bd9169bb67b24cb5d9-4c0a0cc6b61d.ipa",
+        "checkedAt": "2026-11-10T22:13:51Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "c28dbabffa09ed62905990bd9169bb67b24cb5d9",
+          "date": "2026-11-10T21:54:16Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c28dbabffa09ed62905990bd9169bb67b24cb5d9-4c0a0cc6b61d.ipa",
+          "size": 30395507,
+          "sha256": "4c0a0cc6b61da20b6216d8a73aedf6938c6d125711261985bee1682c6ac2655e",
+          "upstreamAssetURL": "https://api.github.com/repos/EspressU/EspressU-Emu/actions/artifacts/13806923002/zip",
+          "sourceAssetName": "EspressU.ipa",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-07T21:07:43Z",
