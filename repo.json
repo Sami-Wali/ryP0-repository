@@ -29738,9 +29738,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-willfaust-madeora-e97f8532",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42543859395",
+        "configId": "com-willfaust-madeora-e97f8532",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42735290059",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "backup": {
@@ -29766,13 +29766,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-3ea0c565a49afa87b16a91c170a053eed0bcb67a-71d9c49f0b8f.ipa",
-        "checkedAt": "2026-11-10T06:01:13Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-4db51d4716cc6992e619e43f821536bbc350c044-04b78e679f41.ipa",
+        "checkedAt": "2026-11-10T06:09:24Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "4db51d4716cc6992e619e43f821536bbc350c044",
+          "date": "2026-11-10T01:22:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-4db51d4716cc6992e619e43f821536bbc350c044-04b78e679f41.ipa",
+          "size": 215164913,
+          "sha256": "04b78e679f411472e75438fe18adb37b1db5606b98cc9771dd24d95df2d0031c",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13726803916/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "buildVersion": "5",
           "date": "2026-11-09T01:07:35Z",
