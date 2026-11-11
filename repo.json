@@ -30758,7 +30758,7 @@
       "name": "Madeira",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-11T18:33:34Z",
+        "checkedAt": "2026-11-11T18:42:41Z",
         "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
       },
       "subtitle": "",
