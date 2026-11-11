@@ -2412,7 +2412,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f898930d3389c29be00602fe5365a1ac",
         "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.4",
