@@ -19644,13 +19644,39 @@
       "name": "ytkace",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.6/YTKACE_1.1.6_YouTube_21.45.4.ipa",
-        "checkedAt": "2026-11-11T00:03:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-11T03:00:38Z",
+        "checkedDownloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.7/YTKACE_1.1.7_YouTube_21.45.4.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.7",
+          "date": "2026-11-11T02:55:31Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.7/YTKACE_1.1.7_YouTube_21.45.4.ipa",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.7/YTKACE_1.1.7_YouTube_21.45.4.ipa",
+          "size": 140303052,
+          "sha256": "c29cc9b35fd97a34e1f9f42e244ee12bf85fa67984c9aa3e926a73fe7baa91bb",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "sourceAssetName": "YTKACE_1.1.7_YouTube_21.45.4.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "21.45.4",
+          "sourceAppName": "YouTube"
+        },
+        {
+          "version": "v1.1.7",
+          "date": "2026-11-11T02:55:31Z",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.7/YTKACE_1.1.7_YouTube_iOS16_21.33.6.ipa",
+          "upstreamAssetURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.7/YTKACE_1.1.7_YouTube_iOS16_21.33.6.ipa",
+          "size": 134301547,
+          "sha256": "9a9bb6694a6618d0033a1d62ddf1ba04dd3b76ca9df26ca5b88e6c376f1a51f5",
+          "ipaBundleIdentifier": "com.google.ios.youtube",
+          "sourceAssetName": "YTKACE_1.1.7_YouTube_iOS16_21.33.6.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "21.33.6",
+          "sourceAppName": "YouTube"
+        },
         {
           "version": "v1.1.6",
           "date": "2026-11-10T21:54:48Z",
