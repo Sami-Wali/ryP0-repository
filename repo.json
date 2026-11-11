@@ -21,6 +21,19 @@
           "sourceAssetName": "Erosion_v0.3.1.ipa",
           "ipaBundleIdentifier": "com.jbdotparty.Erosion",
           "upstreamAssetURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa"
+        },
+        {
+          "version": "0.3",
+          "date": "2026-11-09T01:48:59Z",
+          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3/Erosion_v0.3.ipa",
+          "size": 2484800,
+          "sha256": "40f379ca7a4a2a9590f7d6b75c43382ff27f2eed138b7152b748ccba3387767b",
+          "upstreamAssetURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3/Erosion_v0.3.ipa",
+          "sourceAssetName": "Erosion_v0.3.ipa",
+          "sourceAppName": "Erosion",
+          "ipaBundleIdentifier": "com.jbdotparty.Erosion",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.jbdotparty.Erosion-8bf5e0252d8a.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
-        "checkedAt": "2026-11-11T08:55:46Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-11T08:56:22Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c69c6c05bdcd217b8386c79515b480f9",
-        "sourceURL": "https://github.com/jailbreakdotparty/Erosion",
+        "sourceURL": "https://github.com/jailbreakdotparty/Erosion/releases/tag/0.3",
         "workflowPath": ".github/workflows/update-app-project-c69c6c05bdcd217b8386c79515b480f9.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.jbdotparty.Erosion"
+      ]
     },
     {
       "name": "Regitela",
