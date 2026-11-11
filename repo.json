@@ -25607,7 +25607,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-6038fee174ab4e5cba1069c4b21efede",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/43098910593",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/43103744691",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "backup": {
@@ -25638,13 +25638,25 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-89120c3f22cbe39c5ce8407a95cffcfc5c4b1bd8-132951f044d1.ipa",
-        "checkedAt": "2026-11-11T21:17:13Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-ca1b3d00e1fdc62efda9296f67061011cdc64719-1f93e187a5fe.ipa",
+        "checkedAt": "2026-11-11T21:47:17Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ca1b3d00e1fdc62efda9296f67061011cdc64719",
+          "date": "2026-11-11T21:31:08Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-ca1b3d00e1fdc62efda9296f67061011cdc64719-1f93e187a5fe.ipa",
+          "size": 31430442,
+          "sha256": "1f93e187a5fe3d19a1ef9a1e8579225ce9509cd31609ac70b20729bb43bac205",
+          "upstreamAssetURL": "https://api.github.com/repos/EspressU/EspressU-Emu/actions/artifacts/13893637273/zip",
+          "sourceAssetName": "EspressU.ipa",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "version": "89120c3f22cbe39c5ce8407a95cffcfc5c4b1bd8",
           "date": "2026-11-11T20:56:14Z",
