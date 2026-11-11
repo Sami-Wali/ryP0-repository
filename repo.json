@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.jbdotparty.Erosion",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "0.2.1",
+          "date": "2026-09-18T04:59:59Z",
+          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.2.1/Erosion_v0.2.1.ipa",
+          "size": 5414791,
+          "sha256": "8c1276ce6125052333d04200a1bc568fd6e59087eaacb054f3e5edc854f0e18c",
+          "upstreamAssetURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.2.1/Erosion_v0.2.1.ipa",
+          "sourceAssetName": "Erosion_v0.2.1.ipa",
+          "sourceAppName": "Erosion",
+          "ipaBundleIdentifier": "com.jbdotparty.Erosion",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.jbdotparty.Erosion-8bf5e0252d8a.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
-        "checkedAt": "2026-11-11T08:56:22Z",
+        "checkedAt": "2026-11-11T08:56:43Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c69c6c05bdcd217b8386c79515b480f9",
-        "sourceURL": "https://github.com/jailbreakdotparty/Erosion/releases/tag/0.3",
+        "sourceURL": "https://github.com/jailbreakdotparty/Erosion/releases/tag/0.2.1",
         "workflowPath": ".github/workflows/update-app-project-c69c6c05bdcd217b8386c79515b480f9.yml"
       },
       "bundleIdentifiers": [
