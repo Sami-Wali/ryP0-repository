@@ -35542,7 +35542,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "mond",
-        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/development",
+        "sourceURL": "https://github.com/rooootdev/mond/releases/tag/3_1",
         "workflowPath": ".github/workflows/update-app-mond.yml"
       },
       "backup": {
@@ -35564,12 +35564,24 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-9ad223103e7f.ipa",
-        "checkedAt": "2026-11-11T16:47:19Z",
+        "checkedAt": "2026-11-11T17:11:04Z",
         "message": "Updated by private automation"
       },
       "tintColor": "#000000",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3_1",
+          "date": "2026-11-11T16:47:17Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/mond-development-9ad223103e7f.ipa",
+          "size": 3417624,
+          "sha256": "9ad223103e7f0c6825df808cf5267b7518e94883fca3b04941b40c06dbdfc323",
+          "upstreamAssetURL": "https://github.com/rooootdev/mond/releases/download/3_1/mond.ipa",
+          "sourceAssetName": "mond.ipa",
+          "ipaBundleIdentifier": "com.roooot.mondapp",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "version": "development",
           "date": "2026-11-11T16:44:37Z",
