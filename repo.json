@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/imxieyi/Kernarium",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e6004df326c134a43236d5ccbfc1cb05",
         "sourceURL": "https://github.com/imxieyi/Kernarium",
