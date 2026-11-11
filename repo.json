@@ -30400,7 +30400,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "com-willfaust-madeora-e97f8532",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42967910714",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42972648416",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "backup": {
@@ -30426,13 +30426,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-128e90e8d7404f45a233a9e11b684bea0ef1585f-0e1d97b574b9.ipa",
-        "checkedAt": "2026-11-11T06:07:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-3a290f2d68ce7c0e67dcc6fcab9d41833f7b4fca-0fe5f6d5cdb4.ipa",
+        "checkedAt": "2026-11-11T06:51:23Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3a290f2d68ce7c0e67dcc6fcab9d41833f7b4fca",
+          "date": "2026-11-11T06:28:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-3a290f2d68ce7c0e67dcc6fcab9d41833f7b4fca-0fe5f6d5cdb4.ipa",
+          "size": 218627832,
+          "sha256": "0fe5f6d5cdb4acae81778298ae5dbe40973bf49194650865a8192c2fe71c338f",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13834952179/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "128e90e8d7404f45a233a9e11b684bea0ef1585f",
           "date": "2026-11-11T05:46:14Z",
