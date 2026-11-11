@@ -8571,10 +8571,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-3c27f9223659f404df544efbe467a17a",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/oledz-i/Vita3KiOS",
+        "configId": "project-3c27f9223659f404df544efbe467a17a",
+        "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.3.1",
         "workflowPath": ".github/workflows/update-app-project-3c27f9223659f404df544efbe467a17a.yml"
       },
       "backup": {
@@ -8605,13 +8605,26 @@
       "name": "Vita3KiOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oledz-i/Vita3KiOS/releases/download/v1.3.1/Vita3KiOS-1.3.1.ipa",
-        "checkedAt": "2026-11-11T19:27:49Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.3.1/Vita3KiOS-1.3.1.ipa",
+        "checkedAt": "2026-11-11T21:56:40Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.3.1",
+          "date": "2026-11-11T01:55:49Z",
+          "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.3.1/Vita3KiOS-1.3.1.ipa",
+          "size": 17036008,
+          "sha256": "b2aba2ce96adfb0c6a945985079d91665b969d8c205fd1f13e1b90d3243fac0f",
+          "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.3.1/Vita3KiOS-1.3.1.ipa",
+          "sourceAssetName": "Vita3KiOS-1.3.1.ipa",
+          "sourceAppName": "Vita3K",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "releaseChannel": "release",
+          "buildVersion": "159"
+        },
         {
           "buildVersion": "159",
           "date": "2026-11-11T01:55:49Z",
