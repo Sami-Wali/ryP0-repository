@@ -30730,9 +30730,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-willfaust-madeora-e97f8532",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/42972648416",
+        "configId": "com-willfaust-madeora-e97f8532",
+        "sourceURL": "https://github.com/willfaust/Madeira/actions/runs/43087195823",
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "backup": {
@@ -30757,13 +30757,26 @@
       "localizedDescription": "",
       "name": "Madeira",
       "status": {
-        "state": "update-error",
-        "checkedAt": "2026-11-11T19:45:25Z",
-        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-932d2eac06882875714f640a08da7c4244a1f91e-18949a87b410.ipa",
+        "checkedAt": "2026-11-11T20:11:44Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "932d2eac06882875714f640a08da7c4244a1f91e",
+          "date": "2026-11-11T19:26:19Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-932d2eac06882875714f640a08da7c4244a1f91e-18949a87b410.ipa",
+          "size": 215160291,
+          "sha256": "18949a87b41093f35bf731e7abdbe4c03ef046005e38372ca646edb123121f35",
+          "upstreamAssetURL": "https://api.github.com/repos/willfaust/Madeira/actions/artifacts/13887099417/zip",
+          "sourceAssetName": "Madeira.ipa",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "buildVersion": "5",
           "date": "2026-11-11T06:28:19Z",
