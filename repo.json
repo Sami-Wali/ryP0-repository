@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Regitela",
+      "catalogID": "project-06dcba719612f123fd7117a9a03e5163",
+      "bundleIdentifier": "com.ichitaso.regitela",
+      "developerName": "ichitaso",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-10T21:25:58Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa",
+          "size": 3528667,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "58157762711393fe8bc2f35a0d32a2385905e17be4fdb54dfad8a980aaf4fc18",
+          "sourceAppName": "Regitela",
+          "sourceAssetName": "Regitela_1.0.0.ipa",
+          "ipaBundleIdentifier": "com.ichitaso.regitela",
+          "upstreamAssetURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ichitaso.regitela-581577627113.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa",
+        "checkedAt": "2026-11-11T08:16:56Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa",
+        "sourceURL": "https://github.com/ichitaso/Regitela"
+      },
+      "githubURL": "https://github.com/ichitaso/Regitela",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-06dcba719612f123fd7117a9a03e5163",
+        "sourceURL": "https://github.com/ichitaso/Regitela",
+        "workflowPath": ".github/workflows/update-app-project-06dcba719612f123fd7117a9a03e5163.yml"
+      }
+    },
+    {
       "name": "Kernarium",
       "catalogID": "project-e6004df326c134a43236d5ccbfc1cb05",
       "bundleIdentifier": "com.imxieyi.andarium",
