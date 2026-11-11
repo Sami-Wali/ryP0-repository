@@ -140,13 +140,26 @@
       "name": "ipadn",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.8.5/iPadn-1.8.5-unsigned.ipa",
-        "checkedAt": "2026-11-11T00:03:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-11T00:22:50Z",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.9.0/iPadn-1.9.0-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.9.0",
+          "date": "2026-11-11T00:17:29Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v1.9.0/iPadn-1.9.0-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.9.0/iPadn-1.9.0-unsigned.ipa",
+          "size": 46851248,
+          "sha256": "432e787aee12612fa1c8212fbd39813c920ed22c3e75f93530f5ef9b5c3e7184",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-1.9.0-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "25",
+          "sourceAppName": "iPadn"
+        },
         {
           "buildVersion": "24",
           "date": "2026-11-10T12:52:09Z",
