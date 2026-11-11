@@ -9840,12 +9840,25 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-92.1/Horizon-iOS-0.1.48-build92.1-unsigned.ipa",
-        "checkedAt": "2026-11-11T06:07:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-11T06:58:37Z",
+        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-97.1/Horizon-iOS-0.1.53-build97.1-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ios-build-97.1",
+          "date": "2026-11-11T06:55:36Z",
+          "downloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-97.1/Horizon-iOS-0.1.53-build97.1-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-97.1/Horizon-iOS-0.1.53-build97.1-unsigned.ipa",
+          "size": 39563381,
+          "sha256": "19cc2e1da660947d1839e25e80cfb0a112c66260247057cd2c478535be3e69c5",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "sourceAssetName": "Horizon-iOS-0.1.53-build97.1-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "97.1",
+          "sourceAppName": "Horizon"
+        },
         {
           "buildVersion": "92.1",
           "date": "2026-11-09T02:50:47Z",
