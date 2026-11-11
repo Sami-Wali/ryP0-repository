@@ -25651,13 +25651,25 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-ca1b3d00e1fdc62efda9296f67061011cdc64719-1f93e187a5fe.ipa",
-        "checkedAt": "2026-11-11T21:47:17Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-11T22:16:51Z",
+        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.5/EspressU-1.5.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.5",
+          "date": "2026-11-11T22:15:39Z",
+          "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.5/EspressU-1.5.ipa",
+          "upstreamAssetURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.5/EspressU-1.5.ipa",
+          "size": 31430430,
+          "sha256": "f4444c204ae96dd0925613c89c6eade1b1d60ed34201e4d514381cfe96f178fd",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "sourceAssetName": "EspressU-1.5.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1"
+        },
         {
           "version": "ca1b3d00e1fdc62efda9296f67061011cdc64719",
           "date": "2026-11-11T21:31:08Z",
