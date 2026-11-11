@@ -30758,8 +30758,7 @@
       "name": "Madeira",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-3a290f2d68ce7c0e67dcc6fcab9d41833f7b4fca-0fe5f6d5cdb4.ipa",
-        "checkedAt": "2026-11-11T19:27:49Z",
+        "checkedAt": "2026-11-11T19:45:25Z",
         "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
       },
       "subtitle": "",
