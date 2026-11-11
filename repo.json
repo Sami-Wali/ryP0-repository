@@ -25605,9 +25605,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/42909500111",
+        "configId": "app-6038fee174ab4e5cba1069c4b21efede",
+        "sourceURL": "https://github.com/EspressU/EspressU-Emu/actions/runs/43098910593",
         "workflowPath": ".github/workflows/update-app-app-6038fee174ab4e5cba1069c4b21efede.yml"
       },
       "backup": {
@@ -25638,13 +25638,25 @@
       "name": "EspressU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-c28dbabffa09ed62905990bd9169bb67b24cb5d9-4c0a0cc6b61d.ipa",
-        "checkedAt": "2026-11-11T19:27:49Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-89120c3f22cbe39c5ce8407a95cffcfc5c4b1bd8-132951f044d1.ipa",
+        "checkedAt": "2026-11-11T21:17:13Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "89120c3f22cbe39c5ce8407a95cffcfc5c4b1bd8",
+          "date": "2026-11-11T20:56:14Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-6038fee174ab4e5cba1069c4b21efede-89120c3f22cbe39c5ce8407a95cffcfc5c4b1bd8-132951f044d1.ipa",
+          "size": 31426275,
+          "sha256": "132951f044d1b3e2fd5f425ae9f666907134a1bc9d86348a1640cbc8cd901e97",
+          "upstreamAssetURL": "https://api.github.com/repos/EspressU/EspressU-Emu/actions/artifacts/13892521168/zip",
+          "sourceAssetName": "EspressU.ipa",
+          "ipaBundleIdentifier": "dev.espressu.EspressU",
+          "releaseChannel": "actions",
+          "buildVersion": "1"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-10T21:54:16Z",
