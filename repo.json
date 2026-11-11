@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Erosion",
+      "catalogID": "project-c69c6c05bdcd217b8386c79515b480f9",
+      "bundleIdentifier": "com.jbdotparty.Erosion",
+      "developerName": "jailbreakdotparty",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "date": "2026-11-10T04:44:50Z",
+          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
+          "size": 2415476,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "8bf5e0252d8a49f9bfeabca7ed7462d23e775f5fefab9ec27ea80442919ee685",
+          "sourceAppName": "Erosion",
+          "sourceAssetName": "Erosion_v0.3.1.ipa",
+          "ipaBundleIdentifier": "com.jbdotparty.Erosion",
+          "upstreamAssetURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.jbdotparty.Erosion-8bf5e0252d8a.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
+        "checkedAt": "2026-11-11T08:55:46Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
+        "sourceURL": "https://github.com/jailbreakdotparty/Erosion"
+      },
+      "githubURL": "https://github.com/jailbreakdotparty/Erosion",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c69c6c05bdcd217b8386c79515b480f9",
+        "sourceURL": "https://github.com/jailbreakdotparty/Erosion",
+        "workflowPath": ".github/workflows/update-app-project-c69c6c05bdcd217b8386c79515b480f9.yml"
+      }
+    },
+    {
       "name": "Regitela",
       "catalogID": "project-06dcba719612f123fd7117a9a03e5163",
       "bundleIdentifier": "com.ichitaso.regitela",
