@@ -94,7 +94,7 @@
       },
       "githubURL": "https://github.com/jailbreakdotparty/Erosion",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c69c6c05bdcd217b8386c79515b480f9",
         "sourceURL": "https://github.com/jailbreakdotparty/Erosion/releases/tag/0.1",
