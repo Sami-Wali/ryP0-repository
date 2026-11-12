@@ -1351,6 +1351,19 @@
         {
           "version": "v1.15.11_3.1.1",
           "date": "2026-06-06T18:44:32Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.1.1/Apollo-Reborn-3.1.1-GLASSICONS-NOEXTENSIONS.ipa",
+          "size": 102353087,
+          "sha256": "a8fe7a214412a249b7a9a67f624f942dbff690226e2480637d08d6815b79a7be",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.1.1/Apollo-Reborn-3.1.1-GLASSICONS-NOEXTENSIONS.ipa",
+          "sourceAssetName": "Apollo-Reborn-3.1.1-GLASSICONS-NOEXTENSIONS.ipa",
+          "sourceAppName": "Apollo",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "releaseChannel": "release",
+          "buildVersion": "288"
+        },
+        {
+          "version": "v1.15.11_3.1.1",
+          "date": "2026-06-06T18:44:32Z",
           "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.1.1/Apollo-Reborn-3.1.1-GLASS.ipa",
           "size": 139232703,
           "sha256": "a45a863d3b2d32d352bd8e1eb95845903c41c60f2d7ce922d0e5af34cc700476",
@@ -1382,7 +1395,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
-        "checkedAt": "2026-11-12T23:15:19Z",
+        "checkedAt": "2026-11-12T23:15:51Z",
         "message": "Updated by private automation"
       },
       "importSource": {
