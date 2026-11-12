@@ -114,6 +114,19 @@
       "category": "Tools",
       "versions": [
         {
+          "version": "v1.0.1",
+          "date": "2026-11-12T06:25:19Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.1/Regitela_1.0.1.ipa",
+          "upstreamAssetURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.1/Regitela_1.0.1.ipa",
+          "size": 3533022,
+          "sha256": "8a2985098436103b6b19198912de8760bb4e39d406c2747ec94a5f2dbe241ff4",
+          "ipaBundleIdentifier": "com.ichitaso.regitela",
+          "sourceAssetName": "Regitela_1.0.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "Regitela"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-11-10T21:25:58Z",
           "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa",
@@ -133,9 +146,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.0/Regitela_1.0.0.ipa",
-        "checkedAt": "2026-11-12T01:29:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-12T06:28:36Z",
+        "checkedDownloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.1/Regitela_1.0.1.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -151,7 +164,10 @@
         "configId": "project-06dcba719612f123fd7117a9a03e5163",
         "sourceURL": "https://github.com/ichitaso/Regitela",
         "workflowPath": ".github/workflows/update-app-project-06dcba719612f123fd7117a9a03e5163.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.ichitaso.regitela"
+      ]
     },
     {
       "name": "Kernarium",
