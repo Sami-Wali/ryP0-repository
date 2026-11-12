@@ -489,6 +489,19 @@
           "ipaBundleIdentifier": "com.christianselig.Apollo",
           "releaseChannel": "release",
           "buildVersion": "300"
+        },
+        {
+          "version": "v1.15.11_3.8.0",
+          "date": "2026-09-25T02:15:27Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.8.0/Apollo-Reborn-3.8.0-GLASS-NOEXTENSIONS.ipa",
+          "size": 114893279,
+          "sha256": "5519339a5b6966123a4d88ff30c4569d65a55de5455e987133f117754779ea03",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.8.0/Apollo-Reborn-3.8.0-GLASS-NOEXTENSIONS.ipa",
+          "sourceAssetName": "Apollo-Reborn-3.8.0-GLASS-NOEXTENSIONS.ipa",
+          "sourceAppName": "Apollo",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "releaseChannel": "release",
+          "buildVersion": "299"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.christianselig.Apollo-0e71f644ca21.png",
@@ -498,7 +511,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
-        "checkedAt": "2026-11-12T22:32:39Z",
+        "checkedAt": "2026-11-12T22:33:11Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -513,7 +526,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3153cc2da075e43d72dd968b4666af9e",
-        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.8.5",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.8.0",
         "workflowPath": ".github/workflows/update-app-project-3153cc2da075e43d72dd968b4666af9e.yml"
       },
       "bundleIdentifiers": [
