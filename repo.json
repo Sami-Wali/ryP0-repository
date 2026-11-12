@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/MchinaMd57764/WQToolkit",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-6359b3051da77e26101ac702c8347ad0",
         "sourceURL": "https://github.com/MchinaMd57764/WQToolkit",
