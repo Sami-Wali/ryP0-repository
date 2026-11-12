@@ -2534,6 +2534,19 @@
         {
           "version": "v5.5",
           "date": "2026-09-30T03:27:29Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v5.5/MuffinEMU.ipa",
+          "size": 68094338,
+          "sha256": "2baa38f6a404f23923d2289103afe209a3aa1bfc3b31a9deb7d5426ac28ee6c5",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v5.5/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 5.5",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "release",
+          "buildVersion": "162"
+        },
+        {
+          "version": "v5.5",
+          "date": "2026-09-30T03:27:29Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v5.5/MuffinEMU-fakesigned.ipa",
           "size": 68094942,
           "sha256": "5a078727c5ba8fdfe0f523eb1871c2c9c3b1c6919c74b2f5f6b258be81c8bd10",
@@ -2552,7 +2565,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T17:07:19Z",
+        "checkedAt": "2026-11-12T17:07:46Z",
         "message": "Updated by private automation"
       },
       "importSource": {
