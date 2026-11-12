@@ -21,6 +21,19 @@
           "sourceAssetName": "placard-v1.9.2-unsigned.ipa",
           "ipaBundleIdentifier": "me.ssus.placard",
           "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa"
+        },
+        {
+          "version": "v1.9.1",
+          "date": "2026-09-26T07:22:51Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v1.9.1/placard-v1.9.1-unsigned.ipa",
+          "size": 9600366,
+          "sha256": "d4becfc4120293b32a87cc747e3869e3149912a279bc7a4c31c7ec59d8c8d813",
+          "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v1.9.1/placard-v1.9.1-unsigned.ipa",
+          "sourceAssetName": "placard-v1.9.1-unsigned.ipa",
+          "sourceAppName": "Placard",
+          "ipaBundleIdentifier": "me.ssus.placard",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/me.ssus.placard-5d85d4a4385b.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa",
-        "checkedAt": "2026-11-12T22:01:32Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T22:02:14Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-6e3b501eda8639d373c241f55239fd24",
-        "sourceURL": "https://github.com/frs0n/placard",
+        "sourceURL": "https://github.com/frs0n/placard/releases/tag/v1.9.1",
         "workflowPath": ".github/workflows/update-app-project-6e3b501eda8639d373c241f55239fd24.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "me.ssus.placard"
+      ]
     },
     {
       "name": "EscapeOS",
