@@ -8302,11 +8302,11 @@
         "workflowPath": ".github/workflows/update-app-project-d6831408c2df682989d2a0379497597e.yml"
       },
       "backup": {
+        "version": "1.20.4",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-1effe1c59f5b8c417c3ae605-822c7042311ff47710c9148c8edb5aab649cf85ce6ba96b9e8190feb91f45a51.ipa",
         "sha256": "822c7042311ff47710c9148c8edb5aab649cf85ce6ba96b9e8190feb91f45a51",
         "size": 31124277,
-        "version": "1.20.4",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "bundleIdentifiers": [
