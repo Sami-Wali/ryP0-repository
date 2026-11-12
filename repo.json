@@ -896,6 +896,19 @@
         {
           "version": "experimental-perf-metal-bind-cost-53efb8f",
           "date": "2026-10-12T04:11:00Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-metal-bind-cost-53efb8f/MuffinEMU.ipa",
+          "size": 84677377,
+          "sha256": "93c3e962da1498cd00dc5708d3064ba44737348ab819c43575a1a52fb5c11706",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-metal-bind-cost-53efb8f/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 53efb8f",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "504"
+        },
+        {
+          "version": "experimental-perf-metal-bind-cost-53efb8f",
+          "date": "2026-10-12T04:11:00Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-metal-bind-cost-53efb8f/MuffinEMU-fakesigned.ipa",
           "size": 84677931,
           "sha256": "c49ae330cf0ef5fad1c4ec831d53ba561daeb980af37d2256a20c8d9c5755023",
@@ -914,7 +927,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T15:05:18Z",
+        "checkedAt": "2026-11-12T15:05:54Z",
         "message": "Updated by private automation"
       },
       "importSource": {
