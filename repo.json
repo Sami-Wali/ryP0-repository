@@ -125,6 +125,19 @@
           "ipaBundleIdentifier": "com.hammerandchisel.discord",
           "releaseChannel": "release",
           "buildVersion": "42377"
+        },
+        {
+          "version": "v2.2.2",
+          "date": "2023-04-12T21:46:43Z",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.2/Enmity.Development.ipa",
+          "size": 87874530,
+          "sha256": "8a7dd297d1dfcbee911f7a10822ded5f708f89a402c3e158e240fa6de4a698c8",
+          "upstreamAssetURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.2/Enmity.Development.ipa",
+          "sourceAssetName": "Enmity.Development.ipa",
+          "sourceAppName": "Enmity",
+          "ipaBundleIdentifier": "com.hammerandchisel.discord",
+          "releaseChannel": "release",
+          "buildVersion": "42377"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.hammerandchisel.discord-6b56bd39183c.png",
@@ -134,7 +147,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-        "checkedAt": "2026-11-12T22:21:40Z",
+        "checkedAt": "2026-11-12T22:22:14Z",
         "message": "Updated by private automation"
       },
       "importSource": {
