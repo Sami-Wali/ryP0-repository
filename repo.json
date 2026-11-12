@@ -23117,11 +23117,11 @@
         "workflowPath": ".github/workflows/update-app-project-627f0920df1c66e518f4a2180c5e46a9.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4ccccb85f745ef57098c241f-f16c2a3529537bfbaa933972ed63f6ce96bb2a9ca176f1e2d1726dcd7896480d.ipa",
-        "sha256": "f16c2a3529537bfbaa933972ed63f6ce96bb2a9ca176f1e2d1726dcd7896480d",
-        "size": 188063063,
-        "version": "0.0.10",
-        "week": "2026-11-06"
+        "version": "0.0.11",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4ccccb85f745ef57098c241f-bc640a83a01de8a623c16fb0b5977edf16ac6010b61c9c2489ae334d3db3c0d7.ipa",
+        "sha256": "bc640a83a01de8a623c16fb0b5977edf16ac6010b61c9c2489ae334d3db3c0d7",
+        "size": 267033667,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.neogamelab.neostation",
       "bundleIdentifiers": [
