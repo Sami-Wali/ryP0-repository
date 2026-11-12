@@ -476,6 +476,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "release",
           "buildVersion": "550"
+        },
+        {
+          "version": "experimental-fix-vulkan-pagefault-mitigations-41b8218",
+          "date": "2026-10-14T03:20:39Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-pagefault-mitigations-41b8218/MuffinEMU-fakesigned.ipa",
+          "size": 146014023,
+          "sha256": "4e7724d9ca7cfcd3a5d798c73ba34c6ba6f34b88e0f3cf39b231065409e4e03f",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-pagefault-mitigations-41b8218/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU 41b8218",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "546"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -485,7 +498,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:43:14Z",
+        "checkedAt": "2026-11-12T14:43:53Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -500,7 +513,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/v10.0",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-fix-vulkan-pagefault-mitigations-41b8218",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
