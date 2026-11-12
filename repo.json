@@ -22358,11 +22358,11 @@
         "workflowPath": ".github/workflows/update-app-project-e77446e3cb1fc908363cb7c5d877b8a8.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-61ceea8acb1b207bde534339-5336cac80877b8d5f0f88c6d6f4eeb69319ab621b3dcde0033990c81ea5454e1.ipa",
-        "sha256": "5336cac80877b8d5f0f88c6d6f4eeb69319ab621b3dcde0033990c81ea5454e1",
-        "size": 55362491,
-        "version": "473d52e44d14e3ccc7cf4e86d1095d26be2e6987",
-        "week": "2026-11-06"
+        "version": "30",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-61ceea8acb1b207bde534339-98bc39c88161da1671eda56bd4139c85507b9089a8fdae80b333e975b88438f9.ipa",
+        "sha256": "98bc39c88161da1671eda56bd4139c85507b9089a8fdae80b333e975b88438f9",
+        "size": 55348740,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.opa334.Dopamine-roothide",
       "bundleIdentifiers": [
