@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Monolith",
+      "catalogID": "project-cd0b11937a5e41edc2331916087efcd2",
+      "bundleIdentifier": "com.monolith.app",
+      "developerName": "MakrSas",
+      "localizedDescription": "Emulate macOS on iOS and iPadOS",
+      "subtitle": "Emulate macOS on iOS and iPadOS",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-11T23:38:12Z",
+          "downloadURL": "https://github.com/MakrSas/Monolith/releases/download/v0.3.0-beta.1/Monolith.ipa",
+          "size": 33712050,
+          "buildVersion": "110",
+          "releaseChannel": "beta",
+          "sha256": "f940443822d008e92ef4ae667110c4903df488b4a73566c62d29affa216468de",
+          "sourceAppName": "Monolith",
+          "sourceAssetName": "Monolith.ipa",
+          "ipaBundleIdentifier": "com.monolith.app",
+          "upstreamAssetURL": "https://github.com/MakrSas/Monolith/releases/download/v0.3.0-beta.1/Monolith.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.monolith.app-f940443822d0.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MakrSas/Monolith/releases/download/v0.3.0-beta.1/Monolith.ipa",
+        "checkedAt": "2026-11-12T21:46:50Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/MakrSas/Monolith/releases/download/v0.3.0-beta.1/Monolith.ipa",
+        "sourceURL": "https://github.com/MakrSas/Monolith"
+      },
+      "githubURL": "https://github.com/MakrSas/Monolith",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-cd0b11937a5e41edc2331916087efcd2",
+        "sourceURL": "https://github.com/MakrSas/Monolith",
+        "workflowPath": ".github/workflows/update-app-project-cd0b11937a5e41edc2331916087efcd2.yml"
+      }
+    },
+    {
       "name": "WQToolkit",
       "catalogID": "project-6359b3051da77e26101ac702c8347ad0",
       "bundleIdentifier": "com.zhangfuhao.wqtoolkit",
