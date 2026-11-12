@@ -35403,9 +35403,9 @@
         ]
       },
       "automation": {
-        "configId": "armsx2-nightly",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261111",
+        "configId": "armsx2-nightly",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261112",
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "backup": {
@@ -35427,13 +35427,25 @@
       "name": "ARMSX2 (Nightly)",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.11.11-077525bd7e4a.ipa",
-        "checkedAt": "2026-11-12T07:30:21Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.11.12-ca921e091824.ipa",
+        "checkedAt": "2026-11-12T11:59:35Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#1B1280",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "Nightly-2026.11.12",
+          "date": "2026-11-12T11:58:10Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/armsx2-nightly-Nightly-2026.11.12-ca921e091824.ipa",
+          "size": 40658081,
+          "sha256": "ca921e091824f59f3b2e85fb2349d631e522452b150fd25427464768a5e36458",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261112/ARMSX2-nightly-20261112-c25493a202-iOS-arm64.ipa",
+          "sourceAssetName": "ARMSX2-nightly-20261112-c25493a202-iOS-arm64.ipa",
+          "ipaBundleIdentifier": "com.armsx2.ios.nightly",
+          "releaseChannel": "nightly",
+          "buildVersion": "260"
+        },
         {
           "buildVersion": "260",
           "date": "2026-11-11T07:21:22Z",
