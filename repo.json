@@ -2633,11 +2633,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f898930d3389c29be00602fe5365a1ac",
-        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.4",
+        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.5",
         "workflowPath": ".github/workflows/update-app-project-f898930d3389c29be00602fe5365a1ac.yml"
       },
       "bundleIdentifier": "com.example.kazumi",
       "bundleIdentifiers": [
+        "com.linkpass.kazumi",
         "com.example.kazumi"
       ],
       "catalogID": "project-f898930d3389c29be00602fe5365a1ac",
@@ -2657,13 +2658,26 @@
       "name": "Kazumi for iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.4/Kazumi_ios_3.0.4_no_sign.ipa",
-        "checkedAt": "2026-11-12T01:29:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.5/Kazumi_ios_3.0.5_no_sign.ipa",
+        "checkedAt": "2026-11-12T05:43:57Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "原生 SwiftUI 实现Kazumi，支持Anskip自动跳过片头片尾，支持番剧更新提醒，原版有的都有，没有的也有。",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.0.5",
+          "date": "2026-11-12T05:41:30Z",
+          "downloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.5/Kazumi_ios_3.0.5_no_sign.ipa",
+          "size": 24130346,
+          "sha256": "ae5cb56f5fa300cfaaaff63a1b30bd363b914e199b3850b7f3cafae23a86bb1e",
+          "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.5/Kazumi_ios_3.0.5_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_3.0.5_no_sign.ipa",
+          "sourceAppName": "Kazumi",
+          "ipaBundleIdentifier": "com.linkpass.kazumi",
+          "releaseChannel": "release",
+          "buildVersion": "30005"
+        },
         {
           "version": "3.0.4",
           "date": "2026-11-08T13:04:08Z",
