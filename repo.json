@@ -22246,11 +22246,11 @@
         "workflowPath": ".github/workflows/update-app-project-61b334bea77b5be039d895edce897ab8.yml"
       },
       "backup": {
+        "version": "1.0.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b18366b71f3013032915ea7d-ce56ddba3e471f41a2d5d0b99956aacc3c5f8caa733aa5ddbc2c8f3d634c5d93.ipa",
         "sha256": "ce56ddba3e471f41a2d5d0b99956aacc3c5f8caa733aa5ddbc2c8f3d634c5d93",
         "size": 29098040,
-        "version": "1.0.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.devz.skate2",
       "catalogID": "project-61b334bea77b5be039d895edce897ab8",
