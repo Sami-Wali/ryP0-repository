@@ -1589,7 +1589,7 @@
       },
       "githubURL": "https://github.com/Apollo-Reborn/Apollo-Reborn",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3153cc2da075e43d72dd968b4666af9e",
         "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.0.0",
