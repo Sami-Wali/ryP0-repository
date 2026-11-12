@@ -6812,7 +6812,14 @@
           "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.0.1-a1/Reynard.ipa",
           "version": "0.0.1-a1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.21.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-86a08bddb517c17510322b1d-023d868ae9d3019031f6fe5552fc61d25aae0c7837d6c5936d6d76fd262e2ec7.ipa",
+        "sha256": "023d868ae9d3019031f6fe5552fc61d25aae0c7837d6c5936d6d76fd262e2ec7",
+        "size": 111536266,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
