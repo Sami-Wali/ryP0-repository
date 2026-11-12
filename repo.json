@@ -8103,7 +8103,14 @@
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-16/FNV-iOS-build16-unsigned.ipa",
           "version": "ios-build-16"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-29a799989d583d6c84043e7d-393fb9d96034bfe60e10e5f241cee030bea4c745b9b68e2bf5fe24adfc2fac40.ipa",
+        "sha256": "393fb9d96034bfe60e10e5f241cee030bea4c745b9b68e2bf5fe24adfc2fac40",
+        "size": 44731178,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
