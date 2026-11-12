@@ -897,7 +897,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-624d7bd9a3d15e6d25479afcc1f79b98",
         "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.0.0-rc.1",
