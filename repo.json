@@ -4673,7 +4673,14 @@
           "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v1.4.0/iPadn-1.4.0-unsigned.ipa",
           "version": "v1.4.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v2.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ab8c9eca23ce0aed577315f4-9f6ae1983bee69ca41416393a709db0926042870882c31ae7ac956c3bc7f07a5.ipa",
+        "sha256": "9f6ae1983bee69ca41416393a709db0926042870882c31ae7ac956c3bc7f07a5",
+        "size": 48201588,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
