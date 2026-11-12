@@ -8571,7 +8571,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3c27f9223659f404df544efbe467a17a",
         "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.4.0",
