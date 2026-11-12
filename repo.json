@@ -23319,11 +23319,11 @@
         "workflowPath": ".github/workflows/update-app-project-067687253ada6abecedacc3f9faf730d.yml"
       },
       "backup": {
+        "version": "1.0.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-dd4661882b86ff2528ddfbec-a4eaa970bee587ffa1ca4dbbe9752b80cb4d9f638cecad4c855a6f91a0a5d522.ipa",
         "sha256": "a4eaa970bee587ffa1ca4dbbe9752b80cb4d9f638cecad4c855a6f91a0a5d522",
         "size": 35806088,
-        "version": "1.0.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.devz.sonic2006",
       "catalogID": "project-067687253ada6abecedacc3f9faf730d",
