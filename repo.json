@@ -10112,10 +10112,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/41281088309",
+        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/43148036608",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "backup": {
@@ -10146,12 +10146,26 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/ios-build-97.1/Horizon-iOS-0.1.53-build97.1-unsigned.ipa",
-        "checkedAt": "2026-11-12T01:29:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-9d88f2c765b5ff01d2a91c024596e8a4efbb8aff-b652d18eef00.ipa",
+        "checkedAt": "2026-11-12T04:11:57Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "9d88f2c765b5ff01d2a91c024596e8a4efbb8aff",
+          "date": "2026-11-12T03:24:50Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-9d88f2c765b5ff01d2a91c024596e8a4efbb8aff-b652d18eef00.ipa",
+          "size": 39570280,
+          "sha256": "b652d18eef004da949eddf8cd301fad8245d00b1823f4201c2c6387176130411",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13914372813/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "98.1"
+        },
         {
           "buildVersion": "97.1",
           "date": "2026-11-11T06:55:36Z",
