@@ -27608,11 +27608,11 @@
         "workflowPath": ".github/workflows/update-app-app-09d8f1ab279d40c38882e11adad1af01.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e6c00cc7384a430f4ea67a31-daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e.ipa",
-        "sha256": "daa32fe3cbf4673178abbc9f297ceb1d25e463c2bb644eee5ad1679b7301ce4e",
-        "size": 3348064,
-        "version": "v1.1.1",
-        "week": "2026-11-06"
+        "version": "65478f0f1dc4c469ec0d0035d46b4861197110c1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e6c00cc7384a430f4ea67a31-337e066ef4e61b8f8b60ee7f4839ef35c58d8207027ebb4ba0890526581b55dc.ipa",
+        "sha256": "337e066ef4e61b8f8b60ee7f4839ef35c58d8207027ebb4ba0890526581b55dc",
+        "size": 3348537,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.yihoooong.airliftsilence",
       "bundleIdentifiers": [
