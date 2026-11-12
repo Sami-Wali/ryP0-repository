@@ -7869,7 +7869,14 @@
           "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.34.0/MetroidPrimePort.ipa",
           "version": "v0.34.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.46.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-f0109aa8f391f797d5156a0a-4f55a4c7842740c0f1240dfc8655141dd1404859b9db85169c0e1c592fe9eeaf.ipa",
+        "sha256": "4f55a4c7842740c0f1240dfc8655141dd1404859b9db85169c0e1c592fe9eeaf",
+        "size": 15616164,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
