@@ -298,6 +298,19 @@
         {
           "version": "experimental-all-next-ce739c3",
           "date": "2026-10-17T15:35:38Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-all-next-ce739c3/MuffinEMU.ipa",
+          "size": 146014321,
+          "sha256": "32ee87d75a0a6057ea47751a8ed9afd6f673e2ac9dae0ce9b14a17babce4a152",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-all-next-ce739c3/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU ce739c3",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "releaseChannel": "prerelease",
+          "buildVersion": "650"
+        },
+        {
+          "version": "experimental-all-next-ce739c3",
+          "date": "2026-10-17T15:35:38Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-all-next-ce739c3/MuffinEMU-fakesigned.ipa",
           "size": 146014908,
           "sha256": "690abedda2aeff8deeef8bc73bd0c1ef8fb0173cb787d5d16e963e3d7b6dfc20",
@@ -316,7 +329,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:34:27Z",
+        "checkedAt": "2026-11-12T14:35:07Z",
         "message": "Updated by private automation"
       },
       "importSource": {
