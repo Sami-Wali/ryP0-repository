@@ -21,6 +21,19 @@
           "sourceAssetName": "WQManager-0.3.1-unsigned.ipa",
           "ipaBundleIdentifier": "mumu.pduola.WQManager",
           "upstreamAssetURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa"
+        },
+        {
+          "version": "v0.3.0",
+          "date": "2026-11-12T12:39:52Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.0/WQManager-0.3.0-unsigned.ipa",
+          "size": 690321,
+          "sha256": "b909d54f04376b185afa75ea06056e6592de3950e45359443c6238bbc29dddc5",
+          "upstreamAssetURL": "https://github.com/hseons/WQManager/releases/download/v0.3.0/WQManager-0.3.0-unsigned.ipa",
+          "sourceAssetName": "WQManager-0.3.0-unsigned.ipa",
+          "sourceAppName": "WQManager",
+          "ipaBundleIdentifier": "mumu.pduola.WQManager",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/mumu.pduola.WQManager-a8b053d99b38.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
-        "checkedAt": "2026-11-12T21:43:31Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T21:44:06Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-42154439eba81cf446dc3e6962890b38",
-        "sourceURL": "https://github.com/hseons/WQManager",
+        "sourceURL": "https://github.com/hseons/WQManager/releases/tag/v0.3.0",
         "workflowPath": ".github/workflows/update-app-project-42154439eba81cf446dc3e6962890b38.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "mumu.pduola.WQManager"
+      ]
     },
     {
       "name": "Muffin-EMU",
