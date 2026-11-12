@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "EscapeOS",
+      "catalogID": "project-eb8693c29e8cdd9b67d8037c6d804d85",
+      "bundleIdentifier": "com.ipaside.escapeos",
+      "developerName": "pwnapplehat",
+      "localizedDescription": "On-device app-data browser, backup and restore for sideloaded iOS. No jailbreak. No Keychain.",
+      "subtitle": "On-device app-data browser, backup and restore for sideloaded iOS. No jailbreak. No Keychain.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.3.2",
+          "date": "2026-11-11T14:19:37Z",
+          "downloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa",
+          "size": 7683406,
+          "buildVersion": "14",
+          "releaseChannel": "release",
+          "sha256": "49edbca809d4b07c8863971ba40a2551537d433872f03cedd1c13ce2e0975e1e",
+          "sourceAppName": "EscapeOS",
+          "sourceAssetName": "EscapeOS-0.3.2.ipa",
+          "ipaBundleIdentifier": "com.ipaside.escapeos",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ipaside.escapeos-49edbca809d4.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa",
+        "checkedAt": "2026-11-12T21:55:59Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa",
+        "sourceURL": "https://github.com/pwnapplehat/EscapeOS"
+      },
+      "githubURL": "https://github.com/pwnapplehat/EscapeOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-eb8693c29e8cdd9b67d8037c6d804d85",
+        "sourceURL": "https://github.com/pwnapplehat/EscapeOS",
+        "workflowPath": ".github/workflows/update-app-project-eb8693c29e8cdd9b67d8037c6d804d85.yml"
+      }
+    },
+    {
       "name": "Locus",
       "catalogID": "project-02d2c406169b768fd334a4259f37e72c",
       "bundleIdentifier": "com.chrismack.locus",
