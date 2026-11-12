@@ -506,6 +506,19 @@
         {
           "version": "experimental-ui-fps-always-on-55e7bff",
           "date": "2026-10-13T04:19:09Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-ui-fps-always-on-55e7bff/MuffinEMU.ipa",
+          "size": 146015897,
+          "sha256": "4bd6e19ed45d9b0824a95a9fb849d2d12f15092aab203a60d64c11009bc1a84b",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-ui-fps-always-on-55e7bff/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 55e7bff",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "543"
+        },
+        {
+          "version": "experimental-ui-fps-always-on-55e7bff",
+          "date": "2026-10-13T04:19:09Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-ui-fps-always-on-55e7bff/MuffinEMU-fakesigned.ipa",
           "size": 146016483,
           "sha256": "68b856c4043f4460679db17d87416ddd5fba1ef2ab95a4438d16439f59992bfd",
@@ -524,7 +537,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:46:21Z",
+        "checkedAt": "2026-11-12T14:47:02Z",
         "message": "Updated by private automation"
       },
       "importSource": {
