@@ -86,6 +86,19 @@
           "ipaBundleIdentifier": "com.hammerandchisel.discord",
           "releaseChannel": "release",
           "buildVersion": "42377"
+        },
+        {
+          "version": "v2.2.3",
+          "date": "2023-04-14T14:34:53Z",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.3/Enmity.ipa",
+          "size": 87875664,
+          "sha256": "a9557a8d69b75546746b42272245e3ef550b049b9b95c7cf20b2283eabeb80e8",
+          "upstreamAssetURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.3/Enmity.ipa",
+          "sourceAssetName": "Enmity.ipa",
+          "sourceAppName": "Enmity",
+          "ipaBundleIdentifier": "com.hammerandchisel.discord",
+          "releaseChannel": "release",
+          "buildVersion": "42377"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.hammerandchisel.discord-6b56bd39183c.png",
@@ -95,7 +108,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-        "checkedAt": "2026-11-12T22:20:02Z",
+        "checkedAt": "2026-11-12T22:20:33Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -110,7 +123,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-29d92f7b86ebd4ff32822865229ab68d",
-        "sourceURL": "https://github.com/enmity-mod/tweak/releases/tag/v2.2.4",
+        "sourceURL": "https://github.com/enmity-mod/tweak/releases/tag/v2.2.3",
         "workflowPath": ".github/workflows/update-app-project-29d92f7b86ebd4ff32822865229ab68d.yml"
       },
       "bundleIdentifiers": [
