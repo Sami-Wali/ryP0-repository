@@ -26689,11 +26689,11 @@
         "workflowPath": ".github/workflows/update-app-app-a8d81320a82b4d0f8c6aa277b7f95e7a.yml"
       },
       "backup": {
+        "version": "3.1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b84685c2c939b8d25440f0ef-a52531ab3b5f441a54051b18cf59446ded3d06d98c2345c9c9dc4dd54c2f142c.ipa",
         "sha256": "a52531ab3b5f441a54051b18cf59446ded3d06d98c2345c9c9dc4dd54c2f142c",
         "size": 283757776,
-        "version": "3.1.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "tv.danmaku.bilianime",
       "bundleIdentifiers": [
