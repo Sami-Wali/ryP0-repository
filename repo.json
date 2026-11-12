@@ -1854,6 +1854,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "release",
           "buildVersion": "335"
+        },
+        {
+          "version": "experimental-feature-save-states-stage0-1a9129e",
+          "date": "2026-10-06T20:20:35Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-feature-save-states-stage0-1a9129e/MuffinEMU-fakesigned.ipa",
+          "size": 69169607,
+          "sha256": "781a0757ed74775818ea4c632caf879d65e141ba032a21d4223f2825dac38dc7",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-feature-save-states-stage0-1a9129e/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU 1a9129e",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "333"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -1863,7 +1876,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T16:29:05Z",
+        "checkedAt": "2026-11-12T16:29:33Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1878,7 +1891,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/v7.3",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-feature-save-states-stage0-1a9129e",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
