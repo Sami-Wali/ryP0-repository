@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "mumu.pduola.WQManager",
           "releaseChannel": "release",
           "buildVersion": "3"
+        },
+        {
+          "version": "v0.2.1",
+          "date": "2026-11-11T08:44:47Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.2.1/WQManager-0.2.1-unsigned.ipa",
+          "size": 601642,
+          "sha256": "01c46796bc875a74767b823e756c2c342754bbf9b4755c50bbf6351d03ee03d7",
+          "upstreamAssetURL": "https://github.com/hseons/WQManager/releases/download/v0.2.1/WQManager-0.2.1-unsigned.ipa",
+          "sourceAssetName": "WQManager-0.2.1-unsigned.ipa",
+          "sourceAppName": "WQManager",
+          "ipaBundleIdentifier": "mumu.pduola.WQManager",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/mumu.pduola.WQManager-a8b053d99b38.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
-        "checkedAt": "2026-11-12T21:44:06Z",
+        "checkedAt": "2026-11-12T21:44:24Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-42154439eba81cf446dc3e6962890b38",
-        "sourceURL": "https://github.com/hseons/WQManager/releases/tag/v0.3.0",
+        "sourceURL": "https://github.com/hseons/WQManager/releases/tag/v0.2.1",
         "workflowPath": ".github/workflows/update-app-project-42154439eba81cf446dc3e6962890b38.yml"
       },
       "bundleIdentifiers": [
