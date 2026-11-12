@@ -21,6 +21,19 @@
           "sourceAssetName": "MuffinEMU-fakesigned.ipa",
           "ipaBundleIdentifier": "com.void.muffinemu",
           "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa"
+        },
+        {
+          "version": "nightly",
+          "date": "2026-11-02T16:11:55Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU.ipa",
+          "size": 154431845,
+          "sha256": "76d7f670b67f053bc021781255cdde8d388feebc94de9d61362743bf8ad945bf",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 11.2",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "releaseChannel": "nightly",
+          "buildVersion": "717"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:18:41Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T14:19:57Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/nightly",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.void.muffinemu"
+      ]
     },
     {
       "name": "Erosion",
