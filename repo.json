@@ -558,6 +558,19 @@
         {
           "version": "experimental-perf-astc-direct-475020f",
           "date": "2026-10-13T00:43:55Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-astc-direct-475020f/MuffinEMU.ipa",
+          "size": 146012636,
+          "sha256": "4470c071da0063b28c76f2d8ccf126cbe6a13377e34802e359bc076e2a17df46",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-astc-direct-475020f/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 475020f",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "540"
+        },
+        {
+          "version": "experimental-perf-astc-direct-475020f",
+          "date": "2026-10-13T00:43:55Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-astc-direct-475020f/MuffinEMU-fakesigned.ipa",
           "size": 146013226,
           "sha256": "e27d6cbe0b63dd27cd39af190f145ae643537ccf07a2327f03083a3c5349114c",
@@ -576,7 +589,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:48:48Z",
+        "checkedAt": "2026-11-12T14:49:28Z",
         "message": "Updated by private automation"
       },
       "importSource": {
