@@ -5725,7 +5725,14 @@
           "upstreamAssetURL": "https://github.com/leonardob8777-bit/Eagle/releases/download/v0.3.0-beta.1/Eagle.ipa",
           "version": "v0.3.0-beta.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.7",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a2ebd5bf0e277f5da4e29c58-365719741e552ff4ee031e33e8602308fc09b0ea1c283491f0f9241f6982e3d9.ipa",
+        "sha256": "365719741e552ff4ee031e33e8602308fc09b0ea1c283491f0f9241f6982e3d9",
+        "size": 14336488,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
