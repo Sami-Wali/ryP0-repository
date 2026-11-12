@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "placard",
+      "catalogID": "project-6e3b501eda8639d373c241f55239fd24",
+      "bundleIdentifier": "me.ssus.placard",
+      "developerName": "frs0n",
+      "localizedDescription": "PosterBoard Wallpapers for iOS 26 - 27",
+      "subtitle": "PosterBoard Wallpapers for iOS 26 - 27",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.9.2",
+          "date": "2026-09-26T07:37:42Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa",
+          "size": 9600240,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "5d85d4a4385bd716fc2d026518575b60fe55d73c0c327117646b4a33771b45b2",
+          "sourceAppName": "Placard",
+          "sourceAssetName": "placard-v1.9.2-unsigned.ipa",
+          "ipaBundleIdentifier": "me.ssus.placard",
+          "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/me.ssus.placard-5d85d4a4385b.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa",
+        "checkedAt": "2026-11-12T22:01:32Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa",
+        "sourceURL": "https://github.com/frs0n/placard"
+      },
+      "githubURL": "https://github.com/frs0n/placard",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-6e3b501eda8639d373c241f55239fd24",
+        "sourceURL": "https://github.com/frs0n/placard",
+        "workflowPath": ".github/workflows/update-app-project-6e3b501eda8639d373c241f55239fd24.yml"
+      }
+    },
+    {
       "name": "EscapeOS",
       "catalogID": "project-eb8693c29e8cdd9b67d8037c6d804d85",
       "bundleIdentifier": "com.ipaside.escapeos",
