@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-624d7bd9a3d15e6d25479afcc1f79b98",
-        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.3.0",
+        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.2.0",
         "workflowPath": ".github/workflows/update-app-project-624d7bd9a3d15e6d25479afcc1f79b98.yml"
       },
       "bundleIdentifier": "dev.twilitrealm.dusk",
@@ -31,7 +31,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
-        "checkedAt": "2026-11-12T21:51:47Z",
+        "checkedAt": "2026-11-12T21:52:13Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
@@ -140,6 +140,19 @@
           "ipaBundleIdentifier": "dev.twilitrealm.dusk",
           "releaseChannel": "release",
           "buildVersion": "1.3.0.0"
+        },
+        {
+          "version": "v1.2.0",
+          "date": "2026-05-18T04:03:21Z",
+          "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.2.0/Dusklight-v1.2.0-ios-arm64.ipa",
+          "size": 27031799,
+          "sha256": "42583c2c7e7d018dadd86dcb55f7b9aff0471385a04ef3fecd37219f4c977796",
+          "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.2.0/Dusklight-v1.2.0-ios-arm64.ipa",
+          "sourceAssetName": "Dusklight-v1.2.0-ios-arm64.ipa",
+          "sourceAppName": "Dusklight",
+          "ipaBundleIdentifier": "dev.twilitrealm.dusk",
+          "releaseChannel": "release",
+          "buildVersion": "1.2.0.0"
         }
       ]
     },
