@@ -346,6 +346,19 @@
           "ipaBundleIdentifier": "com.void.muffinemu",
           "releaseChannel": "prerelease",
           "buildVersion": "583"
+        },
+        {
+          "version": "v10.3",
+          "date": "2026-10-15T17:20:09Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v10.3/MuffinEMU-fakesigned.ipa",
+          "size": 145837820,
+          "sha256": "eee14d3baf12ce77ee52436286d48fe9f1e6834b32c3db4825e8d630853aa826",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v10.3/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU 10.3",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "releaseChannel": "release",
+          "buildVersion": "580"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -355,7 +368,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:36:51Z",
+        "checkedAt": "2026-11-12T14:37:31Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -370,7 +383,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-fix-mfe-385-block-geometry-c690e44",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/v10.3",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
