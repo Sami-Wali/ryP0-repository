@@ -4070,7 +4070,14 @@
         "com.kiddreads.MuffinEMU",
         "com.kiddreads.MuffinEMUAudit",
         "com.kiddreads.MuffinEMUBench"
-      ]
+      ],
+      "backup": {
+        "version": "11.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-684eb922245b00ca5db6e11a-499285e1d2ba67fc63cb692d30b454e244928ccc5f21589d45594bca9871a871.ipa",
+        "sha256": "499285e1d2ba67fc63cb692d30b454e244928ccc5f21589d45594bca9871a871",
+        "size": 154432351,
+        "week": "2026-11-13"
+      }
     },
     {
       "name": "Erosion",
