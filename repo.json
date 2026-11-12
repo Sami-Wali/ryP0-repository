@@ -3912,6 +3912,19 @@
         {
           "version": "auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b",
           "date": "2026-09-14T18:45:29Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b/Cemu.ipa",
+          "size": 67011631,
+          "sha256": "2ac1d6154a4d0f18c9fc8d52fab9149a728b20cc04290acce09252f25d095bb9",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b/Cemu.ipa",
+          "sourceAssetName": "Cemu.ipa",
+          "sourceAppName": "MuffinEMU 6a1de1b",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "19"
+        },
+        {
+          "version": "auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b",
+          "date": "2026-09-14T18:45:29Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b/Cemu-fakesigned.ipa",
           "size": 67357181,
           "sha256": "2b79a6f89ddd585cb92142ba5aaeda8a2c86fd955523f8beb452db6adf49c3d7",
@@ -3930,7 +3943,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T18:08:44Z",
+        "checkedAt": "2026-11-12T18:09:15Z",
         "message": "Updated by private automation"
       },
       "importSource": {
