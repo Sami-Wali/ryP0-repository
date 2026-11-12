@@ -1962,6 +1962,19 @@
         {
           "version": "experimental-fix-overlay-and-swap-9d3a34f",
           "date": "2026-10-06T02:19:00Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-overlay-and-swap-9d3a34f/MuffinEMU.ipa",
+          "size": 69111194,
+          "sha256": "4ab07c653701383103fbd186df49fbadf792ca84c42706b8dc85e3df7352c397",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-overlay-and-swap-9d3a34f/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 9d3a34f",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "295"
+        },
+        {
+          "version": "experimental-fix-overlay-and-swap-9d3a34f",
+          "date": "2026-10-06T02:19:00Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-overlay-and-swap-9d3a34f/MuffinEMU-fakesigned.ipa",
           "size": 69111790,
           "sha256": "ccc152b515d9e5f779ac3a1b455e63b5ddc77bfae8f0064f665a9abd43209b1d",
@@ -1980,7 +1993,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T16:34:11Z",
+        "checkedAt": "2026-11-12T16:34:43Z",
         "message": "Updated by private automation"
       },
       "importSource": {
