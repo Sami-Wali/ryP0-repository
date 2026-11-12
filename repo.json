@@ -5445,7 +5445,14 @@
           "upstreamAssetURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.0/Laya-1.9.0-ios.ipa",
           "version": "v1.9.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.9.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e99cb2fb9233193182adf2d2-a908c8022f410c7041704716e394b9af7724c130866d3b2921dc72b80531ce6d.ipa",
+        "sha256": "a908c8022f410c7041704716e394b9af7724c130866d3b2921dc72b80531ce6d",
+        "size": 80438933,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
