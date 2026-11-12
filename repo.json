@@ -26492,10 +26492,9 @@
       "localizedDescription": "GitHub project request: Predidit/Kazumi.",
       "name": "Kazumi",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-ce112ef821011f57ee512c4372843898e0df0b61-6e7ef3485fc1.ipa",
-        "checkedAt": "2026-11-12T07:30:21Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-12T09:48:21Z",
+        "message": "Private updater: The mirrored IPA could not be uploaded to GitHub Releases."
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
