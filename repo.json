@@ -4914,7 +4914,14 @@
           "upstreamAssetURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.1/WQFiles.ipa",
           "version": "v0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.9.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-37744ed63862374f65f6e259-f0e41b3e300032f0b25a72efdc63954032606812600e610a82f68c53a4ef7587.ipa",
+        "sha256": "f0e41b3e300032f0b25a72efdc63954032606812600e610a82f68c53a4ef7587",
+        "size": 715465,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
