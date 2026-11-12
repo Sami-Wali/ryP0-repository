@@ -68,7 +68,7 @@
       },
       "githubURL": "https://github.com/hseons/WQManager",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-42154439eba81cf446dc3e6962890b38",
         "sourceURL": "https://github.com/hseons/WQManager/releases/tag/v0.2.1",
