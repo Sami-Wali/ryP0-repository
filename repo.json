@@ -4181,7 +4181,14 @@
       },
       "bundleIdentifiers": [
         "com.jbdotparty.Erosion"
-      ]
+      ],
+      "backup": {
+        "version": "0.3.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4f519f5959024bd3817e84be-8bf5e0252d8a49f9bfeabca7ed7462d23e775f5fefab9ec27ea80442919ee685.ipa",
+        "sha256": "8bf5e0252d8a49f9bfeabca7ed7462d23e775f5fefab9ec27ea80442919ee685",
+        "size": 2415476,
+        "week": "2026-11-13"
+      }
     },
     {
       "name": "Regitela",
