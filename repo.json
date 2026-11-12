@@ -6868,7 +6868,14 @@
           "upstreamAssetURL": "https://github.com/Ayan4k/Ram-Checker/releases/download/Stable/RamChecker.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-7603656d480b066382d03ffa-baa866da1ca684c809519c76f658c52123ea3d2aadc810ee8851e0347e0d1f0c.ipa",
+        "sha256": "baa866da1ca684c809519c76f658c52123ea3d2aadc810ee8851e0347e0d1f0c",
+        "size": 296930,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
