@@ -8426,11 +8426,11 @@
         "workflowPath": ".github/workflows/update-app-project-a1255b6935dfb53d078e4968cad0b510.yml"
       },
       "backup": {
+        "version": "0.1",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-edcae94d17ae9fe7276837a5-1dc1c707d0a786e361d720c2f920a7f4fdfb575353c00d5af9868ec06db3190e.ipa",
         "sha256": "1dc1c707d0a786e361d720c2f920a7f4fdfb575353c00d5af9868ec06db3190e",
         "size": 1510879,
-        "version": "0.1",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "dev.dios.dishonored",
       "bundleIdentifiers": [
