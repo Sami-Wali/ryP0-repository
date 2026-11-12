@@ -21,6 +21,19 @@
           "sourceAssetName": "Locus-1.0.2.ipa",
           "ipaBundleIdentifier": "com.chrismack.locus",
           "upstreamAssetURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa"
+        },
+        {
+          "version": "v1.0.0",
+          "date": "2026-07-27T20:02:23Z",
+          "downloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.0/Locus-1.0.0.ipa",
+          "size": 7138916,
+          "sha256": "5c238cd5d38a87558c9529ba024e7d525ba4fa6aa25b27a4b0c58534a8990aae",
+          "upstreamAssetURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.0/Locus-1.0.0.ipa",
+          "sourceAssetName": "Locus-1.0.0.ipa",
+          "sourceAppName": "Locus",
+          "ipaBundleIdentifier": "com.chrismack.locus",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrismack.locus-51721b34d7b4.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
-        "checkedAt": "2026-11-12T21:54:19Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T21:54:58Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-02d2c406169b768fd334a4259f37e72c",
-        "sourceURL": "https://github.com/ChrisMack32/Locus",
+        "sourceURL": "https://github.com/ChrisMack32/Locus/releases/tag/v1.0.0",
         "workflowPath": ".github/workflows/update-app-project-02d2c406169b768fd334a4259f37e72c.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.chrismack.locus"
+      ]
     },
     {
       "appType": "Daily Update",
