@@ -32351,13 +32351,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.11-beta/nuvio-0.6.11-full-release.ipa",
-        "checkedAt": "2026-11-11T19:27:49Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-12T00:42:31Z",
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.12-beta",
+          "date": "2026-11-12T00:37:11Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+          "size": 69852349,
+          "sha256": "cc02dc57e268b43a1294841bf6e6a661c9189b1b801292c7bf7fa682ac472ae9",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "sourceAssetName": "nuvio-0.6.12-full-release.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "155"
+        },
         {
           "buildVersion": "154",
           "date": "2026-11-10T01:28:12Z",
