@@ -2322,6 +2322,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "prerelease",
           "buildVersion": "223"
+        },
+        {
+          "version": "auto-be1f2980d3329c1796bd3b1660d68bf7e3c9d293",
+          "date": "2026-09-30T21:28:29Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-be1f2980d3329c1796bd3b1660d68bf7e3c9d293/MuffinEMU-fakesigned.ipa",
+          "size": 68520071,
+          "sha256": "1ed85c6a99cc11b5b699172b5f1252a665a02e31851e13532bd8a73169808c34",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-be1f2980d3329c1796bd3b1660d68bf7e3c9d293/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU be1f298",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "225"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -2331,7 +2344,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T16:52:18Z",
+        "checkedAt": "2026-11-12T16:58:07Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -2346,7 +2359,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/auto-d0265b15c5152a0d7ede065ec77aad5954b68c99",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/auto-be1f2980d3329c1796bd3b1660d68bf7e3c9d293",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
