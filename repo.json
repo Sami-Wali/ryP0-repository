@@ -402,6 +402,19 @@
         {
           "version": "experimental-fix-vulkan-more-d357869",
           "date": "2026-10-15T00:47:01Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-more-d357869/MuffinEMU.ipa",
+          "size": 146035115,
+          "sha256": "44584c1fe23157197c413174836ea0495d21a5d1773273818750ebd3a0eb7f21",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-more-d357869/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU d357869",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "557"
+        },
+        {
+          "version": "experimental-fix-vulkan-more-d357869",
+          "date": "2026-10-15T00:47:01Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-more-d357869/MuffinEMU-fakesigned.ipa",
           "size": 146035696,
           "sha256": "79706e7e81d9c1a71f5858ea8fabcfeec3c65cd1f5ad59548c4496422e677596",
@@ -420,7 +433,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:40:02Z",
+        "checkedAt": "2026-11-12T14:40:36Z",
         "message": "Updated by private automation"
       },
       "importSource": {
