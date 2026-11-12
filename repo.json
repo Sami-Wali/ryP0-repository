@@ -1832,6 +1832,19 @@
         {
           "version": "v7.3",
           "date": "2026-10-06T20:33:20Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v7.3/MuffinEMU.ipa",
+          "size": 69333716,
+          "sha256": "fca75fdcfde5057f229c00e2161921d8d5686eebcbdf8d373e388fad34136b83",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v7.3/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 7.3",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "release",
+          "buildVersion": "335"
+        },
+        {
+          "version": "v7.3",
+          "date": "2026-10-06T20:33:20Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v7.3/MuffinEMU-fakesigned.ipa",
           "size": 69334311,
           "sha256": "5515e66a0444e9bed5a0ab487cf0521da44b7067e05237ab92819d670d8249c8",
@@ -1850,7 +1863,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T16:28:35Z",
+        "checkedAt": "2026-11-12T16:29:05Z",
         "message": "Updated by private automation"
       },
       "importSource": {
