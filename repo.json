@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "tweak",
+      "catalogID": "project-29d92f7b86ebd4ff32822865229ab68d",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "enmity-mod",
+      "localizedDescription": "GitHub project request: enmity-mod/tweak.",
+      "subtitle": "GitHub project request: enmity-mod/tweak.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "261.0",
+          "date": "2025-01-08T20:24:17Z",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+          "size": 101315549,
+          "buildVersion": "69368",
+          "releaseChannel": "release",
+          "sha256": "6b56bd39183ce20ec216bbc508c308d7eaa185eeea07032bddaa6659281ae0a1",
+          "sourceAppName": "Enmity",
+          "sourceAssetName": "Enmity.ipa",
+          "ipaBundleIdentifier": "com.hammerandchisel.discord",
+          "upstreamAssetURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.hammerandchisel.discord-6b56bd39183c.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+        "checkedAt": "2026-11-12T22:16:52Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+        "sourceURL": "https://github.com/enmity-mod/tweak"
+      },
+      "githubURL": "https://github.com/enmity-mod/tweak",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-29d92f7b86ebd4ff32822865229ab68d",
+        "sourceURL": "https://github.com/enmity-mod/tweak",
+        "workflowPath": ".github/workflows/update-app-project-29d92f7b86ebd4ff32822865229ab68d.yml"
+      }
+    },
+    {
       "name": "Apollo Reborn GLASS",
       "catalogID": "project-3153cc2da075e43d72dd968b4666af9e",
       "bundleIdentifier": "com.christianselig.Apollo",
