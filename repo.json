@@ -3856,6 +3856,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "release",
           "buildVersion": "26"
+        },
+        {
+          "version": "bench-382cfd8b64e01d69fe98519c8eb89668aaddb88d",
+          "date": "2026-09-14T19:06:27Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/bench-382cfd8b64e01d69fe98519c8eb89668aaddb88d/MuffinBench-fakesigned.ipa",
+          "size": 15923740,
+          "sha256": "8cbbd1d6886438ee198d6458a3390b40f66726a21bb05f48ca0671f60ab27fa1",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/bench-382cfd8b64e01d69fe98519c8eb89668aaddb88d/MuffinBench-fakesigned.ipa",
+          "sourceAssetName": "MuffinBench-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU Bench",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMUBench",
+          "releaseChannel": "prerelease",
+          "buildVersion": "5"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -3865,7 +3878,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T18:05:13Z",
+        "checkedAt": "2026-11-12T18:05:39Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -3880,7 +3893,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/v1.1",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/bench-382cfd8b64e01d69fe98519c8eb89668aaddb88d",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
