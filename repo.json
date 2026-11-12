@@ -7992,7 +7992,14 @@
           "upstreamAssetURL": "https://github.com/SubhanHabib/OpenRAC-iOS/releases/download/v0.1.0/OpenRAC_rac1-ntsc_0.1.0_ios.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.1.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0b99dba66f228a48c1943fb3-302d5b0583c80d01b8deb011b7b7ab3fcaed547a2604d936ed4b51e201682086.ipa",
+        "sha256": "302d5b0583c80d01b8deb011b7b7ab3fcaed547a2604d936ed4b51e201682086",
+        "size": 29137796,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
