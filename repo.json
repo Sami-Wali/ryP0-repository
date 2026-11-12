@@ -47,6 +47,19 @@
           "ipaBundleIdentifier": "com.ipaside.escapeos",
           "releaseChannel": "release",
           "buildVersion": "11"
+        },
+        {
+          "version": "v0.2.1",
+          "date": "2026-10-29T09:51:15Z",
+          "downloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.2.1/EscapeOS-0.2.1.ipa",
+          "size": 7654296,
+          "sha256": "c2b7576d8a3054296a28683806314ea8001ac11c9f1ff0c4b86315261e74b578",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.2.1/EscapeOS-0.2.1.ipa",
+          "sourceAssetName": "EscapeOS-0.2.1.ipa",
+          "sourceAppName": "EscapeOS",
+          "ipaBundleIdentifier": "com.ipaside.escapeos",
+          "releaseChannel": "release",
+          "buildVersion": "10"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ipaside.escapeos-49edbca809d4.png",
@@ -56,7 +69,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa",
-        "checkedAt": "2026-11-12T21:57:05Z",
+        "checkedAt": "2026-11-12T21:57:29Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -71,7 +84,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-eb8693c29e8cdd9b67d8037c6d804d85",
-        "sourceURL": "https://github.com/pwnapplehat/EscapeOS/releases/tag/v0.3.0",
+        "sourceURL": "https://github.com/pwnapplehat/EscapeOS/releases/tag/v0.2.1",
         "workflowPath": ".github/workflows/update-app-project-eb8693c29e8cdd9b67d8037c6d804d85.yml"
       },
       "bundleIdentifiers": [
