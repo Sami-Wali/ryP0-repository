@@ -324,6 +324,19 @@
         {
           "version": "experimental-fix-mfe-385-block-geometry-c690e44",
           "date": "2026-10-16T00:44:31Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-mfe-385-block-geometry-c690e44/MuffinEMU.ipa",
+          "size": 145836396,
+          "sha256": "11528a0aed1377b94bec0e0be886e4e4d1cb4420b3aa7b28952b5f941bb790b6",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-mfe-385-block-geometry-c690e44/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU c690e44",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "releaseChannel": "prerelease",
+          "buildVersion": "583"
+        },
+        {
+          "version": "experimental-fix-mfe-385-block-geometry-c690e44",
+          "date": "2026-10-16T00:44:31Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-mfe-385-block-geometry-c690e44/MuffinEMU-fakesigned.ipa",
           "size": 145836965,
           "sha256": "2d5ecd447136a0fb58ae9b2360dc4dfbfc6dc48dc7679edd6538af3ebede6202",
@@ -342,7 +355,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:35:42Z",
+        "checkedAt": "2026-11-12T14:36:51Z",
         "message": "Updated by private automation"
       },
       "importSource": {
