@@ -4326,13 +4326,26 @@
       "name": "ryP0",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3/ryP0-2.3.ipa",
-        "checkedAt": "2026-11-12T13:31:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-12T18:43:31Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3.2/ryP0-2.3.2.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "New Theme and more",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.3.2",
+          "date": "2026-11-12T18:39:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3.2/ryP0-2.3.2.ipa",
+          "upstreamAssetURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.3.2/ryP0-2.3.2.ipa",
+          "size": 16554800,
+          "sha256": "7fb3fdfb551132a9bd406e1b645262b173b43fa0d8dc8f74fa05036971809597",
+          "ipaBundleIdentifier": "com.ry0.ryP0",
+          "sourceAssetName": "ryP0-2.3.2.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "ryP0"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-10T22:59:37Z",
