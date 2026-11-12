@@ -24388,11 +24388,11 @@
         "workflowPath": ".github/workflows/update-app-project-658e8475459bf1e77779945f7f854235.yml"
       },
       "backup": {
+        "version": "1.1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-04bbf10bb76740a95f5dd5fe-f855f931266c3079f8686b7d744dcac43a2e0ef8e55843848f5593db8b0a5f5e.ipa",
         "sha256": "f855f931266c3079f8686b7d744dcac43a2e0ef8e55843848f5593db8b0a5f5e",
         "size": 20033836,
-        "version": "1.1.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.example.hollowgamesbuilder",
       "catalogID": "project-658e8475459bf1e77779945f7f854235",
