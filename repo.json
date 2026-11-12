@@ -554,6 +554,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "prerelease",
           "buildVersion": "541"
+        },
+        {
+          "version": "experimental-perf-astc-direct-475020f",
+          "date": "2026-10-13T00:43:55Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-astc-direct-475020f/MuffinEMU-fakesigned.ipa",
+          "size": 146013226,
+          "sha256": "e27d6cbe0b63dd27cd39af190f145ae643537ccf07a2327f03083a3c5349114c",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-astc-direct-475020f/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU 475020f",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "540"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -563,7 +576,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:48:15Z",
+        "checkedAt": "2026-11-12T14:48:48Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -578,7 +591,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-perf-astc-direct-a6d86e1",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-perf-astc-direct-475020f",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
