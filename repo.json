@@ -3934,6 +3934,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "prerelease",
           "buildVersion": "19"
+        },
+        {
+          "version": "auto-739a93fdb9c04d4237562d7b22093c72ba840bde",
+          "date": "2026-09-14T18:26:34Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-739a93fdb9c04d4237562d7b22093c72ba840bde/Cemu.ipa",
+          "size": 67011833,
+          "sha256": "34bc5d53ca8333c81e2d798cc894d1dc0b2ca038e9ba63995b8fd03c2ca9e630",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/auto-739a93fdb9c04d4237562d7b22093c72ba840bde/Cemu.ipa",
+          "sourceAssetName": "Cemu.ipa",
+          "sourceAppName": "MuffinEMU 739a93f",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "18"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -3943,7 +3956,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T18:09:15Z",
+        "checkedAt": "2026-11-12T18:09:45Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -3958,7 +3971,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/auto-6a1de1bbcb2e938679ee30ff11391cb15a03f06b",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/auto-739a93fdb9c04d4237562d7b22093c72ba840bde",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
