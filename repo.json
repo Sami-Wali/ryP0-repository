@@ -2066,6 +2066,19 @@
         {
           "version": "experimental-feature-favour-performance-5598a43",
           "date": "2026-10-06T01:14:12Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-feature-favour-performance-5598a43/MuffinEMU.ipa",
+          "size": 69109883,
+          "sha256": "eb8223b927abc29803e49d8c76c1ce1cb334b9817666782f757efd0851fd0408",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-feature-favour-performance-5598a43/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 5598a43",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "290"
+        },
+        {
+          "version": "experimental-feature-favour-performance-5598a43",
+          "date": "2026-10-06T01:14:12Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-feature-favour-performance-5598a43/MuffinEMU-fakesigned.ipa",
           "size": 69110466,
           "sha256": "3563ec687b14223f731ff08d6456c7d38d943bff11831a612a290ab5bb842520",
@@ -2084,7 +2097,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T16:38:27Z",
+        "checkedAt": "2026-11-12T16:38:59Z",
         "message": "Updated by private automation"
       },
       "importSource": {
