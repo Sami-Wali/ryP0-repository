@@ -676,7 +676,7 @@
       },
       "githubURL": "https://github.com/frs0n/placard",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-6e3b501eda8639d373c241f55239fd24",
         "sourceURL": "https://github.com/frs0n/placard/releases/tag/v1.0.0-unsigned",
