@@ -14157,12 +14157,25 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-9d88f2c765b5ff01d2a91c024596e8a4efbb8aff-b652d18eef00.ipa",
-        "checkedAt": "2026-11-12T13:31:05Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-12T18:06:48Z",
+        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/v0.1.62/Horizon-iOS-0.1.62-build109-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.62",
+          "date": "2026-11-12T18:01:44Z",
+          "downloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/v0.1.62/Horizon-iOS-0.1.62-build109-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/heyskylo/horizon-ios/releases/download/v0.1.62/Horizon-iOS-0.1.62-build109-unsigned.ipa",
+          "size": 36245756,
+          "sha256": "8f66b899553d5326f153bddc6755520706d06d3251ba189e1e360db5364fa57e",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "sourceAssetName": "Horizon-iOS-0.1.62-build109-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "109",
+          "sourceAppName": "Horizon"
+        },
         {
           "version": "9d88f2c765b5ff01d2a91c024596e8a4efbb8aff",
           "date": "2026-11-12T03:24:50Z",
