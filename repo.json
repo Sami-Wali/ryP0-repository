@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Locus",
+      "catalogID": "project-02d2c406169b768fd334a4259f37e72c",
+      "bundleIdentifier": "com.chrismack.locus",
+      "developerName": "ChrisMack32",
+      "localizedDescription": "Free open-source iPhone location teleport (MIT)",
+      "subtitle": "Free open-source iPhone location teleport (MIT)",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-07-27T21:49:25Z",
+          "downloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
+          "size": 7153016,
+          "buildVersion": "3",
+          "releaseChannel": "release",
+          "sha256": "51721b34d7b4a7869864732340768fbe644e315d895928e0d639cf97212a08ed",
+          "sourceAppName": "Locus",
+          "sourceAssetName": "Locus-1.0.2.ipa",
+          "ipaBundleIdentifier": "com.chrismack.locus",
+          "upstreamAssetURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrismack.locus-51721b34d7b4.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
+        "checkedAt": "2026-11-12T21:54:19Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
+        "sourceURL": "https://github.com/ChrisMack32/Locus"
+      },
+      "githubURL": "https://github.com/ChrisMack32/Locus",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-02d2c406169b768fd334a4259f37e72c",
+        "sourceURL": "https://github.com/ChrisMack32/Locus",
+        "workflowPath": ".github/workflows/update-app-project-02d2c406169b768fd334a4259f37e72c.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "historySyncPending": true,
