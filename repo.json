@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Apollo Reborn GLASS",
+      "catalogID": "project-3153cc2da075e43d72dd968b4666af9e",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Apollo-Reborn",
+      "localizedDescription": "Please let us choose the GLASS version of Apollo reborn when an update drops. Kind regards",
+      "subtitle": "Please let us choose the GLASS version of Apollo reborn when an update drops. Kind regards",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "4.0.1",
+          "date": "2026-10-30T01:24:25Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
+          "size": 118945807,
+          "buildVersion": "303",
+          "releaseChannel": "release",
+          "sha256": "0e71f644ca21d4853229be313fcd80805c99b24b0625ca5f6b34054c8344f82c",
+          "sourceAppName": "Apollo",
+          "sourceAssetName": "Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.christianselig.Apollo-0e71f644ca21.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
+        "checkedAt": "2026-11-12T22:08:30Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn"
+      },
+      "githubURL": "https://github.com/Apollo-Reborn/Apollo-Reborn",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-3153cc2da075e43d72dd968b4666af9e",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn",
+        "workflowPath": ".github/workflows/update-app-project-3153cc2da075e43d72dd968b4666af9e.yml"
+      }
+    },
+    {
       "name": "Xenra",
       "catalogID": "project-c7fdddc3a6a09f6108c53a8e24baca8f",
       "bundleIdentifier": "Mohammed.Xanite.ios",
