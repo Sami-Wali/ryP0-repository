@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Xenra",
+      "catalogID": "project-c7fdddc3a6a09f6108c53a8e24baca8f",
+      "bundleIdentifier": "Mohammed.Xanite.ios",
+      "developerName": "Yebot32",
+      "localizedDescription": "GitHub project request: Yebot32/xenra.",
+      "subtitle": "GitHub project request: Yebot32/xenra.",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "0.5.0",
+          "date": "2026-11-11T19:55:51Z",
+          "downloadURL": "https://github.com/Yebot32/xenra/releases/download/v0.5.0/xenra-ios-0.5.0.ipa",
+          "size": 22297063,
+          "buildVersion": "45",
+          "releaseChannel": "release",
+          "sha256": "7dec6b73422d45da1d1f21cd6c509acad498a5d41e0a71bf643d2ec6c6b32713",
+          "sourceAppName": "Xenra",
+          "sourceAssetName": "xenra-ios-0.5.0.ipa",
+          "ipaBundleIdentifier": "Mohammed.Xanite.ios",
+          "upstreamAssetURL": "https://github.com/Yebot32/xenra/releases/download/v0.5.0/xenra-ios-0.5.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/Mohammed.Xanite.ios-7dec6b73422d.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Yebot32/xenra/releases/download/v0.5.0/xenra-ios-0.5.0.ipa",
+        "checkedAt": "2026-11-12T22:06:54Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Yebot32/xenra/releases/download/v0.5.0/xenra-ios-0.5.0.ipa",
+        "sourceURL": "https://github.com/Yebot32/xenra"
+      },
+      "githubURL": "https://github.com/Yebot32/xenra",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c7fdddc3a6a09f6108c53a8e24baca8f",
+        "sourceURL": "https://github.com/Yebot32/xenra",
+        "workflowPath": ".github/workflows/update-app-project-c7fdddc3a6a09f6108c53a8e24baca8f.yml"
+      }
+    },
+    {
       "name": "placard",
       "catalogID": "project-6e3b501eda8639d373c241f55239fd24",
       "bundleIdentifier": "me.ssus.placard",
