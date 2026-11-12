@@ -8610,11 +8610,11 @@
         "workflowPath": ".github/workflows/update-app-project-8ed085db26c2e1c1543e4527b0f8ee1a.yml"
       },
       "backup": {
+        "version": "1.3.1",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b1b22945917537c71ae13fa0-db09912d80437f977af16e618f0a4fed768d14c790da19e4099e2c344ea46ca2.ipa",
         "sha256": "db09912d80437f977af16e618f0a4fed768d14c790da19e4099e2c344ea46ca2",
         "size": 4562979,
-        "version": "1.3.1",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "novadev.iram-plus",
       "bundleIdentifiers": [
