@@ -7641,7 +7641,14 @@
           "upstreamAssetURL": "https://github.com/Nodman/OpenJK-iOS/releases/download/ios-v0.1.0/OpenJK-MP-0.1.0.ipa",
           "version": "ios-v0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "ios-v0.2.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-016d7bd08d2db3e17f194049-44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9.ipa",
+        "sha256": "44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9",
+        "size": 5565206,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
