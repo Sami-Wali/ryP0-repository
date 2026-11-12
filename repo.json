@@ -1438,6 +1438,19 @@
           "ipaBundleIdentifier": "com.christianselig.Apollo",
           "releaseChannel": "prerelease",
           "buildVersion": "285"
+        },
+        {
+          "version": "v1.15.11_3.1.0",
+          "date": "2026-06-05T05:31:58Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.1.0/Apollo-Reborn-3.1.0-GLASS-NOEXTENSIONS.ipa",
+          "size": 102347489,
+          "sha256": "1a4b4148388e3f743d14fe88f18498ab1c77b8326dd336744e9d6bed51d6faa9",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.1.0/Apollo-Reborn-3.1.0-GLASS-NOEXTENSIONS.ipa",
+          "sourceAssetName": "Apollo-Reborn-3.1.0-GLASS-NOEXTENSIONS.ipa",
+          "sourceAppName": "Apollo",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "releaseChannel": "release",
+          "buildVersion": "287"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.christianselig.Apollo-0e71f644ca21.png",
@@ -1447,7 +1460,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
-        "checkedAt": "2026-11-12T23:18:15Z",
+        "checkedAt": "2026-11-12T23:19:13Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1462,7 +1475,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3153cc2da075e43d72dd968b4666af9e",
-        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/login-fix-375-test",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.1.0",
         "workflowPath": ".github/workflows/update-app-project-3153cc2da075e43d72dd968b4666af9e.yml"
       },
       "bundleIdentifiers": [
