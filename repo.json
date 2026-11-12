@@ -20519,11 +20519,11 @@
         "workflowPath": ".github/workflows/update-app-app-a8ad2e974fd443059d1c3b5625af66b1.yml"
       },
       "backup": {
+        "version": "2.6",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a1be94bf216401f3b65a66dd-e32633a733740bd9b6d5c1ecd87e00c6e502368a4c6ed0247485e9fcbcc75c85.ipa",
         "sha256": "e32633a733740bd9b6d5c1ecd87e00c6e502368a4c6ed0247485e9fcbcc75c85",
         "size": 85223877,
-        "version": "2.6",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.ltchipotle.LemoNX",
       "bundleIdentifiers": [
