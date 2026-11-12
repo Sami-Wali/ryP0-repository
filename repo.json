@@ -480,6 +480,19 @@
         {
           "version": "experimental-fix-vulkan-pagefault-mitigations-41b8218",
           "date": "2026-10-14T03:20:39Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-pagefault-mitigations-41b8218/MuffinEMU.ipa",
+          "size": 146013433,
+          "sha256": "5415b2ae1f980f262c3299131988e4a90dc770f803f8cbc28eb021421f5c0055",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-pagefault-mitigations-41b8218/MuffinEMU.ipa",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "sourceAppName": "MuffinEMU 41b8218",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "546"
+        },
+        {
+          "version": "experimental-fix-vulkan-pagefault-mitigations-41b8218",
+          "date": "2026-10-14T03:20:39Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-fix-vulkan-pagefault-mitigations-41b8218/MuffinEMU-fakesigned.ipa",
           "size": 146014023,
           "sha256": "4e7724d9ca7cfcd3a5d798c73ba34c6ba6f34b88e0f3cf39b231065409e4e03f",
@@ -498,7 +511,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T14:43:53Z",
+        "checkedAt": "2026-11-12T14:45:38Z",
         "message": "Updated by private automation"
       },
       "importSource": {
