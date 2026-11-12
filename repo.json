@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "dev.twilitrealm.dusk",
           "releaseChannel": "release",
           "buildVersion": "2.0.0.0"
+        },
+        {
+          "version": "v1.4.1",
+          "date": "2026-06-16T22:33:28Z",
+          "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-ios-arm64.ipa",
+          "size": 27125007,
+          "sha256": "abe2265bfc099f9cacb3cb8cebcb8b9914d0384ee256a3e82bd5d5494d9a04ca",
+          "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-ios-arm64.ipa",
+          "sourceAssetName": "Dusklight-v1.4.1-ios-arm64.ipa",
+          "sourceAppName": "Dusklight",
+          "ipaBundleIdentifier": "dev.twilitrealm.dusk",
+          "releaseChannel": "release",
+          "buildVersion": "1.4.1.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.twilitrealm.dusk-33991d29234c.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
-        "checkedAt": "2026-11-12T21:49:53Z",
+        "checkedAt": "2026-11-12T21:50:19Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-624d7bd9a3d15e6d25479afcc1f79b98",
-        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v2.0.0",
+        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.4.1",
         "workflowPath": ".github/workflows/update-app-project-624d7bd9a3d15e6d25479afcc1f79b98.yml"
       },
       "bundleIdentifiers": [
