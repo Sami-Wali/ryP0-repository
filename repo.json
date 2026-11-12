@@ -15231,11 +15231,11 @@
         "workflowPath": ".github/workflows/update-app-project-8c7a4bebefdaead56d8a3e04f72fd3e4.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fbcef85bf40836a3bda34fac-c719020072e6be4b6bb74e7dbbee40aae14f910438070e5eb78cfb7249c16d13.ipa",
-        "sha256": "c719020072e6be4b6bb74e7dbbee40aae14f910438070e5eb78cfb7249c16d13",
-        "size": 86665558,
-        "version": "bb20cdd",
-        "week": "2026-11-06"
+        "version": "d6d068c",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fbcef85bf40836a3bda34fac-089c0520b09861689a675b29e3f83c44ab94fc52ba2e298c074eb8462e51c0aa.ipa",
+        "sha256": "089c0520b09861689a675b29e3f83c44ab94fc52ba2e298c074eb8462e51c0aa",
+        "size": 87044739,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "ani.aayush262.dartotsu",
       "bundleIdentifiers": [
