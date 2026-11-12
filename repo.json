@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-624d7bd9a3d15e6d25479afcc1f79b98",
-        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.0.0",
+        "sourceURL": "https://github.com/TwilitRealm/dusklight/releases/tag/v1.0.0-rc.1",
         "workflowPath": ".github/workflows/update-app-project-624d7bd9a3d15e6d25479afcc1f79b98.yml"
       },
       "bundleIdentifier": "dev.twilitrealm.dusk",
@@ -31,7 +31,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
-        "checkedAt": "2026-11-12T21:53:26Z",
+        "checkedAt": "2026-11-12T21:53:48Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
@@ -188,6 +188,19 @@
           "sha256": "fdd78ee64856495d5f02aebdb36a87e2cc601b332aa2d236a5263ae9f69b315c",
           "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.0.0/Dusk-v1.0.0-ios-arm64.ipa",
           "sourceAssetName": "Dusk-v1.0.0-ios-arm64.ipa",
+          "sourceAppName": "Dusk",
+          "ipaBundleIdentifier": "dev.twilitrealm.dusk",
+          "releaseChannel": "release",
+          "buildVersion": "1.0.0.0"
+        },
+        {
+          "version": "v1.0.0-rc.1",
+          "date": "2026-05-09T03:05:54Z",
+          "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.0.0-rc.1/Dusk-v1.0.0-rc.1-ios-arm64.ipa",
+          "size": 26674594,
+          "sha256": "0bce04bf425e6d3fe7a9b0a092a9afc7745299f6d36d4242c790501ab2aa0dfb",
+          "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.0.0-rc.1/Dusk-v1.0.0-rc.1-ios-arm64.ipa",
+          "sourceAssetName": "Dusk-v1.0.0-rc.1-ios-arm64.ipa",
           "sourceAppName": "Dusk",
           "ipaBundleIdentifier": "dev.twilitrealm.dusk",
           "releaseChannel": "release",
