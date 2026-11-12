@@ -28397,11 +28397,11 @@
         "workflowPath": ".github/workflows/update-app-app-d68cf4e3dbdb4f6eb36f626490dcd4e6.yml"
       },
       "backup": {
+        "version": "v6.5.5",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3869d22fa43e52f868282477-4a4647274dfe9ad1fad2d63e97c2a1254b52c9cd41723d961a47f0b06b8282f4.ipa",
         "sha256": "4a4647274dfe9ad1fad2d63e97c2a1254b52c9cd41723d961a47f0b06b8282f4",
         "size": 235571896,
-        "version": "v6.5.5",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.prisma-devs.prisma",
       "bundleIdentifiers": [
