@@ -8574,7 +8574,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3c27f9223659f404df544efbe467a17a",
-        "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.4.0",
+        "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.4.0.1",
         "workflowPath": ".github/workflows/update-app-project-3c27f9223659f404df544efbe467a17a.yml"
       },
       "backup": {
@@ -8605,13 +8605,26 @@
       "name": "Vita3KiOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0/Hinoki-1.4.0.ipa",
-        "checkedAt": "2026-11-12T01:36:26Z",
+        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0.1/Hinoki-1.4.0.1.ipa",
+        "checkedAt": "2026-11-12T05:13:49Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.4.0.1",
+          "date": "2026-11-12T05:11:14Z",
+          "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0.1/Hinoki-1.4.0.1.ipa",
+          "size": 15414753,
+          "sha256": "b6e24326a29984a170ea9d4fd2d75c06a71697216c4e45590f0280993be4bb67",
+          "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0.1/Hinoki-1.4.0.1.ipa",
+          "sourceAssetName": "Hinoki-1.4.0.1.ipa",
+          "sourceAppName": "Hinoki",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "releaseChannel": "release",
+          "buildVersion": "188"
+        },
         {
           "version": "v1.4.0",
           "date": "2026-11-12T01:32:08Z",
