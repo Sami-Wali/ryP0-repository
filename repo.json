@@ -9290,11 +9290,11 @@
         "workflowPath": ".github/workflows/update-app-app-ba192a3bc30d4ad880b1d16cfd7aa733.yml"
       },
       "backup": {
+        "version": "6.4.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5920d51111ad91756c52b2c3-c5797e772fa654b2a6723f3f61c8332465b760435e7ea5ee18da3448cb27ad8a.ipa",
         "sha256": "c5797e772fa654b2a6723f3f61c8332465b760435e7ea5ee18da3448cb27ad8a",
         "size": 48615547,
-        "version": "6.4.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "org.animeko.animeko",
       "catalogID": "app-ba192a3bc30d4ad880b1d16cfd7aa733",
