@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "dusklight",
+      "catalogID": "project-624d7bd9a3d15e6d25479afcc1f79b98",
+      "bundleIdentifier": "dev.twilitrealm.dusk",
+      "developerName": "TwilitRealm",
+      "localizedDescription": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+      "subtitle": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+      "category": "Games",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2026-09-30T07:06:44Z",
+          "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
+          "size": 37056541,
+          "buildVersion": "2.0.3.0",
+          "releaseChannel": "release",
+          "sha256": "33991d29234c990085689af61528722248becfffd4b9abd5d0cdd550ce68360b",
+          "sourceAppName": "Dusklight",
+          "sourceAssetName": "Dusklight-v2.0.3-ios-arm64.ipa",
+          "ipaBundleIdentifier": "dev.twilitrealm.dusk",
+          "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.twilitrealm.dusk-33991d29234c.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
+        "checkedAt": "2026-11-12T21:48:11Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
+        "sourceURL": "https://github.com/TwilitRealm/dusklight"
+      },
+      "githubURL": "https://github.com/TwilitRealm/dusklight",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-624d7bd9a3d15e6d25479afcc1f79b98",
+        "sourceURL": "https://github.com/TwilitRealm/dusklight",
+        "workflowPath": ".github/workflows/update-app-project-624d7bd9a3d15e6d25479afcc1f79b98.yml"
+      }
+    },
+    {
       "name": "Monolith",
       "catalogID": "project-cd0b11937a5e41edc2331916087efcd2",
       "bundleIdentifier": "com.monolith.app",
