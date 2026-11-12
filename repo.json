@@ -7542,7 +7542,14 @@
           "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.1.0/ttyd-port-0.1.0-jp-ios-unsigned.ipa",
           "version": "v0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.5.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ce85ed4359dadfada5b77215-f64de98019e14a9ceb1d6abf1203a4ae866a8de00eb1a01d6663a15348aee402.ipa",
+        "sha256": "f64de98019e14a9ceb1d6abf1203a4ae866a8de00eb1a01d6663a15348aee402",
+        "size": 15206646,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
