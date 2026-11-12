@@ -9041,11 +9041,11 @@
         "workflowPath": ".github/workflows/update-app-project-83b07021643b9ed0bd00b972e2fca6f6.yml"
       },
       "backup": {
+        "version": "1.4.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-094e2d1c7f10f66d8e8873b4-7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257.ipa",
         "sha256": "7c54488f125fd6804277bb9783bcf58eef924cc8011e96fbf75938d9ebb0d257",
         "size": 11794981,
-        "version": "1.4.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.mirazbakis.altload",
       "bundleIdentifiers": [
