@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "WQManager",
+      "catalogID": "project-42154439eba81cf446dc3e6962890b38",
+      "bundleIdentifier": "mumu.pduola.WQManager",
+      "developerName": "hseons",
+      "localizedDescription": "iOS 26 app data manager, backup & cache cleaner built with Objective-C",
+      "subtitle": "iOS 26 app data manager, backup & cache cleaner built with Objective-C",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "date": "2026-11-12T12:58:23Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
+          "size": 705110,
+          "buildVersion": "3",
+          "releaseChannel": "release",
+          "sha256": "a8b053d99b38bf635cad1ce8cf25af67c798d2ee16bbdfdb9207471cf211c405",
+          "sourceAppName": "WQManager",
+          "sourceAssetName": "WQManager-0.3.1-unsigned.ipa",
+          "ipaBundleIdentifier": "mumu.pduola.WQManager",
+          "upstreamAssetURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/mumu.pduola.WQManager-a8b053d99b38.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
+        "checkedAt": "2026-11-12T21:43:31Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
+        "sourceURL": "https://github.com/hseons/WQManager"
+      },
+      "githubURL": "https://github.com/hseons/WQManager",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-42154439eba81cf446dc3e6962890b38",
+        "sourceURL": "https://github.com/hseons/WQManager",
+        "workflowPath": ".github/workflows/update-app-project-42154439eba81cf446dc3e6962890b38.yml"
+      }
+    },
+    {
       "name": "Muffin-EMU",
       "catalogID": "project-d4cdf928f12756d365350e205a558b9a",
       "bundleIdentifier": "com.void.muffinemu",
