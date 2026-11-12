@@ -15064,11 +15064,11 @@
         "workflowPath": ".github/workflows/update-app-project-456cc1d171877aa5e7676440f0397fa9.yml"
       },
       "backup": {
+        "version": "1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-31e997b22a2607325277ec5b-74175db269210374fb759bb231f49577fc73eade65d0c924c9f404601007615c.ipa",
         "sha256": "74175db269210374fb759bb231f49577fc73eade65d0c924c9f404601007615c",
         "size": 1286097,
-        "version": "1.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.betterxcloud.ios",
       "catalogID": "project-456cc1d171877aa5e7676440f0397fa9",
