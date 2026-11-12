@@ -918,6 +918,19 @@
           "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
           "releaseChannel": "prerelease",
           "buildVersion": "504"
+        },
+        {
+          "version": "experimental-perf-metal-bind-cost-44dc172",
+          "date": "2026-10-12T03:46:30Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-metal-bind-cost-44dc172/MuffinEMU-fakesigned.ipa",
+          "size": 84677926,
+          "sha256": "2185944c2b19584e46ad99a3d488cab6177aea4d830893e5e7f0d68789e12c28",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/experimental-perf-metal-bind-cost-44dc172/MuffinEMU-fakesigned.ipa",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "sourceAppName": "MuffinEMU 44dc172",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMU",
+          "releaseChannel": "prerelease",
+          "buildVersion": "503"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
@@ -927,7 +940,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T15:05:54Z",
+        "checkedAt": "2026-11-12T15:06:28Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -942,7 +955,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
-        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-perf-metal-bind-cost-53efb8f",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/experimental-perf-metal-bind-cost-44dc172",
         "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
       },
       "bundleIdentifiers": [
