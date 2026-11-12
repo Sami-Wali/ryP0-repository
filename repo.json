@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Muffin-EMU",
+      "catalogID": "project-d4cdf928f12756d365350e205a558b9a",
+      "bundleIdentifier": "com.void.muffinemu",
+      "developerName": "MuffinEMU",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "11.2",
+          "date": "2026-11-02T16:11:56Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
+          "size": 154432351,
+          "buildVersion": "717",
+          "releaseChannel": "nightly",
+          "sha256": "499285e1d2ba67fc63cb692d30b454e244928ccc5f21589d45594bca9871a871",
+          "sourceAppName": "MuffinEMU 11.2",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.void.muffinemu-499285e1d2ba.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
+        "checkedAt": "2026-11-12T14:18:41Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU"
+      },
+      "githubURL": "https://github.com/MuffinEMU/Muffin-EMU",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-d4cdf928f12756d365350e205a558b9a",
+        "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU",
+        "workflowPath": ".github/workflows/update-app-project-d4cdf928f12756d365350e205a558b9a.yml"
+      }
+    },
+    {
       "name": "Erosion",
       "catalogID": "project-c69c6c05bdcd217b8386c79515b480f9",
       "bundleIdentifier": "com.jbdotparty.Erosion",
