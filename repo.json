@@ -159,7 +159,7 @@
       },
       "githubURL": "https://github.com/enmity-mod/tweak",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-29d92f7b86ebd4ff32822865229ab68d",
         "sourceURL": "https://github.com/enmity-mod/tweak/releases/tag/v2.2.2",
