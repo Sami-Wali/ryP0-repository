@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/Yebot32/xenra",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c7fdddc3a6a09f6108c53a8e24baca8f",
         "sourceURL": "https://github.com/Yebot32/xenra",
