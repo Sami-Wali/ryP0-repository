@@ -10,6 +10,19 @@
       "category": "Social",
       "versions": [
         {
+          "version": "v1.15.11_4.0.1",
+          "date": "2026-10-30T01:24:25Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS.ipa",
+          "size": 129202414,
+          "sha256": "ab29739db55255f53c17a11ea949f46515af681257062728545e1813929679e9",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS.ipa",
+          "sourceAssetName": "Apollo-Reborn-4.0.1-GLASS.ipa",
+          "sourceAppName": "Apollo",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "releaseChannel": "release",
+          "buildVersion": "303"
+        },
+        {
           "version": "4.0.1",
           "date": "2026-10-30T01:24:25Z",
           "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS-NOEXTENSIONS.ipa",
-        "checkedAt": "2026-11-12T22:08:30Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS.ipa",
+        "checkedAt": "2026-11-12T22:09:21Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3153cc2da075e43d72dd968b4666af9e",
-        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_4.0.1",
         "workflowPath": ".github/workflows/update-app-project-3153cc2da075e43d72dd968b4666af9e.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.christianselig.Apollo"
+      ]
     },
     {
       "name": "Xenra",
