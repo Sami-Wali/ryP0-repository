@@ -21,6 +21,19 @@
           "sourceAssetName": "EscapeOS-0.3.2.ipa",
           "ipaBundleIdentifier": "com.ipaside.escapeos",
           "upstreamAssetURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa"
+        },
+        {
+          "version": "v0.3.1",
+          "date": "2026-11-11T13:41:30Z",
+          "downloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.1/EscapeOS-0.3.1.ipa",
+          "size": 7663665,
+          "sha256": "61305edcd5860e7599192479dcbb22dfe1bd2b1cec632362726231c3e9710011",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.1/EscapeOS-0.3.1.ipa",
+          "sourceAssetName": "EscapeOS-0.3.1.ipa",
+          "sourceAppName": "EscapeOS",
+          "ipaBundleIdentifier": "com.ipaside.escapeos",
+          "releaseChannel": "release",
+          "buildVersion": "12"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ipaside.escapeos-49edbca809d4.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.3.2/EscapeOS-0.3.2.ipa",
-        "checkedAt": "2026-11-12T21:55:59Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T21:56:41Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-eb8693c29e8cdd9b67d8037c6d804d85",
-        "sourceURL": "https://github.com/pwnapplehat/EscapeOS",
+        "sourceURL": "https://github.com/pwnapplehat/EscapeOS/releases/tag/v0.3.1",
         "workflowPath": ".github/workflows/update-app-project-eb8693c29e8cdd9b67d8037c6d804d85.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.ipaside.escapeos"
+      ]
     },
     {
       "name": "Locus",
