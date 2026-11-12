@@ -15971,10 +15971,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/43148036608",
+        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
+        "sourceURL": "https://github.com/heyskylo/horizon-ios/actions/runs/43315919313",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "backup": {
@@ -16004,13 +16004,27 @@
       "localizedDescription": "Horizon: Minecraft Rust Edition iOS Port",
       "name": "horizon-ios",
       "status": {
-        "checkedAt": "2026-11-12T19:31:59Z",
-        "checkedDownloadURL": "https://github.com/heyskylo/horizon-ios/releases/download/v0.1.62/Horizon-iOS-0.1.62-build109-unsigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-08b095c1926aad1755e99260a51b792ac68fc63e-4972fc0e17a6.ipa",
+        "checkedAt": "2026-11-12T22:34:33Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "08b095c1926aad1755e99260a51b792ac68fc63e",
+          "date": "2026-11-12T22:01:20Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-e033407c47c8b0e28c042be5a0e0e06c-08b095c1926aad1755e99260a51b792ac68fc63e-4972fc0e17a6.ipa",
+          "size": 41020549,
+          "sha256": "4972fc0e17a6753660839ab9ccec07550660d7c47e0cb7f7e601cfd704cc0932",
+          "upstreamAssetURL": "https://api.github.com/repos/heyskylo/horizon-ios/actions/artifacts/13989438403/zip",
+          "sourceAssetName": "Horizon-game-unsigned.ipa",
+          "sourceArchiveEntry": "Horizon-game-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "actions",
+          "buildVersion": "104.1"
+        },
         {
           "buildVersion": "109",
           "date": "2026-11-12T18:01:44Z",
