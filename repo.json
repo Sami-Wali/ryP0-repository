@@ -4059,7 +4059,7 @@
       },
       "githubURL": "https://github.com/MuffinEMU/Muffin-EMU",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d4cdf928f12756d365350e205a558b9a",
         "sourceURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/tag/auto-1fc25476fed766e925251c7c53c39a3fcb64cc78",
