@@ -7925,7 +7925,14 @@
           "upstreamAssetURL": "https://github.com/flyngmt/Nookery/releases/download/v1.0.0/Nookery-v1.0.0-ios-arm64.ipa",
           "version": "1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-bc622c328a3b3821526595c5-2b566b78bda7e0c4ba7c54e5e6707b4e4cfa07a5b65a22e78189c2e28dc7c49d.ipa",
+        "sha256": "2b566b78bda7e0c4ba7c54e5e6707b4e4cfa07a5b65a22e78189c2e28dc7c49d",
+        "size": 17474473,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
