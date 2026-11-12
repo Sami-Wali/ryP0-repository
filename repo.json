@@ -1425,6 +1425,19 @@
           "ipaBundleIdentifier": "com.christianselig.Apollo",
           "releaseChannel": "release",
           "buildVersion": "288"
+        },
+        {
+          "version": "login-fix-375-test",
+          "date": "2026-06-05T17:03:33Z",
+          "downloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/login-fix-375-test/Apollo-Test-issue375.ipa",
+          "size": 119044016,
+          "sha256": "6d0972e9bb25a97d3a3fd83e257ec8778ea7dd886c140f82219ca72eaa274554",
+          "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/login-fix-375-test/Apollo-Test-issue375.ipa",
+          "sourceAssetName": "Apollo-Test-issue375.ipa",
+          "sourceAppName": "Apollo",
+          "ipaBundleIdentifier": "com.christianselig.Apollo",
+          "releaseChannel": "prerelease",
+          "buildVersion": "285"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.christianselig.Apollo-0e71f644ca21.png",
@@ -1434,7 +1447,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1.ipa",
-        "checkedAt": "2026-11-12T23:17:38Z",
+        "checkedAt": "2026-11-12T23:18:15Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -1449,7 +1462,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-3153cc2da075e43d72dd968b4666af9e",
-        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.1.1",
+        "sourceURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/login-fix-375-test",
         "workflowPath": ".github/workflows/update-app-project-3153cc2da075e43d72dd968b4666af9e.yml"
       },
       "bundleIdentifiers": [
