@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "me.ssus.placard",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "v1.6.6",
+          "date": "2026-08-21T14:27:27Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v1.6.6/placard-v1.6.6-unsigned.ipa",
+          "size": 4032175,
+          "sha256": "e28b3234aee0e0911f7fa030edee9d60119bcf5c49167eef82c3f59487620f51",
+          "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v1.6.6/placard-v1.6.6-unsigned.ipa",
+          "sourceAssetName": "placard-v1.6.6-unsigned.ipa",
+          "sourceAppName": "Placard",
+          "ipaBundleIdentifier": "me.ssus.placard",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/me.ssus.placard-5d85d4a4385b.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v1.9.2/placard-v1.9.2-unsigned.ipa",
-        "checkedAt": "2026-11-12T22:02:59Z",
+        "checkedAt": "2026-11-12T22:03:19Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-6e3b501eda8639d373c241f55239fd24",
-        "sourceURL": "https://github.com/frs0n/placard/releases/tag/v1.6.7",
+        "sourceURL": "https://github.com/frs0n/placard/releases/tag/v1.6.6",
         "workflowPath": ".github/workflows/update-app-project-6e3b501eda8639d373c241f55239fd24.yml"
       },
       "bundleIdentifiers": [
