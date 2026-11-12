@@ -7149,7 +7149,14 @@
           "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-iOS/releases/download/2.3.0/Kazumi_ios_2.3.0_no_sign.ipa",
           "version": "2.3.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "3.0.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c3bf58c9257cf5271af6482e-ae5cb56f5fa300cfaaaff63a1b30bd363b914e199b3850b7f3cafae23a86bb1e.ipa",
+        "sha256": "ae5cb56f5fa300cfaaaff63a1b30bd363b914e199b3850b7f3cafae23a86bb1e",
+        "size": 24130346,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
