@@ -2794,6 +2794,19 @@
         {
           "version": "bench-efcf41a7a320491f0e49e42cee71e0255845afb8",
           "date": "2026-09-21T00:08:41Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/bench-efcf41a7a320491f0e49e42cee71e0255845afb8/MuffinBench.ipa",
+          "size": 15570266,
+          "sha256": "e7941c713d2a7fb80019ba96e7b237933c43deacc1e4614fc7e42da477a3c237",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/bench-efcf41a7a320491f0e49e42cee71e0255845afb8/MuffinBench.ipa",
+          "sourceAssetName": "MuffinBench.ipa",
+          "sourceAppName": "MuffinEMU Bench",
+          "ipaBundleIdentifier": "com.kiddreads.MuffinEMUBench",
+          "releaseChannel": "prerelease",
+          "buildVersion": "7"
+        },
+        {
+          "version": "bench-efcf41a7a320491f0e49e42cee71e0255845afb8",
+          "date": "2026-09-21T00:08:41Z",
           "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/bench-efcf41a7a320491f0e49e42cee71e0255845afb8/MuffinBench-fakesigned.ipa",
           "size": 15923737,
           "sha256": "25211607a5228efc96a09cc3ed22f7a1f88fb56de86723888cda2f18d4fa9315",
@@ -2812,7 +2825,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-12T17:18:24Z",
+        "checkedAt": "2026-11-12T17:18:46Z",
         "message": "Updated by private automation"
       },
       "importSource": {
