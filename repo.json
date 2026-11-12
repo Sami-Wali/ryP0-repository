@@ -4253,7 +4253,14 @@
       },
       "bundleIdentifiers": [
         "com.ichitaso.regitela"
-      ]
+      ],
+      "backup": {
+        "version": "v1.0.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6c1fb77912e1a27a2dc95071-8a2985098436103b6b19198912de8760bb4e39d406c2747ec94a5f2dbe241ff4.ipa",
+        "sha256": "8a2985098436103b6b19198912de8760bb4e39d406c2747ec94a5f2dbe241ff4",
+        "size": 3533022,
+        "week": "2026-11-13"
+      }
     },
     {
       "name": "Kernarium",
