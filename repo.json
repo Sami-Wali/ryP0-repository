@@ -7273,7 +7273,14 @@
           "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.0.0/Porthole-1.0.0-480.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.3.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-2153267fcf3458bddb1f5527-3b1b4010c01e889eb330a359f9d91a92f8fc9a4a7a8afaefbcbd93ff2ba67d1e.ipa",
+        "sha256": "3b1b4010c01e889eb330a359f9d91a92f8fc9a4a7a8afaefbcbd93ff2ba67d1e",
+        "size": 210325807,
+        "week": "2026-11-13"
+      }
     },
     {
       "appType": "Daily Update",
