@@ -21,6 +21,19 @@
           "sourceAssetName": "Enmity.ipa",
           "ipaBundleIdentifier": "com.hammerandchisel.discord",
           "upstreamAssetURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa"
+        },
+        {
+          "version": "v2.2.6",
+          "date": "2025-01-08T20:24:09Z",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.Development.ipa",
+          "size": 101315675,
+          "sha256": "8c503c75b937034e700b2234dc7c5e4f7f1dc01f1370e607ea5305c138da52d2",
+          "upstreamAssetURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.Development.ipa",
+          "sourceAssetName": "Enmity.Development.ipa",
+          "sourceAppName": "Enmity",
+          "ipaBundleIdentifier": "com.hammerandchisel.discord",
+          "releaseChannel": "release",
+          "buildVersion": "69368"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.hammerandchisel.discord-6b56bd39183c.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-        "checkedAt": "2026-11-12T22:16:52Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-12T22:17:47Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-29d92f7b86ebd4ff32822865229ab68d",
-        "sourceURL": "https://github.com/enmity-mod/tweak",
+        "sourceURL": "https://github.com/enmity-mod/tweak/releases/tag/v2.2.6",
         "workflowPath": ".github/workflows/update-app-project-29d92f7b86ebd4ff32822865229ab68d.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.hammerandchisel.discord"
+      ]
     },
     {
       "name": "Apollo Reborn GLASS",
