@@ -134,6 +134,20 @@
           "ipaBundleIdentifier": "com.armsx3.ARMSX3",
           "releaseChannel": "actions",
           "buildVersion": "2"
+        },
+        {
+          "version": "7164044bc39c0cda36a394e64d32c84e518325d0",
+          "date": "2026-11-11T17:07:06Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-7164044bc39c0cda36a394e64d32c84e518325d0-0499e1c635d0.ipa",
+          "size": 40928677,
+          "sha256": "0499e1c635d02318e273d469ef501c64551c22cbae35c321c8e1fd044095df74",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/13877522181/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.armsx3.ARMSX3-3b24dd12022d.png",
@@ -143,7 +157,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.armsx3.ARMSX3-3b24dd12022dec1842ef70fdae9e1e4675c574ba702ee93be062672e36de1729.ipa",
-        "checkedAt": "2026-11-13T06:38:12Z",
+        "checkedAt": "2026-11-13T06:47:27Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -158,7 +172,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43170312858",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43064986470",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifiers": [
