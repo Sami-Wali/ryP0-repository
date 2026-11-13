@@ -209,7 +209,7 @@
       },
       "githubURL": "https://github.com/ARMSX2/ARMSX3",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
         "sourceURL": "https://github.com/ARMSX2/ARMSX3/releases/tag/ios-0.0.1",
