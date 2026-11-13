@@ -36045,11 +36045,11 @@
         "workflowPath": ".github/workflows/update-app-com-lukebrosious-theft4-0b652716.yml"
       },
       "backup": {
+        "version": "v0.3.2",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0b652716b4c8b5da286d7e43-8f7d3a2865a10f34af0cdd736ee66677ac2614207651d60267d61a47cced9f57.ipa",
         "sha256": "8f7d3a2865a10f34af0cdd736ee66677ac2614207651d60267d61a47cced9f57",
         "size": 51642084,
-        "version": "v0.3.2",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.lukebrosious.theft4",
       "bundleIdentifiers": [
