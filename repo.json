@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/hubzzzgr/SideStore-tvOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-76531d085ecd427832b29dd6e51f8fcd",
         "sourceURL": "https://github.com/hubzzzgr/SideStore-tvOS",
