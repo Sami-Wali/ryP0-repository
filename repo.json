@@ -30,7 +30,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
-        "checkedAt": "2026-11-13T11:50:06Z",
+        "checkedAt": "2026-11-13T11:51:15Z",
         "message": "Imported from verified upstream source"
       },
       "importSource": {
@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/hubzzzgr/TVContainer",
       "automation": {
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-51bc6155b60927a15755d82e9f254668",
         "sourceURL": "https://github.com/hubzzzgr/TVContainer",
