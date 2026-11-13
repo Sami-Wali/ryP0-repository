@@ -30535,11 +30535,11 @@
         "workflowPath": ".github/workflows/update-app-app-9a2ffddfb1834d8998699fec4fcba929.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5fbe64a6d7afd6ae5b124bc0-73d433b8ea17565506a8c7c51a43c506453f455be8fe150e9871869c70c265bf.ipa",
-        "sha256": "73d433b8ea17565506a8c7c51a43c506453f455be8fe150e9871869c70c265bf",
-        "size": 6062308,
-        "version": "v0.10.0",
-        "week": "2026-11-06"
+        "version": "v0.11.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5fbe64a6d7afd6ae5b124bc0-9ddd60a75a50eaf2bf9fa0f0e70464d14b3c00c0b5fdf5e0c005df5fea909f79.ipa",
+        "sha256": "9ddd60a75a50eaf2bf9fa0f0e70464d14b3c00c0b5fdf5e0c005df5fea909f79",
+        "size": 6082217,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "dev.bluewake.BlueWake",
       "bundleIdentifiers": [
