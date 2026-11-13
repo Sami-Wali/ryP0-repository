@@ -35371,11 +35371,11 @@
         "workflowPath": ".github/workflows/update-app-com-linkpass888-airbeep-97a0139d.yml"
       },
       "backup": {
+        "version": "v2.5.2",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-97a0139df6374145ed2a5278-c7eff1f8613535d4ac04caa40241add4c0acd59190a134d024788531ee97afe9.ipa",
         "sha256": "c7eff1f8613535d4ac04caa40241add4c0acd59190a134d024788531ee97afe9",
         "size": 5880046,
-        "version": "v2.5.2",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.linkpass888.airbeep",
       "bundleIdentifiers": [
