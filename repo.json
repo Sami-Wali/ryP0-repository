@@ -2757,13 +2757,39 @@
       "name": "Muffin-EMU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-13T01:32:55Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-13T06:41:22Z",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU-fakesigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v11.4",
+          "date": "2026-11-13T02:45:43Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU-fakesigned.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU-fakesigned.ipa",
+          "size": 132128504,
+          "sha256": "7f29ea58c706bbe79507f7a356a7310515c80a19a0ee3f33235a1ffbf7263c1d",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "16",
+          "sourceAppName": "MuffinEMU 11.4"
+        },
+        {
+          "version": "v11.4",
+          "date": "2026-11-13T02:45:43Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU.ipa",
+          "size": 132127974,
+          "sha256": "5d4c7f412dcb829553aedca1cc927093d4a105bcccf43291b2ac9c6ccc7997ff",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "16",
+          "sourceAppName": "MuffinEMU 11.4"
+        },
         {
           "version": "v11.3",
           "date": "2026-11-13T00:43:33Z",
