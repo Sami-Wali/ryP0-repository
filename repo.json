@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Caterpillar",
+      "catalogID": "project-18e7e885130f05e735e2a8e2922b4f40",
+      "bundleIdentifier": "com.sytsu.caterpillar",
+      "developerName": "sytsu",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-13T06:11:33Z",
+          "downloadURL": "https://github.com/sytsu/Caterpillar/releases/download/v1.0/Caterpillar.ipa",
+          "size": 2257308,
+          "buildVersion": "2",
+          "releaseChannel": "release",
+          "sha256": "075f28cfbf18571aa671c022b89709815b7a203de8abeafcc8a083f4cf0e8d7e",
+          "sourceAppName": "Caterpillar",
+          "sourceAssetName": "Caterpillar.ipa",
+          "ipaBundleIdentifier": "com.sytsu.caterpillar",
+          "upstreamAssetURL": "https://github.com/sytsu/Caterpillar/releases/download/v1.0/Caterpillar.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.sytsu.caterpillar-075f28cfbf18.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/sytsu/Caterpillar/releases/download/v1.0/Caterpillar.ipa",
+        "checkedAt": "2026-11-13T07:30:01Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/sytsu/Caterpillar/releases/download/v1.0/Caterpillar.ipa",
+        "sourceURL": "https://github.com/sytsu/Caterpillar"
+      },
+      "githubURL": "https://github.com/sytsu/Caterpillar",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-18e7e885130f05e735e2a8e2922b4f40",
+        "sourceURL": "https://github.com/sytsu/Caterpillar",
+        "workflowPath": ".github/workflows/update-app-project-18e7e885130f05e735e2a8e2922b4f40.yml"
+      }
+    },
+    {
       "name": "ARMSX3",
       "catalogID": "project-8626e5db6200db4e70c0ff2cdbd9a479",
       "bundleIdentifier": "com.armsx3.ARMSX3",
