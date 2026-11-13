@@ -40428,11 +40428,11 @@
         "workflowPath": ".github/workflows/update-app-com-stik-stikdebug-fd6dcaff.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fd6dcaff922752dac449a291-f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced.ipa",
-        "sha256": "f3b4e1ea39a0b84ced25158c21be8f9c08965bbbe525daf5a18f199b1fc3aced",
-        "size": 16818331,
-        "version": "3.2.0",
-        "week": "2026-11-06"
+        "version": "3.2.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fd6dcaff922752dac449a291-2f238d89ba828d41b7830e4b1bae44ee6fd04e50d3d8c0ffe15ad47bd66af170.ipa",
+        "sha256": "2f238d89ba828d41b7830e4b1bae44ee6fd04e50d3d8c0ffe15ad47bd66af170",
+        "size": 16924687,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.stik.stikdebug",
       "bundleIdentifiers": [
