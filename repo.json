@@ -35738,11 +35738,11 @@
         "workflowPath": ".github/workflows/update-app-com-devz-nbahangtime-9bde75b1.yml"
       },
       "backup": {
+        "version": "v0.4.4",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9bde75b1846769ccb4c4923b-34886a02ca4202477c536f4fa7a7d12bab9a860190fd2a3079a665c662b30cbd.ipa",
         "sha256": "34886a02ca4202477c536f4fa7a7d12bab9a860190fd2a3079a665c662b30cbd",
         "size": 5910890,
-        "version": "v0.4.4",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.devz.nbahangtime",
       "bundleIdentifiers": [
