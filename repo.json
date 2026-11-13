@@ -35016,11 +35016,11 @@
         "workflowPath": ".github/workflows/update-app-com-g8row-photosbackup-9ef1394b.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9ef1394b8903c981d62a7202-3beae99581e1be7cd607bfe0365caa61839e46ff8e3eca04ba2db36de0c9c90c.ipa",
-        "sha256": "3beae99581e1be7cd607bfe0365caa61839e46ff8e3eca04ba2db36de0c9c90c",
-        "size": 2716224,
-        "version": "0.3.7",
-        "week": "2026-11-06"
+        "version": "0.3.8",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9ef1394b8903c981d62a7202-e1226663ec4e5274896232a2302e1c16f911aada7b29daab732906ab850d317c.ipa",
+        "sha256": "e1226663ec4e5274896232a2302e1c16f911aada7b29daab732906ab850d317c",
+        "size": 2816914,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.g8row.photosbackup",
       "bundleIdentifiers": [
