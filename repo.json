@@ -42777,11 +42777,11 @@
         "workflowPath": ".github/workflows/update-app-mond.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-43e7c1a03c6ec978ae7aaba1-84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633.ipa",
-        "sha256": "84109cb5ee11964ad92530e3c2e561e4164eab7711a1556cfa32e7fe4c2d8633",
-        "size": 3385571,
-        "version": "development",
-        "week": "2026-11-06"
+        "version": "3_1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-43e7c1a03c6ec978ae7aaba1-9ad223103e7f0c6825df808cf5267b7518e94883fca3b04941b40c06dbdfc323.ipa",
+        "sha256": "9ad223103e7f0c6825df808cf5267b7518e94883fca3b04941b40c06dbdfc323",
+        "size": 3417624,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.rooootdev.mond",
       "bundleIdentifiers": [
