@@ -38940,11 +38940,11 @@
         "workflowPath": ".github/workflows/update-app-com-devz-sonicunleashed-aa78ecec.yml"
       },
       "backup": {
+        "version": "v1.1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-aa78ecec516af0848490b061-01922af57e83993baf45253ea4e7815b095ebee89b8e345aa1eb5a245a232c81.ipa",
         "sha256": "01922af57e83993baf45253ea4e7815b095ebee89b8e345aa1eb5a245a232c81",
         "size": 55943360,
-        "version": "v1.1.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.devz.sonicunleashed",
       "bundleIdentifiers": [
