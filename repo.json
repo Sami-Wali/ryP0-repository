@@ -159,7 +159,7 @@
       },
       "githubURL": "https://github.com/pwnapplehat/TetherlessiOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-7901eebf7990acbf9fc66aacf0000f11",
         "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/tag/v1.0.0",
