@@ -90,6 +90,19 @@
         {
           "version": "v1.1.0",
           "date": "2026-11-09T05:21:45Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.1.0/Tetherless-1.1.0-Modern.ipa",
+          "size": 6706180,
+          "sha256": "08a3c88e99591ed062597c7b7019321a6f88d8154d9b90bdc8682ffb4e7492d8",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.1.0/Tetherless-1.1.0-Modern.ipa",
+          "sourceAssetName": "Tetherless-1.1.0-Modern.ipa",
+          "sourceAppName": "Tetherless",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "releaseChannel": "release",
+          "buildVersion": "88"
+        },
+        {
+          "version": "v1.1.0",
+          "date": "2026-11-09T05:21:45Z",
           "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.1.0/Tetherless-1.1.0-Legacy.ipa",
           "size": 6712606,
           "sha256": "5325f5a041b646b2a9afd08c95d86e61895335907c9c25ccda4694dfe2038982",
@@ -108,7 +121,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
-        "checkedAt": "2026-11-13T12:06:42Z",
+        "checkedAt": "2026-11-13T12:07:04Z",
         "message": "Updated by private automation"
       },
       "importSource": {
