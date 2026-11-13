@@ -175,6 +175,19 @@
           "ipaBundleIdentifier": "com.armsx3.ARMSX3",
           "releaseChannel": "beta",
           "buildVersion": "2"
+        },
+        {
+          "version": "ios-0.0.1",
+          "date": "2026-11-08T22:11:15Z",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.1/ARMSX3-0.0.1.ipa",
+          "size": 40816535,
+          "sha256": "a4965d51b06fc75d60821bfc0d395ba50db5586b37cb6e44f366cddf57dcc621",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.1/ARMSX3-0.0.1.ipa",
+          "sourceAssetName": "ARMSX3-0.0.1.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "beta",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.armsx3.ARMSX3-3b24dd12022d.png",
@@ -184,7 +197,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.armsx3.ARMSX3-3b24dd12022dec1842ef70fdae9e1e4675c574ba702ee93be062672e36de1729.ipa",
-        "checkedAt": "2026-11-13T06:49:46Z",
+        "checkedAt": "2026-11-13T06:50:41Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -199,7 +212,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/releases/tag/ios-0.0.2",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/releases/tag/ios-0.0.1",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifiers": [
