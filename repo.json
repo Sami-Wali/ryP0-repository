@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/sytsu/Caterpillar",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-18e7e885130f05e735e2a8e2922b4f40",
         "sourceURL": "https://github.com/sytsu/Caterpillar",
