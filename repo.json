@@ -40035,11 +40035,11 @@
         "workflowPath": ".github/workflows/update-app-software-iridium-b8778bc6.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b8778bc6f269d8114e3d9b62-84332bb39486b100b9598c80dcc7c53029e51ecc081c7a5381654fb265dc88c1.ipa",
-        "sha256": "84332bb39486b100b9598c80dcc7c53029e51ecc081c7a5381654fb265dc88c1",
-        "size": 264855184,
-        "version": "0c9ea55c003163b74c314097d254d2a10daa7d22",
-        "week": "2026-11-06"
+        "version": "976654d8ebf612c5e82e7debf6f62be234dd29ac",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b8778bc6f269d8114e3d9b62-8992d16ae605652b1d880f7fef6e6b8b43bd94d5f73ed3544331dd07df029dec.ipa",
+        "sha256": "8992d16ae605652b1d880f7fef6e6b8b43bd94d5f73ed3544331dd07df029dec",
+        "size": 300614116,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "software.iridium",
       "bundleIdentifiers": [
