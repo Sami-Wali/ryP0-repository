@@ -3532,13 +3532,39 @@
       "name": "Muffin-EMU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-13T13:34:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-13T17:34:06Z",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4.1/MuffinEMU-fakesigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v11.4.1",
+          "date": "2026-11-13T17:30:03Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4.1/MuffinEMU-fakesigned.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4.1/MuffinEMU-fakesigned.ipa",
+          "size": 132298037,
+          "sha256": "8eafabbc00136f63ba0eb9d42fad58fc60ed90bad34ca27d8b85d0b6e102a96a",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "19",
+          "sourceAppName": "MuffinEMU 11.4.1"
+        },
+        {
+          "version": "v11.4.1",
+          "date": "2026-11-13T17:30:03Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4.1/MuffinEMU.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.4.1/MuffinEMU.ipa",
+          "size": 132297467,
+          "sha256": "08a702ce67a846c35a6d1c0fe0a8fa0974f056dc0ab167c1449cce91deeb8834",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "19",
+          "sourceAppName": "MuffinEMU 11.4.1"
+        },
         {
           "buildVersion": "16",
           "date": "2026-11-13T02:45:43Z",
