@@ -179,6 +179,19 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "v1.0.8",
+          "date": "2026-11-13T15:37:33Z",
+          "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.8/GestaltX_1.0.8.ipa",
+          "upstreamAssetURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.8/GestaltX_1.0.8.ipa",
+          "size": 6763582,
+          "sha256": "0a45fd4763b8e4a0c42b3dc6238d64140469a6d2d169e4a739d4f10fdc1c0e32",
+          "ipaBundleIdentifier": "com.huami.gestaltprobe",
+          "sourceAssetName": "GestaltX_1.0.8.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "11132300",
+          "sourceAppName": "GestaltX"
+        },
+        {
           "version": "1.0.7",
           "date": "2026-11-12T19:18:23Z",
           "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.7/GestaltX_1.0.7.ipa",
@@ -263,9 +276,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.7/GestaltX_1.0.7.ipa",
-        "checkedAt": "2026-11-13T13:34:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-13T15:41:03Z",
+        "checkedDownloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.8/GestaltX_1.0.8.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -283,6 +296,7 @@
         "workflowPath": ".github/workflows/update-app-project-9f0e28b80d39fb8d31db92c7f207617d.yml"
       },
       "bundleIdentifiers": [
+        "com.huami.gestaltprobe",
         "com.huami.gestultx"
       ]
     },
