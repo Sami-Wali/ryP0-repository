@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.huami.gestultx",
           "releaseChannel": "release",
           "buildVersion": "11100017"
+        },
+        {
+          "version": "v1.0.2",
+          "date": "2026-11-09T10:06:31Z",
+          "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.2/GestaltX_1.0.2.ipa",
+          "size": 2489231,
+          "sha256": "4748787786d45b57ff03449669a577ab086ec8b73b96d9109d72f4f6eca13f58",
+          "upstreamAssetURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.2/GestaltX_1.0.2.ipa",
+          "sourceAssetName": "GestaltX_1.0.2.ipa",
+          "sourceAppName": "GestaltX",
+          "ipaBundleIdentifier": "com.huami.gestultx",
+          "releaseChannel": "release",
+          "buildVersion": "11091750"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.huami.gestultx-226f1a6ceb52.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.7/GestaltX_1.0.7.ipa",
-        "checkedAt": "2026-11-13T12:01:30Z",
+        "checkedAt": "2026-11-13T12:01:53Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9f0e28b80d39fb8d31db92c7f207617d",
-        "sourceURL": "https://github.com/huamidev/GestaltX/releases/tag/v1.0.3",
+        "sourceURL": "https://github.com/huamidev/GestaltX/releases/tag/v1.0.2",
         "workflowPath": ".github/workflows/update-app-project-9f0e28b80d39fb8d31db92c7f207617d.yml"
       },
       "bundleIdentifiers": [
