@@ -40901,11 +40901,11 @@
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9a109c3f32fcde31aaeefe73-577c2c44052352d8a1ff4839fb2b60f0353e42d7842276ab8f0f823efc1c56d3.ipa",
-        "sha256": "577c2c44052352d8a1ff4839fb2b60f0353e42d7842276ab8f0f823efc1c56d3",
-        "size": 48360698,
-        "version": "release-v2.2.2-build-11498",
-        "week": "2026-11-06"
+        "version": "release-v2.3.2-build-11934",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9a109c3f32fcde31aaeefe73-3f80bb1506cb1876d85cf714bd24080325821a3b8c279a9e87d47e98c9fa415a.ipa",
+        "sha256": "3f80bb1506cb1876d85cf714bd24080325821a3b8c279a9e87d47e98c9fa415a",
+        "size": 49641629,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.xenios.app",
       "bundleIdentifiers": [
