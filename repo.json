@@ -37658,11 +37658,11 @@
         "workflowPath": ".github/workflows/update-app-thewonderofyou-feather-36b84335.yml"
       },
       "backup": {
+        "version": "2.9.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-36b8433512c580b02d0514f6-833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea.ipa",
         "sha256": "833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea",
         "size": 14241853,
-        "version": "2.9.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "thewonderofyou.Feather",
       "category": "Sideloading",
