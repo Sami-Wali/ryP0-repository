@@ -39264,11 +39264,11 @@
         "workflowPath": ".github/workflows/update-app-com-mafty-dukex-a9bdf44b.yml"
       },
       "backup": {
+        "version": "1.0.2",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a9bdf44b40816f3f04707d0b-06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b.ipa",
         "sha256": "06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b",
         "size": 20345841,
-        "version": "1.0.2",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.mafty.dukex",
       "bundleIdentifiers": [
