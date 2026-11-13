@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/hubzzzgr/TVContainer",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-51bc6155b60927a15755d82e9f254668",
         "sourceURL": "https://github.com/hubzzzgr/TVContainer",
