@@ -36406,11 +36406,11 @@
         "workflowPath": ".github/workflows/update-app-com-rileytestut-altstore-1f602bad.yml"
       },
       "backup": {
+        "version": "v2.3",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-1f602bade691c588206a63bb-3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34.ipa",
         "sha256": "3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34",
         "size": 40616419,
-        "version": "v2.3",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.rileytestut.AltStore",
       "bundleIdentifiers": [
