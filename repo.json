@@ -37404,11 +37404,11 @@
         "workflowPath": ".github/workflows/update-app-org-emexlabs-nyxian-c609773b.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c609773bd6ac27fb1668f37c-62c23dbae27ee6098c43dfec4d2a7da82996a3a4ca4cd679239864305fa51943.ipa",
-        "sha256": "62c23dbae27ee6098c43dfec4d2a7da82996a3a4ca4cd679239864305fa51943",
-        "size": 132643807,
-        "version": "8e4f791172f000e3dedbf80211138949cd23e9ba",
-        "week": "2026-11-06"
+        "version": "9236c22f146a0f63bb597e629573e151ae4d4df7",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c609773bd6ac27fb1668f37c-1a9a666b9fee500ef2774a4d8f3cc4e7ac4f2b9160676b8c74af960991121730.ipa",
+        "sha256": "1a9a666b9fee500ef2774a4d8f3cc4e7ac4f2b9160676b8c74af960991121730",
+        "size": 132653461,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "org.emexlabs.nyxian",
       "bundleIdentifiers": [
