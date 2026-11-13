@@ -22,6 +22,20 @@
           "ipaBundleIdentifier": "com.armsx3.ARMSX3",
           "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/13984778243/zip",
           "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa"
+        },
+        {
+          "version": "a2881a6069225d052131dd5c650796e2d9b792f1",
+          "date": "2026-11-12T17:39:20Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-a2881a6069225d052131dd5c650796e2d9b792f1-093b96dd5fcb.ipa",
+          "size": 40937014,
+          "sha256": "093b96dd5fcb06818a21c0264d69233972a096a6335966f24dc3f755b31d3753",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/13969759179/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "2"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.armsx3.ARMSX3-3b24dd12022d.png",
@@ -31,8 +45,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.armsx3.ARMSX3-3b24dd12022dec1842ef70fdae9e1e4675c574ba702ee93be062672e36de1729.ipa",
-        "checkedAt": "2026-11-13T06:22:17Z",
-        "message": "Imported and mirrored after IPA validation"
+        "checkedAt": "2026-11-13T06:26:43Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -46,9 +60,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43271718221",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.armsx3.ARMSX3"
+      ]
     },
     {
       "name": "tweak",
