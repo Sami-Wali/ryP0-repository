@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "TVContainer",
+      "catalogID": "project-51bc6155b60927a15755d82e9f254668",
+      "bundleIdentifier": "com.hubzzzgr.tvcontainer",
+      "developerName": "hubzzzgr",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.0.6",
+          "date": "2026-11-11T23:48:49Z",
+          "downloadURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
+          "size": 5323157,
+          "buildVersion": "7",
+          "releaseChannel": "release",
+          "sha256": "3afb362576b9d213dea35f389e9de82c26ca0aa9aa1278fd0f4495601853dc1b",
+          "sourceAppName": "TVContainer",
+          "sourceAssetName": "TVContainer.ipa",
+          "ipaBundleIdentifier": "com.hubzzzgr.tvcontainer",
+          "upstreamAssetURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/hubzzzgr/TVContainer/main/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon1024.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
+        "checkedAt": "2026-11-13T11:50:06Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
+        "sourceURL": "https://github.com/hubzzzgr/TVContainer"
+      },
+      "githubURL": "https://github.com/hubzzzgr/TVContainer",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-51bc6155b60927a15755d82e9f254668",
+        "sourceURL": "https://github.com/hubzzzgr/TVContainer",
+        "workflowPath": ".github/workflows/update-app-project-51bc6155b60927a15755d82e9f254668.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-18e7e885130f05e735e2a8e2922b4f40",
