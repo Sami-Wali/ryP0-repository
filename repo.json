@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "SideStore-tvOS",
+      "catalogID": "project-76531d085ecd427832b29dd6e51f8fcd",
+      "bundleIdentifier": "io.github.hubzzzgr.SideStoreTV",
+      "developerName": "hubzzzgr",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "date": "2026-11-09T20:34:43Z",
+          "downloadURL": "https://github.com/hubzzzgr/SideStore-tvOS/releases/download/v0.7.0-tvos.0702/SideTVstore-unsigned.ipa",
+          "size": 23505258,
+          "buildVersion": "0702",
+          "releaseChannel": "release",
+          "sha256": "d47d3b0912f3f878a56f93b19153af62225eff4a25db5279f706103a2ebcf5cd",
+          "sourceAppName": "SideTVstore",
+          "sourceAssetName": "SideTVstore-unsigned.ipa",
+          "ipaBundleIdentifier": "io.github.hubzzzgr.SideStoreTV",
+          "upstreamAssetURL": "https://github.com/hubzzzgr/SideStore-tvOS/releases/download/v0.7.0-tvos.0702/SideTVstore-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.hubzzzgr.SideStoreTV-d47d3b0912f3.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/hubzzzgr/SideStore-tvOS/releases/download/v0.7.0-tvos.0702/SideTVstore-unsigned.ipa",
+        "checkedAt": "2026-11-13T11:55:14Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/hubzzzgr/SideStore-tvOS/releases/download/v0.7.0-tvos.0702/SideTVstore-unsigned.ipa",
+        "sourceURL": "https://github.com/hubzzzgr/SideStore-tvOS"
+      },
+      "githubURL": "https://github.com/hubzzzgr/SideStore-tvOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-76531d085ecd427832b29dd6e51f8fcd",
+        "sourceURL": "https://github.com/hubzzzgr/SideStore-tvOS",
+        "workflowPath": ".github/workflows/update-app-project-76531d085ecd427832b29dd6e51f8fcd.yml"
+      }
+    },
+    {
       "name": "TVContainer",
       "catalogID": "project-51bc6155b60927a15755d82e9f254668",
       "bundleIdentifier": "com.hubzzzgr.tvcontainer",
