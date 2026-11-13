@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "TetherlessiOS",
+      "catalogID": "project-7901eebf7990acbf9fc66aacf0000f11",
+      "bundleIdentifier": "com.ipaside.tetherless",
+      "developerName": "pwnapplehat",
+      "localizedDescription": "GitHub project request: pwnapplehat/TetherlessiOS.",
+      "subtitle": "GitHub project request: pwnapplehat/TetherlessiOS.",
+      "category": "Sideloading",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-11-12T09:30:16Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa",
+          "size": 7085766,
+          "buildVersion": "91",
+          "releaseChannel": "release",
+          "sha256": "460838b00ee7d548d9c7fda49780052b269062abd13dd6813b211e8ef98159be",
+          "sourceAppName": "Tetherless",
+          "sourceAssetName": "Tetherless-1.2.1-Legacy.ipa",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ipaside.tetherless-460838b00ee7.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa",
+        "checkedAt": "2026-11-13T12:03:20Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa",
+        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS"
+      },
+      "githubURL": "https://github.com/pwnapplehat/TetherlessiOS",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-7901eebf7990acbf9fc66aacf0000f11",
+        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS",
+        "workflowPath": ".github/workflows/update-app-project-7901eebf7990acbf9fc66aacf0000f11.yml"
+      }
+    },
+    {
       "name": "GestaltX",
       "catalogID": "project-9f0e28b80d39fb8d31db92c7f207617d",
       "bundleIdentifier": "com.huami.gestultx",
