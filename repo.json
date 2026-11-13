@@ -33091,11 +33091,11 @@
         "workflowPath": ".github/workflows/update-app-org-zhaohe-miniwatts-c828cf18.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c828cf1845d52f1b4ba123ff-093f5af9b4294b985fb11ba0b45793853333a5f06792e3cbe2c2823d60c94506.ipa",
-        "sha256": "093f5af9b4294b985fb11ba0b45793853333a5f06792e3cbe2c2823d60c94506",
-        "size": 3332420,
-        "version": "v1.6.0",
-        "week": "2026-11-06"
+        "version": "v1.7.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c828cf1845d52f1b4ba123ff-c8f1332e6f41244be9309a465d17dadef571ffe88d6c650af8f04c2b485768f8.ipa",
+        "sha256": "c8f1332e6f41244be9309a465d17dadef571ffe88d6c650af8f04c2b485768f8",
+        "size": 3374224,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "org.zhaohe.MiniWatts",
       "bundleIdentifiers": [
