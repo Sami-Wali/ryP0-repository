@@ -11,7 +11,7 @@
       },
       "bundleIdentifier" : "com.sytsu.caterpillar",
       "catalogID" : "project-18e7e885130f05e735e2a8e2922b4f40",
-      "category" : "Tools",
+      "category" : "EMU",
       "developerName" : "sytsu",
       "githubProjectCard" : true,
       "githubURL" : "https:\/\/github.com\/sytsu\/Caterpillar",
@@ -23,7 +23,6 @@
         "originURL" : "https:\/\/github.com\/sytsu\/Caterpillar\/releases\/download\/v1.0\/Caterpillar.ipa",
         "sourceURL" : "https:\/\/github.com\/sytsu\/Caterpillar"
       },
-      "localizedDescription" : "",
       "name" : "Caterpillar",
       "status" : {
         "checkedAt" : "2026-11-13T07:33:47Z",
@@ -31,7 +30,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
