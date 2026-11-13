@@ -10,6 +10,19 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "v1.2.1",
+          "date": "2026-11-12T09:30:16Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
+          "size": 7078891,
+          "sha256": "7b272a2a32759a3b6bf96b1f5cf9b3f0d15a783e898883eebc27824ca7aa215a",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
+          "sourceAssetName": "Tetherless-1.2.1-Modern.ipa",
+          "sourceAppName": "Tetherless",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "releaseChannel": "release",
+          "buildVersion": "91"
+        },
+        {
           "version": "1.2.1",
           "date": "2026-11-12T09:30:16Z",
           "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Legacy.ipa",
-        "checkedAt": "2026-11-13T12:03:20Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
+        "checkedAt": "2026-11-13T12:04:27Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-7901eebf7990acbf9fc66aacf0000f11",
-        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS",
+        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/tag/v1.2.1",
         "workflowPath": ".github/workflows/update-app-project-7901eebf7990acbf9fc66aacf0000f11.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.ipaside.tetherless"
+      ]
     },
     {
       "name": "GestaltX",
