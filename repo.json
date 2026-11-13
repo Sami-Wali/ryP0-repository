@@ -34668,11 +34668,11 @@
         "workflowPath": ".github/workflows/update-app-com-roamcontrol-00bbe3fc.yml"
       },
       "backup": {
+        "version": "v0.9.9",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-00bbe3fc2887bebe064d4301-211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e.ipa",
         "sha256": "211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e",
         "size": 4627321,
-        "version": "v0.9.9",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.roamcontrol",
       "bundleIdentifiers": [
