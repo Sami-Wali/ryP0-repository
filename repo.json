@@ -361,6 +361,19 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "v1.1.1",
+          "date": "2026-11-13T16:46:07Z",
+          "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "upstreamAssetURL": "https://github.com/huamidev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "size": 6774794,
+          "sha256": "0621b070cafacb2f1f83fad459697d02263e513b04d77b462da333c5b0a4e708",
+          "ipaBundleIdentifier": "com.huami.gestultx",
+          "sourceAssetName": "GestaltX_1.1.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "11140102",
+          "sourceAppName": "GestaltX"
+        },
+        {
           "version": "v1.0.9",
           "date": "2026-11-13T16:20:37Z",
           "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.9/GestaltX_1.0.9.ipa",
@@ -471,8 +484,8 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-13T16:25:36Z",
-        "checkedDownloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.9/GestaltX_1.0.9.ipa",
+        "checkedAt": "2026-11-13T17:01:14Z",
+        "checkedDownloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
         "message": "Updated after package verification"
       },
       "importSource": {
