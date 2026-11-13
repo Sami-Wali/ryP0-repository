@@ -21,6 +21,19 @@
           "sourceAssetName": "Hinoki-1.5.0.ipa",
           "ipaBundleIdentifier": "org.vita3k.ios",
           "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.0/Hinoki-1.5.0.ipa"
+        },
+        {
+          "version": "v1.4.0.1",
+          "date": "2026-11-12T05:11:14Z",
+          "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0.1/Hinoki-1.4.0.1.ipa",
+          "size": 15414753,
+          "sha256": "b6e24326a29984a170ea9d4fd2d75c06a71697216c4e45590f0280993be4bb67",
+          "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.4.0.1/Hinoki-1.4.0.1.ipa",
+          "sourceAssetName": "Hinoki-1.4.0.1.ipa",
+          "sourceAppName": "Hinoki",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "releaseChannel": "release",
+          "buildVersion": "188"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.vita3k.ios-6be86eefe5ad.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.0/Hinoki-1.5.0.ipa",
-        "checkedAt": "2026-11-13T16:55:08Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-13T16:55:54Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-32f827fec61de964a90c7947c1f3041e",
-        "sourceURL": "https://github.com/oledz-i/Hinoki",
+        "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.4.0.1",
         "workflowPath": ".github/workflows/update-app-project-32f827fec61de964a90c7947c1f3041e.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "org.vita3k.ios"
+      ]
     },
     {
       "name": "TetherlessiOS",
