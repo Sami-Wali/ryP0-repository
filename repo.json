@@ -2344,7 +2344,7 @@
       "name": "placard",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-13T15:00:38Z",
+        "checkedAt": "2026-11-13T15:05:34Z",
         "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.0/placard-v2.0.0-unsigned.ipa",
         "message": "Updated after package verification"
       },
@@ -2353,11 +2353,11 @@
       "versions": [
         {
           "version": "v2.0.0",
-          "date": "2026-11-13T15:00:00Z",
+          "date": "2026-11-13T15:02:01Z",
           "downloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.0/placard-v2.0.0-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v2.0.0/placard-v2.0.0-unsigned.ipa",
-          "size": 6667462,
-          "sha256": "81733ab98126ed8855492b3a0a852a605aa297616dcbe5ec08da41138d86f97e",
+          "size": 6678231,
+          "sha256": "678cb7b4934011f72037f6bd1f24b43aaf07fcb81b20cf94e22da7d08199bc57",
           "ipaBundleIdentifier": "me.ssus.placard",
           "sourceAssetName": "placard-v2.0.0-unsigned.ipa",
           "releaseChannel": "release",
