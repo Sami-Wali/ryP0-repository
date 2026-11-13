@@ -30374,9 +30374,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "app-d4f5309c64c94e4ea74bfcf1f0032d33",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly",
+        "configId": "app-d4f5309c64c94e4ea74bfcf1f0032d33",
+        "sourceURL": "https://github.com/LiveContainer/LiveContainer/actions/runs/43434904554",
         "workflowPath": ".github/workflows/update-app-app-d4f5309c64c94e4ea74bfcf1f0032d33.yml"
       },
       "backup": {
@@ -30405,12 +30405,24 @@
       "name": "LiveContainer",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-        "checkedAt": "2026-11-13T13:34:39Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-04d3c626cdbf906d3a7f0f4a6846eb51496388b4-715d476a0a6f.ipa",
+        "checkedAt": "2026-11-13T13:46:35Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "04d3c626cdbf906d3a7f0f4a6846eb51496388b4",
+          "date": "2026-11-13T13:35:00Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-d4f5309c64c94e4ea74bfcf1f0032d33-04d3c626cdbf906d3a7f0f4a6846eb51496388b4-715d476a0a6f.ipa",
+          "size": 4801364,
+          "sha256": "715d476a0a6fcfc60d80e59270f4b9ebee5179b297993fe1b6fbd948585db540",
+          "upstreamAssetURL": "https://api.github.com/repos/LiveContainer/LiveContainer/actions/artifacts/14042563543/zip",
+          "sourceAssetName": "LiveContainer.ipa",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "releaseChannel": "actions",
+          "buildVersion": "3.8.13"
+        },
         {
           "date": "2026-11-08T09:11:52Z",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
@@ -30418,7 +30430,8 @@
           "size": 4797973,
           "sourceAssetName": "LiveContainer.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "version": "nightly"
+          "version": "nightly",
+          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.11",
