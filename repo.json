@@ -20566,14 +20566,20 @@
       "localizedDescription": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
       "name": "zContainer",
       "status": {
-        "checkedAt": "2026-11-13T07:33:47Z",
-        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.1.1-8.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.2-9.ipa",
+        "checkedAt": "2026-11-13T09:01:23Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "zContainer runs as many apps as you like inside one app, so a free Apple Account's 3 slots stop being a limit. It looks and works like your Home Screen, with pages, a dock, search and its own Settings. Install it from Zeus and it comes with Zeus's certificate, ready to sign the apps you add. Apps in zContainer can't send notifications or use extensions, and they share files. zContainer is built on LiveContainer and is free software under the AGPL. Source: https://github.com/getzeusapp/LiveContainer/tree/zcontainer",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-11-13T00:00:00Z",
+          "downloadURL": "https://repo.getzeus.app/assets/apps/zcontainer/zContainer-1.2-9.ipa",
+          "size": 10100627
+        },
         {
           "buildVersion": "8",
           "date": "2026-10-28T00:00:00Z",
