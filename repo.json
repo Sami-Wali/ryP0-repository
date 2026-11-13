@@ -2591,14 +2591,40 @@
       "localizedDescription": "",
       "name": "Muffin-EMU",
       "status": {
-        "checkedAt": "2026-11-12T19:31:59Z",
-        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/nightly/MuffinEMU-fakesigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedAt": "2026-11-13T00:49:51Z",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU-fakesigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v11.3",
+          "date": "2026-11-13T00:43:33Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU-fakesigned.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU-fakesigned.ipa",
+          "size": 155492405,
+          "sha256": "d4114b03e7798661cd24da8f0072c62bf6a9585cbd4290e697ac6024faef9164",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "9",
+          "sourceAppName": "MuffinEMU 11.3"
+        },
+        {
+          "version": "v11.3",
+          "date": "2026-11-13T00:43:33Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.3/MuffinEMU.ipa",
+          "size": 155491840,
+          "sha256": "24ff5679f572675a65ac612a379fbdc7a8dd1f2128991a2601530930d6ace338",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "9",
+          "sourceAppName": "MuffinEMU 11.3"
+        },
         {
           "buildVersion": "717",
           "date": "2026-11-02T16:11:56Z",
