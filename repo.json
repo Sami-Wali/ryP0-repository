@@ -7747,14 +7747,40 @@
       "localizedDescription": "",
       "name": "ipadn",
       "status": {
-        "checkedAt": "2026-11-13T07:33:47Z",
-        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.0.0/iPadn-2.0.0-unsigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedAt": "2026-11-13T12:56:09Z",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.1.0",
+          "date": "2026-11-13T12:52:49Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-unsigned.ipa",
+          "size": 48815240,
+          "sha256": "ce00be957a938cb26446ba0aac34c0b774e0aed8023caf0df09ce9e3ad4ec282",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.1.0-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "30",
+          "sourceAppName": "iPadn"
+        },
+        {
+          "version": "v2.1.0",
+          "date": "2026-11-13T12:52:49Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-lite-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-lite-unsigned.ipa",
+          "size": 48684606,
+          "sha256": "17a43e238b03f22910d8cda079c4be60f52523594feabadcf045315d08f7fb6f",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.1.0-lite-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "30",
+          "sourceAppName": "iPadn"
+        },
         {
           "buildVersion": "28",
           "date": "2026-11-12T10:41:39Z",
