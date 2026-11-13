@@ -34793,11 +34793,11 @@
         "workflowPath": ".github/workflows/update-app-dev-kartpad-app-6eef8493.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6eef8493aba4d246df25c03f-e97759c15950138635830449d4e9e1a220c43642ed49c54b5655ecb9facee375.ipa",
-        "sha256": "e97759c15950138635830449d4e9e1a220c43642ed49c54b5655ecb9facee375",
-        "size": 9444166,
-        "version": "v0.8.7",
-        "week": "2026-11-06"
+        "version": "v0.8.10",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6eef8493aba4d246df25c03f-e0a6e57cab29b9ecc10d415b9e3335489e62014e2614e390127ead433f39d2c7.ipa",
+        "sha256": "e0a6e57cab29b9ecc10d415b9e3335489e62014e2614e390127ead433f39d2c7",
+        "size": 9449549,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "dev.kartpad.app",
       "bundleIdentifiers": [
