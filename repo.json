@@ -40372,11 +40372,11 @@
         "workflowPath": ".github/workflows/update-app-com-stik-stikpair-bddd4339.yml"
       },
       "backup": {
+        "version": "1.2.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-bddd433943797a175af589dc-985318aa155bb1d169ef9456db9b0ba2f3cd526168d05e6df806bc9f998b4108.ipa",
         "sha256": "985318aa155bb1d169ef9456db9b0ba2f3cd526168d05e6df806bc9f998b4108",
         "size": 7735750,
-        "version": "1.2.0",
-        "week": "2026-11-06"
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.stik.StikPair",
       "category": "Sideloading",
