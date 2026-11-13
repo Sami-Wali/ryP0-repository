@@ -37814,11 +37814,11 @@
         "workflowPath": ".github/workflows/update-app-com-willfaust-madeora-e97f8532.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e97f8532b6e68b1ece01bc91-33d64ee32b7027fbc27efaee2ad404fc8134a657f979bbc9a959b2983402855f.ipa",
-        "sha256": "33d64ee32b7027fbc27efaee2ad404fc8134a657f979bbc9a959b2983402855f",
-        "size": 215165014,
-        "version": "87e413aac73634fb1661d0ac86a46c66be2468eb",
-        "week": "2026-11-06"
+        "version": "ffd0ae51c1d39f9659fd552ef5807ccab2730c4b",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e97f8532b6e68b1ece01bc91-491962aaaac04eb4c38b1b6fd7cd2c890abcae0abf3ef39c9775ae5e1d8ddf73.ipa",
+        "sha256": "491962aaaac04eb4c38b1b6fd7cd2c890abcae0abf3ef39c9775ae5e1d8ddf73",
+        "size": 215161024,
+        "week": "2026-11-13"
       },
       "bundleIdentifier": "com.willfaust.madeora",
       "bundleIdentifiers": [
