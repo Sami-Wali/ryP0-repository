@@ -60,6 +60,19 @@
           "ipaBundleIdentifier": "com.ipaside.tetherless",
           "releaseChannel": "release",
           "buildVersion": "90"
+        },
+        {
+          "version": "v1.1.1",
+          "date": "2026-11-11T15:24:07Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.1.1/Tetherless-1.1.1-Legacy.ipa",
+          "size": 6759523,
+          "sha256": "ad4698e51ad881d80c25b375bddeaebe85844e3f9e225f1cd3325e314f63bcea",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.1.1/Tetherless-1.1.1-Legacy.ipa",
+          "sourceAssetName": "Tetherless-1.1.1-Legacy.ipa",
+          "sourceAppName": "Tetherless",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "releaseChannel": "release",
+          "buildVersion": "89"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ipaside.tetherless-460838b00ee7.png",
@@ -69,7 +82,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
-        "checkedAt": "2026-11-13T12:05:29Z",
+        "checkedAt": "2026-11-13T12:05:52Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -84,7 +97,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-7901eebf7990acbf9fc66aacf0000f11",
-        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/tag/v1.2.0",
+        "sourceURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/tag/v1.1.1",
         "workflowPath": ".github/workflows/update-app-project-7901eebf7990acbf9fc66aacf0000f11.yml"
       },
       "bundleIdentifiers": [
