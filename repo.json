@@ -172,7 +172,7 @@
       },
       "githubURL": "https://github.com/oledz-i/Hinoki",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-32f827fec61de964a90c7947c1f3041e",
         "sourceURL": "https://github.com/oledz-i/Hinoki/releases/tag/v1.0.0",
