@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/BeatSaber-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-818e559755ab46670561406358c079a8",
         "sourceURL": "https://github.com/DevZer0D4Y/BeatSaber-iOS",
