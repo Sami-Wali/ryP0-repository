@@ -766,7 +766,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43580916776",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43583943445",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifier": "com.armsx3.ARMSX3",
@@ -790,13 +790,27 @@
       "name": "ARMSX3",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-b48fb3c56109b1e4a2391ecc91a9fbd710ba4e73-c4bd78b41410.ipa",
-        "checkedAt": "2026-11-14T10:49:54Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-1fb1e347e57264954833444aa21f4be021021e4a-49381e5fe5f7.ipa",
+        "checkedAt": "2026-11-14T11:16:07Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1fb1e347e57264954833444aa21f4be021021e4a",
+          "date": "2026-11-14T10:09:46Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-1fb1e347e57264954833444aa21f4be021021e4a-49381e5fe5f7.ipa",
+          "size": 43995818,
+          "sha256": "49381e5fe5f7f19149bfc9bf9dc5f887fe55ff872f699d4bb41ea1024242ac32",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/14110762083/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "2"
+        },
         {
           "version": "b48fb3c56109b1e4a2391ecc91a9fbd710ba4e73",
           "date": "2026-11-14T09:31:02Z",
