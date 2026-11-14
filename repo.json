@@ -125,6 +125,19 @@
           "ipaBundleIdentifier": "com.example.HermesEnabler",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "1.1",
+          "date": "2026-11-10T10:09:53Z",
+          "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.1/HermesEnabler.ipa",
+          "size": 405459,
+          "sha256": "69a86522fe9a3121de21d5f143316484f64deb9ccf240ebcf7446e33584578c5",
+          "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.1/HermesEnabler.ipa",
+          "sourceAssetName": "HermesEnabler.ipa",
+          "sourceAppName": "HermesEnabler",
+          "ipaBundleIdentifier": "com.example.HermesEnabler",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.HermesEnabler-b8cf1cfaa129.png",
@@ -134,7 +147,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa",
-        "checkedAt": "2026-11-14T17:55:45Z",
+        "checkedAt": "2026-11-14T17:56:06Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -149,7 +162,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-701ce6514b778ad85fcc016572691c65",
-        "sourceURL": "https://github.com/pookjw/HermesEnabler/releases/tag/1.2",
+        "sourceURL": "https://github.com/pookjw/HermesEnabler/releases/tag/1.1",
         "workflowPath": ".github/workflows/update-app-project-701ce6514b778ad85fcc016572691c65.yml"
       },
       "bundleIdentifiers": [
