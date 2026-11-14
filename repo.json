@@ -35882,9 +35882,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-shplash-ipaid-0307e3cd",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/shplash/IPAID/releases/tag/v1.21",
+        "configId": "com-shplash-ipaid-0307e3cd",
+        "sourceURL": "https://github.com/shplash/IPAID/actions/runs/43555289905",
         "workflowPath": ".github/workflows/update-app-com-shplash-ipaid-0307e3cd.yml"
       },
       "backup": {
@@ -35911,13 +35911,25 @@
       "name": "IPAID",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
-        "checkedAt": "2026-11-14T01:36:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-shplash-ipaid-0307e3cd-1c63e7fde2bf7c0f6138585e3c62e278efcfb4d3-fb43d023a972.ipa",
+        "checkedAt": "2026-11-14T04:13:50Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: shplash/IPAID.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1c63e7fde2bf7c0f6138585e3c62e278efcfb4d3",
+          "date": "2026-11-14T04:10:20Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-shplash-ipaid-0307e3cd-1c63e7fde2bf7c0f6138585e3c62e278efcfb4d3-fb43d023a972.ipa",
+          "size": 4660781,
+          "sha256": "fb43d023a97217b3e918d62e51cef1ea1d9d50e8c67389f6fb615f1dd30ad336",
+          "upstreamAssetURL": "https://api.github.com/repos/shplash/IPAID/actions/artifacts/14098031385/zip",
+          "sourceAssetName": "IPAID.ipa",
+          "ipaBundleIdentifier": "com.shplash.ipaid",
+          "releaseChannel": "actions",
+          "buildVersion": "112"
+        },
         {
           "buildVersion": "112",
           "date": "2026-09-15T18:10:50Z",
