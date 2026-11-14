@@ -17529,13 +17529,39 @@
       "name": "Debrify",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.2-alpha.1/debrify-v0.10.2-alpha.1-unsigned.ipa",
-        "checkedAt": "2026-11-14T13:38:07Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-14T15:18:30Z",
+        "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.3-alpha.1/debrify-v0.10.3-alpha.1-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "Add source for direct download please, is like Stremio",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.10.3-alpha.1",
+          "date": "2026-11-14T15:17:04Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.3-alpha.1/debrify-v0.10.3-alpha.1-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.3-alpha.1/debrify-v0.10.3-alpha.1-unsigned.ipa",
+          "size": 39701355,
+          "sha256": "af32b14950c9ad066ab22013607780b0ef76bdd2cd0684133765a0220313e286",
+          "ipaBundleIdentifier": "com.varunsalian.debrify",
+          "sourceAssetName": "debrify-v0.10.3-alpha.1-unsigned.ipa",
+          "releaseChannel": "alpha",
+          "buildVersion": "59",
+          "sourceAppName": "Debrify"
+        },
+        {
+          "version": "v0.10.3-alpha.1",
+          "date": "2026-11-14T15:14:15Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.3-alpha.1/debrify-v0.10.3-alpha.1-tvos-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.3-alpha.1/debrify-v0.10.3-alpha.1-tvos-unsigned.ipa",
+          "size": 62780356,
+          "sha256": "d4e214ef8aea8eed8f5ac18346774219e7b6ea8e5eb71575a9f17917c884d11d",
+          "ipaBundleIdentifier": "com.varunsalian.debrifytv",
+          "sourceAssetName": "debrify-v0.10.3-alpha.1-tvos-unsigned.ipa",
+          "releaseChannel": "alpha",
+          "buildVersion": "59",
+          "sourceAppName": "debrify"
+        },
         {
           "date": "2026-11-08T08:39:09Z",
           "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.2-alpha.1/debrify-v0.10.2-alpha.1-unsigned.ipa",
