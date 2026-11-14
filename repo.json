@@ -21,6 +21,19 @@
           "sourceAssetName": "Asspp.ipa",
           "ipaBundleIdentifier": "wiki.qaq.Asspp",
           "upstreamAssetURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa"
+        },
+        {
+          "version": "4.2.1",
+          "date": "2026-06-14T02:47:45Z",
+          "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.1/Asspp.ipa",
+          "size": 15162563,
+          "sha256": "07119bdc1447406fe8a813ffaf3abc1e735ded83a7c7a14d06ed44cdbc9b6625",
+          "upstreamAssetURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.1/Asspp.ipa",
+          "sourceAssetName": "Asspp.ipa",
+          "sourceAppName": "Asspp",
+          "ipaBundleIdentifier": "wiki.qaq.Asspp",
+          "releaseChannel": "release",
+          "buildVersion": "0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/wiki.qaq.Asspp-a51a06be4f79.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
-        "checkedAt": "2026-11-14T14:49:12Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-14T14:50:01Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-35ebcd49e65bb56b06ac9b7e5f248e60",
-        "sourceURL": "https://github.com/Lakr233/Asspp",
+        "sourceURL": "https://github.com/Lakr233/Asspp/releases/tag/4.2.1",
         "workflowPath": ".github/workflows/update-app-project-35ebcd49e65bb56b06ac9b7e5f248e60.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "wiki.qaq.Asspp"
+      ]
     },
     {
       "name": "crate-ios",
