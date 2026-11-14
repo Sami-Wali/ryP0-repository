@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Asspp",
+      "catalogID": "project-35ebcd49e65bb56b06ac9b7e5f248e60",
+      "bundleIdentifier": "wiki.qaq.Asspp",
+      "developerName": "Lakr233",
+      "localizedDescription": "GitHub project request: Lakr233/Asspp.",
+      "subtitle": "GitHub project request: Lakr233/Asspp.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2026-10-20T03:30:09Z",
+          "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+          "size": 16458246,
+          "buildVersion": "0",
+          "releaseChannel": "release",
+          "sha256": "a51a06be4f79ac1d1283701da87b45e2228f9fcc39ef4f88599f4abca986f388",
+          "sourceAppName": "Asspp",
+          "sourceAssetName": "Asspp.ipa",
+          "ipaBundleIdentifier": "wiki.qaq.Asspp",
+          "upstreamAssetURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/wiki.qaq.Asspp-a51a06be4f79.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+        "checkedAt": "2026-11-14T14:49:12Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+        "sourceURL": "https://github.com/Lakr233/Asspp"
+      },
+      "githubURL": "https://github.com/Lakr233/Asspp",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-35ebcd49e65bb56b06ac9b7e5f248e60",
+        "sourceURL": "https://github.com/Lakr233/Asspp",
+        "workflowPath": ".github/workflows/update-app-project-35ebcd49e65bb56b06ac9b7e5f248e60.yml"
+      }
+    },
+    {
       "name": "crate-ios",
       "catalogID": "project-5d61f1a6be07e71d9199a6fbc4774a96",
       "bundleIdentifier": "com.amendez.crate",
