@@ -763,7 +763,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
         "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43583943445",
