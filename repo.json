@@ -21,6 +21,19 @@
           "sourceAssetName": "NXHorizon-unsigned.ipa",
           "ipaBundleIdentifier": "com.cesargarza.nxhorizon",
           "upstreamAssetURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa"
+        },
+        {
+          "version": "v1.0.2",
+          "date": "2026-11-13T14:53:24Z",
+          "downloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.2/NXHorizon-unsigned.ipa",
+          "size": 14185672,
+          "sha256": "7f94c1275c946f961071681e6263aa9bbab58887272530a0f04d9d59f0323851",
+          "upstreamAssetURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.2/NXHorizon-unsigned.ipa",
+          "sourceAssetName": "NXHorizon-unsigned.ipa",
+          "sourceAppName": "NX Horizon",
+          "ipaBundleIdentifier": "com.cesargarza.nxhorizon",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.cesargarza.nxhorizon-c7e20067192a.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa",
-        "checkedAt": "2026-11-14T10:07:48Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-14T10:08:48Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-98f4779b4e57a1105b4e7d053a62fbd4",
-        "sourceURL": "https://github.com/CesarGarza55/NXHorizon",
+        "sourceURL": "https://github.com/CesarGarza55/NXHorizon/releases/tag/v1.0.2",
         "workflowPath": ".github/workflows/update-app-project-98f4779b4e57a1105b4e7d053a62fbd4.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.cesargarza.nxhorizon"
+      ]
     },
     {
       "name": "Hinoki",
