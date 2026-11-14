@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/grechucia/gwent-reimagined",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e55e366c38404e73d21057b45c06c115",
         "sourceURL": "https://github.com/grechucia/gwent-reimagined",
