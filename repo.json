@@ -35502,7 +35502,7 @@
       "automation": {
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "app-aidoku-aidoku-c3112316",
-        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/43524699869",
+        "sourceURL": "https://github.com/Aidoku/Aidoku/actions/runs/43541892754",
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "backup": {
@@ -35529,13 +35529,25 @@
       "name": "Aidoku",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-bac65cc15635b1819aef3995f093630720ed9566-2671742723f5.ipa",
-        "checkedAt": "2026-11-14T01:36:28Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-95d1468d599a154f03d6a1dd06bf839d3ff3f7bd-7e9e832b37d6.ipa",
+        "checkedAt": "2026-11-14T01:54:07Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "Manga reading app",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "95d1468d599a154f03d6a1dd06bf839d3ff3f7bd",
+          "date": "2026-11-14T01:39:31Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-aidoku-aidoku-c3112316-95d1468d599a154f03d6a1dd06bf839d3ff3f7bd-7e9e832b37d6.ipa",
+          "size": 14551655,
+          "sha256": "7e9e832b37d666d8807c5d39a3087e8a53ba948797abb4588724fae41c698457",
+          "upstreamAssetURL": "https://api.github.com/repos/Aidoku/Aidoku/actions/artifacts/14092094854/zip",
+          "sourceAssetName": "Aidoku-iOS_nightly-95d1468.ipa",
+          "ipaBundleIdentifier": "app.aidoku.Aidoku",
+          "releaseChannel": "actions",
+          "buildVersion": "4"
+        },
         {
           "version": "bac65cc15635b1819aef3995f093630720ed9566",
           "date": "2026-11-13T23:07:28Z",
