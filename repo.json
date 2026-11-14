@@ -25825,13 +25825,26 @@
       "name": "PiliPlus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-1ff0e3ae75e3d0da72d39e2cd4ac5d09-9999f21d4ad638e5190a84dd4648a89f7cadbce7-c36c11b08e74.ipa",
-        "checkedAt": "2026-11-14T07:37:17Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-14T08:19:16Z",
+        "checkedDownloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.1/PiliPlus_ios_2.2.1%2B5655.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2026-11-14T08:14:54Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.1/PiliPlus_ios_2.2.1%2B5655.ipa",
+          "upstreamAssetURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.1/PiliPlus_ios_2.2.1%2B5655.ipa",
+          "size": 25053075,
+          "sha256": "79f2bea84ec9a89dc08cfbb67bc9a1c973a14eb6f58a4e8b90cb70f1f317ff79",
+          "ipaBundleIdentifier": "com.example.piliplus",
+          "sourceAssetName": "PiliPlus_ios_2.2.1+5655.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "5655",
+          "sourceAppName": "PiliPlus"
+        },
         {
           "version": "9999f21d4ad638e5190a84dd4648a89f7cadbce7",
           "date": "2026-11-13T13:01:28Z",
