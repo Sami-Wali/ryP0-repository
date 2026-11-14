@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "HermesEnabler",
+      "catalogID": "project-701ce6514b778ad85fcc016572691c65",
+      "bundleIdentifier": "com.example.HermesEnabler",
+      "developerName": "pookjw",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-13T04:21:43Z",
+          "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa",
+          "size": 959386,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "b8cf1cfaa129a61411fc0b7780fe85d2b2f8dab070d01eb8596cf45d883a43f9",
+          "sourceAppName": "HermesEnabler",
+          "sourceAssetName": "HermesEnabler.ipa",
+          "ipaBundleIdentifier": "com.example.HermesEnabler",
+          "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.HermesEnabler-b8cf1cfaa129.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa",
+        "checkedAt": "2026-11-14T17:52:36Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa",
+        "sourceURL": "https://github.com/pookjw/HermesEnabler"
+      },
+      "githubURL": "https://github.com/pookjw/HermesEnabler",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-701ce6514b778ad85fcc016572691c65",
+        "sourceURL": "https://github.com/pookjw/HermesEnabler",
+        "workflowPath": ".github/workflows/update-app-project-701ce6514b778ad85fcc016572691c65.yml"
+      }
+    },
+    {
       "name": "Gwent Reimagined",
       "catalogID": "project-e55e366c38404e73d21057b45c06c115",
       "bundleIdentifier": "io.github.grechucia.gwentreimagined",
