@@ -172,7 +172,7 @@
       },
       "githubURL": "https://github.com/pookjw/HermesEnabler",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-701ce6514b778ad85fcc016572691c65",
         "sourceURL": "https://github.com/pookjw/HermesEnabler/releases/tag/1.0",
