@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/MinecraftStoryMode-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-d306177a917999755a3428ad8c955448",
         "sourceURL": "https://github.com/DevZer0D4Y/MinecraftStoryMode-iOS",
