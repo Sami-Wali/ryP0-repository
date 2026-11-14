@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.amendez.crate",
           "releaseChannel": "release",
           "buildVersion": "3"
+        },
+        {
+          "version": "v0.1.1",
+          "date": "2026-11-14T10:59:05Z",
+          "downloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.1/crate-unsigned.ipa",
+          "size": 13586864,
+          "sha256": "bb522868c727a734111957107a146c2e4d386864a70b8e9a86e2475ad24a57ce",
+          "upstreamAssetURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.1/crate-unsigned.ipa",
+          "sourceAssetName": "crate-unsigned.ipa",
+          "sourceAppName": "crate",
+          "ipaBundleIdentifier": "com.amendez.crate",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.amendez.crate-bb81053df316.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.3/crate-unsigned.ipa",
-        "checkedAt": "2026-11-14T14:47:16Z",
+        "checkedAt": "2026-11-14T14:47:47Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-5d61f1a6be07e71d9199a6fbc4774a96",
-        "sourceURL": "https://github.com/oneamendez/crate-ios/releases/tag/v0.1.2",
+        "sourceURL": "https://github.com/oneamendez/crate-ios/releases/tag/v0.1.1",
         "workflowPath": ".github/workflows/update-app-project-5d61f1a6be07e71d9199a6fbc4774a96.yml"
       },
       "bundleIdentifiers": [
