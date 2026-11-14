@@ -146,7 +146,7 @@
       },
       "githubURL": "https://github.com/Lakr233/Asspp",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-35ebcd49e65bb56b06ac9b7e5f248e60",
         "sourceURL": "https://github.com/Lakr233/Asspp/releases/tag/2.2.16",
