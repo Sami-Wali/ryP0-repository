@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "NXHorizon",
+      "catalogID": "project-98f4779b4e57a1105b4e7d053a62fbd4",
+      "bundleIdentifier": "com.cesargarza.nxhorizon",
+      "developerName": "CesarGarza55",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2026-11-13T23:00:29Z",
+          "downloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa",
+          "size": 14218232,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "c7e20067192ab99d7c0a87cd1c11bd61ff04079f908cbb4bcf705b9ad0426058",
+          "sourceAppName": "NX Horizon",
+          "sourceAssetName": "NXHorizon-unsigned.ipa",
+          "ipaBundleIdentifier": "com.cesargarza.nxhorizon",
+          "upstreamAssetURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.cesargarza.nxhorizon-c7e20067192a.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa",
+        "checkedAt": "2026-11-14T10:07:48Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa",
+        "sourceURL": "https://github.com/CesarGarza55/NXHorizon"
+      },
+      "githubURL": "https://github.com/CesarGarza55/NXHorizon",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-98f4779b4e57a1105b4e7d053a62fbd4",
+        "sourceURL": "https://github.com/CesarGarza55/NXHorizon",
+        "workflowPath": ".github/workflows/update-app-project-98f4779b4e57a1105b4e7d053a62fbd4.yml"
+      }
+    },
+    {
       "name": "Hinoki",
       "catalogID": "project-32f827fec61de964a90c7947c1f3041e",
       "bundleIdentifier": "org.vita3k.ios",
