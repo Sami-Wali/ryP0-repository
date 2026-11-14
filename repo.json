@@ -21,6 +21,19 @@
           "sourceAssetName": "crate-unsigned.ipa",
           "ipaBundleIdentifier": "com.amendez.crate",
           "upstreamAssetURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.3/crate-unsigned.ipa"
+        },
+        {
+          "version": "v0.1.2",
+          "date": "2026-11-14T11:04:19Z",
+          "downloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.2/crate-unsigned.ipa",
+          "size": 13586891,
+          "sha256": "3dc674a4a77ff8512227fdcce02410fad72f42ffdf8e39ec7c6a7cc9faaee7da",
+          "upstreamAssetURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.2/crate-unsigned.ipa",
+          "sourceAssetName": "crate-unsigned.ipa",
+          "sourceAppName": "crate",
+          "ipaBundleIdentifier": "com.amendez.crate",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.amendez.crate-bb81053df316.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.3/crate-unsigned.ipa",
-        "checkedAt": "2026-11-14T14:46:34Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-14T14:47:16Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-5d61f1a6be07e71d9199a6fbc4774a96",
-        "sourceURL": "https://github.com/oneamendez/crate-ios",
+        "sourceURL": "https://github.com/oneamendez/crate-ios/releases/tag/v0.1.2",
         "workflowPath": ".github/workflows/update-app-project-5d61f1a6be07e71d9199a6fbc4774a96.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.amendez.crate"
+      ]
     },
     {
       "name": "UT2004-iOS",
