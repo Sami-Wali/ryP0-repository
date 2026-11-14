@@ -10809,10 +10809,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-f898930d3389c29be00602fe5365a1ac",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.5",
+        "configId": "project-f898930d3389c29be00602fe5365a1ac",
+        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.6",
         "workflowPath": ".github/workflows/update-app-project-f898930d3389c29be00602fe5365a1ac.yml"
       },
       "backup": {
@@ -10844,13 +10844,26 @@
       "name": "Kazumi for iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.5/Kazumi_ios_3.0.5_no_sign.ipa",
-        "checkedAt": "2026-11-14T13:38:07Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.6/Kazumi_ios_3.0.6_no_sign.ipa",
+        "checkedAt": "2026-11-14T14:08:54Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "原生 SwiftUI 实现Kazumi，支持Anskip自动跳过片头片尾，支持番剧更新提醒，原版有的都有，没有的也有。",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.0.6",
+          "date": "2026-11-14T14:04:38Z",
+          "downloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.6/Kazumi_ios_3.0.6_no_sign.ipa",
+          "size": 24144584,
+          "sha256": "56adab93380643510a782e2447e2c644e18c451ba124a82de5c7811bf17ebc9d",
+          "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.6/Kazumi_ios_3.0.6_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_3.0.6_no_sign.ipa",
+          "sourceAppName": "Kazumi",
+          "ipaBundleIdentifier": "com.linkpass.kazumi",
+          "releaseChannel": "release",
+          "buildVersion": "30006"
+        },
         {
           "buildVersion": "30005",
           "date": "2026-11-12T05:41:30Z",
