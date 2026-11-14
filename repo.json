@@ -2644,13 +2644,26 @@
       "name": "placard",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.2/placard-v2.0.2-unsigned.ipa",
-        "checkedAt": "2026-11-14T07:37:17Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-14T07:48:05Z",
+        "checkedDownloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.3/placard-v2.0.3-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "PosterBoard Wallpapers for iOS 26 - 27",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.0.3",
+          "date": "2026-11-14T07:47:09Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.3/placard-v2.0.3-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/frs0n/placard/releases/download/v2.0.3/placard-v2.0.3-unsigned.ipa",
+          "size": 6699817,
+          "sha256": "eeec5ab5063477d1f65b3835eb4ebabb2186ad766d84ae7f5e610b50dcc23f83",
+          "ipaBundleIdentifier": "me.ssus.placard",
+          "sourceAssetName": "placard-v2.0.3-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "Placard"
+        },
         {
           "version": "v2.0.2",
           "date": "2026-11-13T15:59:56Z",
