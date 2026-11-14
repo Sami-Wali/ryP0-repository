@@ -112,6 +112,19 @@
           "ipaBundleIdentifier": "wiki.qaq.Asspp",
           "releaseChannel": "release",
           "buildVersion": "18"
+        },
+        {
+          "version": "2.2.16",
+          "date": "2025-09-16T06:58:25Z",
+          "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/2.2.16/Asspp.ipa",
+          "size": 9912930,
+          "sha256": "3322efb590b70a714adc6fb65f95bb32c126293c2b2bab6b3989a1ce12022f21",
+          "upstreamAssetURL": "https://github.com/Lakr233/Asspp/releases/download/2.2.16/Asspp.ipa",
+          "sourceAssetName": "Asspp.ipa",
+          "sourceAppName": "Asspp",
+          "ipaBundleIdentifier": "wiki.qaq.Asspp",
+          "releaseChannel": "release",
+          "buildVersion": "16"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/wiki.qaq.Asspp-a51a06be4f79.png",
@@ -121,7 +134,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
-        "checkedAt": "2026-11-14T14:52:51Z",
+        "checkedAt": "2026-11-14T14:53:18Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -136,7 +149,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-35ebcd49e65bb56b06ac9b7e5f248e60",
-        "sourceURL": "https://github.com/Lakr233/Asspp/releases/tag/2.3.18",
+        "sourceURL": "https://github.com/Lakr233/Asspp/releases/tag/2.2.16",
         "workflowPath": ".github/workflows/update-app-project-35ebcd49e65bb56b06ac9b7e5f248e60.yml"
       },
       "bundleIdentifiers": [
