@@ -42,7 +42,7 @@
       },
       "githubURL": "https://github.com/DevZer0D4Y/UT2004-iOS",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-4f3259077336ebfddc2921d315780b31",
         "sourceURL": "https://github.com/DevZer0D4Y/UT2004-iOS",
