@@ -21,6 +21,19 @@
           "sourceAssetName": "HermesEnabler.ipa",
           "ipaBundleIdentifier": "com.example.HermesEnabler",
           "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa"
+        },
+        {
+          "version": "1.5.3",
+          "date": "2026-11-13T01:34:13Z",
+          "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.3/HermesEnabler.ipa",
+          "size": 948383,
+          "sha256": "c997d50b6aa6baafe6a03e07473f3d7d3f9ff33bf5323ced733fe91d7788bc1b",
+          "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.3/HermesEnabler.ipa",
+          "sourceAssetName": "HermesEnabler.ipa",
+          "sourceAppName": "HermesEnabler",
+          "ipaBundleIdentifier": "com.example.HermesEnabler",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.HermesEnabler-b8cf1cfaa129.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa",
-        "checkedAt": "2026-11-14T17:52:36Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-14T17:53:12Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-701ce6514b778ad85fcc016572691c65",
-        "sourceURL": "https://github.com/pookjw/HermesEnabler",
+        "sourceURL": "https://github.com/pookjw/HermesEnabler/releases/tag/1.5.3",
         "workflowPath": ".github/workflows/update-app-project-701ce6514b778ad85fcc016572691c65.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.example.HermesEnabler"
+      ]
     },
     {
       "name": "Gwent Reimagined",
