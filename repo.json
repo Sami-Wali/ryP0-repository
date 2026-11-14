@@ -47,6 +47,19 @@
           "ipaBundleIdentifier": "com.cesargarza.nxhorizon",
           "releaseChannel": "release",
           "buildVersion": "1"
+        },
+        {
+          "version": "v1.0.0",
+          "date": "2026-11-13T06:04:14Z",
+          "downloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.0/NXHorizon-unsigned.ipa",
+          "size": 14177951,
+          "sha256": "92ebf1a9dca0873d8233ccb44e6d09e506ff98c5e7aad645dd59fc5ad5b72675",
+          "upstreamAssetURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.0/NXHorizon-unsigned.ipa",
+          "sourceAssetName": "NXHorizon-unsigned.ipa",
+          "sourceAppName": "NX Horizon",
+          "ipaBundleIdentifier": "com.cesargarza.nxhorizon",
+          "releaseChannel": "release",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.cesargarza.nxhorizon-c7e20067192a.png",
@@ -56,7 +69,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.3/NXHorizon-unsigned.ipa",
-        "checkedAt": "2026-11-14T10:09:31Z",
+        "checkedAt": "2026-11-14T10:10:09Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -71,7 +84,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-98f4779b4e57a1105b4e7d053a62fbd4",
-        "sourceURL": "https://github.com/CesarGarza55/NXHorizon/releases/tag/v1.0.1",
+        "sourceURL": "https://github.com/CesarGarza55/NXHorizon/releases/tag/v1.0.0",
         "workflowPath": ".github/workflows/update-app-project-98f4779b4e57a1105b4e7d053a62fbd4.yml"
       },
       "bundleIdentifiers": [
