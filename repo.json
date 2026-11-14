@@ -726,6 +726,19 @@
       "category": "EMU",
       "versions": [
         {
+          "version": "v1.5.1",
+          "date": "2026-11-14T22:15:12Z",
+          "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.1/Hinoki-1.5.1.ipa",
+          "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.1/Hinoki-1.5.1.ipa",
+          "size": 17762945,
+          "sha256": "9cc84cbb1fcf80e079b9b768a28e4a036eb5abdf3de7fe430c2ece02c0632128",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "sourceAssetName": "Hinoki-1.5.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "244",
+          "sourceAppName": "Hinoki"
+        },
+        {
           "version": "1.5.0",
           "date": "2026-11-13T13:22:54Z",
           "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.0/Hinoki-1.5.0.ipa",
@@ -875,9 +888,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.0/Hinoki-1.5.0.ipa",
-        "checkedAt": "2026-11-14T19:39:00Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-14T22:21:33Z",
+        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.5.1/Hinoki-1.5.1.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
