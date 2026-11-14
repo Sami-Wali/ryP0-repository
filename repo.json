@@ -81,7 +81,7 @@
       },
       "githubURL": "https://github.com/CesarGarza55/NXHorizon",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-98f4779b4e57a1105b4e7d053a62fbd4",
         "sourceURL": "https://github.com/CesarGarza55/NXHorizon/releases/tag/v1.0.0",
