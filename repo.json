@@ -37306,13 +37306,25 @@
       "name": "kartpad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.10/KartPad-v0.8.10-ios-for-padmint.ipa",
-        "checkedAt": "2026-11-15T07:40:49Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T12:11:31Z",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.11/KartPad-v0.8.11-ios-for-padmint.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: chrissotraidis/kartpad.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.8.11",
+          "date": "2026-11-15T12:08:06Z",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.11/KartPad-v0.8.11-ios-for-padmint.ipa",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.11/KartPad-v0.8.11-ios-for-padmint.ipa",
+          "size": 9451481,
+          "sha256": "2ec2cbc610a03c1708c7fea92799461925df00dc520c73f33092e5ee8c7ae3e2",
+          "ipaBundleIdentifier": "dev.kartpad.app",
+          "sourceAssetName": "KartPad-v0.8.11-ios-for-padmint.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "276"
+        },
         {
           "buildVersion": "275",
           "date": "2026-11-09T09:34:53Z",
