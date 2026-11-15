@@ -37817,13 +37817,25 @@
       "name": "IPAID",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-shplash-ipaid-0307e3cd-1c63e7fde2bf7c0f6138585e3c62e278efcfb4d3-fb43d023a972.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T23:22:34Z",
+        "checkedDownloadURL": "https://github.com/shplash/IPAID/releases/download/v2.0/IPAID-2.0.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: shplash/IPAID.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.0",
+          "date": "2026-11-15T23:21:14Z",
+          "downloadURL": "https://github.com/shplash/IPAID/releases/download/v2.0/IPAID-2.0.ipa",
+          "upstreamAssetURL": "https://github.com/shplash/IPAID/releases/download/v2.0/IPAID-2.0.ipa",
+          "size": 4845812,
+          "sha256": "537823537c0294cd553570b183a194eb26af08097aa7675504895ec128b29ca9",
+          "ipaBundleIdentifier": "com.shplash.ipaid",
+          "sourceAssetName": "IPAID-2.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "112"
+        },
         {
           "version": "1c63e7fde2bf7c0f6138585e3c62e278efcfb4d3",
           "date": "2026-11-14T04:10:20Z",
