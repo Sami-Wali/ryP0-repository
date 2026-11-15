@@ -55,7 +55,7 @@
       },
       "githubURL": "https://github.com/Niimahz/Anker_build",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9d950f8b8ef8864f4813ba3ed6e2c7f2",
         "sourceURL": "https://github.com/Niimahz/Anker_build/releases/tag/v1.0.0-rc.1",
