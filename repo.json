@@ -17941,8 +17941,8 @@
       },
       "bundleIdentifier": "com.varunsalian.debrifytv",
       "bundleIdentifiers": [
-        "com.varunsalian.debrify",
-        "com.varunsalian.debrifytv"
+        "com.varunsalian.debrifytv",
+        "com.varunsalian.debrify"
       ],
       "catalogID": "project-2080023ed46dc8c95d091f9c6d0673cb",
       "category": "Movies",
@@ -17961,13 +17961,26 @@
       "name": "Debrify",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-15T12:40:25Z",
-        "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.4-alpha.1/debrify-v0.10.4-alpha.1-unsigned.ipa",
+        "checkedAt": "2026-11-15T12:45:39Z",
+        "checkedDownloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.4-alpha.1/debrify-v0.10.4-alpha.1-tvos-unsigned.ipa",
         "message": "Updated after package verification"
       },
       "subtitle": "Add source for direct download please, is like Stremio",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.10.4-alpha.1",
+          "date": "2026-11-15T12:40:31Z",
+          "downloadURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.4-alpha.1/debrify-v0.10.4-alpha.1-tvos-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/varunsalian/debrify/releases/download/v0.10.4-alpha.1/debrify-v0.10.4-alpha.1-tvos-unsigned.ipa",
+          "size": 62799966,
+          "sha256": "1d8839fe08ab4b2475c84339215c24afac048a017c59b2f9e3f5eb4b8499c7e6",
+          "ipaBundleIdentifier": "com.varunsalian.debrifytv",
+          "sourceAssetName": "debrify-v0.10.4-alpha.1-tvos-unsigned.ipa",
+          "releaseChannel": "alpha",
+          "buildVersion": "60",
+          "sourceAppName": "debrify"
+        },
         {
           "version": "v0.10.4-alpha.1",
           "date": "2026-11-15T12:39:36Z",
