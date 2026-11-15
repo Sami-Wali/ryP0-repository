@@ -31701,12 +31701,24 @@
       "name": "LiveContainer+SideStore",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/app-f2abe97caae34e08b24fc5f72e7db77f-04d3c626cdbf906d3a7f0f4a6846eb51496388b4-7f0d5ff687ac.ipa",
-        "checkedAt": "2026-11-15T07:40:49Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T13:21:40Z",
+        "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-11-15T13:17:46Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
+          "size": 23763930,
+          "sha256": "60e30b13db43a619b29015803e22b5ec42bbe6d16c7fbd39d7778b08e6cbbcd8",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "sourceAssetName": "LiveContainer+SideStore.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "3.8.14"
+        },
         {
           "version": "04d3c626cdbf906d3a7f0f4a6846eb51496388b4",
           "date": "2026-11-13T13:35:00Z",
@@ -31718,16 +31730,6 @@
           "ipaBundleIdentifier": "com.kdt.livecontainer",
           "releaseChannel": "actions",
           "buildVersion": "3.8.13"
-        },
-        {
-          "date": "2026-11-08T09:11:53Z",
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "releaseChannel": "nightly",
-          "size": 23752778,
-          "sourceAssetName": "LiveContainer+SideStore.ipa",
-          "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "version": "nightly",
-          "ipaBundleIdentifier": "com.kdt.livecontainer"
         },
         {
           "buildVersion": "3.8.11",
