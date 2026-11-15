@@ -21,6 +21,19 @@
           "sourceAssetName": "Anker-v1.0.0-unsigned.ipa",
           "ipaBundleIdentifier": "com.ankergamebridge.app",
           "upstreamAssetURL": "https://github.com/Niimahz/Anker_build/releases/download/v1.0.0/Anker-v1.0.0-unsigned.ipa"
+        },
+        {
+          "version": "v1.0.0-rc.1",
+          "date": "2026-11-14T17:35:19Z",
+          "downloadURL": "https://github.com/Niimahz/Anker_build/releases/download/v1.0.0-rc.1/Anker-1.0.0-unsigned.ipa",
+          "size": 1123993,
+          "sha256": "d4f78072c23f99c50c61412079c9b437b63d47125f242a78ff727a8a0b58ca1b",
+          "upstreamAssetURL": "https://github.com/Niimahz/Anker_build/releases/download/v1.0.0-rc.1/Anker-1.0.0-unsigned.ipa",
+          "sourceAssetName": "Anker-1.0.0-unsigned.ipa",
+          "sourceAppName": "Anker Game Downloader",
+          "ipaBundleIdentifier": "com.ankergamebridge.app",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ankergamebridge.app-d98bdc677647.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Niimahz/Anker_build/releases/download/v1.0.0/Anker-v1.0.0-unsigned.ipa",
-        "checkedAt": "2026-11-15T08:09:58Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-15T08:10:32Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9d950f8b8ef8864f4813ba3ed6e2c7f2",
-        "sourceURL": "https://github.com/Niimahz/Anker_build",
+        "sourceURL": "https://github.com/Niimahz/Anker_build/releases/tag/v1.0.0-rc.1",
         "workflowPath": ".github/workflows/update-app-project-9d950f8b8ef8864f4813ba3ed6e2c7f2.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.ankergamebridge.app"
+      ]
     },
     {
       "name": "HermesEnabler",
