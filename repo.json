@@ -1015,6 +1015,32 @@
       "category": "Sideloading",
       "versions": [
         {
+          "version": "v1.2.2",
+          "date": "2026-11-15T14:47:52Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.2/Tetherless-1.2.2-Legacy.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.2/Tetherless-1.2.2-Legacy.ipa",
+          "size": 7091439,
+          "sha256": "269075170f66318acb696fb3a0cd4ea965205dfdd73169010253c4c5f49df671",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.2-Legacy.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "92",
+          "sourceAppName": "Tetherless"
+        },
+        {
+          "version": "v1.2.2",
+          "date": "2026-11-15T14:47:52Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.2/Tetherless-1.2.2-Modern.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.2/Tetherless-1.2.2-Modern.ipa",
+          "size": 7086101,
+          "sha256": "f73484ff1b6cf8f020355aa5684ae0d8cfcf90e64fcab78d6f97f97ec1ed64c9",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.2-Modern.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "92",
+          "sourceAppName": "Tetherless"
+        },
+        {
           "version": "v1.2.1",
           "date": "2026-11-12T09:30:16Z",
           "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
@@ -1151,9 +1177,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.1/Tetherless-1.2.1-Modern.ipa",
-        "checkedAt": "2026-11-15T13:41:43Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T14:50:39Z",
+        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.2/Tetherless-1.2.2-Legacy.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
