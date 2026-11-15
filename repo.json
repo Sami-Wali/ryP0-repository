@@ -4393,13 +4393,39 @@
       "name": "Muffin-EMU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.5/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-15T01:39:54Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T04:56:21Z",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.6/MuffinEMU-fakesigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v11.6",
+          "date": "2026-11-15T04:54:50Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.6/MuffinEMU-fakesigned.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.6/MuffinEMU-fakesigned.ipa",
+          "size": 133279576,
+          "sha256": "4d9ab1f0e04657a806e5158aabe3d39108360c1d9775d19694b3cf20d16ff8f5",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "30",
+          "sourceAppName": "MuffinEMU 11.6"
+        },
+        {
+          "version": "v11.6",
+          "date": "2026-11-15T04:54:50Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.6/MuffinEMU.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.6/MuffinEMU.ipa",
+          "size": 133278996,
+          "sha256": "dca74a66054624cbb2402b0c737bcbc8f5a769a8666baaf00591cbb907a04171",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "30",
+          "sourceAppName": "MuffinEMU 11.6"
+        },
         {
           "version": "v11.5",
           "date": "2026-11-13T23:14:13Z",
