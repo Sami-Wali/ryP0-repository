@@ -86,6 +86,19 @@
           "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
           "releaseChannel": "prerelease",
           "buildVersion": "0.11.1"
+        },
+        {
+          "version": "v0.11.0",
+          "date": "2026-11-11T02:04:55Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.11.0/Cartouche-0.11.0.ipa",
+          "size": 28050496,
+          "sha256": "05613801515db618855235813c2dab24d744efeba085c40b5f22fdcaee0c9cb5",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.11.0/Cartouche-0.11.0.ipa",
+          "sourceAssetName": "Cartouche-0.11.0.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.11.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.clabeuhtegrite.cartouche-182a6211f1f4.png",
@@ -95,7 +108,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0.ipa",
-        "checkedAt": "2026-11-15T18:49:41Z",
+        "checkedAt": "2026-11-15T18:50:19Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -110,7 +123,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89b3469310d84696450242e02fa33d5b",
-        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.11.1",
+        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.11.0",
         "workflowPath": ".github/workflows/update-app-project-89b3469310d84696450242e02fa33d5b.yml"
       },
       "bundleIdentifiers": [
