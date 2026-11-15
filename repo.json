@@ -23643,10 +23643,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/nathanialf/ico-pc/releases/tag/v0.10.0",
+        "configId": "project-2b683ab30368a9600fd53fe715fbcda5",
+        "sourceURL": "https://github.com/nathanialf/ico-pc/actions/runs/43752529083",
         "workflowPath": ".github/workflows/update-app-project-2b683ab30368a9600fd53fe715fbcda5.yml"
       },
       "backup": {
@@ -23677,13 +23677,27 @@
       "name": "ico-pc",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.6/ico-pc-v0.11.6-ios-unsigned.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-2b683ab30368a9600fd53fe715fbcda5-2de2a706d86fe4372337bbe807225f45297156af-0ab39aba5f60.ipa",
+        "checkedAt": "2026-11-15T19:53:37Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2de2a706d86fe4372337bbe807225f45297156af",
+          "date": "2026-11-15T19:27:33Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-2b683ab30368a9600fd53fe715fbcda5-2de2a706d86fe4372337bbe807225f45297156af-0ab39aba5f60.ipa",
+          "size": 9451002,
+          "sha256": "0ab39aba5f6081089585e48ba1b51b6d696da49a18f786dd6cb7f5b0959428ba",
+          "upstreamAssetURL": "https://api.github.com/repos/nathanialf/ico-pc/actions/artifacts/14177892021/zip",
+          "sourceAssetName": "ico-pc-ios-unsigned.ipa",
+          "sourceArchiveEntry": "ico-pc-ios-unsigned.ipa",
+          "sourceAppName": "ICO",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "releaseChannel": "actions",
+          "buildVersion": "0.0.0"
+        },
         {
           "version": "v0.11.6",
           "date": "2026-11-14T06:33:47Z",
