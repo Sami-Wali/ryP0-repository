@@ -257,6 +257,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v1.0.1",
+          "date": "2026-11-15T10:37:44Z",
+          "downloadURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0.1/GwentReimagined-1.0.1-iOS.ipa",
+          "upstreamAssetURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0.1/GwentReimagined-1.0.1-iOS.ipa",
+          "size": 344589937,
+          "sha256": "015032f75b0151fddc937bc70b483a75383e649d41fbd6dd9ec87c60ed1e0eb9",
+          "ipaBundleIdentifier": "io.github.grechucia.gwentreimagined",
+          "sourceAssetName": "GwentReimagined-1.0.1-iOS.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "Gwent"
+        },
+        {
           "version": "1.0",
           "date": "2026-11-13T22:07:54Z",
           "downloadURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0/GwentReimagined-iOS.ipa",
@@ -276,9 +289,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0/GwentReimagined-iOS.ipa",
-        "checkedAt": "2026-11-15T07:40:49Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T10:41:47Z",
+        "checkedDownloadURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0.1/GwentReimagined-1.0.1-iOS.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -294,7 +307,10 @@
         "configId": "project-e55e366c38404e73d21057b45c06c115",
         "sourceURL": "https://github.com/grechucia/gwent-reimagined",
         "workflowPath": ".github/workflows/update-app-project-e55e366c38404e73d21057b45c06c115.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "io.github.grechucia.gwentreimagined"
+      ]
     },
     {
       "name": "Asspp",
