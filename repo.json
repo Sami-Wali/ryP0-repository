@@ -40399,13 +40399,25 @@
       "name": "MeleePad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.0/MeleePad-v0.3.0-ios-unsigned.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T23:53:09Z",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.1/MeleePad-v0.3.1-ios-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.3.1",
+          "date": "2026-11-15T23:49:39Z",
+          "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.1/MeleePad-v0.3.1-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.1/MeleePad-v0.3.1-ios-unsigned.ipa",
+          "size": 15776450,
+          "sha256": "53cd1b9725e4ea970be27cea2b99c42e5fc0d94a72ff01296e920cd68052d944",
+          "ipaBundleIdentifier": "com.meleepad.MeleePad",
+          "sourceAssetName": "MeleePad-v0.3.1-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "37"
+        },
         {
           "buildVersion": "36",
           "date": "2026-11-01T03:50:45Z",
