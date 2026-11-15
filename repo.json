@@ -439,6 +439,19 @@
       "category": "Tools",
       "versions": [
         {
+          "version": "1.6.1",
+          "date": "2026-11-15T22:47:19Z",
+          "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.1/HermesEnabler.ipa",
+          "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.1/HermesEnabler.ipa",
+          "size": 960931,
+          "sha256": "100769373fd9b6d3f27423ff06e1e2f4c1ef4821f065e0aa03def73594a8193a",
+          "ipaBundleIdentifier": "com.example.HermesEnabler",
+          "sourceAssetName": "HermesEnabler.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1",
+          "sourceAppName": "HermesEnabler"
+        },
+        {
           "version": "1.6",
           "date": "2026-11-15T17:51:13Z",
           "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6/HermesEnabler.ipa",
@@ -601,9 +614,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6/HermesEnabler.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T22:52:09Z",
+        "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.1/HermesEnabler.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
