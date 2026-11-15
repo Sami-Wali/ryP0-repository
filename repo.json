@@ -43430,9 +43430,9 @@
         ]
       },
       "automation": {
-        "configId": "xenios",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.3.2-build-11934",
+        "configId": "xenios",
+        "sourceURL": "https://github.com/xenios-jp/XeniOS/releases/tag/release-v2.3.3-build-11940",
         "workflowPath": ".github/workflows/update-app-xenios.yml"
       },
       "backup": {
@@ -43458,13 +43458,25 @@
       "name": "Xenios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.3.2-build-11934-3f80bb1506cb.ipa",
-        "checkedAt": "2026-11-15T07:40:49Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.3.3-build-11940-de943a84026d.ipa",
+        "checkedAt": "2026-11-15T10:26:44Z",
+        "message": "Updated by private automation"
       },
       "tintColor": "#FF5733",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "release-v2.3.3-build-11940",
+          "date": "2026-11-15T10:21:49Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/xenios-release-v2.3.3-build-11940-de943a84026d.ipa",
+          "size": 49667563,
+          "sha256": "de943a84026d0d93ebd059843e1496080dde0b2761a285c76ff5a6f0474cf158",
+          "upstreamAssetURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.3-build-11940/xenios_ios_iphone_ipad.ipa",
+          "sourceAssetName": "xenios_ios_iphone_ipad.ipa",
+          "ipaBundleIdentifier": "com.xenios.jp",
+          "releaseChannel": "release",
+          "buildVersion": "11940"
+        },
         {
           "buildVersion": "11934",
           "date": "2026-11-12T15:28:59Z",
