@@ -41914,13 +41914,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-6b7f15e40a53414fe3538dda28e7ea44cc3cfef4-e1e5608c4022.ipa",
-        "checkedAt": "2026-11-15T07:40:49Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T09:41:37Z",
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.6.13-beta",
+          "date": "2026-11-15T09:36:16Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
+          "size": 69922480,
+          "sha256": "e1e5608c40224cb8840b2afa61998d2e6c3b42556c7754138918b22b51bc31fa",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "sourceAssetName": "nuvio-0.6.13-full-release.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "156"
+        },
         {
           "version": "6b7f15e40a53414fe3538dda28e7ea44cc3cfef4",
           "date": "2026-11-14T22:47:57Z",
