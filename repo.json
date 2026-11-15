@@ -14058,7 +14058,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/breeze-project-org/Breeze/releases/tag/v3.0.37",
         "workflowPath": ".github/workflows/update-app-project-d2b372b8cdc3db0c68349a8d5147eae4.yml"
