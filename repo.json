@@ -10,6 +10,19 @@
       "category": "EMU",
       "versions": [
         {
+          "version": "v0.13.0",
+          "date": "2026-11-15T13:59:22Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0.ipa",
+          "size": 29761747,
+          "sha256": "e6c41491ddf0588b098e89d6bfcb26c2799ac2c83667454f02aa61a08ed1d0bd",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0.ipa",
+          "sourceAssetName": "Cartouche-0.13.0.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.13.0"
+        },
+        {
           "version": "0.13.0",
           "date": "2026-11-15T13:59:22Z",
           "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0-Own-Certificate.ipa",
@@ -29,9 +42,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0-Own-Certificate.ipa",
-        "checkedAt": "2026-11-15T18:45:49Z",
-        "message": "Imported from verified upstream source"
+        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.13.0/Cartouche-0.13.0.ipa",
+        "checkedAt": "2026-11-15T18:46:57Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89b3469310d84696450242e02fa33d5b",
-        "sourceURL": "https://github.com/clabeuhtegrite/Cartouche",
+        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.13.0",
         "workflowPath": ".github/workflows/update-app-project-89b3469310d84696450242e02fa33d5b.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "io.github.clabeuhtegrite.cartouche"
+      ]
     },
     {
       "name": "Anker_build",
