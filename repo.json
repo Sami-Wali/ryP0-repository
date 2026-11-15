@@ -12076,13 +12076,52 @@
       "name": "paper-cut",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.0/papercut-0.5.0-eu-ios-unsigned.ipa",
-        "checkedAt": "2026-11-15T13:41:43Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-15T13:55:47Z",
+        "checkedDownloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-eu-ios-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.5.1",
+          "date": "2026-11-15T13:51:06Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-eu-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-eu-ios-unsigned.ipa",
+          "size": 16329265,
+          "sha256": "0c242401fd973bb9e3a65e511d6c9cb2398fd0356f7defe4e48c8b73a9384dd7",
+          "ipaBundleIdentifier": "io.github.ttyd-port.eu",
+          "sourceAssetName": "papercut-0.5.1-eu-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "10",
+          "sourceAppName": "Paper Cut"
+        },
+        {
+          "version": "v0.5.1",
+          "date": "2026-11-15T13:51:06Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-jp-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-jp-ios-unsigned.ipa",
+          "size": 15960425,
+          "sha256": "d42b96d0e77f7cc7da6902fc6803cb5b65a658a3e6d09b054bb890acabb6fe75",
+          "ipaBundleIdentifier": "io.github.ttyd-port.jp",
+          "sourceAssetName": "papercut-0.5.1-jp-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "10",
+          "sourceAppName": "Paper Cut"
+        },
+        {
+          "version": "v0.5.1",
+          "date": "2026-11-15T13:51:06Z",
+          "downloadURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-us-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/LLCOOLT/paper-cut/releases/download/v0.5.1/papercut-0.5.1-us-ios-unsigned.ipa",
+          "size": 15999192,
+          "sha256": "9e15f4aecb66f0266bbee7b70563bb16290abe69388dd0d994e07999999c2d15",
+          "ipaBundleIdentifier": "io.github.ttyd-port.us",
+          "sourceAssetName": "papercut-0.5.1-us-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "10",
+          "sourceAppName": "Paper Cut"
+        },
         {
           "buildVersion": "10",
           "date": "2026-11-10T21:18:28Z",
