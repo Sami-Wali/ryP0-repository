@@ -42393,13 +42393,25 @@
       "name": "Nuvio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-nuvio-media-579c450d-511ebd5f175dd39e31b9cc0e7b259259e887cf6f-d16afb96819d.ipa",
-        "checkedAt": "2026-11-15T16:25:57Z",
-        "message": "Updated by private automation"
+        "checkedAt": "2026-11-15T18:55:22Z",
+        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-15T18:28:31Z",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
+          "upstreamAssetURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
+          "size": 69922744,
+          "sha256": "d16afb96819d29477cad322c5f04c10769785023222d095fafd95ff8f54146b9",
+          "ipaBundleIdentifier": "com.nuvio.media",
+          "sourceAssetName": "nuvio-1.0.0-full-release.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "157"
+        },
         {
           "version": "511ebd5f175dd39e31b9cc0e7b259259e887cf6f",
           "date": "2026-11-15T15:10:36Z",
