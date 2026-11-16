@@ -23898,13 +23898,26 @@
       "name": "ico-pc",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-2b683ab30368a9600fd53fe715fbcda5-2de2a706d86fe4372337bbe807225f45297156af-0ab39aba5f60.ipa",
-        "checkedAt": "2026-11-16T07:44:23Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-16T13:17:06Z",
+        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.7/ico-pc-v0.11.7-ios-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.11.7",
+          "date": "2026-11-16T08:54:08Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.7/ico-pc-v0.11.7-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.7/ico-pc-v0.11.7-ios-unsigned.ipa",
+          "size": 9452196,
+          "sha256": "3306b141dcd3d15f2e1e46dc1fcd051f5837c283b37074f4f41d389e03faa52e",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "sourceAssetName": "ico-pc-v0.11.7-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "0.11.7",
+          "sourceAppName": "ICO"
+        },
         {
           "version": "2de2a706d86fe4372337bbe807225f45297156af",
           "date": "2026-11-15T19:27:33Z",
