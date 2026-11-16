@@ -868,6 +868,19 @@
       "category": "EMU",
       "versions": [
         {
+          "version": "v0.1.5",
+          "date": "2026-11-16T00:28:19Z",
+          "downloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.5/crate-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.5/crate-unsigned.ipa",
+          "size": 13636890,
+          "sha256": "1fae16476b476356a388a47f320335e6844c1a1dd0c168d149c7206b9c6ce066",
+          "ipaBundleIdentifier": "com.amendez.crate",
+          "sourceAssetName": "crate-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "6",
+          "sourceAppName": "crate"
+        },
+        {
           "version": "v0.1.4",
           "date": "2026-11-15T02:32:42Z",
           "downloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.4/crate-unsigned.ipa",
@@ -939,9 +952,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.4/crate-unsigned.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-16T00:32:11Z",
+        "checkedDownloadURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1.5/crate-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
