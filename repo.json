@@ -19941,7 +19941,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
-        "sourceURL": "https://github.com/Kelly-Inc/horizon-ios/releases/tag/ios-build-107.1",
+        "sourceURL": "https://github.com/Kelly-Inc/horizon-ios/releases/tag/v0.1.65",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "backup": {
@@ -19972,12 +19972,25 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/ios-build-107.1/Horizon-iOS-0.1.63-build107.1-unsigned.ipa",
-        "checkedAt": "2026-11-16T01:43:34Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.65/Horizon-iOS-0.1.65-build112-unsigned.ipa",
+        "checkedAt": "2026-11-16T05:14:25Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.65",
+          "date": "2026-11-16T05:12:09Z",
+          "downloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.65/Horizon-iOS-0.1.65-build112-unsigned.ipa",
+          "size": 36503166,
+          "sha256": "ff03eb063d6332babad38c2a184d0ec5fb6f3ffbad95264224cb3ca8bf8113a9",
+          "upstreamAssetURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.65/Horizon-iOS-0.1.65-build112-unsigned.ipa",
+          "sourceAssetName": "Horizon-iOS-0.1.65-build112-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "release",
+          "buildVersion": "112"
+        },
         {
           "version": "ios-build-107.1",
           "date": "2026-11-15T21:49:46Z",
