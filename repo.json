@@ -4802,13 +4802,26 @@
       "name": "WQManager",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/hseons/WQManager/releases/download/v0.4.0/WQManager-0.4.0-unsigned.ipa",
-        "checkedAt": "2026-11-15T19:42:34Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-16T01:37:00Z",
+        "checkedDownloadURL": "https://github.com/hseons/WQManager/releases/download/v0.4.1/WQManager-0.4.1-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "iOS 26 app data manager, backup & cache cleaner built with Objective-C",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.4.1",
+          "date": "2026-11-16T01:33:41Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.4.1/WQManager-0.4.1-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/hseons/WQManager/releases/download/v0.4.1/WQManager-0.4.1-unsigned.ipa",
+          "size": 849326,
+          "sha256": "ab0c53abc37ea73998851e72b8291985ececd50df1291f6eed3b147b645058cb",
+          "ipaBundleIdentifier": "mumu.pduola.WQManager",
+          "sourceAssetName": "WQManager-0.4.1-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "13",
+          "sourceAppName": "WQManager"
+        },
         {
           "version": "v0.4.0",
           "date": "2026-11-15T13:19:16Z",
