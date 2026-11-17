@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "com.enermaxfr.maxps4",
           "releaseChannel": "prerelease",
           "buildVersion": "1000187"
+        },
+        {
+          "version": "v0.5.0",
+          "date": "2026-11-05T21:48:44Z",
+          "downloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.0/MaxPS4-FEXCore-SideStore.ipa",
+          "size": 12221852,
+          "sha256": "8b021e160c3a567b1ad4663cc5633693e26c1fd7698cbf3e0f15221ba193ec3c",
+          "upstreamAssetURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.0/MaxPS4-FEXCore-SideStore.ipa",
+          "sourceAssetName": "MaxPS4-FEXCore-SideStore.ipa",
+          "sourceAppName": "MaxPS4",
+          "ipaBundleIdentifier": "com.enermaxfr.maxps4",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1000187"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.enermaxfr.maxps4-7399019711ff.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa",
-        "checkedAt": "2026-11-17T07:19:35Z",
+        "checkedAt": "2026-11-17T07:19:58Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c91ea04f31a3f72bc4670b2e4899837c",
-        "sourceURL": "https://github.com/MaxFRdev/MaxPS4/releases/tag/v0.5.1",
+        "sourceURL": "https://github.com/MaxFRdev/MaxPS4/releases/tag/v0.5.0",
         "workflowPath": ".github/workflows/update-app-project-c91ea04f31a3f72bc4670b2e4899837c.yml"
       },
       "bundleIdentifiers": [
