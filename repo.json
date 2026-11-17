@@ -37088,9 +37088,9 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "com-example-kazumi-364d8606",
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/43152177127",
+        "configId": "com-example-kazumi-364d8606",
+        "sourceURL": "https://github.com/Predidit/Kazumi/actions/runs/44125837806",
         "workflowPath": ".github/workflows/update-app-com-example-kazumi-364d8606.yml"
       },
       "backup": {
@@ -37117,13 +37117,25 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_ios_2.4.4_no_sign.ipa",
-        "checkedAt": "2026-11-17T15:43:23Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-3ba2da8b693025cc16addb751a5835c037a1a69d-ed63c6839ca8.ipa",
+        "checkedAt": "2026-11-17T16:41:14Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3ba2da8b693025cc16addb751a5835c037a1a69d",
+          "date": "2026-11-17T16:26:43Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-example-kazumi-364d8606-3ba2da8b693025cc16addb751a5835c037a1a69d-ed63c6839ca8.ipa",
+          "size": 30342561,
+          "sha256": "ed63c6839ca8c0f17d6b858b3360280d6ae6ef34c74244fb1b65ad27cec8140f",
+          "upstreamAssetURL": "https://api.github.com/repos/Predidit/Kazumi/actions/artifacts/14349085607/zip",
+          "sourceAssetName": "Kazumi_ios_canary_no_sign.ipa",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "releaseChannel": "actions",
+          "buildVersion": "20404"
+        },
         {
           "buildVersion": "20404",
           "date": "2026-11-12T10:27:44Z",
