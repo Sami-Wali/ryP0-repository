@@ -21,6 +21,19 @@
           "sourceAssetName": "MaxPS4-FEXCore-SideStore.ipa",
           "ipaBundleIdentifier": "com.enermaxfr.maxps4",
           "upstreamAssetURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa"
+        },
+        {
+          "version": "v0.5.1",
+          "date": "2026-11-06T13:47:19Z",
+          "downloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.1/MaxPS4-FEXCore-SideStore.ipa",
+          "size": 12223083,
+          "sha256": "2d1e4b149ed6e7497831ba814343c28fc84ef1071cdd32ae3675bb5820fb3801",
+          "upstreamAssetURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.1/MaxPS4-FEXCore-SideStore.ipa",
+          "sourceAssetName": "MaxPS4-FEXCore-SideStore.ipa",
+          "sourceAppName": "MaxPS4",
+          "ipaBundleIdentifier": "com.enermaxfr.maxps4",
+          "releaseChannel": "prerelease",
+          "buildVersion": "1000187"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.enermaxfr.maxps4-7399019711ff.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa",
-        "checkedAt": "2026-11-17T07:18:53Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-17T07:19:35Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c91ea04f31a3f72bc4670b2e4899837c",
-        "sourceURL": "https://github.com/MaxFRdev/MaxPS4",
+        "sourceURL": "https://github.com/MaxFRdev/MaxPS4/releases/tag/v0.5.1",
         "workflowPath": ".github/workflows/update-app-project-c91ea04f31a3f72bc4670b2e4899837c.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.enermaxfr.maxps4"
+      ]
     },
     {
       "name": "Cartouche",
