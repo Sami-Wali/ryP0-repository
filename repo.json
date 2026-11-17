@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "MaxPS4",
+      "catalogID": "project-c91ea04f31a3f72bc4670b2e4899837c",
+      "bundleIdentifier": "com.enermaxfr.maxps4",
+      "developerName": "MaxFRdev",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "0.5.1",
+          "date": "2026-11-16T10:05:10Z",
+          "downloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa",
+          "size": 6728350,
+          "buildVersion": "1000187",
+          "releaseChannel": "beta",
+          "sha256": "7399019711ff9808ed72a248cf6759f967d9230c19a6c5487a8779c58768294f",
+          "sourceAppName": "MaxPS4",
+          "sourceAssetName": "MaxPS4-FEXCore-SideStore.ipa",
+          "ipaBundleIdentifier": "com.enermaxfr.maxps4",
+          "upstreamAssetURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.enermaxfr.maxps4-7399019711ff.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa",
+        "checkedAt": "2026-11-17T07:18:53Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.5.2-beta/MaxPS4-FEXCore-SideStore.ipa",
+        "sourceURL": "https://github.com/MaxFRdev/MaxPS4"
+      },
+      "githubURL": "https://github.com/MaxFRdev/MaxPS4",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c91ea04f31a3f72bc4670b2e4899837c",
+        "sourceURL": "https://github.com/MaxFRdev/MaxPS4",
+        "workflowPath": ".github/workflows/update-app-project-c91ea04f31a3f72bc4670b2e4899837c.yml"
+      }
+    },
+    {
       "name": "Cartouche",
       "catalogID": "project-89b3469310d84696450242e02fa33d5b",
       "bundleIdentifier": "io.github.clabeuhtegrite.cartouche",
