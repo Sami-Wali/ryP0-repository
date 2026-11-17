@@ -2027,7 +2027,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/43583943445",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
