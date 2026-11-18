@@ -2147,10 +2147,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-9f0e28b80d39fb8d31db92c7f207617d",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/huami-dev/GestaltX/releases/tag/v1.1.1",
+        "configId": "project-9f0e28b80d39fb8d31db92c7f207617d",
+        "sourceURL": "https://github.com/huami1314/GestaltX/releases/tag/v1.1.1",
         "workflowPath": ".github/workflows/update-app-project-9f0e28b80d39fb8d31db92c7f207617d.yml"
       },
       "bundleIdentifier": "com.huami.gestultx",
@@ -2174,14 +2174,27 @@
       "localizedDescription": "GitHub project request: huamidev/GestaltX.",
       "name": "GestaltX",
       "status": {
-        "checkedAt": "2026-11-18T06:29:37Z",
-        "checkedDownloadURL": "https://github.com/huami-dev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
-        "message": "Updated by private automation",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+        "checkedAt": "2026-11-18T11:51:58Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: huamidev/GestaltX.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.1.1",
+          "date": "2026-11-13T16:46:07Z",
+          "downloadURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "size": 6774794,
+          "sha256": "0621b070cafacb2f1f83fad459697d02263e513b04d77b462da333c5b0a4e708",
+          "upstreamAssetURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "sourceAssetName": "GestaltX_1.1.1.ipa",
+          "sourceAppName": "GestaltX",
+          "ipaBundleIdentifier": "com.huami.gestultx",
+          "releaseChannel": "release",
+          "buildVersion": "11140102"
+        },
         {
           "buildVersion": "11140102",
           "date": "2026-11-13T16:46:07Z",
