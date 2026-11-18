@@ -3,7 +3,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-43fbc4d7fe1d9ee233436bec78a4c38a",
         "sourceURL": "https://github.com/Thijs2004/CyPort/releases/tag/v1.0",
