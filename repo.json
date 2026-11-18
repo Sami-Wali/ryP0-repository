@@ -9878,7 +9878,7 @@
         "com.ichitaso.regitela"
       ],
       "catalogID" : "project-06dcba719612f123fd7117a9a03e5163",
-      "category" : "Tools",
+      "category" : "Exploit",
       "developerName" : "ichitaso",
       "githubProjectCard" : true,
       "githubURL" : "https:\/\/github.com\/ichitaso\/Regitela",
@@ -9890,7 +9890,6 @@
         "originURL" : "https:\/\/github.com\/ichitaso\/Regitela\/releases\/download\/v1.0.0\/Regitela_1.0.0.ipa",
         "sourceURL" : "https:\/\/github.com\/ichitaso\/Regitela"
       },
-      "localizedDescription" : "",
       "name" : "Regitela",
       "status" : {
         "checkedAt" : "2026-11-18T06:26:00Z",
@@ -9898,7 +9897,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
