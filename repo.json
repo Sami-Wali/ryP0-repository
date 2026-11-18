@@ -2148,7 +2148,7 @@
       "appType": "Daily Update",
       "automation": {
         "configId": "project-9f0e28b80d39fb8d31db92c7f207617d",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "sourceURL": "https://github.com/huami-dev/GestaltX/releases/tag/v1.1.1",
         "workflowPath": ".github/workflows/update-app-project-9f0e28b80d39fb8d31db92c7f207617d.yml"
