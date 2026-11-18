@@ -1734,7 +1734,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-9f0e28b80d39fb8d31db92c7f207617d",
         "sourceURL": "https://github.com/huami-dev/GestaltX/releases/tag/v1.1.1",
