@@ -25078,13 +25078,26 @@
       "name": "ico-pc",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.10/ico-pc-v0.11.10-ios-unsigned.ipa",
-        "checkedAt": "2026-11-18T18:27:40Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-18T23:05:09Z",
+        "checkedDownloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.11/ico-pc-v0.11.11-ios-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.11.11",
+          "date": "2026-11-18T23:04:03Z",
+          "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.11/ico-pc-v0.11.11-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.11/ico-pc-v0.11.11-ios-unsigned.ipa",
+          "size": 9570584,
+          "sha256": "5902fed802d78fa4400437a233309e5ff25dfb5d6db12de47d1232603ba3b5d1",
+          "ipaBundleIdentifier": "com.defnf.icopc",
+          "sourceAssetName": "ico-pc-v0.11.11-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "0.11.11",
+          "sourceAppName": "ICO"
+        },
         {
           "buildVersion": "0.11.10",
           "date": "2026-11-18T11:01:54Z",
