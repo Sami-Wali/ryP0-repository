@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-43fbc4d7fe1d9ee233436bec78a4c38a",
-        "sourceURL": "https://github.com/Thijs2004/CyPort/releases/tag/v1.3",
+        "sourceURL": "https://github.com/Thijs2004/CyPort/releases/tag/v1.2",
         "workflowPath": ".github/workflows/update-app-project-43fbc4d7fe1d9ee233436bec78a4c38a.yml"
       },
       "bundleIdentifier": "com.example.cyport",
@@ -32,7 +32,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.5/CyPort-1.5-2.3.1%2B2.5-unsigned.ipa",
-        "checkedAt": "2026-11-18T11:24:52Z",
+        "checkedAt": "2026-11-18T11:25:25Z",
         "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: Thijs2004/CyPort.",
@@ -71,6 +71,19 @@
           "size": 62150666,
           "sha256": "417084a71d5b02849ce172c46c068b16aefb0cef8dd05381c856909acf6cccc6",
           "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.3/CyPort-unsigned.ipa",
+          "sourceAssetName": "CyPort-unsigned.ipa",
+          "sourceAppName": "CyPort",
+          "ipaBundleIdentifier": "com.example.cyport",
+          "releaseChannel": "release",
+          "buildVersion": "5314028"
+        },
+        {
+          "version": "v1.2",
+          "date": "2026-10-16T17:32:27Z",
+          "downloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.2/CyPort-unsigned.ipa",
+          "size": 62131590,
+          "sha256": "7977abcb9eecd607604a9b0447645f788072b975d15804954287c292b779788b",
+          "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.2/CyPort-unsigned.ipa",
           "sourceAssetName": "CyPort-unsigned.ipa",
           "sourceAppName": "CyPort",
           "ipaBundleIdentifier": "com.example.cyport",
