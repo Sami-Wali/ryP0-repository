@@ -3,7 +3,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-eb593032d3b5e37f93fee400ad29611b",
         "sourceURL": "https://github.com/LinkPass888/CarCanvas/releases/tag/v2.0.0",
