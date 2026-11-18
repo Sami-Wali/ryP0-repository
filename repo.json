@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Slay the Spire 2 Launcher",
+      "catalogID": "project-f229bf312a5fcd61bf1d0be3919085ff",
+      "bundleIdentifier": "io.github.mikemikerson.sts2mobile",
+      "developerName": "MikeMikerson",
+      "localizedDescription": "GitHub project request: MikeMikerson/sts2-ios-launcher-public.",
+      "subtitle": "GitHub project request: MikeMikerson/sts2-ios-launcher-public.",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-11-16T04:02:41Z",
+          "downloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa",
+          "size": 127243069,
+          "buildVersion": "5",
+          "releaseChannel": "release",
+          "sha256": "6fc44d97c18336fdd04654f88b45713f7dfa63d72645c1a8d974ecf66f908447",
+          "sourceAppName": "STS2 Mobile",
+          "sourceAssetName": "STS2Mobile-1.2.0.ipa",
+          "ipaBundleIdentifier": "io.github.mikemikerson.sts2mobile",
+          "upstreamAssetURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.mikemikerson.sts2mobile-6fc44d97c183.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa",
+        "checkedAt": "2026-11-18T11:16:16Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa",
+        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public"
+      },
+      "githubURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-f229bf312a5fcd61bf1d0be3919085ff",
+        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public",
+        "workflowPath": ".github/workflows/update-app-project-f229bf312a5fcd61bf1d0be3919085ff.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-c91ea04f31a3f72bc4670b2e4899837c",
