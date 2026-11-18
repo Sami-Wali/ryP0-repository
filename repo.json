@@ -21,6 +21,19 @@
           "sourceAssetName": "CyPort-1.5-2.3.1+2.5-unsigned.ipa",
           "ipaBundleIdentifier": "com.example.cyport",
           "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.5/CyPort-1.5-2.3.1%2B2.5-unsigned.ipa"
+        },
+        {
+          "version": "v1.4",
+          "date": "2026-11-12T11:06:29Z",
+          "downloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.4/CyPort-1.4.0.ipa",
+          "size": 126078083,
+          "sha256": "e76f8965ce01fb4b94729361b7379b7083b5a45ef6c71562df55460a430d99d4",
+          "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.4/CyPort-1.4.0.ipa",
+          "sourceAssetName": "CyPort-1.4.0.ipa",
+          "sourceAppName": "CyPort",
+          "ipaBundleIdentifier": "thijs.personal.MeloNX200421",
+          "releaseChannel": "release",
+          "buildVersion": "5814786"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.example.cyport-af9dddbe4aeb.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.5/CyPort-1.5-2.3.1%2B2.5-unsigned.ipa",
-        "checkedAt": "2026-11-18T11:23:24Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-18T11:24:20Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,13 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-43fbc4d7fe1d9ee233436bec78a4c38a",
-        "sourceURL": "https://github.com/Thijs2004/CyPort",
+        "sourceURL": "https://github.com/Thijs2004/CyPort/releases/tag/v1.4",
         "workflowPath": ".github/workflows/update-app-project-43fbc4d7fe1d9ee233436bec78a4c38a.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.example.cyport",
+        "thijs.personal.MeloNX200421"
+      ]
     },
     {
       "appType": "Daily Update",
