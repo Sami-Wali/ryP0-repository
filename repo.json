@@ -11161,13 +11161,19 @@
       "name": "AniBaka",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.4%2B1101/baka-5.2.4%2B1101-ios-unsigned.ipa",
-        "checkedAt": "2026-11-18T12:26:47Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.5%2B261113/baka-5.2.5%2B261113-ios-unsigned.ipa",
+        "checkedAt": "2026-11-18T15:21:42Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "5.2.5",
+          "date": "2026-11-18T12:04:44Z",
+          "downloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.5%2B261113/baka-5.2.5%2B261113-ios-unsigned.ipa",
+          "size": 23563780
+        },
         {
           "date": "2026-11-05T04:35:12Z",
           "downloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.4%2B1101/baka-5.2.4%2B1101-ios-unsigned.ipa",
