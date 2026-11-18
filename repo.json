@@ -13137,10 +13137,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-f898930d3389c29be00602fe5365a1ac",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.7",
+        "configId": "project-f898930d3389c29be00602fe5365a1ac",
+        "sourceURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/v3.0.8",
         "workflowPath": ".github/workflows/update-app-project-f898930d3389c29be00602fe5365a1ac.yml"
       },
       "backup": {
@@ -13172,13 +13172,26 @@
       "name": "Kazumi for iOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.7/Kazumi_ios_3.0.7_no_sign.ipa",
-        "checkedAt": "2026-11-18T12:26:47Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/v3.0.8/Kazumi_ios_v3.0.8_no_sign.ipa",
+        "checkedAt": "2026-11-18T12:47:03Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "原生 SwiftUI 实现Kazumi，支持Anskip自动跳过片头片尾，支持番剧更新提醒，原版有的都有，没有的也有。",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v3.0.8",
+          "date": "2026-11-18T12:44:12Z",
+          "downloadURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/v3.0.8/Kazumi_ios_v3.0.8_no_sign.ipa",
+          "size": 24325317,
+          "sha256": "2e667cc24c4879fc55f869d1229d801857af59f14cf66c0130a30c4d95bc8ee7",
+          "upstreamAssetURL": "https://github.com/LinkPass888/Kazumi-Swift/releases/download/v3.0.8/Kazumi_ios_v3.0.8_no_sign.ipa",
+          "sourceAssetName": "Kazumi_ios_v3.0.8_no_sign.ipa",
+          "sourceAppName": "Kazumi",
+          "ipaBundleIdentifier": "com.linkpass.kazumi",
+          "releaseChannel": "release",
+          "buildVersion": "30008"
+        },
         {
           "buildVersion": "30007",
           "date": "2026-11-16T02:26:09Z",
