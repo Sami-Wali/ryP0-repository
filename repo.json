@@ -21,6 +21,19 @@
           "sourceAssetName": "STS2Mobile-1.2.0.ipa",
           "ipaBundleIdentifier": "io.github.mikemikerson.sts2mobile",
           "upstreamAssetURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa"
+        },
+        {
+          "version": "v1.1.1",
+          "date": "2026-11-13T13:16:45Z",
+          "downloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.1.1/STS2Mobile-1.1.1.ipa",
+          "size": 127007620,
+          "sha256": "4aa3cd06cf3907058ed42653a5da67f818fd789da35e933b99271a048529e0d8",
+          "upstreamAssetURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.1.1/STS2Mobile-1.1.1.ipa",
+          "sourceAssetName": "STS2Mobile-1.1.1.ipa",
+          "sourceAppName": "STS2 Mobile",
+          "ipaBundleIdentifier": "io.github.mikemikerson.sts2mobile",
+          "releaseChannel": "release",
+          "buildVersion": "4"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.mikemikerson.sts2mobile-6fc44d97c183.png",
@@ -30,8 +43,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa",
-        "checkedAt": "2026-11-18T11:16:16Z",
-        "message": "Imported from verified upstream source"
+        "checkedAt": "2026-11-18T11:17:08Z",
+        "message": "Updated by private automation"
       },
       "importSource": {
         "method": "github",
@@ -45,9 +58,12 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f229bf312a5fcd61bf1d0be3919085ff",
-        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public",
+        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/tag/v1.1.1",
         "workflowPath": ".github/workflows/update-app-project-f229bf312a5fcd61bf1d0be3919085ff.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "io.github.mikemikerson.sts2mobile"
+      ]
     },
     {
       "appType": "Daily Update",
