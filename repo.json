@@ -34,6 +34,19 @@
           "ipaBundleIdentifier": "io.github.mikemikerson.sts2mobile",
           "releaseChannel": "release",
           "buildVersion": "4"
+        },
+        {
+          "version": "v1.1.0",
+          "date": "2026-11-12T21:58:04Z",
+          "downloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.1.0/STS2Mobile-1.1.0.ipa",
+          "size": 126990348,
+          "sha256": "9556946fa9d5f71b33a08c55482e273dc4a0978a23a25fcd3da7ae0ae3152985",
+          "upstreamAssetURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.1.0/STS2Mobile-1.1.0.ipa",
+          "sourceAssetName": "STS2Mobile-1.1.0.ipa",
+          "sourceAppName": "STS2 Mobile",
+          "ipaBundleIdentifier": "io.github.mikemikerson.sts2mobile",
+          "releaseChannel": "release",
+          "buildVersion": "3"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/io.github.mikemikerson.sts2mobile-6fc44d97c183.png",
@@ -43,7 +56,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.2.0/STS2Mobile-1.2.0.ipa",
-        "checkedAt": "2026-11-18T11:17:08Z",
+        "checkedAt": "2026-11-18T11:17:46Z",
         "message": "Updated by private automation"
       },
       "importSource": {
@@ -58,7 +71,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-f229bf312a5fcd61bf1d0be3919085ff",
-        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/tag/v1.1.1",
+        "sourceURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/tag/v1.1.0",
         "workflowPath": ".github/workflows/update-app-project-f229bf312a5fcd61bf1d0be3919085ff.yml"
       },
       "bundleIdentifiers": [
