@@ -6,7 +6,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-eb593032d3b5e37f93fee400ad29611b",
-        "sourceURL": "https://github.com/LinkPass888/CarCanvas/releases/tag/v2.1.1",
+        "sourceURL": "https://github.com/LinkPass888/CarCanvas/releases/tag/v2.1.0",
         "workflowPath": ".github/workflows/update-app-project-eb593032d3b5e37f93fee400ad29611b.yml"
       },
       "bundleIdentifier": "com.carcanvas.wq",
@@ -28,7 +28,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/LinkPass888/CarCanvas/releases/download/v2.1.2/CarCanvas-v2.1.2-unsigned.ipa",
-        "checkedAt": "2026-11-18T11:28:19Z",
+        "checkedAt": "2026-11-18T11:28:46Z",
         "message": "Updated by private automation"
       },
       "subtitle": "Replace CarPlay wallpapers with your own photos, with original-cache backup and restore. Powered by worse_query.",
@@ -59,6 +59,19 @@
           "ipaBundleIdentifier": "com.carcanvas.wq",
           "releaseChannel": "release",
           "buildVersion": "6"
+        },
+        {
+          "version": "v2.1.0",
+          "date": "2026-11-16T14:32:28Z",
+          "downloadURL": "https://github.com/LinkPass888/CarCanvas/releases/download/v2.1.0/CarCanvas-unsigned.ipa",
+          "size": 1010511,
+          "sha256": "7ac72fb5bee711382be5684fe80fdd88882fcc0153aa5e22b9f21a5da5f99ac4",
+          "upstreamAssetURL": "https://github.com/LinkPass888/CarCanvas/releases/download/v2.1.0/CarCanvas-unsigned.ipa",
+          "sourceAssetName": "CarCanvas-unsigned.ipa",
+          "sourceAppName": "CarCanvas",
+          "ipaBundleIdentifier": "com.carcanvas.wq",
+          "releaseChannel": "release",
+          "buildVersion": "5"
         }
       ],
       "bundleIdentifiers": [
