@@ -2068,7 +2068,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44252402208",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44257346321",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifier": "com.armsx3.ARMSX3",
@@ -2092,13 +2092,27 @@
       "name": "ARMSX3",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-5dfb56c15c6d1bfdd05a85f545b922f63c5ffce5-148543bb5eed.ipa",
-        "checkedAt": "2026-11-18T07:02:25Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-8ad9d2a5f07d4cc3e9d23986bbf95812c5f0204a-a18d5549f9a3.ipa",
+        "checkedAt": "2026-11-18T07:42:21Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "8ad9d2a5f07d4cc3e9d23986bbf95812c5f0204a",
+          "date": "2026-11-18T07:14:38Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-8ad9d2a5f07d4cc3e9d23986bbf95812c5f0204a-a18d5549f9a3.ipa",
+          "size": 46191670,
+          "sha256": "a18d5549f9a3c75d9d23b4fdf3c39f657471d50461ccbde1b32057ee42b032fb",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/14408101552/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "5dfb56c15c6d1bfdd05a85f545b922f63c5ffce5",
           "date": "2026-11-18T06:34:59Z",
