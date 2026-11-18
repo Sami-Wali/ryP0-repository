@@ -9473,7 +9473,7 @@
         "com.jbdotparty.Erosion"
       ],
       "catalogID" : "project-c69c6c05bdcd217b8386c79515b480f9",
-      "category" : "Sideloading",
+      "category" : "Exploit",
       "developerName" : "jailbreakdotparty",
       "githubProjectCard" : true,
       "githubURL" : "https:\/\/github.com\/jailbreakdotparty\/Erosion",
@@ -9485,7 +9485,6 @@
         "originURL" : "https:\/\/github.com\/jailbreakdotparty\/Erosion\/releases\/download\/0.3.1\/Erosion_v0.3.1.ipa",
         "sourceURL" : "https:\/\/github.com\/jailbreakdotparty\/Erosion"
       },
-      "localizedDescription" : "",
       "name" : "Erosion",
       "status" : {
         "checkedAt" : "2026-11-18T06:26:00Z",
@@ -9493,7 +9492,6 @@
         "message" : "Download is available",
         "state" : "healthy"
       },
-      "subtitle" : "",
       "updatePolicy" : "daily",
       "versions" : [
         {
