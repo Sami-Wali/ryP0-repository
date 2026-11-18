@@ -9744,13 +9744,39 @@
       "name": "ipadn",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.3/iPadn-2.1.3-unsigned.ipa",
-        "checkedAt": "2026-11-18T06:26:00Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-18T06:28:59Z",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.2.0",
+          "date": "2026-11-18T02:18:30Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-unsigned.ipa",
+          "size": 50642919,
+          "sha256": "dc536966eaab8801394f037a023225ebbd8ad6897c35932b799d48906df276d2",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.2.0-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "34",
+          "sourceAppName": "iPadn"
+        },
+        {
+          "version": "v2.2.0",
+          "date": "2026-11-18T02:18:30Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-lite-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-lite-unsigned.ipa",
+          "size": 50502422,
+          "sha256": "da4bfe34eae401d449a263d708f7e27b23dc7e87d3d96d8969a7b8ad30a12a59",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.2.0-lite-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "34",
+          "sourceAppName": "iPadn"
+        },
         {
           "buildVersion": "33",
           "date": "2026-11-15T14:54:47Z",
