@@ -27,13 +27,26 @@
       "name": "Madeira Nightly",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-18T15:32:13Z",
-        "checkedDownloadURL": "https://github.com/camhoc/Madeira/releases/download/v0.2.31/Madeira.Nightly.0.2.31.ipa",
+        "checkedAt": "2026-11-18T15:42:20Z",
+        "checkedDownloadURL": "https://github.com/camhoc/Madeira/releases/download/v0.2.32/Madeira.Nightly.0.2.32.ipa",
         "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: camhoc/Madeira.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.2.32",
+          "date": "2026-11-18T15:38:01Z",
+          "downloadURL": "https://github.com/camhoc/Madeira/releases/download/v0.2.32/Madeira.Nightly.0.2.32.ipa",
+          "upstreamAssetURL": "https://github.com/camhoc/Madeira/releases/download/v0.2.32/Madeira.Nightly.0.2.32.ipa",
+          "size": 211756858,
+          "sha256": "7271d31a234e0075b601a551874961ab0c75d38878e46c3fdabe62f23b8a2506",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "sourceAssetName": "Madeira.Nightly.0.2.32.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "99",
+          "sourceAppName": "Madeira Nightly 0.2.32"
+        },
         {
           "version": "v0.2.31",
           "date": "2026-11-18T15:31:17Z",
