@@ -2068,7 +2068,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44164538060",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44252402208",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifier": "com.armsx3.ARMSX3",
@@ -2092,13 +2092,27 @@
       "name": "ARMSX3",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.3/ARMSX3-0.0.3.ipa",
-        "checkedAt": "2026-11-18T06:26:00Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-5dfb56c15c6d1bfdd05a85f545b922f63c5ffce5-148543bb5eed.ipa",
+        "checkedAt": "2026-11-18T07:02:25Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "5dfb56c15c6d1bfdd05a85f545b922f63c5ffce5",
+          "date": "2026-11-18T06:34:59Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-5dfb56c15c6d1bfdd05a85f545b922f63c5ffce5-148543bb5eed.ipa",
+          "size": 46191892,
+          "sha256": "148543bb5eedc56721e5af7694ee679482598198dbe2dadb1dae4d9cca52e17e",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/14404929425/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "version": "ios-0.0.3",
           "date": "2026-11-17T22:24:53Z",
