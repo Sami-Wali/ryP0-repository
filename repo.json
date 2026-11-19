@@ -332,7 +332,14 @@
           "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.0/CyPort-unsigned.ipa",
           "version": "v1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.5.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3415dc434285bdabe5d5f8af-af9dddbe4aeb1c9d7143c57619fffab288cf8eed08db943adea4afa3740320f7.ipa",
+        "sha256": "af9dddbe4aeb1c9d7143c57619fffab288cf8eed08db943adea4afa3740320f7",
+        "size": 126109860,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
