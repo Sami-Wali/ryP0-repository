@@ -5332,7 +5332,14 @@
           "upstreamAssetURL": "https://github.com/pwnapplehat/EscapeOS/releases/download/v0.1.0/EscapeOS-0.1.0.ipa",
           "version": "v0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.3.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-031250a223c5239d2c2005c9-49edbca809d4b07c8863971ba40a2551537d433872f03cedd1c13ce2e0975e1e.ipa",
+        "sha256": "49edbca809d4b07c8863971ba40a2551537d433872f03cedd1c13ce2e0975e1e",
+        "size": 7683406,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
