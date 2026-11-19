@@ -48864,6 +48864,20 @@
       "githubURL": "https://github.com/NightSightProductions/DOOM-Recomp",
       "versions": [],
       "localizedDescription": "Native Apple Silicon port of DOOM (2016) by static recompilation - bring your own copy"
+    },
+    {
+      "catalogID": "source-port-f17158cca530a4c69aade93511842038",
+      "bundleIdentifier": "source-port-f17158cca530a4c69aade93511842038",
+      "name": "bo2-ios",
+      "developerName": "Alextechgamer",
+      "iconURL": "https://github.com/Alextechgamer.png",
+      "category": "Ports",
+      "portDistribution": "source-code",
+      "updatePolicy": "static",
+      "githubProjectCard": false,
+      "githubURL": "https://github.com/Alextechgamer/bo2-ios",
+      "versions": [],
+      "localizedDescription": "iOS launcher, input controls, private server transport and packaging source"
     }
   ],
   "categories": [
