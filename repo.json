@@ -5675,7 +5675,14 @@
           "upstreamAssetURL": "https://github.com/MakrSas/Monolith/releases/download/v0.3.0-beta.1/Monolith.ipa",
           "version": "0.3.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.3.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4ab3da84d4b74f36c8793798-f940443822d008e92ef4ae667110c4903df488b4a73566c62d29affa216468de.ipa",
+        "sha256": "f940443822d008e92ef4ae667110c4903df488b4a73566c62d29affa216468de",
+        "size": 33712050,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
