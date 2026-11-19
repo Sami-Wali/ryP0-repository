@@ -2021,13 +2021,39 @@
       "name": "TetherlessiOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.3/Tetherless-1.2.3-Legacy.ipa",
-        "checkedAt": "2026-11-19T18:32:02Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-19T20:32:22Z",
+        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Legacy.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: pwnapplehat/TetherlessiOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.2.5",
+          "date": "2026-11-19T19:53:07Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Legacy.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Legacy.ipa",
+          "size": 7179009,
+          "sha256": "337487b05da0c92317e95c29f843aac5a07abc42a4325e68c7d234ba4840cd48",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.5-Legacy.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "95",
+          "sourceAppName": "Tetherless"
+        },
+        {
+          "version": "v1.2.5",
+          "date": "2026-11-19T19:53:07Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Modern.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Modern.ipa",
+          "size": 7173542,
+          "sha256": "12d0979bd094aec0ba560d6acbc76d2d00b07b2b00c6e4753b73599ad68b6f6b",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.5-Modern.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "95",
+          "sourceAppName": "Tetherless"
+        },
         {
           "version": "v1.2.3",
           "date": "2026-11-18T11:39:53Z",
