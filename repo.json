@@ -1021,7 +1021,14 @@
           "upstreamAssetURL": "https://github.com/Niimahz/Anker_build/releases/download/v1.0.0-rc.1/Anker-1.0.0-unsigned.ipa",
           "version": "v1.0.0-rc.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-bab1fb3be0efb52d4b06fb29-d98bdc6776471132b9d2aebc78fcfa7c142ed5d7b29e818bf284d07cf4fc875f.ipa",
+        "sha256": "d98bdc6776471132b9d2aebc78fcfa7c142ed5d7b29e818bf284d07cf4fc875f",
+        "size": 1181218,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
