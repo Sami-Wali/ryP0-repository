@@ -14912,11 +14912,11 @@
         "workflowPath": ".github/workflows/update-app-project-c9c7fbab9f7764f2432d012e429b2384.yml"
       },
       "backup": {
+        "version": "0.3.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5151b307a42fdd2d72d3dd97-b86afa682d98cea0a628dd3ef81a5532c1635ca8c0b654d6749bc4e7dd40cd0c.ipa",
         "sha256": "b86afa682d98cea0a628dd3ef81a5532c1635ca8c0b654d6749bc4e7dd40cd0c",
         "size": 9036911,
-        "version": "0.3",
-        "week": "2026-11-13"
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.henge.app",
       "bundleIdentifiers": [
