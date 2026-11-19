@@ -44733,11 +44733,11 @@
         "workflowPath": ".github/workflows/update-app-com-nuvio-media-579c450d.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-579c450dcdec176edd261893-cc02dc57e268b43a1294841bf6e6a661c9189b1b801292c7bf7fa682ac472ae9.ipa",
-        "sha256": "cc02dc57e268b43a1294841bf6e6a661c9189b1b801292c7bf7fa682ac472ae9",
-        "size": 69852349,
-        "version": "0.6.12-beta",
-        "week": "2026-11-13"
+        "version": "1.1.0-beta.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-579c450dcdec176edd261893-1f10d410a35307a80e605952509f0ede6861fe2e77ab49f927f28c93df09d257.ipa",
+        "sha256": "1f10d410a35307a80e605952509f0ede6861fe2e77ab49f927f28c93df09d257",
+        "size": 71080326,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.nuvio.media",
       "bundleIdentifiers": [
