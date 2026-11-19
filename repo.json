@@ -3064,7 +3064,14 @@
           "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.1/ARMSX3-0.0.1.ipa",
           "version": "ios-0.0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "b3e1542c49eb84ecc08eabd9dd9b3e21e4b3c480",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-af244381408cd217a32c050b-58bdb629dee8183cbb342c901f4847d94d4a00c88275a722dd6326b266a524ff.ipa",
+        "sha256": "58bdb629dee8183cbb342c901f4847d94d4a00c88275a722dd6326b266a524ff",
+        "size": 46261421,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
