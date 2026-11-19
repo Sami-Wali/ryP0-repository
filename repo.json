@@ -42429,11 +42429,11 @@
         "workflowPath": ".github/workflows/update-app-com-meleepad-meleepad-a64c007e.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a64c007e88ed5e53fc7ab464-98519113d919301e52401f8309a06d618c0a0cc78994b8add36ee4a63b44b8e3.ipa",
-        "sha256": "98519113d919301e52401f8309a06d618c0a0cc78994b8add36ee4a63b44b8e3",
-        "size": 15740589,
-        "version": "v0.3.0",
-        "week": "2026-11-13"
+        "version": "v0.3.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a64c007e88ed5e53fc7ab464-53cd1b9725e4ea970be27cea2b99c42e5fc0d94a72ff01296e920cd68052d944.ipa",
+        "sha256": "53cd1b9725e4ea970be27cea2b99c42e5fc0d94a72ff01296e920cd68052d944",
+        "size": 15776450,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.meleepad.MeleePad",
       "bundleIdentifiers": [
