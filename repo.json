@@ -32487,11 +32487,11 @@
         "workflowPath": ".github/workflows/update-app-app-13c4e5b3e7f84bb88355b99695fe1aa2.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-34b9907f949783a60a1f465c-b23a64cd0edcde98c532c5e954b9d97b65177e07f52cace10859166d0601d551.ipa",
-        "sha256": "b23a64cd0edcde98c532c5e954b9d97b65177e07f52cace10859166d0601d551",
-        "size": 2099534,
-        "version": "v4.5.2",
-        "week": "2026-11-13"
+        "version": "v4.6.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-34b9907f949783a60a1f465c-942777662d45ffe522135ed2fffe22048812ca910c009870d96e6b53d35a3f2c.ipa",
+        "sha256": "942777662d45ffe522135ed2fffe22048812ca910c009870d96e6b53d35a3f2c",
+        "size": 2179675,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.mori.downloader",
       "bundleIdentifiers": [
