@@ -21131,10 +21131,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Kelly-Inc/horizon-ios/releases/tag/ios-build-108.1",
+        "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
+        "sourceURL": "https://github.com/Kelly-Inc/horizon-ios/releases/tag/v0.1.66",
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "backup": {
@@ -21165,12 +21165,25 @@
       "name": "horizon-ios",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/ios-build-108.1/Horizon-iOS-0.1.64-build108.1-unsigned.ipa",
-        "checkedAt": "2026-11-19T00:28:56Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.66/Horizon-iOS-0.1.66-build113-unsigned.ipa",
+        "checkedAt": "2026-11-19T01:32:25Z",
+        "message": "Updated by private automation"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.66",
+          "date": "2026-11-19T01:29:21Z",
+          "downloadURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.66/Horizon-iOS-0.1.66-build113-unsigned.ipa",
+          "size": 56051557,
+          "sha256": "3e21c37f1c23f7b900aff8c996bd6ec1bba9b1c0bd0a18bd778c42431802a869",
+          "upstreamAssetURL": "https://github.com/Kelly-Inc/horizon-ios/releases/download/v0.1.66/Horizon-iOS-0.1.66-build113-unsigned.ipa",
+          "sourceAssetName": "Horizon-iOS-0.1.66-build113-unsigned.ipa",
+          "sourceAppName": "Horizon",
+          "ipaBundleIdentifier": "dev.horizon.game",
+          "releaseChannel": "release",
+          "buildVersion": "113"
+        },
         {
           "buildVersion": "108.1",
           "date": "2026-11-16T05:30:40Z",
