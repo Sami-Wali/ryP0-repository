@@ -31232,13 +31232,25 @@
       "name": "BiliBiliMApp",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.1.0/BiliBiliMApp_8.89.0.v3.1.0.ipa",
-        "checkedAt": "2026-11-19T06:29:54Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-19T07:53:51Z",
+        "checkedDownloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.2.0/BiliBiliMApp_8.89.0.v3.2.0.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: TouchFriend/BiliBiliMApp.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-11-19T07:47:01Z",
+          "downloadURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.2.0/BiliBiliMApp_8.89.0.v3.2.0.ipa",
+          "upstreamAssetURL": "https://github.com/TouchFriend/BiliBiliMApp/releases/download/3.2.0/BiliBiliMApp_8.89.0.v3.2.0.ipa",
+          "size": 283797631,
+          "sha256": "9e69852d4850b355e63eedd6bc30a43ed57c990f5ec3ecfab22f12a6889e52c3",
+          "ipaBundleIdentifier": "tv.danmaku.bilianime",
+          "sourceAssetName": "BiliBiliMApp_8.89.0.v3.2.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "88900100"
+        },
         {
           "buildVersion": "88900100",
           "date": "2026-07-04T02:20:52Z",
