@@ -1787,7 +1787,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/MinecraftStoryMode-iOS/releases/download/v0.1.0/MCSM-iOS.ipa",
           "version": "0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e85e0642590bba33e39b6e09-74c324d6101ed6f640f97480a27ff63a61f1ccd816ed5310dbae4a16a6660216.ipa",
+        "sha256": "74c324d6101ed6f640f97480a27ff63a61f1ccd816ed5310dbae4a16a6660216",
+        "size": 17903749,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
