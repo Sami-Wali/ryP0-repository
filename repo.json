@@ -14648,10 +14648,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
-        "historySyncPending": false,
+        "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/Leviidev/Henge/releases/tag/0.1",
+        "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
+        "sourceURL": "https://github.com/Leviidev/Henge",
         "workflowPath": ".github/workflows/update-app-project-c9c7fbab9f7764f2432d012e429b2384.yml"
       },
       "backup": {
@@ -14672,9 +14672,9 @@
       "githubURL": "https://github.com/Leviidev/Henge",
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.henge.app-80008c82ab73.png",
       "importSource": {
-        "deliveryMode": "direct-source",
-        "historyLimit": 0,
         "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
         "originURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
         "sourceURL": "https://github.com/Leviidev/Henge"
       },
@@ -14683,8 +14683,8 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
-        "checkedAt": "2026-11-19T18:32:02Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-19T20:21:26Z",
+        "message": "Imported from verified upstream source"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -14742,6 +14742,19 @@
           "version": "0.2"
         },
         {
+          "version": "0.1",
+          "date": "2026-11-06T13:28:11Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+          "size": 8761298,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "80008c82ab738eab7513a69c16d63b15414b84a37b4c0bde357368073fc67b41",
+          "sourceAppName": "Henge",
+          "sourceAssetName": "Henge.ipa",
+          "ipaBundleIdentifier": "com.henge.app",
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa"
+        },
+        {
           "buildVersion": "1",
           "date": "2026-11-06T13:28:11Z",
           "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
@@ -14752,19 +14765,6 @@
           "sourceAppName": "Henge",
           "sourceAssetName": "Henge.tipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.tipa",
-          "version": "0.1"
-        },
-        {
-          "buildVersion": "1",
-          "date": "2026-11-06T13:28:11Z",
-          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
-          "ipaBundleIdentifier": "com.henge.app",
-          "releaseChannel": "release",
-          "sha256": "80008c82ab738eab7513a69c16d63b15414b84a37b4c0bde357368073fc67b41",
-          "size": 8761298,
-          "sourceAppName": "Henge",
-          "sourceAssetName": "Henge.ipa",
-          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
           "version": "0.1"
         }
       ]
