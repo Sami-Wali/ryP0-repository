@@ -1619,7 +1619,14 @@
           "upstreamAssetURL": "https://github.com/oneamendez/crate-ios/releases/download/v0.1/crate-unsigned.ipa",
           "version": "v0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v0.1.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9397df05369e30f4762f342d-1fae16476b476356a388a47f320335e6844c1a1dd0c168d149c7206b9c6ce066.ipa",
+        "sha256": "1fae16476b476356a388a47f320335e6844c1a1dd0c168d149c7206b9c6ce066",
+        "size": 13636890,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
