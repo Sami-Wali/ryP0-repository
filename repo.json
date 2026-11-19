@@ -1332,7 +1332,14 @@
           "upstreamAssetURL": "https://github.com/grechucia/gwent-reimagined/releases/download/v1.0/GwentReimagined-iOS.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.0.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fa9e4e8b85d4fd8cc76e79c1-015032f75b0151fddc937bc70b483a75383e649d41fbd6dd9ec87c60ed1e0eb9.ipa",
+        "sha256": "015032f75b0151fddc937bc70b483a75383e649d41fbd6dd9ec87c60ed1e0eb9",
+        "size": 344589937,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
