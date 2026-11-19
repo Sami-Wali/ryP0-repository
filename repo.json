@@ -1731,7 +1731,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/BeatSaber-iOS/releases/download/v1.0.0/BeatSaber.ipa",
           "version": "1.29.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.29.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-48288ac8742003254d72873b-3bbeaa64a4556ffbb441f055414972adad391b699e4dcb5896a74aa37a2674dc.ipa",
+        "sha256": "3bbeaa64a4556ffbb441f055414972adad391b699e4dcb5896a74aa37a2674dc",
+        "size": 24245891,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
