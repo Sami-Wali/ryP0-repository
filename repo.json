@@ -2643,7 +2643,14 @@
           "upstreamAssetURL": "https://github.com/hubzzzgr/TVContainer/releases/download/1.0/TVContainer.ipa",
           "version": "1.0.6"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.6",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-8eafd4b35c69e1ef4ca553da-3afb362576b9d213dea35f389e9de82c26ca0aa9aa1278fd0f4495601853dc1b.ipa",
+        "sha256": "3afb362576b9d213dea35f389e9de82c26ca0aa9aa1278fd0f4495601853dc1b",
+        "size": 5323157,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
