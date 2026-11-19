@@ -430,7 +430,14 @@
           "upstreamAssetURL": "https://github.com/MikeMikerson/sts2-ios-launcher-public/releases/download/v1.0.0/STS2Mobile-1.0.0.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.2.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c36c96214d81255934c6e076-6fc44d97c18336fdd04654f88b45713f7dfa63d72645c1a8d974ecf66f908447.ipa",
+        "sha256": "6fc44d97c18336fdd04654f88b45713f7dfa63d72645c1a8d974ecf66f908447",
+        "size": 127243069,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
