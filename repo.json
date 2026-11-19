@@ -4755,7 +4755,14 @@
           "upstreamAssetURL": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_3.0.0/Apollo-Reborn-3.0.0-GLASS-NOEXTENSIONS.ipa",
           "version": "v1.15.11_3.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.15.11_4.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0bf5bebaf5f91c7166275eb7-f48298f2b704aa555261699185c8bd9d5df446028454480977bbbacbae191ca0.ipa",
+        "sha256": "f48298f2b704aa555261699185c8bd9d5df446028454480977bbbacbae191ca0",
+        "size": 119160349,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
