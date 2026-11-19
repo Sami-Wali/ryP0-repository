@@ -5619,7 +5619,14 @@
           "upstreamAssetURL": "https://github.com/TwilitRealm/dusklight/releases/download/v1.0.0-rc.1/Dusk-v1.0.0-rc.1-ios-arm64.ipa",
           "version": "v1.0.0-rc.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.0.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-d4dba257b1e62e91930f56a9-33991d29234c990085689af61528722248becfffd4b9abd5d0cdd550ce68360b.ipa",
+        "sha256": "33991d29234c990085689af61528722248becfffd4b9abd5d0cdd550ce68360b",
+        "size": 37056541,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
