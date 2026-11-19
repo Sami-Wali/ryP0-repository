@@ -4811,7 +4811,14 @@
           "upstreamAssetURL": "https://github.com/Yebot32/xenra/releases/download/v0.5.0/xenra-ios-0.5.0.ipa",
           "version": "0.5.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.5.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ced470cbd7b60c45ae70694d-7dec6b73422d45da1d1f21cd6c509acad498a5d41e0a71bf643d2ec6c6b32713.ipa",
+        "sha256": "7dec6b73422d45da1d1f21cd6c509acad498a5d41e0a71bf643d2ec6c6b32713",
+        "size": 22297063,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
