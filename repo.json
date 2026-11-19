@@ -34330,11 +34330,11 @@
         "workflowPath": ".github/workflows/update-app-app-f2abe97caae34e08b24fc5f72e7db77f.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-70790d00bc890011e8372b43-1b526c3e751de6865fb27b2f3d30b0e4151d8e90426bd7ffdfc35c5feb43c6f3.ipa",
-        "sha256": "1b526c3e751de6865fb27b2f3d30b0e4151d8e90426bd7ffdfc35c5feb43c6f3",
-        "size": 23752778,
         "version": "nightly",
-        "week": "2026-11-13"
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-70790d00bc890011e8372b43-ec46cc3596e9fb96eff8ea7f47d0daef0d5adfe2d3dfea101a9a633997e79444.ipa",
+        "sha256": "ec46cc3596e9fb96eff8ea7f47d0daef0d5adfe2d3dfea101a9a633997e79444",
+        "size": 23754976,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.kdt.livecontainer",
       "bundleIdentifiers": [
