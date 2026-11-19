@@ -2585,10 +2585,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44260975259",
+        "configId": "project-8626e5db6200db4e70c0ff2cdbd9a479",
+        "sourceURL": "https://github.com/ARMSX2/ARMSX3/actions/runs/44602160071",
         "workflowPath": ".github/workflows/update-app-project-8626e5db6200db4e70c0ff2cdbd9a479.yml"
       },
       "bundleIdentifier": "com.armsx3.ARMSX3",
@@ -2612,13 +2612,27 @@
       "name": "ARMSX3",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-ae484d04aa5ee41a510aeef474c809dd7d6a707b-127d8144bbb4.ipa",
-        "checkedAt": "2026-11-19T18:32:02Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-b3e1542c49eb84ecc08eabd9dd9b3e21e4b3c480-58bdb629dee8.ipa",
+        "checkedAt": "2026-11-19T20:46:59Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "b3e1542c49eb84ecc08eabd9dd9b3e21e4b3c480",
+          "date": "2026-11-19T19:48:36Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-b3e1542c49eb84ecc08eabd9dd9b3e21e4b3c480-58bdb629dee8.ipa",
+          "size": 46261421,
+          "sha256": "58bdb629dee8183cbb342c901f4847d94d4a00c88275a722dd6326b266a524ff",
+          "upstreamAssetURL": "https://api.github.com/repos/ARMSX2/ARMSX3/actions/artifacts/14572090517/zip",
+          "sourceAssetName": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceArchiveEntry": "ARMSX3-Release-ios-llvm-unsigned.ipa",
+          "sourceAppName": "ARMSX3",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "releaseChannel": "actions",
+          "buildVersion": "5"
+        },
         {
           "buildVersion": "5",
           "date": "2026-11-18T07:42:27Z",
