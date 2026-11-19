@@ -2341,7 +2341,14 @@
           "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.0.0/Tetherless-1.0.0-Legacy.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.2.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e3df0e9968250ca78ef5847f-337487b05da0c92317e95c29f843aac5a07abc42a4325e68c7d234ba4840cd48.ipa",
+        "sha256": "337487b05da0c92317e95c29f843aac5a07abc42a4325e68c7d234ba4840cd48",
+        "size": 7179009,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
