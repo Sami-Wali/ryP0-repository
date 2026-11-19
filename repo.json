@@ -28312,12 +28312,25 @@
       "name": "buildbox-ios",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-19T00:34:57Z",
-        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8-build179-personal/BuildBox-179-personal-notestpill-20261119-002834.ipa",
+        "checkedAt": "2026-11-19T00:40:03Z",
+        "checkedDownloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8-build179-personal-crosspromo/BuildBox-179-personal-crosspromo-20261119-003559.ipa",
         "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.1.8-build179-personal-crosspromo",
+          "date": "2026-11-19T00:37:50Z",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8-build179-personal-crosspromo/BuildBox-179-personal-crosspromo-20261119-003559.ipa",
+          "upstreamAssetURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8-build179-personal-crosspromo/BuildBox-179-personal-crosspromo-20261119-003559.ipa",
+          "size": 27033480,
+          "sha256": "d6234dd90012aa60b4dba97784c3c096f52f1aa77031e1f3bdc2896c985af69e",
+          "ipaBundleIdentifier": "com.mikevillarroel.buildbox.beta",
+          "sourceAssetName": "BuildBox-179-personal-crosspromo-20261119-003559.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "179",
+          "sourceAppName": "BuildBox"
+        },
         {
           "version": "v2.1.8-build179-personal",
           "date": "2026-11-19T00:31:59Z",
