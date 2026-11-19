@@ -20127,11 +20127,11 @@
         "workflowPath": ".github/workflows/update-app-project-2080023ed46dc8c95d091f9c6d0673cb.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-23b7a05ab2849e80eba7b432-6c8383ff31ca9f04a3d0aa082b6b05203129db32b3f761f171083eea8dc8e31d.ipa",
-        "sha256": "6c8383ff31ca9f04a3d0aa082b6b05203129db32b3f761f171083eea8dc8e31d",
-        "size": 39657040,
-        "version": "v0.10.2-alpha.1",
-        "week": "2026-11-13"
+        "version": "v0.11.1-alpha.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-23b7a05ab2849e80eba7b432-639f6afed2dae06a79603bc878b7d03e34f01af3ee258e7d289065f873dd837e.ipa",
+        "sha256": "639f6afed2dae06a79603bc878b7d03e34f01af3ee258e7d289065f873dd837e",
+        "size": 39827928,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.varunsalian.debrifytv",
       "bundleIdentifiers": [
