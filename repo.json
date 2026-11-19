@@ -48850,6 +48850,20 @@
       "portDistribution": "source-code",
       "updatePolicy": "static",
       "versions": []
+    },
+    {
+      "catalogID": "source-port-8707e6c89298bf2fe73b9a56566b0991",
+      "bundleIdentifier": "source-port-8707e6c89298bf2fe73b9a56566b0991",
+      "name": "DOOM-Recomp",
+      "developerName": "NightSightProductions",
+      "iconURL": "https://github.com/NightSightProductions.png",
+      "category": "Ports",
+      "portDistribution": "source-code",
+      "updatePolicy": "static",
+      "githubProjectCard": false,
+      "githubURL": "https://github.com/NightSightProductions/DOOM-Recomp",
+      "versions": [],
+      "localizedDescription": "Native Apple Silicon port of DOOM (2016) by static recompilation - bring your own copy"
     }
   ],
   "categories": [
