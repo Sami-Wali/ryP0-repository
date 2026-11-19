@@ -11892,11 +11892,11 @@
         "workflowPath": ".github/workflows/update-app-project-5d156168c6b33a676c5c77bd681b06b0.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e99cb2fb9233193182adf2d2-a908c8022f410c7041704716e394b9af7724c130866d3b2921dc72b80531ce6d.ipa",
-        "sha256": "a908c8022f410c7041704716e394b9af7724c130866d3b2921dc72b80531ce6d",
-        "size": 80438933,
-        "version": "v1.9.3",
-        "week": "2026-11-13"
+        "version": "v1.9.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e99cb2fb9233193182adf2d2-da29738da75a1a88c5dae19f1c4b7d16bd25db003a76efcf880afd8a42b2da40.ipa",
+        "sha256": "da29738da75a1a88c5dae19f1c4b7d16bd25db003a76efcf880afd8a42b2da40",
+        "size": 80749709,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.music.laya",
       "bundleIdentifiers": [
