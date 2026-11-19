@@ -21656,11 +21656,11 @@
         "workflowPath": ".github/workflows/update-app-project-e033407c47c8b0e28c042be5a0e0e06c.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c6b92ea1991264c1cf139f25-8f66b899553d5326f153bddc6755520706d06d3251ba189e1e360db5364fa57e.ipa",
-        "sha256": "8f66b899553d5326f153bddc6755520706d06d3251ba189e1e360db5364fa57e",
-        "size": 36245756,
-        "version": "v0.1.62",
-        "week": "2026-11-13"
+        "version": "v0.1.66",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c6b92ea1991264c1cf139f25-3e21c37f1c23f7b900aff8c996bd6ec1bba9b1c0bd0a18bd778c42431802a869.ipa",
+        "sha256": "3e21c37f1c23f7b900aff8c996bd6ec1bba9b1c0bd0a18bd778c42431802a869",
+        "size": 56051557,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "dev.horizon.game",
       "bundleIdentifiers": [
