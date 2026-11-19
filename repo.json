@@ -1885,7 +1885,14 @@
           "upstreamAssetURL": "https://github.com/CesarGarza55/NXHorizon/releases/download/v1.0.0/NXHorizon-unsigned.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-567de7e8cabb77a72db76036-c7e20067192ab99d7c0a87cd1c11bd61ff04079f908cbb4bcf705b9ad0426058.ipa",
+        "sha256": "c7e20067192ab99d7c0a87cd1c11bd61ff04079f908cbb4bcf705b9ad0426058",
+        "size": 14218232,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
