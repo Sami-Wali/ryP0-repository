@@ -1260,7 +1260,14 @@
           "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.0/HermesEnabler.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.6.3",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e61ab10d2d3ff39c4b7c4e0e-c4e88d5b815790de18890fc80dfd9f1abaea085ae8b58977921237d59dbc6bc5.ipa",
+        "sha256": "c4e88d5b815790de18890fc80dfd9f1abaea085ae8b58977921237d59dbc6bc5",
+        "size": 964226,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
