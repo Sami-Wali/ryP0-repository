@@ -46824,11 +46824,11 @@
         "workflowPath": ".github/workflows/update-app-sideinstaller.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-45343518de3870e47ea07515-7637cdf901bfd7d8c553530065852c8d1cca5019a706709227ab7ec673cfadc0.ipa",
-        "sha256": "7637cdf901bfd7d8c553530065852c8d1cca5019a706709227ab7ec673cfadc0",
-        "size": 10770716,
-        "version": "v2.0.1",
-        "week": "2026-11-13"
+        "version": "v2.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-45343518de3870e47ea07515-5b69089fa88d00d18c4ae8ce8ed5d665d8a15220e06aad953b13446cb3d4a529.ipa",
+        "sha256": "5b69089fa88d00d18c4ae8ce8ed5d665d8a15220e06aad953b13446cb3d4a529",
+        "size": 10860622,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.frizzlem.sideinstaller",
       "bundleIdentifiers": [
