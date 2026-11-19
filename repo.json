@@ -991,12 +991,25 @@
       "name": "HermesEnabler",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.2/HermesEnabler.ipa",
-        "checkedAt": "2026-11-19T00:28:56Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-19T02:55:58Z",
+        "checkedDownloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.3/HermesEnabler.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "1.6.3",
+          "date": "2026-11-19T02:24:27Z",
+          "downloadURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.3/HermesEnabler.ipa",
+          "upstreamAssetURL": "https://github.com/pookjw/HermesEnabler/releases/download/1.6.3/HermesEnabler.ipa",
+          "size": 964226,
+          "sha256": "c4e88d5b815790de18890fc80dfd9f1abaea085ae8b58977921237d59dbc6bc5",
+          "ipaBundleIdentifier": "com.example.HermesEnabler",
+          "sourceAssetName": "HermesEnabler.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "HermesEnabler"
+        },
         {
           "buildVersion": "1",
           "date": "2026-11-16T09:22:09Z",
