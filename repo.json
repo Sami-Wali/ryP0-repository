@@ -14726,7 +14726,8 @@
           "sourceAppName": "Henge",
           "sourceAssetName": "Henge.ipa",
           "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
-          "version": "0.3"
+          "version": "0.3",
+          "localizedDescription": "## What's new?"
         },
         {
           "buildVersion": "101",
@@ -14946,7 +14947,8 @@
           "sourceAppName": "Henge",
           "sourceAssetName": "Henge.ipa",
           "ipaBundleIdentifier": "com.henge.app",
-          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa"
+          "upstreamAssetURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+          "localizedDescription": "## What's new?"
         },
         {
           "buildVersion": "1",
