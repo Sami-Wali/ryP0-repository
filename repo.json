@@ -14295,11 +14295,11 @@
         "workflowPath": ".github/workflows/update-app-project-e1ef1160ce76e7a5f3393e7fa6c0cc21.yml"
       },
       "backup": {
+        "version": "ios-v0.2.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-016d7bd08d2db3e17f194049-44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9.ipa",
         "sha256": "44d9e98a7451d9ce960d92c8c1ce95c0214e789722938f010401486cfe4b37f9",
         "size": 5565206,
-        "version": "ios-v0.2.0",
-        "week": "2026-11-13"
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "org.openjk.ios.mp",
       "bundleIdentifiers": [
