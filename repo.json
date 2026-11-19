@@ -13461,11 +13461,11 @@
         "workflowPath": ".github/workflows/update-app-project-cda5f46dc6edad929f142d13a5cab512.yml"
       },
       "backup": {
+        "version": "1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-7603656d480b066382d03ffa-baa866da1ca684c809519c76f658c52123ea3d2aadc810ee8851e0347e0d1f0c.ipa",
         "sha256": "baa866da1ca684c809519c76f658c52123ea3d2aadc810ee8851e0347e0d1f0c",
         "size": 296930,
-        "version": "1.0",
-        "week": "2026-11-13"
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.mody.ramchecker",
       "catalogID": "project-cda5f46dc6edad929f142d13a5cab512",
