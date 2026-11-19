@@ -47832,11 +47832,11 @@
         "workflowPath": ".github/workflows/update-app-armsx2-nightly.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ba00cff8e0c8174f629f315f-ca921e091824f59f3b2e85fb2349d631e522452b150fd25427464768a5e36458.ipa",
-        "sha256": "ca921e091824f59f3b2e85fb2349d631e522452b150fd25427464768a5e36458",
-        "size": 40658081,
-        "version": "Nightly-2026.11.12",
-        "week": "2026-11-13"
+        "version": "Nightly-2026.11.14",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ba00cff8e0c8174f629f315f-d278d980f9b8b25610e48ce3b27eefa55e35c5786ab7946f973bc49acfb74ca0.ipa",
+        "sha256": "d278d980f9b8b25610e48ce3b27eefa55e35c5786ab7946f973bc49acfb74ca0",
+        "size": 40717380,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.armsx2.nightly",
       "bundleIdentifiers": [
