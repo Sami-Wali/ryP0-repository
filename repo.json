@@ -1675,7 +1675,14 @@
           "upstreamAssetURL": "https://github.com/DevZer0D4Y/UT2004-iOS/releases/download/v0.1.0-7/UT2004-iOS-0.1.0-7.ipa",
           "version": "0.1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-38f44830d1bd448454030243-d3a870fb7f65cbd7b26abbfaff9f0f799d39994277d08f6e426cf94552f90c7f.ipa",
+        "sha256": "d3a870fb7f65cbd7b26abbfaff9f0f799d39994277d08f6e426cf94552f90c7f",
+        "size": 47939681,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
