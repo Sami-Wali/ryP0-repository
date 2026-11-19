@@ -526,7 +526,14 @@
           "upstreamAssetURL": "https://github.com/MaxFRdev/MaxPS4/releases/download/v0.4.0/MaxPS4-FEXCore-SideStore.ipa",
           "version": "v0.4.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "0.5.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-aa15c34a22f692150df36b63-7399019711ff9808ed72a248cf6759f967d9230c19a6c5487a8779c58768294f.ipa",
+        "sha256": "7399019711ff9808ed72a248cf6759f967d9230c19a6c5487a8779c58768294f",
+        "size": 6728350,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
