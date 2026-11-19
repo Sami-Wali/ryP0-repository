@@ -25268,11 +25268,11 @@
         "workflowPath": ".github/workflows/update-app-app-8389198671814987a844a22f4cb16d67.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0ac12e3d8cd43b840f60e59b-2ca7c194c4f6b2e421c916862c141c3505164091038b89a9c8f49e52fe27de64.ipa",
-        "sha256": "2ca7c194c4f6b2e421c916862c141c3505164091038b89a9c8f49e52fe27de64",
-        "size": 147193773,
-        "version": "0.435.1",
-        "week": "2026-11-13"
+        "version": "0.437.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0ac12e3d8cd43b840f60e59b-4c378efac3e82b68013436f5c7aff9574eeb2fc56a171520656e54893b27409b.ipa",
+        "sha256": "4c378efac3e82b68013436f5c7aff9574eeb2fc56a171520656e54893b27409b",
+        "size": 142877886,
+        "week": "2026-11-20"
       },
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "bundleIdentifiers": [
