@@ -5731,7 +5731,14 @@
           "upstreamAssetURL": "https://github.com/MchinaMd57764/WQToolkit/releases/download/v1.0/WQToolkit-unsigned.ipa",
           "version": "1.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a0a79bca65fe9ba13e6c1aa9-ba0d271ee7040037c797cc41337f3a80a5a59c3c5cefbd6674295f887801fdd5.ipa",
+        "sha256": "ba0d271ee7040037c797cc41337f3a80a5a59c3c5cefbd6674295f887801fdd5",
+        "size": 4819436,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
