@@ -510,10 +510,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-89b3469310d84696450242e02fa33d5b",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.14.0",
+        "configId": "project-89b3469310d84696450242e02fa33d5b",
+        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.15.0",
         "workflowPath": ".github/workflows/update-app-project-89b3469310d84696450242e02fa33d5b.yml"
       },
       "bundleIdentifier": "io.github.clabeuhtegrite.cartouche",
@@ -537,13 +537,26 @@
       "name": "Cartouche",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.14.0/Cartouche-0.14.0.ipa",
-        "checkedAt": "2026-11-19T06:29:54Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.0/Cartouche-0.15.0-Own-Certificate.ipa",
+        "checkedAt": "2026-11-19T11:02:17Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.15.0",
+          "date": "2026-11-19T10:57:53Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.0/Cartouche-0.15.0-Own-Certificate.ipa",
+          "size": 26411206,
+          "sha256": "83a8cf3c5c6affc100df70a3bee270323a99ec6835052325bd3f5ab5d80d3cd3",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.0/Cartouche-0.15.0-Own-Certificate.ipa",
+          "sourceAssetName": "Cartouche-0.15.0-Own-Certificate.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.15.0"
+        },
         {
           "buildVersion": "0.14.0",
           "date": "2026-11-17T22:02:09Z",
