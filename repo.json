@@ -5404,7 +5404,14 @@
           "upstreamAssetURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.0/Locus-1.0.0.ipa",
           "version": "v1.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "1.0.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-14222342828c84f199531b09-51721b34d7b4a7869864732340768fbe644e315d895928e0d639cf97212a08ed.ipa",
+        "sha256": "51721b34d7b4a7869864732340768fbe644e315d895928e0d639cf97212a08ed",
+        "size": 7153016,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
