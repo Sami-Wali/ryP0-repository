@@ -193,7 +193,14 @@
           "upstreamAssetURL": "https://github.com/LinkPass888/CarCanvas/releases/download/v2.0.0/CarCanvas-unsigned.ipa",
           "version": "v2.0.0"
         }
-      ]
+      ],
+      "backup": {
+        "version": "2.1.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-78def1cb5c5100bbb5f1949e-b49b6e26ec77453fba3b249116b66f3bd9cafdcbc60fc214420ade688a17c6af.ipa",
+        "sha256": "b49b6e26ec77453fba3b249116b66f3bd9cafdcbc60fc214420ade688a17c6af",
+        "size": 1036546,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
