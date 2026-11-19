@@ -24776,13 +24776,19 @@
       "name": "iPoGo",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://ipogo.app/download/ipogo-4.7.1.ipa",
-        "checkedAt": "2026-11-19T00:28:56Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://ipogo.app/download/ipogo-4.7.3.ipa",
+        "checkedAt": "2026-11-19T02:10:20Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "iPoGo is Pokémon GO with a full set of extra tools built in. Teleport anywhere in the world, walk routes on their own or with an on-screen joystick, browse nearby and global lists of Pokémon, raids, and quests, preview IVs right on the encounter screen, and land excellent curveballs every time. VIP adds Auto Catch and Spin, Release on Catch, a one-tap bag cleaner, and blocking every Pokémon that isn't shiny. This is iPoGo 4.4.2, built on Pokémon GO 0.433.0.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.437.0",
+          "date": "2026-11-19T00:00:00Z",
+          "downloadURL": "https://ipogo.app/download/ipogo-4.7.3.ipa",
+          "size": 142877886
+        },
         {
           "date": "2026-11-17T00:00:00Z",
           "downloadURL": "https://ipogo.app/download/ipogo-4.7.1.ipa",
