@@ -2531,7 +2531,14 @@
           "upstreamAssetURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.1/GestaltX_1.0.1.ipa",
           "version": "v1.0.1"
         }
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-7b15663ccd4fb3658630df95-0621b070cafacb2f1f83fad459697d02263e513b04d77b462da333c5b0a4e708.ipa",
+        "sha256": "0621b070cafacb2f1f83fad459697d02263e513b04d77b462da333c5b0a4e708",
+        "size": 6774794,
+        "week": "2026-11-20"
+      }
     },
     {
       "appType": "Daily Update",
