@@ -14651,7 +14651,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-c9c7fbab9f7764f2432d012e429b2384",
-        "sourceURL": "https://github.com/Leviidev/Henge/actions/runs/42635495491",
+        "sourceURL": "https://github.com/Leviidev/Henge/actions/runs/42634195693",
         "workflowPath": ".github/workflows/update-app-project-c9c7fbab9f7764f2432d012e429b2384.yml"
       },
       "backup": {
@@ -14683,7 +14683,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
-        "checkedAt": "2026-11-19T20:29:11Z",
+        "checkedAt": "2026-11-19T20:30:18Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
@@ -14834,6 +14834,20 @@
           "size": 8946037,
           "sha256": "66401d8d9eb0a4ecfc32b715301c2f4f875655145c16163e2336c165c57ab0ee",
           "upstreamAssetURL": "https://api.github.com/repos/Leviidev/Henge/actions/artifacts/13683030870/zip",
+          "sourceAssetName": "Henge.ipa",
+          "sourceArchiveEntry": "Henge.ipa",
+          "sourceAppName": "Henge",
+          "ipaBundleIdentifier": "com.henge.app",
+          "releaseChannel": "actions",
+          "buildVersion": "100"
+        },
+        {
+          "version": "ac82470b4770142e400138494ab891e0717c03cc",
+          "date": "2026-11-09T14:23:26Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-0bbf9cc781fff7a741796b723987d333-ac82470b4770142e400138494ab891e0717c03cc-f65c536bc1a9.ipa",
+          "size": 8945685,
+          "sha256": "f65c536bc1a99614ec6ab3f35e9fa749498128cfaa1d3a1e59ab8a853da04bd5",
+          "upstreamAssetURL": "https://api.github.com/repos/Leviidev/Henge/actions/artifacts/13681388647/zip",
           "sourceAssetName": "Henge.ipa",
           "sourceArchiveEntry": "Henge.ipa",
           "sourceAppName": "Henge",
