@@ -1,6 +1,50 @@
 {
   "apps": [
     {
+      "name": "AnimeFlow",
+      "catalogID": "app-d90dd88d29704caaa325f28b2e318151",
+      "bundleIdentifier": "com.ligg.animeflow",
+      "developerName": "openAnimeFlow",
+      "localizedDescription": "AnimeFlow 是一个跨平台动漫视频播放应用，支持 Android、iOS、Windows、macOS 与 Linux。内置多数据源与自定义 XPath 爬虫配置，支持基于 Anime4K 的实时视频 4K 超分辨率，对接 Bangumi 同步收藏与追番数据，并支持多平台弹幕源与丰富的弹幕设置。",
+      "subtitle": "AnimeFlow 是一个跨平台动漫视频播放应用，支持 Android、iOS、Windows、macOS 与 Linux。内置多数据源与自定义 XPath 爬虫配置，支持基于 Anime4K 的实时视频 4K 超分辨率，对接 Bangumi 同步收藏与追番数据，并支持多平台弹幕源与丰富的弹幕设置。",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "2.6.8",
+          "date": "2026-11-13T20:37:13Z",
+          "downloadURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.8/AnimeFlow-ios-2.6.8.ipa",
+          "size": 29518672,
+          "buildVersion": "2.6.8",
+          "localizedDescription": "### 🔄 更新内容 ## 2.6.8 更新 ## 新增 - 壁纸页面支持关键词筛选、支持收藏壁纸集合(登录后)、我的页面右上角打开收藏集合 - 重构视频资源下载模块，下载功能完全和播放页解耦不在需要等待内容解析完成后才能看到下载菜单，可以在番剧详情剧集弹窗和播放页剧集区域进入下载页面 - 排行榜页面加载动画替换成骨架屏 - 壁纸页面加载动画替换成骨架屏 - 播放页的番剧详情信息展示方式从原来的内嵌路由替换成抽屉方式展示 - Linux 支持 Nix 安装(详情在仓库README下载项查看) #128 (@yebei199) ## 优化 - 优化更新信息页面布局 - 优化大屏设置侧边栏效果(开启磨砂玻璃ui) - 优化推荐、排行榜页面开始磨砂玻璃时的页面顶部状态效果 - 离开社区页面10秒后取消实时数据更新订阅减小服务器压力 - 优化animeflow服务器网络请求延迟(可能有用) ## 修复 - 修复部分数据源线路名称文字ui溢出问题 - 修复宽屏设备打开壁纸详情页时切换tabview时的异常问题 - 修复在切换视频播放源时没有自动保持播放进度问题 - 修复 Linux 客户端窗口问题 #129 (@lyndon0na) --- ### 📦 下载 - 每个设备的安装包后缀: ``苹果手机(.ipa)、 安卓手机(.apk)、windows电脑(.zip或.exe)、mac电脑(.dmg)、linux电脑(.tar.gz或.deb)`` - android分多个包: ``v7a(32位架构旧手机或TV)、arm64(新手机,推荐用这个)、x86(模拟器) `` - windows分多个包: ``.zip(解压直接使用)、.exe(安装后使用，推荐用这个) ``",
+          "sha256": "47213718dd9726691f7b2c9746be77ebcb6af1cafa8f96dd7a1a3c5d8a6342f3",
+          "ipaBundleIdentifier": "com.ligg.animeflow"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.ligg.animeflow-47213718dd97.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.8/AnimeFlow-ios-2.6.8.ipa",
+        "checkedAt": "2026-11-20T10:11:27Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.8/AnimeFlow-ios-2.6.8.ipa",
+        "selector": "entry-cc62880a987242867b817db74bd3855fb9cd210bcbe9b0eb92f5b3f287e365ff",
+        "sourceURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/all-apps.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-d90dd88d29704caaa325f28b2e318151",
+        "sourceURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/all-apps.json",
+        "workflowPath": ".github/workflows/update-app-app-d90dd88d29704caaa325f28b2e318151.yml"
+      }
+    },
+    {
       "appType": "Daily Update",
       "automation": {
         "configId": "project-9a5b1bfb1e5effe00af0107c0a697e46",
