@@ -11010,7 +11010,7 @@
       "name": "WQFiles",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-20T03:25:18Z",
+        "checkedAt": "2026-11-20T03:35:21Z",
         "checkedDownloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.19/WQFiles.ipa",
         "message": "Updated after package verification"
       },
@@ -11018,15 +11018,15 @@
       "versions": [
         {
           "version": "v0.9.19",
-          "date": "2026-11-20T03:24:00Z",
+          "date": "2026-11-20T03:32:51Z",
           "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.19/WQFiles.ipa",
           "upstreamAssetURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.19/WQFiles.ipa",
-          "size": 2182113,
-          "sha256": "912f036be87cfe682e6ec8fba7e58ceda2e9f2b77c2ac3f7e25e026e25b1d79f",
+          "size": 2182170,
+          "sha256": "32a0821d16b4ddedcc7b2063f90530952a644308009db0522c618c23233cacca",
           "ipaBundleIdentifier": "cz.kolbi.wqfiles",
           "sourceAssetName": "WQFiles.ipa",
           "releaseChannel": "release",
-          "buildVersion": "112",
+          "buildVersion": "113",
           "sourceAppName": "WQ Files"
         },
         {
