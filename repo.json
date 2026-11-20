@@ -21662,7 +21662,7 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "historySyncPending": true,
+        "historySyncPending": false,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-e033407c47c8b0e28c042be5a0e0e06c",
         "sourceURL": "https://github.com/Kelly-Inc/horizon-ios/releases/tag/ios-build-109.1",
