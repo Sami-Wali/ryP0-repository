@@ -10629,14 +10629,40 @@
       "localizedDescription": "",
       "name": "ipadn",
       "status": {
-        "checkedAt": "2026-11-20T08:58:06Z",
-        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.1/iPadn-2.2.1-unsigned.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "state": "healthy",
+        "checkedAt": "2026-11-20T12:54:10Z",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.3.0",
+          "date": "2026-11-20T12:50:39Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-unsigned.ipa",
+          "size": 46432455,
+          "sha256": "21af85fa95a3585b2337f28f1cf1dcb84d4c2489810b45daaa6b30e82cda40b3",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.3.0-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "36",
+          "sourceAppName": "iPadn"
+        },
+        {
+          "version": "v2.3.0",
+          "date": "2026-11-20T12:50:39Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-lite-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-lite-unsigned.ipa",
+          "size": 46354796,
+          "sha256": "b9c30a5dc782a8f67f4882d3f715b418b0e082376f82f3cef0cac143ae007d8d",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.3.0-lite-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "36",
+          "sourceAppName": "iPadn"
+        },
         {
           "buildVersion": "35",
           "date": "2026-11-18T10:04:29Z",
