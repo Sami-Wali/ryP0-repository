@@ -34517,24 +34517,24 @@
       },
       "name": "LiveContainer+SideStore",
       "status": {
-        "checkedAt": "2026-11-20T08:58:06Z",
+        "state": "healthy",
+        "checkedAt": "2026-11-20T13:15:02Z",
         "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "3.8.14",
-          "date": "2026-11-15T14:10:11Z",
+          "version": "nightly",
+          "date": "2026-11-20T13:13:07Z",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "ipaBundleIdentifier": "com.kdt.livecontainer",
-          "releaseChannel": "nightly",
-          "sha256": "ec46cc3596e9fb96eff8ea7f47d0daef0d5adfe2d3dfea101a9a633997e79444",
-          "size": 23754976,
-          "sourceAssetName": "LiveContainer+SideStore.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
-          "version": "nightly"
+          "size": 23755396,
+          "sha256": "963c9bfa15e000130c1ae6ce8acf20922618178892858c2ffb8f13be84b34484",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "sourceAssetName": "LiveContainer+SideStore.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "3.8.14"
         },
         {
           "buildVersion": "3.8.13",
