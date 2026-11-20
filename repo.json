@@ -14461,10 +14461,10 @@
       "localizedDescription": "",
       "name": "MetroidPrimePort",
       "status": {
-        "checkedAt": "2026-11-20T08:58:06Z",
-        "checkedDownloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.46.0/MetroidPrimePort.ipa",
-        "message": "MetroidPrimePort.ipa: Download returned HTTP 404",
-        "state": "broken"
+        "state": "healthy",
+        "checkedAt": "2026-11-20T10:38:18Z",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-f0109aa8f391f797d5156a0a-4f55a4c7842740c0f1240dfc8655141dd1404859b9db85169c0e1c592fe9eeaf.ipa",
+        "message": "Current download restored from its verified backup; original upstream remains unavailable"
       },
       "subtitle": "",
       "updatePolicy": "daily",
@@ -14472,7 +14472,7 @@
         {
           "buildVersion": "0.46.0",
           "date": "2026-11-12T19:05:40Z",
-          "downloadURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.46.0/MetroidPrimePort.ipa",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-f0109aa8f391f797d5156a0a-4f55a4c7842740c0f1240dfc8655141dd1404859b9db85169c0e1c592fe9eeaf.ipa",
           "ipaBundleIdentifier": "io.github.odrannnn.metroidprimeport",
           "releaseChannel": "release",
           "sha256": "4f55a4c7842740c0f1240dfc8655141dd1404859b9db85169c0e1c592fe9eeaf",
@@ -14480,7 +14480,8 @@
           "sourceAppName": "Metroid Prime",
           "sourceAssetName": "MetroidPrimePort.ipa",
           "upstreamAssetURL": "https://github.com/Odrannnn/MetroidPrimePort/releases/download/v0.46.0/MetroidPrimePort.ipa",
-          "version": "v0.46.0"
+          "version": "v0.46.0",
+          "deliveryFallback": "verified-backup"
         },
         {
           "buildVersion": "0.45.0",
