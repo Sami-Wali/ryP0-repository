@@ -14831,7 +14831,8 @@
           "sourceAppName": "FNVGame",
           "sourceAssetName": "FNV-iOS-build20-calltrace-comparison-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-20/FNV-iOS-build20-calltrace-comparison-unsigned.ipa",
-          "version": "0.1"
+          "version": "0.1",
+          "localizedDescription": "# Fallout: New Vegas for iOS — Build 20 CPU tracing comparison"
         },
         {
           "buildVersion": "19",
@@ -14844,7 +14845,8 @@
           "sourceAppName": "FNVGame",
           "sourceAssetName": "FNV-iOS-build19-diagnostics-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-19/FNV-iOS-build19-diagnostics-unsigned.ipa",
-          "version": "ios-build-19"
+          "version": "ios-build-19",
+          "localizedDescription": "# Fallout: New Vegas for iOS — Build 19 performance diagnostics"
         },
         {
           "buildVersion": "18",
@@ -14857,7 +14859,8 @@
           "sourceAppName": "FNVGame",
           "sourceAssetName": "FNV-iOS-build18-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-18/FNV-iOS-build18-unsigned.ipa",
-          "version": "ios-build-18"
+          "version": "ios-build-18",
+          "localizedDescription": "# Fallout: New Vegas for iOS â€” Build 18"
         },
         {
           "buildVersion": "17",
@@ -14870,7 +14873,8 @@
           "sourceAppName": "FNVGame",
           "sourceAssetName": "FNV-iOS-build17-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-17/FNV-iOS-build17-unsigned.ipa",
-          "version": "ios-build-17"
+          "version": "ios-build-17",
+          "localizedDescription": "# Fallout: New Vegas for iOS — Build 17"
         },
         {
           "buildVersion": "16",
@@ -14883,7 +14887,8 @@
           "sourceAppName": "FNVGame",
           "sourceAssetName": "FNV-iOS-build16-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/arjuk95-dot/FNV-iOS-Shim/releases/download/ios-build-16/FNV-iOS-build16-unsigned.ipa",
-          "version": "ios-build-16"
+          "version": "ios-build-16",
+          "localizedDescription": "# Fallout: New Vegas for iOS — Build 16"
         }
       ]
     },
