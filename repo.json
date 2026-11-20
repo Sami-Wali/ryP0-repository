@@ -20,7 +20,8 @@
           "sourceAppName": "Zyx",
           "sourceAssetName": "Zyx-unsigned.ipa",
           "ipaBundleIdentifier": "com.henrywizzrd.zyx",
-          "upstreamAssetURL": "https://github.com/henrywizzrd/zyx/releases/download/test-build-79/Zyx-unsigned.ipa"
+          "upstreamAssetURL": "https://github.com/henrywizzrd/zyx/releases/download/test-build-79/Zyx-unsigned.ipa",
+          "localizedDescription": "Bản build thử nghiệm từ nhánh `feature/player` (commit 374af509ec307fdac72ed2ce14eb6f642e7f4bf7)."
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.henrywizzrd.zyx-9262ab63c42b.png",
