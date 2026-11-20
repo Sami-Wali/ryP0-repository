@@ -34340,13 +34340,25 @@
       },
       "name": "NeoFreeBird-sideloaded-Twitter",
       "status": {
-        "checkedAt": "2026-11-20T08:58:06Z",
-        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.0/NeoFreeBird-sideloaded-Twitter_7.3.0_12.38.1.ipa",
-        "message": "Private updater: Releases discovery failed: GitHub API returned HTTP 403.; Actions discovery failed: GitHub API returned HTTP 403.",
-        "state": "update-error"
+        "state": "healthy",
+        "checkedAt": "2026-11-20T10:41:11Z",
+        "checkedDownloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.1/NeoFreeBird-sideloaded-Twitter_7.3.1_12.39.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v7.3.1",
+          "date": "2026-11-06T21:49:13Z",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.1/NeoFreeBird-sideloaded-Twitter_7.3.1_12.39.ipa",
+          "upstreamAssetURL": "https://github.com/NeoFreeBird/app/releases/download/v7.3.1/NeoFreeBird-sideloaded-Twitter_7.3.1_12.39.ipa",
+          "size": 273601732,
+          "sha256": "69743804d8653f7d24e95e6e1617b1019279d24d215f773b787aa7f47e72fce1",
+          "ipaBundleIdentifier": "com.atebits.Tweetie2",
+          "sourceAssetName": "NeoFreeBird-sideloaded-Twitter_7.3.1_12.39.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "20"
+        },
         {
           "buildVersion": "2",
           "date": "2026-10-28T18:16:07Z",
