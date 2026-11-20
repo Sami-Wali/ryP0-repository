@@ -32730,13 +32730,25 @@
       "name": "Mori",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.6.0/Mori-v4.6.0-iOS-Unsigned.ipa",
-        "checkedAt": "2026-11-20T20:59:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-20T23:49:44Z",
+        "checkedDownloadURL": "https://github.com/coflyn/Mori/releases/download/v4.6.1/Mori-v4.6.1-iOS-Unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: coflyn/Mori.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v4.6.1",
+          "date": "2026-11-20T23:44:31Z",
+          "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.6.1/Mori-v4.6.1-iOS-Unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/coflyn/Mori/releases/download/v4.6.1/Mori-v4.6.1-iOS-Unsigned.ipa",
+          "size": 2214932,
+          "sha256": "1534f031815a897164daf7dc5f4a25a7bab44bf89a405f374ab892d2fdd7cd8a",
+          "ipaBundleIdentifier": "com.mori.downloader",
+          "sourceAssetName": "Mori-v4.6.1-iOS-Unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "25"
+        },
         {
           "buildVersion": "24",
           "date": "2026-11-14T01:33:39Z",
