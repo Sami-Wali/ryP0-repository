@@ -17084,7 +17084,7 @@
       "name": "mangayomi",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-20T16:30:05Z",
+        "checkedAt": "2026-11-20T17:23:59Z",
         "checkedDownloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.97/Mangayomi-v0.9.97-ios.ipa",
         "message": "Updated after package verification"
       },
@@ -17093,11 +17093,11 @@
       "versions": [
         {
           "version": "v0.9.97",
-          "date": "2026-11-20T16:28:07Z",
+          "date": "2026-11-20T17:20:43Z",
           "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.97/Mangayomi-v0.9.97-ios.ipa",
           "upstreamAssetURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.97/Mangayomi-v0.9.97-ios.ipa",
-          "size": 117353742,
-          "sha256": "3991cf0833f744dfa65f9d825a837396acf201319c7ce917654c4c75702c0759",
+          "size": 117415847,
+          "sha256": "5dcf7165b25312cb46cad935daca04fa4f12ab9195d0f1e3ac20f2a0d563094b",
           "ipaBundleIdentifier": "com.kodjodevf.mangayomi",
           "sourceAssetName": "Mangayomi-v0.9.97-ios.ipa",
           "releaseChannel": "release",
