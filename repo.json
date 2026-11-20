@@ -34900,19 +34900,19 @@
       "name": "LiveContainer",
       "status": {
         "state": "healthy",
+        "checkedAt": "2026-11-20T15:09:38Z",
         "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-        "checkedAt": "2026-11-20T14:58:58Z",
-        "message": "Download is available"
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
         {
           "version": "nightly",
-          "date": "2026-11-20T13:13:06Z",
+          "date": "2026-11-20T15:07:23Z",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4800476,
-          "sha256": "a3832dbb7c6ea821098642de71962cd2738ff0c0078bdafc46fe2d258a8dd0e4",
+          "size": 5042401,
+          "sha256": "c4ccfec4d98b6c3a50bb42fc325abf03380787f87cee30cb83c2493b22c5104e",
           "ipaBundleIdentifier": "com.kdt.livecontainer",
           "sourceAssetName": "LiveContainer.ipa",
           "releaseChannel": "nightly",
