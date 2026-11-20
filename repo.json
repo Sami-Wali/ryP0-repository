@@ -34899,24 +34899,24 @@
       },
       "name": "LiveContainer",
       "status": {
-        "checkedAt": "2026-11-20T08:58:06Z",
+        "state": "healthy",
+        "checkedAt": "2026-11-20T13:14:36Z",
         "checkedDownloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-        "message": "Download is available",
-        "state": "healthy"
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
         {
-          "buildVersion": "3.8.14",
-          "date": "2026-11-15T14:10:10Z",
+          "version": "nightly",
+          "date": "2026-11-20T13:13:06Z",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "ipaBundleIdentifier": "com.kdt.livecontainer",
-          "releaseChannel": "nightly",
-          "sha256": "4695f7719f69eedc8cb1df8e0d372e66a1ae8c9690783162937a0166349407e5",
-          "size": 4800179,
-          "sourceAssetName": "LiveContainer.ipa",
           "upstreamAssetURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "version": "nightly"
+          "size": 4800476,
+          "sha256": "a3832dbb7c6ea821098642de71962cd2738ff0c0078bdafc46fe2d258a8dd0e4",
+          "ipaBundleIdentifier": "com.kdt.livecontainer",
+          "sourceAssetName": "LiveContainer.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "3.8.14"
         },
         {
           "buildVersion": "3.8.13",
