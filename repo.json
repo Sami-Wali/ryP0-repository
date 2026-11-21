@@ -20,7 +20,8 @@
           "sourceAppName": "Opaline",
           "sourceAssetName": "Opaline_1.12.0.ipa",
           "ipaBundleIdentifier": "com.verback.YTLite",
-          "upstreamAssetURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa"
+          "upstreamAssetURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa",
+          "localizedDescription": "**New**"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.verback.YTLite-a254306109b0.png",
