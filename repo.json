@@ -16579,10 +16579,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/breeze-project-org/Breeze/releases/tag/v3.0.38",
+        "configId": "project-d2b372b8cdc3db0c68349a8d5147eae4",
+        "sourceURL": "https://github.com/breeze-project-org/Breeze/releases/tag/v3.1.0",
         "workflowPath": ".github/workflows/update-app-project-d2b372b8cdc3db0c68349a8d5147eae4.yml"
       },
       "backup": {
@@ -16613,13 +16613,26 @@
       "name": "Breeze",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/breeze-project-org/Breeze/releases/download/v3.0.38/Breeze-iOS-v3.0.38.ipa",
-        "checkedAt": "2026-11-21T09:01:38Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/breeze-project-org/Breeze/releases/download/v3.1.0/Breeze-iOS-v3.1.0.ipa",
+        "checkedAt": "2026-11-21T13:54:06Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "GitHub project request: deretame/Breeze.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v3.1.0",
+          "date": "2026-11-21T13:52:36Z",
+          "downloadURL": "https://github.com/breeze-project-org/Breeze/releases/download/v3.1.0/Breeze-iOS-v3.1.0.ipa",
+          "size": 27861953,
+          "sha256": "aa490d7b20e224b2cb52c26cc5774c98c3518137b2d3bef501aa2febc21249b8",
+          "upstreamAssetURL": "https://github.com/breeze-project-org/Breeze/releases/download/v3.1.0/Breeze-iOS-v3.1.0.ipa",
+          "sourceAssetName": "Breeze-iOS-v3.1.0.ipa",
+          "sourceAppName": "Breeze",
+          "ipaBundleIdentifier": "com.zephyr.breeze",
+          "releaseChannel": "release",
+          "buildVersion": "2226"
+        },
         {
           "buildVersion": "2225",
           "date": "2026-11-15T09:03:41Z",
