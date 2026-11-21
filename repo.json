@@ -12121,13 +12121,26 @@
       "name": "Laya",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.5/Laya-1.9.5-ios.ipa",
-        "checkedAt": "2026-11-21T09:01:38Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-21T13:09:05Z",
+        "checkedDownloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.6/Laya-1.9.6-ios.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: impin2rex/Laya.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.9.6",
+          "date": "2026-11-21T13:07:56Z",
+          "downloadURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.6/Laya-1.9.6-ios.ipa",
+          "upstreamAssetURL": "https://github.com/impin2rex/Laya/releases/download/v1.9.6/Laya-1.9.6-ios.ipa",
+          "size": 81003405,
+          "sha256": "cbca0e1b640d5322ffa318c817874f2c2cbfa46869e68920da0518e10d9dc5dc",
+          "ipaBundleIdentifier": "com.music.laya",
+          "sourceAssetName": "Laya-1.9.6-ios.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "37",
+          "sourceAppName": "Laya"
+        },
         {
           "buildVersion": "36",
           "date": "2026-11-17T15:59:05Z",
