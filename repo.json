@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "ForceDuoApp",
+      "catalogID": "project-b1264593a520c6e5e0519f0d59a5edab",
+      "bundleIdentifier": "com.34306.forceDuo",
+      "developerName": "34306",
+      "localizedDescription": "GitHub project request: 34306/ForceDuoApp.",
+      "subtitle": "GitHub project request: 34306/ForceDuoApp.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-16T04:17:35Z",
+          "downloadURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa",
+          "size": 448051,
+          "buildVersion": "1",
+          "releaseChannel": "release",
+          "sha256": "bd0dcd10490250105df7cfe711f9079a6b9e7359610ae74e0b8d01c7bab5e218",
+          "sourceAppName": "Force Duo",
+          "sourceAssetName": "ForceDuo-unsigned.ipa",
+          "ipaBundleIdentifier": "com.34306.forceDuo",
+          "upstreamAssetURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.34306.forceDuo-bd0dcd104902.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa",
+        "checkedAt": "2026-11-21T15:48:23Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa",
+        "sourceURL": "https://github.com/34306/ForceDuoApp"
+      },
+      "githubURL": "https://github.com/34306/ForceDuoApp",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b1264593a520c6e5e0519f0d59a5edab",
+        "sourceURL": "https://github.com/34306/ForceDuoApp",
+        "workflowPath": ".github/workflows/update-app-project-b1264593a520c6e5e0519f0d59a5edab.yml"
+      }
+    },
+    {
       "name": "ZYX",
       "catalogID": "project-182fdbc7eaa10055eeb95222351509a8",
       "bundleIdentifier": "com.henrywizzrd.zyx",
