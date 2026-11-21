@@ -20,7 +20,8 @@
           "sourceAppName": "Vesper",
           "sourceAssetName": "Vesper.ipa",
           "ipaBundleIdentifier": "app.vesper",
-          "upstreamAssetURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa"
+          "upstreamAssetURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
+          "localizedDescription": "- Faster Usenet streaming, with quicker starts and fewer stalls."
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.vesper-1c86b7471c25.png",
