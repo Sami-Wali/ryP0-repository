@@ -20,7 +20,8 @@
           "sourceAppName": "GestaltEdit",
           "sourceAssetName": "GestaltEdit-v2.3.1-unsigned.ipa",
           "ipaBundleIdentifier": "me.ssus.gestaltedit",
-          "upstreamAssetURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa"
+          "upstreamAssetURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa",
+          "localizedDescription": "## What’s new"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/me.ssus.gestaltedit-e87e73c9383c.png",
