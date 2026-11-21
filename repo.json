@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "GameStream",
+      "catalogID": "project-7e91e4c7a3133592f51ad806522e9424",
+      "bundleIdentifier": "com.gamestream.app",
+      "developerName": "ITZproVenom",
+      "localizedDescription": "GitHub project request: ITZproVenom/Gamestream.",
+      "subtitle": "GitHub project request: ITZproVenom/Gamestream.",
+      "category": "Games",
+      "versions": [
+        {
+          "version": "2.1.213",
+          "date": "2026-11-21T15:42:47Z",
+          "downloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
+          "size": 1296947,
+          "buildVersion": "919",
+          "releaseChannel": "beta",
+          "sha256": "608e7f3ddb54c77d649095f4022465801b2b7e72d63959bf956317cf8b0a9bba",
+          "sourceAppName": "GameStream",
+          "sourceAssetName": "GameStream-unsigned.ipa",
+          "ipaBundleIdentifier": "com.gamestream.app",
+          "upstreamAssetURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.gamestream.app-608e7f3ddb54.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
+        "checkedAt": "2026-11-21T15:50:07Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
+        "sourceURL": "https://github.com/ITZproVenom/Gamestream"
+      },
+      "githubURL": "https://github.com/ITZproVenom/Gamestream",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-7e91e4c7a3133592f51ad806522e9424",
+        "sourceURL": "https://github.com/ITZproVenom/Gamestream",
+        "workflowPath": ".github/workflows/update-app-project-7e91e4c7a3133592f51ad806522e9424.yml"
+      }
+    },
+    {
       "name": "ForceDuoApp",
       "catalogID": "project-b1264593a520c6e5e0519f0d59a5edab",
       "bundleIdentifier": "com.34306.forceDuo",
