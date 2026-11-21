@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "GestaltEdit",
+      "catalogID": "project-991b364976db4cfc60b3969d47ac9ef6",
+      "bundleIdentifier": "me.ssus.gestaltedit",
+      "developerName": "frs0n",
+      "localizedDescription": "GitHub project request: frs0n/GestaltEdit.",
+      "subtitle": "GitHub project request: frs0n/GestaltEdit.",
+      "category": "Exploit",
+      "versions": [
+        {
+          "version": "2.3.1",
+          "date": "2026-11-17T14:42:05Z",
+          "downloadURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa",
+          "size": 7261456,
+          "buildVersion": "14",
+          "releaseChannel": "release",
+          "sha256": "e87e73c9383cf70aad976275cb47fe9cd1eec8e701f2b91e73397e172eaa5790",
+          "sourceAppName": "GestaltEdit",
+          "sourceAssetName": "GestaltEdit-v2.3.1-unsigned.ipa",
+          "ipaBundleIdentifier": "me.ssus.gestaltedit",
+          "upstreamAssetURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/me.ssus.gestaltedit-e87e73c9383c.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa",
+        "checkedAt": "2026-11-21T15:56:01Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/frs0n/GestaltEdit/releases/download/v2.3.1/GestaltEdit-v2.3.1-unsigned.ipa",
+        "sourceURL": "https://github.com/frs0n/GestaltEdit"
+      },
+      "githubURL": "https://github.com/frs0n/GestaltEdit",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-991b364976db4cfc60b3969d47ac9ef6",
+        "sourceURL": "https://github.com/frs0n/GestaltEdit",
+        "workflowPath": ".github/workflows/update-app-project-991b364976db4cfc60b3969d47ac9ef6.yml"
+      }
+    },
+    {
       "name": "Vesper",
       "catalogID": "project-b6e24ffa0df6ba5373f788b0e2e2ac87",
       "bundleIdentifier": "app.vesper",
