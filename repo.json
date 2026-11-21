@@ -570,10 +570,10 @@
     {
       "appType": "Daily Update",
       "automation": {
-        "configId": "project-89b3469310d84696450242e02fa33d5b",
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
-        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.15.0",
+        "configId": "project-89b3469310d84696450242e02fa33d5b",
+        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.15.1",
         "workflowPath": ".github/workflows/update-app-project-89b3469310d84696450242e02fa33d5b.yml"
       },
       "backup": {
@@ -604,13 +604,26 @@
       "name": "Cartouche",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.0/Cartouche-0.15.0.ipa",
-        "checkedAt": "2026-11-21T09:01:38Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.1/Cartouche-0.15.1-Own-Certificate.ipa",
+        "checkedAt": "2026-11-21T13:39:31Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.15.1",
+          "date": "2026-11-21T13:38:01Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.1/Cartouche-0.15.1-Own-Certificate.ipa",
+          "size": 26413099,
+          "sha256": "9a61fcfb9f05b844165a931bd43f2b948b1d2b973eae8a09c04090a19d433da5",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.15.1/Cartouche-0.15.1-Own-Certificate.ipa",
+          "sourceAssetName": "Cartouche-0.15.1-Own-Certificate.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.15.1"
+        },
         {
           "buildVersion": "0.15.0",
           "date": "2026-11-19T10:57:53Z",
