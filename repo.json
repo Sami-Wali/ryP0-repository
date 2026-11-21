@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Opaline",
+      "catalogID": "project-47ca9a6fc1ab0906ced6630d697b72fb",
+      "bundleIdentifier": "com.verback.YTLite",
+      "developerName": "verback2308",
+      "localizedDescription": "GitHub project request: verback2308/Opaline.",
+      "subtitle": "GitHub project request: verback2308/Opaline.",
+      "category": "Social",
+      "versions": [
+        {
+          "version": "1.12.0",
+          "date": "2026-09-10T02:02:27Z",
+          "downloadURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa",
+          "size": 6685919,
+          "buildVersion": "600",
+          "releaseChannel": "release",
+          "sha256": "a254306109b09bcf4d3ba4de80592f7a89b3932e7484f41f570c4a81913141d1",
+          "sourceAppName": "Opaline",
+          "sourceAssetName": "Opaline_1.12.0.ipa",
+          "ipaBundleIdentifier": "com.verback.YTLite",
+          "upstreamAssetURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.verback.YTLite-a254306109b0.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa",
+        "checkedAt": "2026-11-21T15:54:11Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa",
+        "sourceURL": "https://github.com/verback2308/Opaline"
+      },
+      "githubURL": "https://github.com/verback2308/Opaline",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-47ca9a6fc1ab0906ced6630d697b72fb",
+        "sourceURL": "https://github.com/verback2308/Opaline",
+        "workflowPath": ".github/workflows/update-app-project-47ca9a6fc1ab0906ced6630d697b72fb.yml"
+      }
+    },
+    {
       "name": "Gester",
       "catalogID": "project-6e39f9ca856674c3733a8dcff541845c",
       "bundleIdentifier": "com.kamui.escape",
