@@ -44127,13 +44127,25 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/com-willfaust-madeora-e97f8532-68bb8e915ab857639d148b630c106dea49184557-df1839aaf679.ipa",
-        "checkedAt": "2026-11-21T21:03:23Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-21T22:20:16Z",
+        "checkedDownloadURL": "https://github.com/camhoc/Madeira/releases/download/0.2.72-og/Madeira.Nightly.0.2.72.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.2.72-og",
+          "date": "2026-11-21T22:15:35Z",
+          "downloadURL": "https://github.com/camhoc/Madeira/releases/download/0.2.72-og/Madeira.Nightly.0.2.72.ipa",
+          "upstreamAssetURL": "https://github.com/camhoc/Madeira/releases/download/0.2.72-og/Madeira.Nightly.0.2.72.ipa",
+          "size": 226957948,
+          "sha256": "6cf218a571c18d4f0047ebcc60304c40d33dc87ec1b43a5478a652b1b88892a6",
+          "ipaBundleIdentifier": "com.willfaust.madeora",
+          "sourceAssetName": "Madeira.Nightly.0.2.72.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "150"
+        },
         {
           "buildVersion": "5",
           "date": "2026-11-17T09:03:50Z",
