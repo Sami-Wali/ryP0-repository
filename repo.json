@@ -7,7 +7,7 @@
       "developerName": "34306",
       "localizedDescription": "GitHub project request: 34306/ForceDuoApp.",
       "subtitle": "GitHub project request: 34306/ForceDuoApp.",
-      "category": "Tools",
+      "category": "Exploit",
       "versions": [
         {
           "version": "1.0",
@@ -20,8 +20,7 @@
           "sourceAppName": "Force Duo",
           "sourceAssetName": "ForceDuo-unsigned.ipa",
           "ipaBundleIdentifier": "com.34306.forceDuo",
-          "upstreamAssetURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa",
-          "localizedDescription": "fix for file scan error"
+          "upstreamAssetURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.34306.forceDuo-bd0dcd104902.png",
@@ -31,7 +30,7 @@
       "status": {
         "state": "healthy",
         "checkedDownloadURL": "https://github.com/34306/ForceDuoApp/releases/download/1.2/ForceDuo-unsigned.ipa",
-        "checkedAt": "2026-11-21T15:48:23Z",
+        "checkedAt": "2026-11-21T15:49:13Z",
         "message": "Imported from verified upstream source"
       },
       "importSource": {
