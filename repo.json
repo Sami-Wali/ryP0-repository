@@ -5998,13 +5998,39 @@
       "name": "Muffin-EMU",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.7/MuffinEMU-fakesigned.ipa",
-        "checkedAt": "2026-11-20T20:59:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-21T02:19:48Z",
+        "checkedDownloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.8/MuffinEMU-fakesigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v11.8",
+          "date": "2026-11-21T02:18:24Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.8/MuffinEMU-fakesigned.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.8/MuffinEMU-fakesigned.ipa",
+          "size": 133502712,
+          "sha256": "44b73afd308ba1661c416dd664a1927d4831dccb5ed15c1eb4547c4ed3cfcc9e",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU-fakesigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "36",
+          "sourceAppName": "MuffinEMU 11.8"
+        },
+        {
+          "version": "v11.8",
+          "date": "2026-11-21T02:18:24Z",
+          "downloadURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.8/MuffinEMU.ipa",
+          "upstreamAssetURL": "https://github.com/MuffinEMU/Muffin-EMU/releases/download/v11.8/MuffinEMU.ipa",
+          "size": 133502129,
+          "sha256": "62ec179f38ff124b62f4cb192d6d8c2a0363e9e74e8d188a6fabcea889d8a2c1",
+          "ipaBundleIdentifier": "com.void.muffinemu",
+          "sourceAssetName": "MuffinEMU.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "36",
+          "sourceAppName": "MuffinEMU 11.8"
+        },
         {
           "buildVersion": "32",
           "date": "2026-11-18T21:51:45Z",
