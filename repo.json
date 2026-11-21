@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Vesper",
+      "catalogID": "project-b6e24ffa0df6ba5373f788b0e2e2ac87",
+      "bundleIdentifier": "app.vesper",
+      "developerName": "DjangoCustard225",
+      "localizedDescription": "GitHub project request: DjangoCustard225/Vesper.",
+      "subtitle": "GitHub project request: DjangoCustard225/Vesper.",
+      "category": "Movies",
+      "versions": [
+        {
+          "version": "0.5.3",
+          "date": "2026-11-13T13:32:40Z",
+          "downloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
+          "size": 15965950,
+          "buildVersion": "53",
+          "releaseChannel": "release",
+          "sha256": "1c86b7471c251703146cc3a75aaf2c2d82b3afe0f09fdfb2e27d31ea1dfaa0c3",
+          "sourceAppName": "Vesper",
+          "sourceAssetName": "Vesper.ipa",
+          "ipaBundleIdentifier": "app.vesper",
+          "upstreamAssetURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/app.vesper-1c86b7471c25.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
+        "checkedAt": "2026-11-21T15:55:08Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
+        "sourceURL": "https://github.com/DjangoCustard225/Vesper"
+      },
+      "githubURL": "https://github.com/DjangoCustard225/Vesper",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b6e24ffa0df6ba5373f788b0e2e2ac87",
+        "sourceURL": "https://github.com/DjangoCustard225/Vesper",
+        "workflowPath": ".github/workflows/update-app-project-b6e24ffa0df6ba5373f788b0e2e2ac87.yml"
+      }
+    },
+    {
       "name": "Opaline",
       "catalogID": "project-47ca9a6fc1ab0906ced6630d697b72fb",
       "bundleIdentifier": "com.verback.YTLite",
