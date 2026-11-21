@@ -20,7 +20,8 @@
           "sourceAppName": "NOOP",
           "sourceAssetName": "NOOP-ios-unsigned-v12.1.0.ipa",
           "ipaBundleIdentifier": "com.noopapp.noop",
-          "upstreamAssetURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa"
+          "upstreamAssetURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa",
+          "localizedDescription": "Rolling **latest** testing build — refreshed in place, so this tag is always the newest. NOOP main + ryanbr's open PRs + vetted community PRs, built with the **NOOP Staging** identity. Android and macOS install **beside** the official app;"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.noopapp.noop-5eb8dfbc0a1f.png",
