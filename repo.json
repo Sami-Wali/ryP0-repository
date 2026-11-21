@@ -19,7 +19,8 @@
           "sourceAppName": "APP",
           "sourceAssetName": "APP_2.7.4.ipa",
           "ipaBundleIdentifier": "com.pxx917144686.App",
-          "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa"
+          "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
+          "localizedDescription": "### 新增"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.pxx917144686.App-2f9f54d5a495.png",
