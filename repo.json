@@ -1,6 +1,54 @@
 {
   "apps": [
     {
+      "name": "APP",
+      "catalogID": "project-823b4411514b057c4884578cb1cbd917",
+      "bundleIdentifier": "com.pxx917144686.App",
+      "developerName": "pxx917144686",
+      "localizedDescription": "GitHub project request: pxx917144686/APP.",
+      "subtitle": "GitHub project request: pxx917144686/APP.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "2.7.4",
+          "date": "2026-11-21T09:26:56Z",
+          "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
+          "size": 51620712,
+          "releaseChannel": "release",
+          "sha256": "2f9f54d5a495366d1dbc04c0aaf0f21affc97624e348da3d2cd82bad9f36bea3",
+          "sourceAppName": "APP",
+          "sourceAssetName": "APP_2.7.4.ipa",
+          "ipaBundleIdentifier": "com.pxx917144686.App",
+          "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.pxx917144686.App-2f9f54d5a495.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
+        "checkedAt": "2026-11-21T15:57:13Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
+        "sourceURL": "https://github.com/pxx917144686/APP"
+      },
+      "githubURL": "https://github.com/pxx917144686/APP",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-823b4411514b057c4884578cb1cbd917",
+        "sourceURL": "https://github.com/pxx917144686/APP",
+        "workflowPath": ".github/workflows/update-app-project-823b4411514b057c4884578cb1cbd917.yml"
+      }
+    },
+    {
       "name": "GestaltEdit",
       "catalogID": "project-991b364976db4cfc60b3969d47ac9ef6",
       "bundleIdentifier": "me.ssus.gestaltedit",
