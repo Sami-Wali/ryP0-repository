@@ -20,7 +20,8 @@
           "sourceAppName": "GameStream",
           "sourceAssetName": "GameStream-unsigned.ipa",
           "ipaBundleIdentifier": "com.gamestream.app",
-          "upstreamAssetURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa"
+          "upstreamAssetURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
+          "localizedDescription": "## iOS Beta 2.1.213 (build 919)"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.gamestream.app-608e7f3ddb54.png",
