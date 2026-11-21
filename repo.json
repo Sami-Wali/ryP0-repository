@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "NOOP",
+      "catalogID": "project-d44ad98df105558305796b0bac2b10ed",
+      "bundleIdentifier": "com.noopapp.noop",
+      "developerName": "ryanbr",
+      "localizedDescription": "GitHub project request: ryanbr/noop.",
+      "subtitle": "GitHub project request: ryanbr/noop.",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "12.1.0",
+          "date": "2026-10-25T18:45:09Z",
+          "downloadURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa",
+          "size": 21938257,
+          "buildVersion": "439",
+          "releaseChannel": "prerelease",
+          "sha256": "5eb8dfbc0a1f395bfb8070b8f29cdeb9177d5576c642cae55558a418b5f0ef6e",
+          "sourceAppName": "NOOP",
+          "sourceAssetName": "NOOP-ios-unsigned-v12.1.0.ipa",
+          "ipaBundleIdentifier": "com.noopapp.noop",
+          "upstreamAssetURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.noopapp.noop-5eb8dfbc0a1f.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa",
+        "checkedAt": "2026-11-21T15:51:08Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa",
+        "sourceURL": "https://github.com/ryanbr/noop"
+      },
+      "githubURL": "https://github.com/ryanbr/noop",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-d44ad98df105558305796b0bac2b10ed",
+        "sourceURL": "https://github.com/ryanbr/noop",
+        "workflowPath": ".github/workflows/update-app-project-d44ad98df105558305796b0bac2b10ed.yml"
+      }
+    },
+    {
       "name": "GameStream",
       "catalogID": "project-7e91e4c7a3133592f51ad806522e9424",
       "bundleIdentifier": "com.gamestream.app",
