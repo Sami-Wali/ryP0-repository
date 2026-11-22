@@ -1,6 +1,49 @@
 {
   "apps": [
     {
+      "name": "CapCut_12.0_Cracked",
+      "catalogID": "app-488ca4dd8f8447869b7d23549aca0ca2",
+      "bundleIdentifier": "com.lemon.lvoverseas",
+      "developerName": "CapCut_12.0_Cracked x CyPwn",
+      "localizedDescription": "CapCut_12.0_Cracked",
+      "subtitle": "CapCut_12.0_Cracked",
+      "category": "Tools",
+      "versions": [
+        {
+          "version": "12.0",
+          "date": "2024-08-07",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+          "size": 136873801,
+          "buildVersion": "9.0.0.20",
+          "sha256": "3f54890e077093ecf2321a4a9a70886959afd61d1bd9eff098cd1e4b58a519c2",
+          "ipaBundleIdentifier": "com.lemon.lvoverseas"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.lemon.lvoverseas-3f54890e0770.png",
+      "updatePolicy": "daily",
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+        "checkedAt": "2026-11-22T09:08:58Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "repository",
+        "historyLimit": 3,
+        "deliveryMode": "direct-source",
+        "originURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+        "selector": "entry-8df443e97b99809ddec57cfadfa63a062c5be0bb651cb588d6b1df3d4efd6d68",
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json"
+      },
+      "automation": {
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "app-488ca4dd8f8447869b7d23549aca0ca2",
+        "sourceURL": "https://ipa.cypwn.xyz/cypwn.json",
+        "workflowPath": ".github/workflows/update-app-app-488ca4dd8f8447869b7d23549aca0ca2.yml"
+      }
+    },
+    {
       "name": "APP",
       "catalogID": "project-823b4411514b057c4884578cb1cbd917",
       "bundleIdentifier": "com.pxx917144686.App",
