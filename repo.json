@@ -10,6 +10,18 @@
       "category": "Tools",
       "versions": [
         {
+          "version": "2.7.5",
+          "date": "2026-11-22T01:00:48Z",
+          "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
+          "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
+          "size": 51690536,
+          "sha256": "dc9cabbd40b5ab1f3786dd2c10648461f439bf223980b3c3f5ab44c99493d578",
+          "ipaBundleIdentifier": "com.pxx917144686.App",
+          "sourceAssetName": "APP_2.7.5.ipa",
+          "releaseChannel": "release",
+          "sourceAppName": "APP"
+        },
+        {
           "version": "2.7.4",
           "date": "2026-11-21T09:26:56Z",
           "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
@@ -29,9 +41,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.4/APP_2.7.4.ipa",
-        "checkedAt": "2026-11-21T21:03:23Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T01:04:08Z",
+        "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -47,7 +59,10 @@
         "configId": "project-823b4411514b057c4884578cb1cbd917",
         "sourceURL": "https://github.com/pxx917144686/APP",
         "workflowPath": ".github/workflows/update-app-project-823b4411514b057c4884578cb1cbd917.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.pxx917144686.App"
+      ]
     },
     {
       "name": "GestaltEdit",
