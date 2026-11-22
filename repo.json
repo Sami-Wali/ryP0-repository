@@ -39130,7 +39130,7 @@
       "name": "EspressU",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-22T21:15:25Z",
+        "checkedAt": "2026-11-22T21:35:09Z",
         "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "subtitle": "",
