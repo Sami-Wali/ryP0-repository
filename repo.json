@@ -43295,13 +43295,25 @@
       "name": "Factorio",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
-        "checkedAt": "2026-11-22T15:06:03Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T18:05:04Z",
+        "checkedDownloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.3.0/FactorioPad-template.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.3.0",
+          "date": "2026-11-22T18:04:42Z",
+          "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.3.0/FactorioPad-template.ipa",
+          "upstreamAssetURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.3.0/FactorioPad-template.ipa",
+          "size": 367407,
+          "sha256": "f3729f8e5f9b60fc126f25b4d9afe9823d29e7b1e59ccacc2f4d0d79bec3366d",
+          "ipaBundleIdentifier": "pl.adrian.FactorioPad",
+          "sourceAssetName": "FactorioPad-template.ipa",
+          "releaseChannel": "prerelease",
+          "buildVersion": "15"
+        },
         {
           "buildVersion": "14",
           "date": "2026-10-31T13:50:26Z",
