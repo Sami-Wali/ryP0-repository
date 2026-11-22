@@ -14638,13 +14638,26 @@
       "name": "Porthole",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.4.0/Porthole-1.4.0-982.ipa",
-        "checkedAt": "2026-11-22T03:04:18Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T03:59:35Z",
+        "checkedDownloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.4.1/Porthole-1.4.1-983.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.4.1",
+          "date": "2026-11-22T03:57:34Z",
+          "downloadURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.4.1/Porthole-1.4.1-983.ipa",
+          "upstreamAssetURL": "https://github.com/tylerkaska112/Porthole/releases/download/v1.4.1/Porthole-1.4.1-983.ipa",
+          "size": 227942759,
+          "sha256": "c3ec8dc9507b078023c9e135d80359afabb65cc362159a092dfa1f1adb8ba5f8",
+          "ipaBundleIdentifier": "site.portholehq.app",
+          "sourceAssetName": "Porthole-1.4.1-983.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "983",
+          "sourceAppName": "Porthole"
+        },
         {
           "version": "v1.4.0",
           "date": "2026-11-21T19:25:44Z",
