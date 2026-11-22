@@ -10962,12 +10962,25 @@
       "name": "Regitela",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.6/Regitela_1.0.6.ipa",
-        "checkedAt": "2026-11-22T09:05:11Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T13:18:46Z",
+        "checkedDownloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.7/Regitela_1.0.7.ipa",
+        "message": "Updated after package verification"
       },
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.7",
+          "date": "2026-11-22T13:13:43Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.7/Regitela_1.0.7.ipa",
+          "upstreamAssetURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.7/Regitela_1.0.7.ipa",
+          "size": 3785530,
+          "sha256": "d295bac8b985ba0c97b8f8aebe6d4d4c54e8e4919a4fa03fc97e73622926d73a",
+          "ipaBundleIdentifier": "com.ichitaso.regitela",
+          "sourceAssetName": "Regitela_1.0.7.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "Regitela"
+        },
         {
           "version": "v1.0.6",
           "date": "2026-11-20T20:33:32Z",
