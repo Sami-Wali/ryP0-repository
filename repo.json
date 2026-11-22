@@ -11141,13 +11141,26 @@
       "name": "Andarium",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/imxieyi/Kernarium/releases/download/1.0b15-release/Andarium-1.0-15.ipa",
-        "checkedAt": "2026-11-22T15:06:03Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T18:53:07Z",
+        "checkedDownloadURL": "https://github.com/imxieyi/Kernarium/releases/download/andarium-1.1/Andarium-1.1-16.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: imxieyi/Kernarium.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "andarium-1.1",
+          "date": "2026-11-22T18:45:39Z",
+          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/andarium-1.1/Andarium-1.1-16.ipa",
+          "upstreamAssetURL": "https://github.com/imxieyi/Kernarium/releases/download/andarium-1.1/Andarium-1.1-16.ipa",
+          "size": 1248669708,
+          "sha256": "da277dced66f2208299232172168f71add6de4252a2cbb3f63d450626bf20ac7",
+          "ipaBundleIdentifier": "com.imxieyi.andarium",
+          "sourceAssetName": "Andarium-1.1-16.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "16",
+          "sourceAppName": "Andarium"
+        },
         {
           "buildVersion": "15",
           "date": "2026-11-18T19:26:48Z",
