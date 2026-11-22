@@ -39682,13 +39682,25 @@
       "name": "Kazumi",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.5/Kazumi_ios_2.4.5_no_sign.ipa",
-        "checkedAt": "2026-11-22T03:04:18Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T05:45:08Z",
+        "checkedDownloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.6/Kazumi_ios_2.4.6_no_sign.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.4.6",
+          "date": "2026-11-22T05:42:23Z",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.6/Kazumi_ios_2.4.6_no_sign.ipa",
+          "upstreamAssetURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.6/Kazumi_ios_2.4.6_no_sign.ipa",
+          "size": 30369553,
+          "sha256": "11f56776543e9c7ce65704c649311f3af77916da8b3de9d3f32cb48971d5b641",
+          "ipaBundleIdentifier": "com.example.kazumi",
+          "sourceAssetName": "Kazumi_ios_2.4.6_no_sign.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "20406"
+        },
         {
           "version": "2.4.5",
           "date": "2026-11-21T05:56:21Z",
