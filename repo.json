@@ -559,13 +559,19 @@
       "name": "AnimeFlow",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.8/AnimeFlow-ios-2.6.8.ipa",
-        "checkedAt": "2026-11-22T03:04:18Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.7.0/AnimeFlow-ios-2.7.0.ipa",
+        "checkedAt": "2026-11-22T05:48:50Z",
+        "message": "Updated from upstream source"
       },
       "subtitle": "AnimeFlow 是一个跨平台动漫视频播放应用，支持 Android、iOS、Windows、macOS 与 Linux。内置多数据源与自定义 XPath 爬虫配置，支持基于 Anime4K 的实时视频 4K 超分辨率，对接 Bangumi 同步收藏与追番数据，并支持多平台弹幕源与丰富的弹幕设置。",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "2.7.0",
+          "date": "2026-11-22T04:50:04Z",
+          "downloadURL": "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.7.0/AnimeFlow-ios-2.7.0.ipa",
+          "size": 29735422
+        },
         {
           "buildVersion": "2.6.8",
           "date": "2026-11-13T20:37:13Z",
