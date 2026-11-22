@@ -11225,13 +11225,39 @@
       "name": "ipadn",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.3/iPadn-2.3.3-lite-unsigned.ipa",
-        "checkedAt": "2026-11-22T03:04:18Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T05:59:13Z",
+        "checkedDownloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v2.3.4",
+          "date": "2026-11-22T05:56:54Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-unsigned.ipa",
+          "size": 49929497,
+          "sha256": "9e03156799f0f8f7b69d2c3927d93f5cca4f87feab5786008cdf7a60602688e6",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.3.4-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "40",
+          "sourceAppName": "iPadn"
+        },
+        {
+          "version": "v2.3.4",
+          "date": "2026-11-22T05:56:54Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-lite-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-lite-unsigned.ipa",
+          "size": 49848919,
+          "sha256": "371e798ee8211f7610ed60375d9bc52e07a13ae0c90884338ae0a847811cbc8c",
+          "ipaBundleIdentifier": "app.local.iPadn",
+          "sourceAssetName": "iPadn-2.3.4-lite-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "40",
+          "sourceAppName": "iPadn"
+        },
         {
           "version": "v2.3.3",
           "date": "2026-11-21T14:52:35Z",
