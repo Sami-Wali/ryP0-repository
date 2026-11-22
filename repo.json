@@ -179,6 +179,19 @@
       "category": "Movies",
       "versions": [
         {
+          "version": "v0.5.4",
+          "date": "2026-11-22T14:38:06Z",
+          "downloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.4/Vesper.ipa",
+          "upstreamAssetURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.4/Vesper.ipa",
+          "size": 15884030,
+          "sha256": "4f91dd7d4ae2fd3cabd5d086bdf4c76423da3514cbf163267fd0f8111aa26bae",
+          "ipaBundleIdentifier": "app.vesper",
+          "sourceAssetName": "Vesper.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "54",
+          "sourceAppName": "Vesper"
+        },
+        {
           "version": "0.5.3",
           "date": "2026-11-13T13:32:40Z",
           "downloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
@@ -199,9 +212,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.3/Vesper.ipa",
-        "checkedAt": "2026-11-22T09:05:11Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T14:39:02Z",
+        "checkedDownloadURL": "https://github.com/DjangoCustard225/Vesper/releases/download/v0.5.4/Vesper.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -217,7 +230,10 @@
         "configId": "project-b6e24ffa0df6ba5373f788b0e2e2ac87",
         "sourceURL": "https://github.com/DjangoCustard225/Vesper",
         "workflowPath": ".github/workflows/update-app-project-b6e24ffa0df6ba5373f788b0e2e2ac87.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "app.vesper"
+      ]
     },
     {
       "name": "Opaline",
