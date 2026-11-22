@@ -3402,13 +3402,26 @@
       "name": "ARMSX3",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/project-8626e5db6200db4e70c0ff2cdbd9a479-64175ad2e625ad02b330bf90a9bbc21385b3c379-cf571561f9c1.ipa",
-        "checkedAt": "2026-11-22T15:06:03Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T18:54:05Z",
+        "checkedDownloadURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.4/ARMSX3-0.0.4.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "ios-0.0.4",
+          "date": "2026-11-22T18:51:36Z",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.4/ARMSX3-0.0.4.ipa",
+          "upstreamAssetURL": "https://github.com/ARMSX2/ARMSX3/releases/download/ios-0.0.4/ARMSX3-0.0.4.ipa",
+          "size": 46267291,
+          "sha256": "3ee6eaca9ddb061f03329f72a013f00b344c6df8936bc6bc59425aa5c2d3bead",
+          "ipaBundleIdentifier": "com.armsx3.ARMSX3",
+          "sourceAssetName": "ARMSX3-0.0.4.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "7",
+          "sourceAppName": "ARMSX3"
+        },
         {
           "version": "64175ad2e625ad02b330bf90a9bbc21385b3c379",
           "date": "2026-11-21T11:13:10Z",
