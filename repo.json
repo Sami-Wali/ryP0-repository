@@ -5931,13 +5931,26 @@
       "name": "Locus",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
-        "checkedAt": "2026-11-22T03:04:18Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-22T04:18:49Z",
+        "checkedDownloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.3/Locus-1.0.3.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "Free open-source iPhone location teleport (MIT)",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.0.3",
+          "date": "2026-11-22T04:17:20Z",
+          "downloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.3/Locus-1.0.3.ipa",
+          "upstreamAssetURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.3/Locus-1.0.3.ipa",
+          "size": 7152965,
+          "sha256": "2af370f6222b00509a89cb8d6db409753b805644d0e5bede8cade9ef6e673b8c",
+          "ipaBundleIdentifier": "com.chrismack.locus",
+          "sourceAssetName": "Locus-1.0.3.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "4",
+          "sourceAppName": "Locus"
+        },
         {
           "buildVersion": "3",
           "date": "2026-07-27T21:49:25Z",
