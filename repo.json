@@ -11,11 +11,11 @@
       "versions": [
         {
           "version": "2.7.5",
-          "date": "2026-11-22T01:00:48Z",
+          "date": "2026-11-22T02:13:12Z",
           "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
           "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
-          "size": 51690536,
-          "sha256": "dc9cabbd40b5ab1f3786dd2c10648461f439bf223980b3c3f5ab44c99493d578",
+          "size": 51685905,
+          "sha256": "20930cc8b707818b1fcac05afc2b857fdc6e405feb9537f074c38fc491a1c044",
           "ipaBundleIdentifier": "com.pxx917144686.App",
           "sourceAssetName": "APP_2.7.5.ipa",
           "releaseChannel": "release",
@@ -41,7 +41,7 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-22T01:04:08Z",
+        "checkedAt": "2026-11-22T02:14:07Z",
         "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.7.5/APP_2.7.5.ipa",
         "message": "Updated after package verification"
       },
