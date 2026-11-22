@@ -39129,10 +39129,9 @@
       "localizedDescription": "",
       "name": "EspressU",
       "status": {
-        "state": "broken",
-        "checkedDownloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.5/EspressU-1.5.ipa",
-        "checkedAt": "2026-11-22T21:06:56Z",
-        "message": "EspressU-1.5.ipa: Download returned HTTP 404"
+        "state": "update-error",
+        "checkedAt": "2026-11-22T21:15:25Z",
+        "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "subtitle": "",
       "updatePolicy": "daily",
