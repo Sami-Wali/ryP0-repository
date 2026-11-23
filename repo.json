@@ -27699,8 +27699,8 @@
       },
       "bundleIdentifier": "77emul.beta2",
       "bundleIdentifiers": [
-        "77emul.beta2",
-        "com.77emul.app"
+        "com.77emul.app",
+        "77emul.beta2"
       ],
       "catalogID": "project-81c58f3fc13cfa78e87236712261c8e5",
       "category": "EMU",
@@ -27719,13 +27719,26 @@
       "name": "77U-BETA",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/77emul/77U-BETA/releases/download/77U_v0.2.0-beta/77U_0.1.0_Beta_2.ipa",
-        "checkedAt": "2026-11-23T09:08:51Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-23T14:29:34Z",
+        "checkedDownloadURL": "https://github.com/77emul/77U-BETA/releases/download/v0.1.0-beta.3/77U-iOS-iPadOS-0.1.0-1056.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.0-beta.3",
+          "date": "2026-11-23T14:26:28Z",
+          "downloadURL": "https://github.com/77emul/77U-BETA/releases/download/v0.1.0-beta.3/77U-iOS-iPadOS-0.1.0-1056.ipa",
+          "upstreamAssetURL": "https://github.com/77emul/77U-BETA/releases/download/v0.1.0-beta.3/77U-iOS-iPadOS-0.1.0-1056.ipa",
+          "size": 30370728,
+          "sha256": "01d74379ee9c39cd2f7ff15e74589956faca454c4e742e9a0e179e86b41b5e62",
+          "ipaBundleIdentifier": "com.77emul.app",
+          "sourceAssetName": "77U-iOS-iPadOS-0.1.0-1056.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "1056",
+          "sourceAppName": "77U"
+        },
         {
           "buildVersion": "1017",
           "date": "2026-10-25T19:56:07Z",
