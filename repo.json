@@ -523,6 +523,19 @@
       "category": "Movies",
       "versions": [
         {
+          "version": "v1.1.2",
+          "date": "2026-11-23T09:07:31Z",
+          "downloadURL": "https://github.com/henrywizzrd/zyx/releases/download/v1.1.2/Zyx-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/henrywizzrd/zyx/releases/download/v1.1.2/Zyx-unsigned.ipa",
+          "size": 24715971,
+          "sha256": "ce6aafb4a8548d821676bf81d404b196f9db45f7fea37cad53ba05dce80801f3",
+          "ipaBundleIdentifier": "com.henrywizzrd.zyx",
+          "sourceAssetName": "Zyx-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1",
+          "sourceAppName": "Zyx"
+        },
+        {
           "version": "beta-latest",
           "date": "2026-11-22T14:29:06Z",
           "downloadURL": "https://github.com/henrywizzrd/zyx/releases/download/beta-latest/ZYX-Beta-unsigned.ipa",
@@ -595,9 +608,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/henrywizzrd/zyx/releases/download/beta-latest/ZYX-Beta-unsigned.ipa",
-        "checkedAt": "2026-11-23T09:08:51Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-23T09:09:59Z",
+        "checkedDownloadURL": "https://github.com/henrywizzrd/zyx/releases/download/v1.1.2/Zyx-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -615,8 +628,8 @@
         "workflowPath": ".github/workflows/update-app-project-182fdbc7eaa10055eeb95222351509a8.yml"
       },
       "bundleIdentifiers": [
-        "com.henrywizzrd.zyx.beta",
-        "com.henrywizzrd.zyx"
+        "com.henrywizzrd.zyx",
+        "com.henrywizzrd.zyx.beta"
       ]
     },
     {
