@@ -420,6 +420,19 @@
       "category": "Games",
       "versions": [
         {
+          "version": "latest-ios",
+          "date": "2026-11-23T21:09:36Z",
+          "downloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios/GameStream-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios/GameStream-unsigned.ipa",
+          "size": 1296953,
+          "sha256": "5710e943590608e8aa0a95bcb3b73e65b573c8005ea6d1bfbe801515e3d2ec09",
+          "ipaBundleIdentifier": "com.gamestream.app",
+          "sourceAssetName": "GameStream-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "922",
+          "sourceAppName": "GameStream"
+        },
+        {
           "version": "latest-ios-beta",
           "date": "2026-11-21T22:44:08Z",
           "downloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
@@ -430,19 +443,6 @@
           "sourceAssetName": "GameStream-unsigned.ipa",
           "releaseChannel": "beta",
           "buildVersion": "922",
-          "sourceAppName": "GameStream"
-        },
-        {
-          "version": "latest-ios",
-          "date": "2026-11-21T22:36:18Z",
-          "downloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios/GameStream-unsigned.ipa",
-          "upstreamAssetURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios/GameStream-unsigned.ipa",
-          "size": 1296947,
-          "sha256": "608e7f3ddb54c77d649095f4022465801b2b7e72d63959bf956317cf8b0a9bba",
-          "ipaBundleIdentifier": "com.gamestream.app",
-          "sourceAssetName": "GameStream-unsigned.ipa",
-          "releaseChannel": "release",
-          "buildVersion": "919",
           "sourceAppName": "GameStream"
         },
         {
@@ -466,9 +466,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios-beta/GameStream-unsigned.ipa",
-        "checkedAt": "2026-11-23T21:10:36Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-23T21:14:01Z",
+        "checkedDownloadURL": "https://github.com/ITZproVenom/Gamestream/releases/download/latest-ios/GameStream-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
