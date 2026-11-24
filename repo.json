@@ -46267,10 +46267,9 @@
       "localizedDescription": "",
       "name": "Nuvio",
       "status": {
-        "state": "healthy",
-        "checkedDownloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.1/nuvio-1.0.1-full-release.ipa",
-        "checkedAt": "2026-11-23T21:10:36Z",
-        "message": "Download is available"
+        "state": "update-error",
+        "checkedAt": "2026-11-24T02:26:55Z",
+        "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "subtitle": "",
       "updatePolicy": "daily",
