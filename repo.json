@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "NusaNX",
+      "catalogID": "project-636e230c817980083e7fe0b07e93fb05",
+      "bundleIdentifier": "com.nusanx.studio",
+      "developerName": "optimalabsistem",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2026-11-18T15:08:38Z",
+          "downloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
+          "size": 4820492,
+          "buildVersion": "1",
+          "releaseChannel": "beta",
+          "sha256": "feded6fb2265381c1ec011148f4322fadea141cab6ad495bdbb6fe11b14f0a5a",
+          "sourceAppName": "NusaNx",
+          "sourceAssetName": "NusaNX.0.1.1.Beta.ipa",
+          "ipaBundleIdentifier": "com.nusanx.studio",
+          "upstreamAssetURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.nusanx.studio-feded6fb2265.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
+        "checkedAt": "2026-11-25T22:28:37Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
+        "sourceURL": "https://github.com/optimalabsistem/NusaNX"
+      },
+      "githubURL": "https://github.com/optimalabsistem/NusaNX",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-636e230c817980083e7fe0b07e93fb05",
+        "sourceURL": "https://github.com/optimalabsistem/NusaNX",
+        "workflowPath": ".github/workflows/update-app-project-636e230c817980083e7fe0b07e93fb05.yml"
+      }
+    },
+    {
       "name": "Neroli",
       "catalogID": "project-b781558809afdd11e35bee268dbd3d9d",
       "bundleIdentifier": "org.jmillz269.neroli",
