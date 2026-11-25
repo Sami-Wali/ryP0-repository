@@ -17143,13 +17143,26 @@
       "name": "AltLoad",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.8.0/AltLoad.ipa",
-        "checkedAt": "2026-11-25T15:17:30Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-25T16:14:15Z",
+        "checkedDownloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.8.1/AltLoad.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.8.1",
+          "date": "2026-11-25T16:11:37Z",
+          "downloadURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.8.1/AltLoad.ipa",
+          "upstreamAssetURL": "https://github.com/mirazbakis/AltLoad/releases/download/v1.8.1/AltLoad.ipa",
+          "size": 12840783,
+          "sha256": "536537bee21d1b253447fa14cd50a2b0c7ad45c83a0c9556309ce062194a29a0",
+          "ipaBundleIdentifier": "com.mirazbakis.altload",
+          "sourceAssetName": "AltLoad.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "13",
+          "sourceAppName": "AltLoad"
+        },
         {
           "version": "v1.8.0",
           "date": "2026-11-23T17:20:50Z",
