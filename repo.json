@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "padmint",
+      "catalogID": "project-2e39df89f97a2f6b3ceef070e3cd2d8f",
+      "bundleIdentifier": "com.chrissotraidis.padmintlibrary",
+      "developerName": "chrissotraidis",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "0.6.10",
+          "date": "2026-11-18T12:56:45Z",
+          "downloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
+          "size": 1106276,
+          "buildVersion": "16",
+          "releaseChannel": "release",
+          "sha256": "e713f4cb74946a6185decf68e0f5578b37ce1bf3ec6b64bdf439d7c2e1c738bf",
+          "sourceAppName": "PadMint",
+          "sourceAssetName": "PadMint-ios-unsigned.ipa",
+          "ipaBundleIdentifier": "com.chrissotraidis.padmintlibrary",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrissotraidis.padmintlibrary-e713f4cb7494.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
+        "checkedAt": "2026-11-25T23:16:42Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
+        "sourceURL": "https://github.com/chrissotraidis/padmint"
+      },
+      "githubURL": "https://github.com/chrissotraidis/padmint",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-2e39df89f97a2f6b3ceef070e3cd2d8f",
+        "sourceURL": "https://github.com/chrissotraidis/padmint",
+        "workflowPath": ".github/workflows/update-app-project-2e39df89f97a2f6b3ceef070e3cd2d8f.yml"
+      }
+    },
+    {
       "name": "NusaNX",
       "catalogID": "project-636e230c817980083e7fe0b07e93fb05",
       "bundleIdentifier": "com.nusanx.studio",
