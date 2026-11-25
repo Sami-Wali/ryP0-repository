@@ -20,7 +20,8 @@
           "sourceAppName": "NusaNx",
           "sourceAssetName": "NusaNX.0.1.1.Beta.ipa",
           "ipaBundleIdentifier": "com.nusanx.studio",
-          "upstreamAssetURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa"
+          "upstreamAssetURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
+          "localizedDescription": "## Fixed & Improved"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.nusanx.studio-feded6fb2265.png",
