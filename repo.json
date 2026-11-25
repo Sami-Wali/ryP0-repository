@@ -897,7 +897,7 @@
       "name": "CyPort",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-25T11:09:31Z",
+        "checkedAt": "2026-11-25T11:34:32Z",
         "checkedDownloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
         "message": "Updated after package verification"
       },
@@ -906,11 +906,11 @@
       "versions": [
         {
           "version": "v1.6",
-          "date": "2026-11-25T11:07:10Z",
+          "date": "2026-11-25T11:33:04Z",
           "downloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
           "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
-          "size": 127881745,
-          "sha256": "f840a905887da1e9ccc8f56f959eecd44502925ddd35bb47fe7dc47b29cfb5a3",
+          "size": 127883888,
+          "sha256": "6da089b9287f63cc7bd1d1dcb44ee67e7c83311a2bd3c13b6a5b97afd2bd1943",
           "ipaBundleIdentifier": "com.example.cyport",
           "sourceAssetName": "CyPort-1.6-2.3.1+2.5-unsigned.ipa",
           "releaseChannel": "release",
