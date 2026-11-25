@@ -20,7 +20,8 @@
           "sourceAppName": "PadMint",
           "sourceAssetName": "PadMint-ios-unsigned.ipa",
           "ipaBundleIdentifier": "com.chrissotraidis.padmintlibrary",
-          "upstreamAssetURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa"
+          "upstreamAssetURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
+          "localizedDescription": "PadMint 0.6.10 adds ETPad."
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrissotraidis.padmintlibrary-e713f4cb7494.png",
