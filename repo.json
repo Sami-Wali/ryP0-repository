@@ -1,6 +1,56 @@
 {
   "apps": [
     {
+      "name": "Neroli",
+      "catalogID": "project-b781558809afdd11e35bee268dbd3d9d",
+      "bundleIdentifier": "org.jmillz269.neroli",
+      "developerName": "JMillz269",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "EMU",
+      "versions": [
+        {
+          "version": "d1b35d30d8b96955b849855254f329c7948bd7bd",
+          "date": "2026-11-25T03:44:25Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/org.jmillz269.neroli-35cc3c5d4b773f4e329e5ae471644b1f225036212dbfea620ea64f383d339bd4.ipa",
+          "size": 12212347,
+          "buildVersion": "0",
+          "releaseChannel": "actions",
+          "sha256": "35cc3c5d4b773f4e329e5ae471644b1f225036212dbfea620ea64f383d339bd4",
+          "sourceAppName": "Neroli",
+          "sourceAssetName": "Neroli-unsigned.ipa",
+          "ipaBundleIdentifier": "org.jmillz269.neroli",
+          "upstreamAssetURL": "https://api.github.com/repos/JMillz269/Neroli/actions/artifacts/14990582454/zip",
+          "sourceArchiveEntry": "Neroli-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/org.jmillz269.neroli-35cc3c5d4b77.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/org.jmillz269.neroli-35cc3c5d4b773f4e329e5ae471644b1f225036212dbfea620ea64f383d339bd4.ipa",
+        "checkedAt": "2026-11-25T20:34:12Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "mirror-release",
+        "originURL": "https://api.github.com/repos/JMillz269/Neroli/actions/artifacts/14990582454/zip",
+        "sourceURL": "https://github.com/JMillz269/Neroli"
+      },
+      "githubURL": "https://github.com/JMillz269/Neroli",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-b781558809afdd11e35bee268dbd3d9d",
+        "sourceURL": "https://github.com/JMillz269/Neroli",
+        "workflowPath": ".github/workflows/update-app-project-b781558809afdd11e35bee268dbd3d9d.yml"
+      }
+    },
+    {
       "name": "CapCut_12.0_Cracked",
       "catalogID": "app-488ca4dd8f8447869b7d23549aca0ca2",
       "bundleIdentifier": "com.lemon.lvoverseas",
