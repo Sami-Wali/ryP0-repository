@@ -1299,7 +1299,7 @@
         "historySyncPending": true,
         "repository": "Sami-Wali/ryP0-automation",
         "configId": "project-89b3469310d84696450242e02fa33d5b",
-        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.16.0",
+        "sourceURL": "https://github.com/cartouche-app/Cartouche/releases/tag/v0.16.1",
         "workflowPath": ".github/workflows/update-app-project-89b3469310d84696450242e02fa33d5b.yml"
       },
       "backup": {
@@ -1330,13 +1330,26 @@
       "name": "Cartouche",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.0/Cartouche-0.16.0.ipa",
-        "checkedAt": "2026-11-25T21:18:27Z",
-        "message": "Download is available"
+        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-Own-Certificate.ipa",
+        "checkedAt": "2026-11-25T21:24:58Z",
+        "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.16.1",
+          "date": "2026-11-25T21:22:48Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-Own-Certificate.ipa",
+          "size": 26897437,
+          "sha256": "d66868ed1d51ff4cbdca053f6e87b232198db87589983597d97d6471403079f9",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-Own-Certificate.ipa",
+          "sourceAssetName": "Cartouche-0.16.1-Own-Certificate.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.16.1"
+        },
         {
           "version": "v0.16.0",
           "date": "2026-11-25T11:17:06Z",
