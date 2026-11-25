@@ -36942,13 +36942,25 @@
       "name": "AnymeX",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.0/AnymeX-iOS-v3.2.0.ipa",
-        "checkedAt": "2026-11-25T15:17:30Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-25T17:45:08Z",
+        "checkedDownloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.1/AnymeX-iOS-v3.2.1.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: RyanYuuki/AnymeX.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v3.2.1",
+          "date": "2026-11-25T17:43:31Z",
+          "downloadURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.1/AnymeX-iOS-v3.2.1.ipa",
+          "upstreamAssetURL": "https://github.com/RyanYuuki/AnymeX/releases/download/v3.2.1/AnymeX-iOS-v3.2.1.ipa",
+          "size": 84925840,
+          "sha256": "19ba689dc4ef51662d879566e4082237a3bcce519290fcebb43b4aae876528ee",
+          "ipaBundleIdentifier": "com.ryan.anymex",
+          "sourceAssetName": "AnymeX-iOS-v3.2.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "43"
+        },
         {
           "buildVersion": "42",
           "date": "2026-10-27T19:37:12Z",
