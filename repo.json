@@ -2678,13 +2678,26 @@
       "name": "Hinoki",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.6.1/Hinoki-1.6.1.ipa",
-        "checkedAt": "2026-11-25T09:16:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-25T14:09:56Z",
+        "checkedDownloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.6.2/Hinoki-1.6.2.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.6.2",
+          "date": "2026-11-25T14:06:58Z",
+          "downloadURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.6.2/Hinoki-1.6.2.ipa",
+          "upstreamAssetURL": "https://github.com/oledz-i/Hinoki/releases/download/v1.6.2/Hinoki-1.6.2.ipa",
+          "size": 26360992,
+          "sha256": "f686f57b235d25ab36c0f65746fb9531387d4204bf7f9827b4001f42cf4c3318",
+          "ipaBundleIdentifier": "org.vita3k.ios",
+          "sourceAssetName": "Hinoki-1.6.2.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "304",
+          "sourceAppName": "Hinoki"
+        },
         {
           "version": "v1.6.1",
           "date": "2026-11-20T17:44:28Z",
