@@ -1,6 +1,56 @@
 {
   "apps": [
     {
+      "name": "OpenTTDPad",
+      "catalogID": "project-9452be9542b601f10cb20703c887b1e7",
+      "bundleIdentifier": "com.chrissotraidis.openttdpad",
+      "developerName": "chrissotraidis",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "3524f956176fbd99257e49e5befd157fe3c3ab77",
+          "date": "2026-11-21T05:20:13Z",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.chrissotraidis.openttdpad-d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831.ipa",
+          "size": 32804474,
+          "buildVersion": "3",
+          "releaseChannel": "actions",
+          "sha256": "d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831",
+          "sourceAppName": "OpenTTDPad",
+          "sourceAssetName": "OpenTTDPad-unsigned.ipa",
+          "ipaBundleIdentifier": "com.chrissotraidis.openttdpad",
+          "upstreamAssetURL": "https://api.github.com/repos/chrissotraidis/OpenTTDPad/actions/artifacts/14693143608/zip",
+          "sourceArchiveEntry": "OpenTTDPad-unsigned.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrissotraidis.openttdpad-d8f2e3622e54.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.chrissotraidis.openttdpad-d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831.ipa",
+        "checkedAt": "2026-11-25T23:20:59Z",
+        "message": "Imported and mirrored after IPA validation"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "mirror-release",
+        "originURL": "https://api.github.com/repos/chrissotraidis/OpenTTDPad/actions/artifacts/14693143608/zip",
+        "sourceURL": "https://github.com/chrissotraidis/OpenTTDPad"
+      },
+      "githubURL": "https://github.com/chrissotraidis/OpenTTDPad",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-9452be9542b601f10cb20703c887b1e7",
+        "sourceURL": "https://github.com/chrissotraidis/OpenTTDPad",
+        "workflowPath": ".github/workflows/update-app-project-9452be9542b601f10cb20703c887b1e7.yml"
+      }
+    },
+    {
       "name": "etpad",
       "catalogID": "project-6c0ce3bc80494221a3621d235febb44c",
       "bundleIdentifier": "com.chrissotraidis.etpad",
