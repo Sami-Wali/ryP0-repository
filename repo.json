@@ -1330,13 +1330,26 @@
       "name": "Cartouche",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-Own-Certificate.ipa",
-        "checkedAt": "2026-11-25T21:24:58Z",
+        "checkedDownloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-SideStore.ipa",
+        "checkedAt": "2026-11-25T21:25:25Z",
         "message": "Updated by private automation"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.16.1",
+          "date": "2026-11-25T21:22:48Z",
+          "downloadURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-SideStore.ipa",
+          "size": 30589661,
+          "sha256": "f005490e556e866fd1623913844080ce0bb79965ea9c9064e51c6342090c35b0",
+          "upstreamAssetURL": "https://github.com/cartouche-app/Cartouche/releases/download/v0.16.1/Cartouche-0.16.1-SideStore.ipa",
+          "sourceAssetName": "Cartouche-0.16.1-SideStore.ipa",
+          "sourceAppName": "LiveContainer",
+          "ipaBundleIdentifier": "io.github.clabeuhtegrite.cartouche",
+          "releaseChannel": "prerelease",
+          "buildVersion": "0.16.1"
+        },
         {
           "version": "v0.16.1",
           "date": "2026-11-25T21:22:48Z",
