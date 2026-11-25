@@ -37525,13 +37525,25 @@
       "name": "Cyanide",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-25T16:03:00Z",
-        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.31.0-test1/Cyanide-1.31.0.ipa",
+        "checkedAt": "2026-11-25T20:24:53Z",
+        "checkedDownloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.40.0/Cyanide-1.40.0.ipa",
         "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: kolbicz/Cyanide.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.40.0",
+          "date": "2026-11-25T20:23:42Z",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.40.0/Cyanide-1.40.0.ipa",
+          "upstreamAssetURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.40.0/Cyanide-1.40.0.ipa",
+          "size": 7370046,
+          "sha256": "e5571be28142ffffe54ffe0a0c34ff60032aca535ea4522b1be2422a93ba83cd",
+          "ipaBundleIdentifier": "com.zeroxjf.ios-cyanide1",
+          "sourceAssetName": "Cyanide-1.40.0.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1040000"
+        },
         {
           "version": "v1.31.0-test1",
           "date": "2026-11-25T15:47:16Z",
