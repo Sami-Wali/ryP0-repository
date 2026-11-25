@@ -897,13 +897,26 @@
       "name": "CyPort",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.5/CyPort-1.5-2.3.1%2B2.5-unsigned.ipa",
-        "checkedAt": "2026-11-25T09:16:39Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-25T11:09:31Z",
+        "checkedDownloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: Thijs2004/CyPort.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.6",
+          "date": "2026-11-25T11:07:10Z",
+          "downloadURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/Thijs2004/CyPort/releases/download/v1.6/CyPort-1.6-2.3.1%2B2.5-unsigned.ipa",
+          "size": 127881745,
+          "sha256": "f840a905887da1e9ccc8f56f959eecd44502925ddd35bb47fe7dc47b29cfb5a3",
+          "ipaBundleIdentifier": "com.example.cyport",
+          "sourceAssetName": "CyPort-1.6-2.3.1+2.5-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "5814786",
+          "sourceAppName": "CyPort"
+        },
         {
           "buildVersion": "5814786",
           "date": "2026-11-16T13:18:25Z",
