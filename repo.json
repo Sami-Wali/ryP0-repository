@@ -20,7 +20,8 @@
           "sourceAppName": "ETPad",
           "sourceAssetName": "ETPad-unsigned.ipa",
           "ipaBundleIdentifier": "com.chrissotraidis.etpad",
-          "upstreamAssetURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.0/ETPad-unsigned.ipa"
+          "upstreamAssetURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.0/ETPad-unsigned.ipa",
+          "localizedDescription": "# ETPad 0.1.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/com.chrissotraidis.etpad-7c07134342ab.png",
