@@ -48009,7 +48009,7 @@
       "name": "Xenios",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-25T05:20:37Z",
+        "checkedAt": "2026-11-25T08:40:40Z",
         "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "tintColor": "#FF5733",
