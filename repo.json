@@ -44681,7 +44681,7 @@
       "name": "Madeira",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-25T01:30:02Z",
+        "checkedAt": "2026-11-25T01:54:53Z",
         "checkedDownloadURL": "https://github.com/camhoc/Madeira/releases/download/0.2.100-og/Madeira.Nightly.0.2.100.og.ipa",
         "message": "Updated after package verification"
       },
@@ -44690,11 +44690,11 @@
       "versions": [
         {
           "version": "0.2.100-og",
-          "date": "2026-11-25T01:24:43Z",
+          "date": "2026-11-25T01:50:08Z",
           "downloadURL": "https://github.com/camhoc/Madeira/releases/download/0.2.100-og/Madeira.Nightly.0.2.100.og.ipa",
           "upstreamAssetURL": "https://github.com/camhoc/Madeira/releases/download/0.2.100-og/Madeira.Nightly.0.2.100.og.ipa",
-          "size": 234045666,
-          "sha256": "46a7ae42af86d6080ee1cea08ff7e45a8b7a1c6c752795aaeef2868e7dab0482",
+          "size": 234045664,
+          "sha256": "89612d534e3af7fcd755599fb2124091c0f52117fefff7ab5f39723331ea1e09",
           "ipaBundleIdentifier": "com.willfaust.madeora",
           "sourceAssetName": "Madeira.Nightly.0.2.100.og.ipa",
           "releaseChannel": "nightly",
