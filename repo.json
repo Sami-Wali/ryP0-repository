@@ -3893,11 +3893,11 @@
         "workflowPath": ".github/workflows/update-app-project-76531d085ecd427832b29dd6e51f8fcd.yml"
       },
       "backup": {
+        "version": "0.7.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-56c98128979eed254cd34c1c-d47d3b0912f3f878a56f93b19153af62225eff4a25db5279f706103a2ebcf5cd.ipa",
         "sha256": "d47d3b0912f3f878a56f93b19153af62225eff4a25db5279f706103a2ebcf5cd",
         "size": 23505258,
-        "version": "0.7.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "io.github.hubzzzgr.SideStoreTV",
       "catalogID": "project-76531d085ecd427832b29dd6e51f8fcd",
