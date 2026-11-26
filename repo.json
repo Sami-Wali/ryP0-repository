@@ -865,6 +865,13 @@
         "configId": "project-d44ad98df105558305796b0bac2b10ed",
         "sourceURL": "https://github.com/ryanbr/noop",
         "workflowPath": ".github/workflows/update-app-project-d44ad98df105558305796b0bac2b10ed.yml"
+      },
+      "backup": {
+        "version": "12.1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-8e7940aa0c43257783119d43-5eb8dfbc0a1f395bfb8070b8f29cdeb9177d5576c642cae55558a418b5f0ef6e.ipa",
+        "sha256": "5eb8dfbc0a1f395bfb8070b8f29cdeb9177d5576c642cae55558a418b5f0ef6e",
+        "size": 21938257,
+        "week": "2026-11-27"
       }
     },
     {
