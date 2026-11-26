@@ -6144,11 +6144,11 @@
         "workflowPath": ".github/workflows/update-app-project-c7fdddc3a6a09f6108c53a8e24baca8f.yml"
       },
       "backup": {
+        "version": "0.5.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ced470cbd7b60c45ae70694d-7dec6b73422d45da1d1f21cd6c509acad498a5d41e0a71bf643d2ec6c6b32713.ipa",
         "sha256": "7dec6b73422d45da1d1f21cd6c509acad498a5d41e0a71bf643d2ec6c6b32713",
         "size": 22297063,
-        "version": "0.5.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "Mohammed.Xanite.ios",
       "catalogID": "project-c7fdddc3a6a09f6108c53a8e24baca8f",
