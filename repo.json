@@ -326,6 +326,13 @@
         "configId": "app-488ca4dd8f8447869b7d23549aca0ca2",
         "sourceURL": "https://ipa.cypwn.xyz/cypwn.json",
         "workflowPath": ".github/workflows/update-app-app-488ca4dd8f8447869b7d23549aca0ca2.yml"
+      },
+      "backup": {
+        "version": "12.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-3f1cbc3393f42906ef7e78a8-3f54890e077093ecf2321a4a9a70886959afd61d1bd9eff098cd1e4b58a519c2.ipa",
+        "sha256": "3f54890e077093ecf2321a4a9a70886959afd61d1bd9eff098cd1e4b58a519c2",
+        "size": 136873801,
+        "week": "2026-11-27"
       }
     },
     {
