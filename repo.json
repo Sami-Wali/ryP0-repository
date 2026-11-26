@@ -41786,11 +41786,11 @@
         "workflowPath": ".github/workflows/update-app-com-christianselig-apollo-cd6fa5c4.yml"
       },
       "backup": {
+        "version": "4.1.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-cd6fa5c48164b3b2192eede4-7e6abdff3042260d082fb0ea55c2e9effa1bca93fac876d9df0690c68b1fac85.ipa",
         "sha256": "7e6abdff3042260d082fb0ea55c2e9effa1bca93fac876d9df0690c68b1fac85",
         "size": 97880702,
-        "version": "4.1.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.christianselig.Apollo",
       "bundleIdentifiers": [
