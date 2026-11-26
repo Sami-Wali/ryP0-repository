@@ -50944,11 +50944,11 @@
         "workflowPath": ".github/workflows/update-app-maxmusic.yml"
       },
       "backup": {
+        "version": "9.45.2",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b4c1fe2d798b3b8a3916620e-7fe474681fcc5eaa5a00b476f709905ac4b2e0f9579e2ccca3bafa199b06a284.ipa",
         "sha256": "7fe474681fcc5eaa5a00b476f709905ac4b2e0f9579e2ccca3bafa199b06a284",
         "size": 107241993,
-        "version": "9.45.2",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.google.ios.youtube.music.maxmusic",
       "category": "Social",
