@@ -808,6 +808,13 @@
         "configId": "project-6e39f9ca856674c3733a8dcff541845c",
         "sourceURL": "https://github.com/sasobhabha/Gester",
         "workflowPath": ".github/workflows/update-app-project-6e39f9ca856674c3733a8dcff541845c.yml"
+      },
+      "backup": {
+        "version": "2.4.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-1b10e9fe8b57dc7c3883ec6d-015ebb367cfbd1fb45e21667212906fbcd77039de6dc81a13a5ae250139a2830.ipa",
+        "sha256": "015ebb367cfbd1fb45e21667212906fbcd77039de6dc81a13a5ae250139a2830",
+        "size": 4322369,
+        "week": "2026-11-27"
       }
     },
     {
