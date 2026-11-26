@@ -3208,11 +3208,11 @@
         "workflowPath": ".github/workflows/update-app-project-32f827fec61de964a90c7947c1f3041e.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fd9cdb92d6df20be4c111b97-9cc84cbb1fcf80e079b9b768a28e4a036eb5abdf3de7fe430c2ece02c0632128.ipa",
-        "sha256": "9cc84cbb1fcf80e079b9b768a28e4a036eb5abdf3de7fe430c2ece02c0632128",
-        "size": 17762945,
-        "version": "v1.5.1",
-        "week": "2026-11-20"
+        "version": "v1.6.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fd9cdb92d6df20be4c111b97-f686f57b235d25ab36c0f65746fb9531387d4204bf7f9827b4001f42cf4c3318.ipa",
+        "sha256": "f686f57b235d25ab36c0f65746fb9531387d4204bf7f9827b4001f42cf4c3318",
+        "size": 26360992,
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "org.vita3k.ios",
       "bundleIdentifiers": [
