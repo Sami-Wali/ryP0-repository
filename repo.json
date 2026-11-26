@@ -565,7 +565,14 @@
       },
       "bundleIdentifiers": [
         "com.pxx917144686.App"
-      ]
+      ],
+      "backup": {
+        "version": "2.8.8",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-4fe09c01aff48ddb25323aed-9543de43d75dd8c0f7c5a6d57f00213404010162b55ba692c23407fa2cdbd35f.ipa",
+        "sha256": "9543de43d75dd8c0f7c5a6d57f00213404010162b55ba692c23407fa2cdbd35f",
+        "size": 54462701,
+        "week": "2026-11-27"
+      }
     },
     {
       "name": "GestaltEdit",
