@@ -42169,11 +42169,11 @@
         "workflowPath": ".github/workflows/update-app-com-shplash-ipaid-0307e3cd.yml"
       },
       "backup": {
+        "version": "v2.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0307e3cdbbf2f2a510e71c84-537823537c0294cd553570b183a194eb26af08097aa7675504895ec128b29ca9.ipa",
         "sha256": "537823537c0294cd553570b183a194eb26af08097aa7675504895ec128b29ca9",
         "size": 4845812,
-        "version": "v2.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.shplash.ipaid",
       "bundleIdentifiers": [
