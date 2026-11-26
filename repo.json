@@ -18025,11 +18025,11 @@
         "workflowPath": ".github/workflows/update-app-app-ba192a3bc30d4ad880b1d16cfd7aa733.yml"
       },
       "backup": {
+        "version": "6.4.1",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5920d51111ad91756c52b2c3-ec279f53792f827d203f33daf59a2969b60eec6b7a3d919005a76e9ca65fd069.ipa",
         "sha256": "ec279f53792f827d203f33daf59a2969b60eec6b7a3d919005a76e9ca65fd069",
         "size": 48615556,
-        "version": "6.4.1",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "org.animeko.animeko",
       "catalogID": "app-ba192a3bc30d4ad880b1d16cfd7aa733",
