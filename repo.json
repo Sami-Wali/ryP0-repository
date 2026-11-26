@@ -219,6 +219,13 @@
         "configId": "project-636e230c817980083e7fe0b07e93fb05",
         "sourceURL": "https://github.com/optimalabsistem/NusaNX",
         "workflowPath": ".github/workflows/update-app-project-636e230c817980083e7fe0b07e93fb05.yml"
+      },
+      "backup": {
+        "version": "0.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-d4f8f3e76a46e44109898471-feded6fb2265381c1ec011148f4322fadea141cab6ad495bdbb6fe11b14f0a5a.ipa",
+        "sha256": "feded6fb2265381c1ec011148f4322fadea141cab6ad495bdbb6fe11b14f0a5a",
+        "size": 4820492,
+        "week": "2026-11-27"
       }
     },
     {
