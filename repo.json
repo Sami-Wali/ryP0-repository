@@ -29792,11 +29792,11 @@
         "workflowPath": ".github/workflows/update-app-project-83d98e759e50eaec64a233689e3f9aef.yml"
       },
       "backup": {
+        "version": "ios-jit-128.9934",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-683644b98e28ed1ebcca6b85-cde3e4e12289d1518a5882260c9c6d4e60166fcdae44686834f65761fc6a66c5.ipa",
         "sha256": "cde3e4e12289d1518a5882260c9c6d4e60166fcdae44686834f65761fc6a66c5",
         "size": 77017813,
-        "version": "ios-jit-128.9934",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
       "bundleIdentifiers": [
