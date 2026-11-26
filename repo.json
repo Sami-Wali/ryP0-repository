@@ -4453,11 +4453,11 @@
         "workflowPath": ".github/workflows/update-app-project-29d92f7b86ebd4ff32822865229ab68d.yml"
       },
       "backup": {
+        "version": "261.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b38a205d7df9e2fb38259a7c-6b56bd39183ce20ec216bbc508c308d7eaa185eeea07032bddaa6659281ae0a1.ipa",
         "sha256": "6b56bd39183ce20ec216bbc508c308d7eaa185eeea07032bddaa6659281ae0a1",
         "size": 101315549,
-        "version": "261.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.hammerandchisel.discord",
       "bundleIdentifiers": [
