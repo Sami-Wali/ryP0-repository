@@ -11827,11 +11827,11 @@
         "workflowPath": ".github/workflows/update-app-project-e6004df326c134a43236d5ccbfc1cb05.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9a6dcf9ab521707f022ba86a-88327002e554190a6e4e084265bc69a1e097d52352824e5808eb28042b341ddc.ipa",
-        "sha256": "88327002e554190a6e4e084265bc69a1e097d52352824e5808eb28042b341ddc",
-        "size": 1061900449,
-        "version": "1.0b15-release",
-        "week": "2026-11-20"
+        "version": "andarium-1.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-9a6dcf9ab521707f022ba86a-da277dced66f2208299232172168f71add6de4252a2cbb3f63d450626bf20ac7.ipa",
+        "sha256": "da277dced66f2208299232172168f71add6de4252a2cbb3f63d450626bf20ac7",
+        "size": 1248669708,
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.imxieyi.andarium",
       "bundleIdentifiers": [
