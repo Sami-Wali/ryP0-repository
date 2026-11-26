@@ -162,6 +162,13 @@
         "configId": "project-2e39df89f97a2f6b3ceef070e3cd2d8f",
         "sourceURL": "https://github.com/chrissotraidis/padmint",
         "workflowPath": ".github/workflows/update-app-project-2e39df89f97a2f6b3ceef070e3cd2d8f.yml"
+      },
+      "backup": {
+        "version": "0.6.10",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-61c97bfa2154f0fd85f1e6a7-e713f4cb74946a6185decf68e0f5578b37ce1bf3ec6b64bdf439d7c2e1c738bf.ipa",
+        "sha256": "e713f4cb74946a6185decf68e0f5578b37ce1bf3ec6b64bdf439d7c2e1c738bf",
+        "size": 1106276,
+        "week": "2026-11-27"
       }
     },
     {
