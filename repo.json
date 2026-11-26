@@ -2583,11 +2583,11 @@
         "workflowPath": ".github/workflows/update-app-project-e55e366c38404e73d21057b45c06c115.yml"
       },
       "backup": {
+        "version": "v1.0.1",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-fa9e4e8b85d4fd8cc76e79c1-015032f75b0151fddc937bc70b483a75383e649d41fbd6dd9ec87c60ed1e0eb9.ipa",
         "sha256": "015032f75b0151fddc937bc70b483a75383e649d41fbd6dd9ec87c60ed1e0eb9",
         "size": 344589937,
-        "version": "v1.0.1",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "io.github.grechucia.gwentreimagined",
       "bundleIdentifiers": [
