@@ -1134,7 +1134,14 @@
       "bundleIdentifiers": [
         "com.henrywizzrd.zyx",
         "com.henrywizzrd.zyx.beta"
-      ]
+      ],
+      "backup": {
+        "version": "v1.1.2",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-5c06cfd3c206baead8a2c3a8-ce6aafb4a8548d821676bf81d404b196f9db45f7fea37cad53ba05dce80801f3.ipa",
+        "sha256": "ce6aafb4a8548d821676bf81d404b196f9db45f7fea37cad53ba05dce80801f3",
+        "size": 24715971,
+        "week": "2026-11-27"
+      }
     },
     {
       "appType": "Daily Update",
