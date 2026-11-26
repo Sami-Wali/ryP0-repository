@@ -27056,11 +27056,11 @@
         "workflowPath": ".github/workflows/update-app-app-81207336549b4d02acc44d8b64148966.yml"
       },
       "backup": {
+        "version": "3.3",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-6f1e2a8b71dc6f3d6957a1a1-1dbe20f882fa2925c660e643e8dbcba09e0a2eefe56d37fd9a9676482cac7d8b.ipa",
         "sha256": "1dbe20f882fa2925c660e643e8dbcba09e0a2eefe56d37fd9a9676482cac7d8b",
         "size": 32728496,
-        "version": "3.3",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "app.reiko.zeus",
       "catalogID": "app-81207336549b4d02acc44d8b64148966",
