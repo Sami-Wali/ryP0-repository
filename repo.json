@@ -48,6 +48,13 @@
         "configId": "project-9452be9542b601f10cb20703c887b1e7",
         "sourceURL": "https://github.com/chrissotraidis/OpenTTDPad",
         "workflowPath": ".github/workflows/update-app-project-9452be9542b601f10cb20703c887b1e7.yml"
+      },
+      "backup": {
+        "version": "3524f956176fbd99257e49e5befd157fe3c3ab77",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-2e522f6907e08534e8190fd6-d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831.ipa",
+        "sha256": "d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831",
+        "size": 32804474,
+        "week": "2026-11-27"
       }
     },
     {
