@@ -622,6 +622,13 @@
         "configId": "project-991b364976db4cfc60b3969d47ac9ef6",
         "sourceURL": "https://github.com/frs0n/GestaltEdit",
         "workflowPath": ".github/workflows/update-app-project-991b364976db4cfc60b3969d47ac9ef6.yml"
+      },
+      "backup": {
+        "version": "2.3.1",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-0804d6ccd45f17fb95dcc03a-e87e73c9383cf70aad976275cb47fe9cd1eec8e701f2b91e73397e172eaa5790.ipa",
+        "sha256": "e87e73c9383cf70aad976275cb47fe9cd1eec8e701f2b91e73397e172eaa5790",
+        "size": 7261456,
+        "week": "2026-11-27"
       }
     },
     {
