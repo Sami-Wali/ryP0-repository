@@ -16985,13 +16985,26 @@
       "name": "dioshonored",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.2/DiOShonored-shell.ipa",
-        "checkedAt": "2026-11-26T15:21:32Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-26T20:59:26Z",
+        "checkedDownloadURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.3/DiOShonored-shell.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v0.1.0-beta.3",
+          "date": "2026-11-26T20:55:34Z",
+          "downloadURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.3/DiOShonored-shell.ipa",
+          "upstreamAssetURL": "https://github.com/OMetaVR/DiOShonored/releases/download/v0.1.0-beta.3/DiOShonored-shell.ipa",
+          "size": 1517824,
+          "sha256": "328bbc67b6b8be9887d156099aba3bc55a88afb003a637957b6d1ec3ef7760b0",
+          "ipaBundleIdentifier": "dev.dios.dishonored",
+          "sourceAssetName": "DiOShonored-shell.ipa",
+          "releaseChannel": "beta",
+          "buildVersion": "1",
+          "sourceAppName": "Dishonored"
+        },
         {
           "buildVersion": "1",
           "date": "2026-10-22T23:31:24Z",
