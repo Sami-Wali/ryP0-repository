@@ -38068,11 +38068,11 @@
         "workflowPath": ".github/workflows/update-app-app-23a4a1896aed4d9697dcb43e75a68334.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-641f9b3718dd9a111a93562b-827a41b1b8a5146195982b05b25f6e926cfd4e5d154f9918e72614277bf21dec.ipa",
-        "sha256": "827a41b1b8a5146195982b05b25f6e926cfd4e5d154f9918e72614277bf21dec",
-        "size": 7159689,
-        "version": "v1.17.0",
-        "week": "2026-11-13"
+        "version": "v1.40.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-641f9b3718dd9a111a93562b-e5571be28142ffffe54ffe0a0c34ff60032aca535ea4522b1be2422a93ba83cd.ipa",
+        "sha256": "e5571be28142ffffe54ffe0a0c34ff60032aca535ea4522b1be2422a93ba83cd",
+        "size": 7370046,
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
       "bundleIdentifiers": [
