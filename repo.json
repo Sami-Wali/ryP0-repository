@@ -7133,11 +7133,11 @@
         "workflowPath": ".github/workflows/update-app-project-42154439eba81cf446dc3e6962890b38.yml"
       },
       "backup": {
+        "version": "v0.5.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-e02356d23a4194d9ce257412-88ad2bceb9c5150b3f3117afe8d27ccfb6530d45e0e500bb06a66ac0ca17a708.ipa",
         "sha256": "88ad2bceb9c5150b3f3117afe8d27ccfb6530d45e0e500bb06a66ac0ca17a708",
         "size": 952702,
-        "version": "v0.5.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "mumu.pduola.WQManager",
       "bundleIdentifiers": [
