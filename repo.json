@@ -303,6 +303,19 @@
       "category": "Tools",
       "versions": [
         {
+          "version": "2.8.5",
+          "date": "2026-11-26T10:12:06Z",
+          "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.8.5/APP_2.8.5.ipa",
+          "upstreamAssetURL": "https://github.com/pxx917144686/APP/releases/download/2.8.5/APP_2.8.5.ipa",
+          "size": 53996372,
+          "sha256": "351d6cc90da94de4c60e39b842e66b2a94646732c046e9b2141a09e0ef7ccacd",
+          "ipaBundleIdentifier": "com.pxx917144686.App",
+          "sourceAssetName": "APP_2.8.5.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "5",
+          "sourceAppName": "APP"
+        },
+        {
           "version": "2.8.3",
           "date": "2026-11-26T09:20:55Z",
           "downloadURL": "https://github.com/pxx917144686/APP/releases/download/2.8.3/APP_2.8.3.ipa",
@@ -450,8 +463,8 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-26T09:24:35Z",
-        "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.8.3/APP_2.8.3.ipa",
+        "checkedAt": "2026-11-26T10:14:35Z",
+        "checkedDownloadURL": "https://github.com/pxx917144686/APP/releases/download/2.8.5/APP_2.8.5.ipa",
         "message": "Updated after package verification"
       },
       "importSource": {
