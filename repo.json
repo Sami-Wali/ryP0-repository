@@ -12022,11 +12022,11 @@
         "workflowPath": ".github/workflows/update-app-project-015d31cebbdc030c3f7fdd1fa742bc36.yml"
       },
       "backup": {
-        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ab8c9eca23ce0aed577315f4-27cdc2de9b65c6777c30e4ebab2e405d9a64463d7e0361a8634d8a1ff952e244.ipa",
-        "sha256": "27cdc2de9b65c6777c30e4ebab2e405d9a64463d7e0361a8634d8a1ff952e244",
-        "size": 50742804,
-        "version": "v2.2.1",
-        "week": "2026-11-20"
+        "version": "v2.3.5",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-ab8c9eca23ce0aed577315f4-87fbae3a85be6a9dfea945e6697a19de87c18cb73f04aa2bad358986bdb9d7a3.ipa",
+        "sha256": "87fbae3a85be6a9dfea945e6697a19de87c18cb73f04aa2bad358986bdb9d7a3",
+        "size": 50052300,
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "app.local.iPadn",
       "bundleIdentifiers": [
