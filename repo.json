@@ -6806,11 +6806,11 @@
         "workflowPath": ".github/workflows/update-app-project-624d7bd9a3d15e6d25479afcc1f79b98.yml"
       },
       "backup": {
+        "version": "2.0.3",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-d4dba257b1e62e91930f56a9-33991d29234c990085689af61528722248becfffd4b9abd5d0cdd550ce68360b.ipa",
         "sha256": "33991d29234c990085689af61528722248becfffd4b9abd5d0cdd550ce68360b",
         "size": 37056541,
-        "version": "2.0.3",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "dev.twilitrealm.dusk",
       "bundleIdentifiers": [
