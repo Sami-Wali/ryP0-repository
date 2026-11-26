@@ -2272,11 +2272,11 @@
         "workflowPath": ".github/workflows/update-app-project-9d950f8b8ef8864f4813ba3ed6e2c7f2.yml"
       },
       "backup": {
+        "version": "1.0.0",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-bab1fb3be0efb52d4b06fb29-d98bdc6776471132b9d2aebc78fcfa7c142ed5d7b29e818bf284d07cf4fc875f.ipa",
         "sha256": "d98bdc6776471132b9d2aebc78fcfa7c142ed5d7b29e818bf284d07cf4fc875f",
         "size": 1181218,
-        "version": "1.0.0",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "com.ankergamebridge.app",
       "bundleIdentifiers": [
