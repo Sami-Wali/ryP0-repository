@@ -951,7 +951,14 @@
       },
       "bundleIdentifiers": [
         "com.gamestream.app"
-      ]
+      ],
+      "backup": {
+        "version": "latest-ios",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c3fe61375eede3ff92565840-5710e943590608e8aa0a95bcb3b73e65b573c8005ea6d1bfbe801515e3d2ec09.ipa",
+        "sha256": "5710e943590608e8aa0a95bcb3b73e65b573c8005ea6d1bfbe801515e3d2ec09",
+        "size": 1296953,
+        "week": "2026-11-27"
+      }
     },
     {
       "name": "ForceDuoApp",
