@@ -695,7 +695,14 @@
       },
       "bundleIdentifiers": [
         "app.vesper"
-      ]
+      ],
+      "backup": {
+        "version": "v0.5.4",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-b879b5919632e11c38e1378a-4f91dd7d4ae2fd3cabd5d086bdf4c76423da3514cbf163267fd0f8111aa26bae.ipa",
+        "sha256": "4f91dd7d4ae2fd3cabd5d086bdf4c76423da3514cbf163267fd0f8111aa26bae",
+        "size": 15884030,
+        "week": "2026-11-27"
+      }
     },
     {
       "name": "Opaline",
