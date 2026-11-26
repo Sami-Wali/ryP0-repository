@@ -41865,11 +41865,11 @@
         "workflowPath": ".github/workflows/update-app-app-aidoku-aidoku-c3112316.yml"
       },
       "backup": {
+        "version": "95d1468d599a154f03d6a1dd06bf839d3ff3f7bd",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-c3112316348426942068c0c0-7e9e832b37d666d8807c5d39a3087e8a53ba948797abb4588724fae41c698457.ipa",
         "sha256": "7e9e832b37d666d8807c5d39a3087e8a53ba948797abb4588724fae41c698457",
         "size": 14551655,
-        "version": "95d1468d599a154f03d6a1dd06bf839d3ff3f7bd",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "app.aidoku.Aidoku",
       "bundleIdentifiers": [
