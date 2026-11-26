@@ -13148,11 +13148,11 @@
         "workflowPath": ".github/workflows/update-app-app-bf1715e2d2094244beadaa02a2893f18.yml"
       },
       "backup": {
+        "version": "5.2.5",
         "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-a5c0b2a5ccd6fc742dad6a61-574b241ff075041c744847dc62eb70a550dcc264ff70dfb360cb99103b1593b0.ipa",
         "sha256": "574b241ff075041c744847dc62eb70a550dcc264ff70dfb360cb99103b1593b0",
         "size": 23563780,
-        "version": "5.2.5",
-        "week": "2026-11-20"
+        "week": "2026-11-27"
       },
       "bundleIdentifier": "ani.baka",
       "catalogID": "app-bf1715e2d2094244beadaa02a2893f18",
