@@ -1008,6 +1008,13 @@
         "configId": "project-b1264593a520c6e5e0519f0d59a5edab",
         "sourceURL": "https://github.com/34306/ForceDuoApp",
         "workflowPath": ".github/workflows/update-app-project-b1264593a520c6e5e0519f0d59a5edab.yml"
+      },
+      "backup": {
+        "version": "1.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-170a91c3a2b8f4f5836e8014-bd0dcd10490250105df7cfe711f9079a6b9e7359610ae74e0b8d01c7bab5e218.ipa",
+        "sha256": "bd0dcd10490250105df7cfe711f9079a6b9e7359610ae74e0b8d01c7bab5e218",
+        "size": 448051,
+        "week": "2026-11-27"
       }
     },
     {
