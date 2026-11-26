@@ -40610,7 +40610,7 @@
       "name": "Kazumi",
       "status": {
         "state": "update-error",
-        "checkedAt": "2026-11-26T02:56:43Z",
+        "checkedAt": "2026-11-26T03:11:48Z",
         "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "subtitle": "GitHub project request: Predidit/Kazumi.",
