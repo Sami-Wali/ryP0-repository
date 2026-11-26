@@ -752,6 +752,13 @@
         "configId": "project-47ca9a6fc1ab0906ced6630d697b72fb",
         "sourceURL": "https://github.com/verback2308/Opaline",
         "workflowPath": ".github/workflows/update-app-project-47ca9a6fc1ab0906ced6630d697b72fb.yml"
+      },
+      "backup": {
+        "version": "1.12.0",
+        "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/live-github-backups/weekly-682bf0efba01d78533b86d6b-a254306109b09bcf4d3ba4de80592f7a89b3932e7484f41f570c4a81913141d1.ipa",
+        "sha256": "a254306109b09bcf4d3ba4de80592f7a89b3932e7484f41f570c4a81913141d1",
+        "size": 6685919,
+        "week": "2026-11-27"
       }
     },
     {
