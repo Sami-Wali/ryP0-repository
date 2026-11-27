@@ -42757,13 +42757,25 @@
       "name": "Photos Backup",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-27T12:10:06Z",
-        "checkedDownloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.4.0/PhotosBackup.ipa",
+        "checkedAt": "2026-11-27T13:15:00Z",
+        "checkedDownloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.4.1/PhotosBackup.ipa",
         "message": "Updated after package verification"
       },
       "subtitle": "Backs up photos to Google Photos without counting against your Google storage using the Google pixel 1 unlimited storage api",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.4.1",
+          "date": "2026-11-27T13:13:41Z",
+          "downloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.4.1/PhotosBackup.ipa",
+          "upstreamAssetURL": "https://github.com/g8row/PhotosBackup/releases/download/0.4.1/PhotosBackup.ipa",
+          "size": 2973509,
+          "sha256": "10a86463ddf78a1e42dc925ee7b583696cf2bc51989906ed85dd904c99f97568",
+          "ipaBundleIdentifier": "com.g8row.photosbackup",
+          "sourceAssetName": "PhotosBackup.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "18"
+        },
         {
           "version": "0.4.0",
           "date": "2026-11-27T12:08:05Z",
