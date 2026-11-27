@@ -67,6 +67,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v0.1.1",
+          "date": "2026-11-27T00:23:44Z",
+          "downloadURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.1/ETPad-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.1/ETPad-unsigned.ipa",
+          "size": 47353169,
+          "sha256": "27a2ea69ada90d2e5d154fa4eae393d2e9986f44e65b229733fdd7e00b66b1e1",
+          "ipaBundleIdentifier": "com.chrissotraidis.etpad",
+          "sourceAssetName": "ETPad-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "2",
+          "sourceAppName": "ETPad"
+        },
+        {
           "version": "0.1.0",
           "date": "2026-11-18T12:49:42Z",
           "downloadURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.0/ETPad-unsigned.ipa",
@@ -87,9 +100,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.0/ETPad-unsigned.ipa",
-        "checkedAt": "2026-11-26T23:59:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-27T00:24:56Z",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/etpad/releases/download/v0.1.1/ETPad-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -112,7 +125,10 @@
         "sha256": "7c07134342ab679d559c05fdc9b0eeb29e82ca728d2046b7832035bd9f73c772",
         "size": 47352402,
         "week": "2026-11-27"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.chrissotraidis.etpad"
+      ]
     },
     {
       "name": "padmint",
