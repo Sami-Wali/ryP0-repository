@@ -23622,6 +23622,7 @@
       },
       "bundleIdentifier": "com.aigch.getMoreRam",
       "bundleIdentifiers": [
+        "com.aigch.nmsl",
         "com.aigch.getMoreRam"
       ],
       "catalogID": "project-659ed21b715288931fb5cb23b0d1033c",
@@ -23641,13 +23642,26 @@
       "name": "GetMoreRam",
       "status": {
         "state": "healthy",
+        "checkedAt": "2026-11-27T16:39:20Z",
         "checkedDownloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-        "checkedAt": "2026-11-27T12:01:53Z",
-        "message": "Download is available"
+        "message": "Updated after package verification"
       },
       "subtitle": "",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-11-27T16:35:49Z",
+          "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+          "upstreamAssetURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+          "size": 2449921,
+          "sha256": "69e0c9f2f302be9555c9f30a0c4cd1d367bf930d6743f3b138e6d6723192b903",
+          "ipaBundleIdentifier": "com.aigch.nmsl",
+          "sourceAssetName": "GetMoreRam.ipa",
+          "releaseChannel": "nightly",
+          "buildVersion": "1",
+          "sourceAppName": "Get More Ram"
+        },
         {
           "buildVersion": "1",
           "date": "2026-09-12T14:39:53Z",
