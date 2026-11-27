@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Horizon PE",
+      "catalogID": "project-7ae20af5da8432899649ee217eff918c",
+      "bundleIdentifier": "dev.horizon.pocketedition",
+      "developerName": "shopifygav222",
+      "localizedDescription": "Horizon ios port made with much better controls and care.",
+      "subtitle": "Horizon ios port made with much better controls and care.",
+      "category": "Ports",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-11-27T04:24:09Z",
+          "downloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
+          "size": 55572676,
+          "buildVersion": "237",
+          "releaseChannel": "release",
+          "sha256": "082f097ed6bc33435c905e54ae9811adb7324d55073ca2f97634d568a933cb1b",
+          "sourceAppName": "Horizon PE",
+          "sourceAssetName": "HorizonPE-1.1.0.ipa",
+          "ipaBundleIdentifier": "dev.horizon.pocketedition",
+          "upstreamAssetURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.horizon.pocketedition-082f097ed6bc.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
+        "checkedAt": "2026-11-27T21:04:06Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
+        "sourceURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios"
+      },
+      "githubURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-7ae20af5da8432899649ee217eff918c",
+        "sourceURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios",
+        "workflowPath": ".github/workflows/update-app-project-7ae20af5da8432899649ee217eff918c.yml"
+      }
+    },
+    {
       "name": "Reloc",
       "catalogID": "project-c2e275aa94e1133df6674a7968015d45",
       "bundleIdentifier": "dev.reloc.ios",
