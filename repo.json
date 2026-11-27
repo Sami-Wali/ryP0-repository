@@ -10,6 +10,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v0.2.1",
+          "date": "2026-11-27T00:52:21Z",
+          "downloadURL": "https://github.com/chrissotraidis/OpenTTDPad/releases/download/v0.2.1/OpenTTDPad-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/OpenTTDPad/releases/download/v0.2.1/OpenTTDPad-unsigned.ipa",
+          "size": 32851607,
+          "sha256": "37eaa10d3ee7ae10d43ef1e1c245f37fc8852b425f535e33a656dacfd63b8d89",
+          "ipaBundleIdentifier": "com.chrissotraidis.openttdpad",
+          "sourceAssetName": "OpenTTDPad-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "3",
+          "sourceAppName": "OpenTTDPad"
+        },
+        {
           "version": "3524f956176fbd99257e49e5befd157fe3c3ab77",
           "date": "2026-11-21T05:20:13Z",
           "downloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.chrissotraidis.openttdpad-d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831.ipa",
@@ -30,9 +43,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/mobile-imports/com.chrissotraidis.openttdpad-d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831.ipa",
-        "checkedAt": "2026-11-26T23:59:46Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-27T00:54:52Z",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/OpenTTDPad/releases/download/v0.2.1/OpenTTDPad-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -55,7 +68,10 @@
         "sha256": "d8f2e3622e542ceb5f697e710de3300fc0369dc8aed6440ca60c5318e3b47831",
         "size": 32804474,
         "week": "2026-11-27"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.chrissotraidis.openttdpad"
+      ]
     },
     {
       "name": "etpad",
