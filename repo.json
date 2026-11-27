@@ -1,6 +1,55 @@
 {
   "apps": [
     {
+      "name": "Reloc",
+      "catalogID": "project-c2e275aa94e1133df6674a7968015d45",
+      "bundleIdentifier": "dev.reloc.ios",
+      "developerName": "Reukix",
+      "localizedDescription": "",
+      "subtitle": "",
+      "category": "Exploit",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-11-27T11:22:31Z",
+          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa",
+          "size": 3475407,
+          "buildVersion": "5",
+          "releaseChannel": "release",
+          "sha256": "f22b84a17253b002a1f397e1a675c248496854988c3bfac17599bc7fa7e89a96",
+          "sourceAppName": "Reloc",
+          "sourceAssetName": "Reloc.ipa",
+          "ipaBundleIdentifier": "dev.reloc.ios",
+          "upstreamAssetURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.reloc.ios-f22b84a17253.png",
+      "updatePolicy": "daily",
+      "githubProjectCard": true,
+      "appType": "Daily Update",
+      "status": {
+        "state": "healthy",
+        "checkedDownloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa",
+        "checkedAt": "2026-11-27T19:28:53Z",
+        "message": "Imported from verified upstream source"
+      },
+      "importSource": {
+        "method": "github",
+        "historyLimit": 0,
+        "deliveryMode": "direct-source",
+        "originURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa",
+        "sourceURL": "https://github.com/Reukix/Reloc"
+      },
+      "githubURL": "https://github.com/Reukix/Reloc",
+      "automation": {
+        "historySyncPending": true,
+        "repository": "Sami-Wali/ryP0-automation",
+        "configId": "project-c2e275aa94e1133df6674a7968015d45",
+        "sourceURL": "https://github.com/Reukix/Reloc",
+        "workflowPath": ".github/workflows/update-app-project-c2e275aa94e1133df6674a7968015d45.yml"
+      }
+    },
+    {
       "name": "OpenTTDPad",
       "catalogID": "project-9452be9542b601f10cb20703c887b1e7",
       "bundleIdentifier": "com.chrissotraidis.openttdpad",
