@@ -321,6 +321,19 @@
       "versions": [
         {
           "version": "1.1.0",
+          "date": "2026-11-27T19:31:35Z",
+          "downloadURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0-unsigned.ipa",
+          "size": 12209516,
+          "sha256": "dad371b80c66bff00b280148da4f4e7fe1662e5fd3d90c820759343b62aeacb8",
+          "ipaBundleIdentifier": "org.jmillz269.neroli",
+          "sourceAssetName": "Neroli-1.1.0-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "1.1.0",
+          "sourceAppName": "Neroli"
+        },
+        {
+          "version": "1.1.0",
           "date": "2026-11-27T18:38:32Z",
           "downloadURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0.ipa",
           "upstreamAssetURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0.ipa",
@@ -353,8 +366,8 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedAt": "2026-11-27T18:39:56Z",
-        "checkedDownloadURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0.ipa",
+        "checkedAt": "2026-11-27T19:34:42Z",
+        "checkedDownloadURL": "https://github.com/JMillz269/Neroli/releases/download/1.1.0/Neroli-1.1.0-unsigned.ipa",
         "message": "Updated after package verification"
       },
       "importSource": {
