@@ -3521,13 +3521,39 @@
       "name": "TetherlessiOS",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.5/Tetherless-1.2.5-Legacy.ipa",
-        "checkedAt": "2026-11-27T06:00:51Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-27T09:14:36Z",
+        "checkedDownloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.6/Tetherless-1.2.6-Legacy.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: pwnapplehat/TetherlessiOS.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "v1.2.6",
+          "date": "2026-11-27T09:11:49Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.6/Tetherless-1.2.6-Legacy.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.6/Tetherless-1.2.6-Legacy.ipa",
+          "size": 7183713,
+          "sha256": "d0cd6a566f101e8208d7b1934b6b1ecc732ce50d476e7abf115f4066a4087e85",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.6-Legacy.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "96",
+          "sourceAppName": "Tetherless"
+        },
+        {
+          "version": "v1.2.6",
+          "date": "2026-11-27T09:11:49Z",
+          "downloadURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.6/Tetherless-1.2.6-Modern.ipa",
+          "upstreamAssetURL": "https://github.com/pwnapplehat/TetherlessiOS/releases/download/v1.2.6/Tetherless-1.2.6-Modern.ipa",
+          "size": 7177134,
+          "sha256": "21a0c6028ba564df3f1bb3a496fd1a9d625ca26134ff0edbabf8802eda7bfb51",
+          "ipaBundleIdentifier": "com.ipaside.tetherless",
+          "sourceAssetName": "Tetherless-1.2.6-Modern.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "96",
+          "sourceAppName": "Tetherless"
+        },
         {
           "buildVersion": "95",
           "date": "2026-11-19T19:53:07Z",
