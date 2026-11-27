@@ -49318,8 +49318,7 @@
       "name": "SideInstaller",
       "status": {
         "state": "update-error",
-        "checkedDownloadURL": "https://github.com/Sami-Wali/ryP0-repository/releases/download/nightly/sideinstaller-v2.1.0-5b69089fa88d.ipa",
-        "checkedAt": "2026-11-27T06:00:51Z",
+        "checkedAt": "2026-11-27T08:16:38Z",
         "message": "Private updater: GitHub release upload returned HTTP 422."
       },
       "tintColor": "#FF2D55",
