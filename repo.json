@@ -20,7 +20,8 @@
           "sourceAppName": "Reloc",
           "sourceAssetName": "Reloc.ipa",
           "ipaBundleIdentifier": "dev.reloc.ios",
-          "upstreamAssetURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa"
+          "upstreamAssetURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa",
+          "localizedDescription": "## Reloc v1.0.4"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.reloc.ios-f22b84a17253.png",
