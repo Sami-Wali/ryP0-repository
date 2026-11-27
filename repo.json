@@ -20,7 +20,8 @@
           "sourceAppName": "Horizon PE",
           "sourceAssetName": "HorizonPE-1.1.0.ipa",
           "ipaBundleIdentifier": "dev.horizon.pocketedition",
-          "upstreamAssetURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa"
+          "upstreamAssetURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
+          "localizedDescription": "**Horizon Pocket Edition 1.1.0: a much newer game engine, better touch controls, and mods from the catalog built into the app for you.**"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/icons/dev.horizon.pocketedition-082f097ed6bc.png",
