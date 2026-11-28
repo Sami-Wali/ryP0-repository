@@ -10,6 +10,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v1.1.1",
+          "date": "2026-11-28T05:49:43Z",
+          "downloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.1/HorizonPE-1.1.1.ipa",
+          "upstreamAssetURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.1/HorizonPE-1.1.1.ipa",
+          "size": 55561586,
+          "sha256": "e16665320bd59cada63b9281c7301beb13a175f1d9f3619a32cac1f633faab06",
+          "ipaBundleIdentifier": "dev.horizon.pocketedition",
+          "sourceAssetName": "HorizonPE-1.1.1.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "280",
+          "sourceAppName": "Horizon PE"
+        },
+        {
           "version": "1.1.0",
           "date": "2026-11-27T04:24:09Z",
           "downloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
@@ -30,9 +43,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.0/HorizonPE-1.1.0.ipa",
-        "checkedAt": "2026-11-28T00:03:54Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-28T05:50:03Z",
+        "checkedDownloadURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios/releases/download/v1.1.1/HorizonPE-1.1.1.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -48,7 +61,10 @@
         "configId": "project-7ae20af5da8432899649ee217eff918c",
         "sourceURL": "https://github.com/shopifygav222/horizon-pocket-edition-ios",
         "workflowPath": ".github/workflows/update-app-project-7ae20af5da8432899649ee217eff918c.yml"
-      }
+      },
+      "bundleIdentifiers": [
+        "dev.horizon.pocketedition"
+      ]
     },
     {
       "name": "Reloc",
