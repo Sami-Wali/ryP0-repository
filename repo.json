@@ -14303,13 +14303,52 @@
       "name": "reynard-browser",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.22.1/Reynard-Jailbroken.ipa",
-        "checkedAt": "2026-11-28T06:04:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-28T09:10:41Z",
+        "checkedDownloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard-Jailbroken.ipa",
+        "message": "Updated after package verification"
       },
       "subtitle": "GitHub project request: minh-ton/reynard-browser.",
       "updatePolicy": "daily",
       "versions": [
+        {
+          "version": "0.23.1",
+          "date": "2026-11-28T09:07:45Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard-Jailbroken.ipa",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard-Jailbroken.ipa",
+          "size": 115533132,
+          "sha256": "da2c4b98aa3cd35b3b1318f97e29d9eef91d144c970549e03b481b1acce1b91b",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "sourceAssetName": "Reynard-Jailbroken.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "559d2f4",
+          "sourceAppName": "Reynard"
+        },
+        {
+          "version": "0.23.1",
+          "date": "2026-11-28T09:07:45Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard-TrollStore.tipa",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard-TrollStore.tipa",
+          "size": 115583493,
+          "sha256": "ac1ef34d007b34f1b1335f35b4d631e9ae2005c9219c3bfbfb2a2ce8ab1077be",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "sourceAssetName": "Reynard-TrollStore.tipa",
+          "releaseChannel": "release",
+          "buildVersion": "559d2f4",
+          "sourceAppName": "Reynard"
+        },
+        {
+          "version": "0.23.1",
+          "date": "2026-11-28T09:07:45Z",
+          "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard.ipa",
+          "upstreamAssetURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.23.1/Reynard.ipa",
+          "size": 115485870,
+          "sha256": "6fe7cd8f397a65d6d278fa2a13fb92fdce62cea07a788af0eec74467e197b260",
+          "ipaBundleIdentifier": "com.minh-ton.Reynard",
+          "sourceAssetName": "Reynard.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "559d2f4",
+          "sourceAppName": "Reynard"
+        },
         {
           "buildVersion": "2222a37",
           "date": "2026-11-18T02:02:47Z",
