@@ -361,6 +361,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "NusaNX-0.3",
+          "date": "2026-11-28T11:43:42Z",
+          "downloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/NusaNX-0.3/NusaNX.0.3.ipa",
+          "upstreamAssetURL": "https://github.com/optimalabsistem/NusaNX/releases/download/NusaNX-0.3/NusaNX.0.3.ipa",
+          "size": 11543679,
+          "sha256": "27567431f8f08240890530b3f8c984c341aac3724c6232830cae27462bea0690",
+          "ipaBundleIdentifier": "com.nusanx.studio",
+          "sourceAssetName": "NusaNX.0.3.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "3",
+          "sourceAppName": "NusaNX"
+        },
+        {
           "version": "0.1",
           "date": "2026-11-18T15:08:38Z",
           "downloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
@@ -381,9 +394,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/v0.1.1-beta/NusaNX.0.1.1.Beta.ipa",
-        "checkedAt": "2026-11-28T06:04:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-28T11:44:51Z",
+        "checkedDownloadURL": "https://github.com/optimalabsistem/NusaNX/releases/download/NusaNX-0.3/NusaNX.0.3.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -406,7 +419,10 @@
         "sha256": "feded6fb2265381c1ec011148f4322fadea141cab6ad495bdbb6fe11b14f0a5a",
         "size": 4820492,
         "week": "2026-11-27"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.nusanx.studio"
+      ]
     },
     {
       "name": "Neroli",
