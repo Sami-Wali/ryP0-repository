@@ -288,6 +288,19 @@
       "category": "Ports",
       "versions": [
         {
+          "version": "v0.6.11",
+          "date": "2026-11-28T11:08:50Z",
+          "downloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.11/PadMint-ios-unsigned.ipa",
+          "upstreamAssetURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.11/PadMint-ios-unsigned.ipa",
+          "size": 1106323,
+          "sha256": "f24f9583d16622f7a9204719bc867a7f875e16b7454cf47d995551153cd336c7",
+          "ipaBundleIdentifier": "com.chrissotraidis.padmintlibrary",
+          "sourceAssetName": "PadMint-ios-unsigned.ipa",
+          "releaseChannel": "release",
+          "buildVersion": "17",
+          "sourceAppName": "PadMint"
+        },
+        {
           "version": "0.6.10",
           "date": "2026-11-18T12:56:45Z",
           "downloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
@@ -308,9 +321,9 @@
       "appType": "Daily Update",
       "status": {
         "state": "healthy",
-        "checkedDownloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.10/PadMint-ios-unsigned.ipa",
-        "checkedAt": "2026-11-28T06:04:53Z",
-        "message": "Download is available"
+        "checkedAt": "2026-11-28T11:09:59Z",
+        "checkedDownloadURL": "https://github.com/chrissotraidis/padmint/releases/download/v0.6.11/PadMint-ios-unsigned.ipa",
+        "message": "Updated after package verification"
       },
       "importSource": {
         "method": "github",
@@ -333,7 +346,10 @@
         "sha256": "e713f4cb74946a6185decf68e0f5578b37ce1bf3ec6b64bdf439d7c2e1c738bf",
         "size": 1106276,
         "week": "2026-11-27"
-      }
+      },
+      "bundleIdentifiers": [
+        "com.chrissotraidis.padmintlibrary"
+      ]
     },
     {
       "name": "NusaNX",
